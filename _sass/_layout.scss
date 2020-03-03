@@ -10,10 +10,10 @@ body {
 
 // The site container
 %container {
-  max-width: calc(#{$container-width} - #{$spacing-unit * 2});
+  max-width: calc(#{$container-width} - 5vw});
   width: 100%;
-  padding-left: $spacing-unit;
-  padding-right: $spacing-unit;
+  padding-left: 2.5vw;
+  padding-right: 2.5vw;
 }
 
 /*
@@ -90,8 +90,8 @@ body {
       transition-property: opacity, visibility;
       transition-duration: 250ms;
       transition-timing-function: ease;
-      padding-top: 10px;
-      padding-bottom: 10px;
+      padding-top: $spacing-unit / 2;
+      padding-bottom: $spacing-unit / 2;
     }
     
     .menu-item {
@@ -100,8 +100,8 @@ body {
       }
       
       @include media($on-palm) {
-        margin-top: 5px;
-        margin-bottom: 5px;
+        margin-top: $spacing-unit / 4;
+        margin-bottom: $spacing-unit / 4;
       }
       
       &:not(:last-child) {
