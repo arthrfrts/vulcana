@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae8da82c4511b7f8a02885f38ed4d3e1d17da02846da1da2b00960ec214e381b
-size 673
+<!DOCTYPE html>
+<html lang="{{- page.lang | default: site.lang -}}">
+  {%- include head.html -%}
+  
+  <body class="{{- page.layout | prepend: 'layout-' -}}">
+    
+    <div id="site" class="page-wrapper">
+      {%- include header.html -%}
+      
+      <div class="video-container">
+        <video width="100%" autoplay muted playsinline loop poster="//i.giphy.com/media/eLuSETwvUNOAGE1sfo/200w_d.gif">
+          <source type="video/mp4" src="//i.giphy.com/media/eLuSETwvUNOAGE1sfo/source.mp4" />
+          <img src="//i.giphy.com/media/eLuSETwvUNOAGE1sfo/giphy.gif" />
+        </video>
+      </div>
+      
+      {%- include footer.html -%}
+    </div>
+    
+  </body>
+</html>

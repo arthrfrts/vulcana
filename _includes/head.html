@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9514b2b54950aa4d295fb562200fc1530c002d6e4042ccf20f672c55a470ef9
-size 357
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  {%- if page.title -%}
+    {%- seo -%}
+  {%- else -%}
+    <title>{{- site.title -}}</title>
+    {%- seo title=false -%}
+  {%- endif -%}
+  
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/css/screen.css' | relative_url }}" />
+</head>

@@ -1,3 +1,136 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:992344a6850f33e3f70cd8b276ccd0e57a432f4f697a8df18e25c47da42004d5
-size 2565
+/*
+  Basic styling
+*/
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+// The site container
+%container {
+  max-width: calc(#{$container-width} - #{$spacing-unit * 2});
+  width: 100%;
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+}
+
+/*
+  Masthead
+*/
+
+.masthead {
+  padding: $spacing-unit;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  background-color: rgba($color-text, 0);
+  -webkit-backdrop-filter: saturate(100%) blur(0);
+  backdrop-filter: saturate(100%) blur(0);
+  transition-property: background-color, -webkit-backdrop-filter, backdrop-filter;
+  transition-duration: 350ms;
+  transition-timing-function: ease;
+  
+  .wrap {
+    display: flex;
+    flex-flow: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+  }
+  
+  &:hover,
+  &:focus,
+  &.scrolled {
+    background-color: rgba($color-text, 0.8);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+  }
+  
+  #main-menu-trigger {
+    display: none;
+  }
+  
+  .menu-trigger {
+    display: none;
+    
+    @include media($on-palm) {
+      display: block;
+    }
+    
+    svg {
+      vertical-align: middle;
+      width: 24px;
+      height: 24px;
+      cursor: pointer;
+    }
+  }
+  
+  .main-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    
+    
+    @include media($on-palm) {
+      display: block;
+      position: absolute;
+      top: calc(#{100%} + #{$spacing-unit});
+      left: -$spacing-unit;
+      right: -$spacing-unit;
+      text-align: center;
+      background-color: rgba($color-text, 0.8);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      backdrop-filter: saturate(180%) blur(20px);
+      opacity: 0;
+      visibility: hidden;
+      transition-property: opacity, visibility;
+      transition-duration: 250ms;
+      transition-timing-function: ease;
+    }
+    
+    .menu-item {
+      a {
+        color: $color-background;
+      }
+      
+      @include media($on-palm) {
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+      
+      &:not(:last-child) {
+        margin-right: $spacing-unit;
+        
+        @include media($on-palm) {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  
+  #main-menu-trigger:checked ~ .main-menu {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+
+.video-container {
+  position: relative;
+  height: 75vh;
+  
+  video {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}

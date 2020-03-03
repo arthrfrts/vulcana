@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86afb5619c0f9badb00d069b1c2ed90720e48436aa21e60f105021e19d5ddc4c
-size 435
+---
+# Hello, Jekyll.
+---
+
+$base-font-family: 'Rubik', sans-serif;
+$base-font-size: 1.6rem;
+$base-line-height: 1.5;
+$base-font-weight: 400;
+
+$color-text: #1a1a1a;
+$color-background: #fff;
+$color-details: #ababab;
+
+$container-width: 1600px;
+$spacing-unit: 2vw;
+$on-palm: 600px;
+$on-laptop: 800px;
+
+@mixin media($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@import "fonts",
+        "base",
+        "layout";

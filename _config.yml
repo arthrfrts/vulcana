@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5434c22d1dd7ce239430a6e232648074fdc27758b55f005fd386d20a7c3e1aca
-size 495
+# Site Settings
+title: Vulcana Cinema
+email: vulcanacinema@gmail.com
+description: >-
+  Vulcana Cinema Ã© uma produtora brasileira focada em cinema de autor, primeiros longas e mercado internacional.
+
+baseurl: ""
+url: "https://www.vulcanacinema.com"
+
+lang: pt
+logo: "/assets/images/logo.svg"
+
+collections:
+  projects:
+    output: true
+    permalink: "/:lang/:category/:title/"
+
+# Build settings
+markdown: kramdown
+permalink: "/:categories/:title/"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57b1a2fe37b2735abe988ebae824c6c6f0e8bc4935f4c308c8c1eb3ced3ef4b0
-size 169
+source "https://rubygems.org"
+
+# Happy Jekylling!
+gem "jekyll", "~> 4.0"
+
+group :jekyll_plugins do
+  gem "jekyll-seo-tag", "~> 2.6"
+  gem "jekyll-sitemap", "~> 1.4"
+end
