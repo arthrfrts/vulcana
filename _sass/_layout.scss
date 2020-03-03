@@ -90,6 +90,8 @@ body {
       transition-property: opacity, visibility;
       transition-duration: 250ms;
       transition-timing-function: ease;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
     
     .menu-item {
@@ -118,10 +120,85 @@ body {
   }
 }
 
+/*
+  Footer
+*/
+.colophon {
+  margin-top: 20px;
+  padding: $spacing-unit;
+  
+  .wrap {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: flex-start;
+    font-size: 1.2rem;
+    
+    @include media($on-palm) {
+      flex-flow: column nowrap;
+      text-align: center;
+      align-items: center;
+    }
+    
+    .widget {
+      flex: 1 1 auto;
+      
+      @include media($on-palm) {
+        margin-bottom: 20px;
+      }
+      
+      &.about {
+        h4 {
+          font-size: 1.4rem;
+          text-transform: uppercase;
+          letter-spacing: 0.2rem;
+        }
+      }
+      
+      &.social {
+        h4 {
+          margin-bottom: 1rem;
+        }
+        a {
+          display: inline-block;
+          
+          &:not(:last-child) {
+            margin-right: 1rem;
+          }
+        }
+        
+        svg {
+          display: inline-block;
+          width: 2.4rem;
+          height: 2.4rem;
+        }
+      }
+      
+      &.langs {
+        ul {
+          list-style: none;
+          text-align: right;
+          
+          @include media($on-palm) {
+            text-align: center;
+          }
+          
+          a {
+            font-weight: lighter;
+          }
+        }
+      }
+    }
+  }
+}
+
 
 .video-container {
   position: relative;
   height: 75vh;
+  
+  @include media($on-palm) {
+    height: 60vh;
+  }
   
   video {
     position: absolute;

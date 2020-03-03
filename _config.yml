@@ -3,12 +3,15 @@ title: Vulcana Cinema
 email: vulcanacinema@gmail.com
 description: >-
   Vulcana Cinema Ã© uma produtora brasileira focada em cinema de autor, primeiros longas e mercado internacional.
+address: |+
+  Rua Castro Alves, 163  
+  Porto Alegre, RS — Brasil
 
 baseurl: ""
 url: "https://www.vulcanacinema.com"
 
 lang: pt
-logo: "/assets/images/logo.svg"
+logo: "/assets/images/logo.png"
 
 collections:
   projects:
@@ -22,3 +25,9 @@ permalink: "/:categories/:title/"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+social:
+  name: Vulcana Cinema
+  links:
+    - https://www.instagram.com/vulcanacinema
+    - https://vimeo.com/vulcanacinema
