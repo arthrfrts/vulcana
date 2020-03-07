@@ -3,8 +3,7 @@ title: Tinta Bruta
 release_year: 2018
 image: "/uploads/images/tinta-bruta.jpg"
 video:
-  gif: "/uploads/gifs/tinta-bruta.gif"
-  mp4: "/uploads/videos/tinta-bruta.mp4"
+  mp4: "https://i.giphy.com/media/UoMK6XjMeSJCgvCSFy/source.mp4"
 ---
 
 2018 / Filme / Drama

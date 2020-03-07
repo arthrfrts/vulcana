@@ -2,6 +2,6 @@
 layout: home
 image: /uploads/images/vulcana.jpg
 video:
-  mp4: "/uploads/videos/la-botera.mp4"
-  gif: "/uploads/gifs/la-botera.gif"
+  mp4: "https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/source.mp4"
+#  gif: "https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/giphy.gif"
 ---

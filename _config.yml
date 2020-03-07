@@ -13,6 +13,13 @@ url: "https://vulcanacinema.com"
 lang: pt-BR
 logo: "/assets/images/logo.png"
 
+# Build settings
+markdown: kramdown
+permalink: "/:tags/:title/"
+
+include:
+  - _headers
+
 collections:
   projects:
     output: true
@@ -28,13 +35,12 @@ defaults:
       type: "projects"
     values:
       lang: "en"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
       
-      
-
-# Build settings
-markdown: kramdown
-permalink: "/:tags/:title/"
-
+# Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
