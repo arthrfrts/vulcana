@@ -1,13 +1,12 @@
 ---
-lang: en
 title: The Rowing Girl
 original_title: La Botera
 release_year: 2020
-sticky: true
 image: "/uploads/images/la-botera.jpg"
 video:
   gif: "/uploads/gifs/la-botera.gif"
   mp4: "/uploads/videos/la-botera.mp4"
+tags: featured
 ---
 
 Argentina / Brazil, 75min, HD / DCP, 2019

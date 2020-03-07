@@ -8,7 +8,7 @@ address: |+
   Porto Alegre, RS — Brasil
 
 baseurl: ""
-url: "https://www.vulcanacinema.com"
+url: "https://vulcanacinema.com"
 
 lang: pt-BR
 logo: "/assets/images/logo.png"
@@ -23,6 +23,12 @@ defaults:
       path: ""
     values:
       lang: "pt-BR"
+  - scope:
+      path: "_projects/en"
+      type: "projects"
+    values:
+      lang: "en"
+      
       
 
 # Build settings

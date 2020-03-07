@@ -1,5 +1,4 @@
 ---
-lang: en
 title: Over Seven Sparkling Green Waves
 original_title: Sobre Sete Ondas Verdes Espumantes
 release_year: 2013

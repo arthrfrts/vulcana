@@ -1,5 +1,4 @@
 ---
-lang: en
 title: Hard Paint
 original_title: Tinta Bruta
 release_year: 2018

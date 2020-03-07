@@ -1,5 +1,4 @@
 ---
-lang: en
 title: Music when the lights go out
 original_title: Música para quando as luzes se apagam
 release_year: 2017
