@@ -1,8 +1,10 @@
-- title: Films
-  url: "/en/films/"
+- title: Features
+  url: "/en/features/"
 - title: Shorts
   url: "/en/shorts/"
 - title: TV
   url: "/en/tv/"
+- title: Projects
+  url: "/en/projects/"
 - title: About
   url: "/en/about/"

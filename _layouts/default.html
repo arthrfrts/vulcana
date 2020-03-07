@@ -7,12 +7,9 @@
     <div id="site" class="page-wrapper">
       {%- include header.html -%}
       
-      <div class="video-container">
-        <video width="100%" autoplay muted playsinline loop poster="//i.giphy.com/media/eLuSETwvUNOAGE1sfo/200w_d.gif">
-          <source type="video/mp4" src="//i.giphy.com/media/eLuSETwvUNOAGE1sfo/source.mp4" />
-          <img src="//i.giphy.com/media/eLuSETwvUNOAGE1sfo/giphy.gif" />
-        </video>
-      </div>
+      <main class="site-content">
+        {{ content }}
+      </main>
       
       {%- include footer.html -%}
     </div>

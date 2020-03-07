@@ -12,10 +12,10 @@
     
     {%- if site.social.links -%}
       <div class="widget social">
-        <h4>Social</h4>
+        <h4>{%- if page.lang == "en" -%}Follow Us{%- else -%}Siga-nos{%- endif -%}</h4>
       
         {%- for social_link in site.social.links -%}
-          <a href="{{ social.link }}" rel="external" target="_blank">
+          <a href="{{ social_link }}" rel="external" target="_blank">
             {%- assign service = social_link | remove: "www." | split: ".com" | first | split: "//" | last -%}
             
             {%- include social.svg service=service -%}

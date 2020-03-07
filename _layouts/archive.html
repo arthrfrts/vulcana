@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{% comment %}
+  Setting the projects
+{% endcomment %}
+
+{%- assign archive_tag = page.path | split: '.' | first -%}
+{%- assign current_language = page.lang | default: site.lang -%}
+{%- assign archive_projects = site.projects | where_exp: "project", "project.url contains archive_tag" | where: "lang", current_language | sort: "release_year" | reverse -%}
+
+{%- assign featured_project = archive_projects | where_exp: "project", "project.tags contains 'featured'" | first -%}
+
+{% comment %}
+  The Layout itself
+{% endcomment %}
+
+<div class="inner gallery">
+  <header class="content-header">
+    <h1 class="content-title">
+      {{- page.title -}}
+    </h1>
+  </header>
+  
+  <div class="content gallery-content projects-list">
+    {%- if featured_project -%}
+      {%- include content/project-card.html project=featured_project -%}
+    {%- endif -%}
+    
+    {%- for project in archive_projects -%}
+      {%- unless project == featured_project -%}
+        {%- include content/project-card.html -%}
+      {%- endunless -%}
+    {%- endfor -%}
+  </div>
+</div>

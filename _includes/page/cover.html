@@ -1,0 +1,10 @@
+<figure class="page-cover">
+  {%- if page.video -%}
+    <video class="media-container" autoplay muted playsinline loop poster="{{- page.video.gif | default: page.image -}}">
+      <source type="video/mp4" src="{{- page.video.mp4 | default: page.video -}}" />
+      <img src="{{- page.video.gif | default: page.image -}}" role="presentation" />
+    </video>
+  {%- else -%}
+    <img class="media-container" src="{{- page.image.path | default: page.image -}}" role="presentation" alt="{{- page.image.alt | default: '' -}}" />
+  {%- endif -%}
+</figure>

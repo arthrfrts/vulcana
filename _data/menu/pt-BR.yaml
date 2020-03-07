@@ -1,8 +1,10 @@
 - title: "Longas"
-  url: "/filmes/"
+  url: "/longas/"
 - title: "Curtas"
   url: "/curtas/"
 - title: "TV"
   url: "/tv/"
+- title: Projetos
+  url: "/projetos/"
 - title: "Sobre"
   url: "/sobre/"

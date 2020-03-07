@@ -14,6 +14,12 @@ body {
   width: 100%;
   padding-left: 2.5vw;
   padding-right: 2.5vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inner {
+  @extend %container;
 }
 
 /*
@@ -27,12 +33,9 @@ body {
   left: 0;
   right: 0;
   z-index: 2;
-  background-color: rgba($color-text, 0);
-  -webkit-backdrop-filter: saturate(100%) blur(0);
-  backdrop-filter: saturate(100%) blur(0);
-  transition-property: background-color, -webkit-backdrop-filter, backdrop-filter;
-  transition-duration: 350ms;
-  transition-timing-function: ease;
+  background-color: rgba($color-text, 0.8);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
   
   .wrap {
     display: flex;
@@ -40,14 +43,10 @@ body {
     align-items: center;
     justify-content: space-between;
     position: relative;
-  }
-  
-  &:hover,
-  &:focus,
-  &.scrolled {
-    background-color: rgba($color-text, 0.8);
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    backdrop-filter: saturate(180%) blur(20px);
+    
+    .site-title {
+      margin: 0;
+    }
   }
   
   #main-menu-trigger {
@@ -117,6 +116,25 @@ body {
   #main-menu-trigger:checked ~ .main-menu {
     opacity: 1;
     visibility: visible;
+  }
+}
+
+.layout-home {
+  .masthead {
+    background-color: rgba($color-text, 0);
+    -webkit-backdrop-filter: saturate(100%) blur(0);
+    backdrop-filter: saturate(100%) blur(0);
+    transition-property: background-color, -webkit-backdrop-filter, backdrop-filter;
+    transition-duration: 350ms;
+    transition-timing-function: ease;
+    
+    &:hover,
+    &:focus,
+    &.scrolled {
+      background-color: rgba($color-text, 0.8);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      backdrop-filter: saturate(180%) blur(20px);
+    }
   }
 }
 
@@ -191,8 +209,21 @@ body {
   }
 }
 
+/*
+  Content
+*/
 
-.video-container {
+.layout-default {
+  padding-top: 48px + $spacing-unit;
+}
+
+.content-header {
+  margin-top: $spacing-unit * 3;
+  margin-bottom: $spacing-unit * 3;
+}
+
+// Cover
+.page-cover {
   position: relative;
   height: 75vh;
   
@@ -200,7 +231,7 @@ body {
     height: 60vh;
   }
   
-  video {
+  .media-container {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -209,5 +240,97 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+  }
+}
+
+// Archives
+.layout-archive {
+  margin-top: 80px;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.projects-list {
+  display: flex;
+  flex-flow: row wrap;
+  margin-left: -$spacing-unit;
+  margin-right: -$spacing-unit;
+}
+
+.project-card {
+  position: relative;
+  flex: 1 1 350px;
+  margin: 0 0 $spacing-unit * 2;
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+  
+  &.featured-project {
+    flex: 1 1 100%;
+  }
+  
+  .project-media {
+    display: block;
+    
+    .media-container {
+      width: 100%;
+      display: block;
+      min-height: 380px;
+      object-fit: cover;
+    }
+  }
+  
+  .project-card-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding: $spacing-unit $spacing-unit * 2;
+    color: $color-background;
+    
+    .project-card-header {
+      .project-title {
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+        
+        a {
+          color: $color-background;
+        }
+      }
+    }
+    
+    .project-card-details {
+      opacity: 0;
+      visibility: hidden;
+      transition-property: opacity, visibility;
+      transition-duration: 350ms;
+      transition-timing-function: ease;
+      
+      p {
+        margin-bottom: $spacing-unit;
+      }
+      
+      .project-card-read-more-link {
+        opacity: 1;
+        visibility: visible;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        font-size: 0;
+        color: transparent;
+      }
+    }
+    
+    &:hover,
+    &:focus {
+      .project-card-details {
+        opacity: 0.75;
+        visibility: visible;
+      }
+    }
   }
 }
