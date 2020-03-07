@@ -2,13 +2,11 @@
 title: A Barqueira
 original_title: La Botera
 release_year: 2020
+sticky: true
 image: "/uploads/images/la-botera.jpg"
 video:
   mp4: "/uploads/videos/la-botera.mp4"
   gif: "/uploads/gifs/la-botera.gif"
-tags:
-  - filmes
-  - featured
 ---
 
 Argentina / Brasil, 75min, HD / DCP, 2019

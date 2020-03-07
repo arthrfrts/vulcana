@@ -10,7 +10,7 @@ layout: default
 {%- assign current_language = page.lang | default: site.lang -%}
 {%- assign archive_projects = site.projects | where_exp: "project", "project.url contains archive_tag" | where: "lang", current_language | sort: "release_year" | reverse -%}
 
-{%- assign featured_project = archive_projects | where_exp: "project", "project.tags contains 'featured'" | first -%}
+{%- assign featured_project = archive_projects | where: "sticky",true | first -%}
 
 {% comment %}
   The Layout itself

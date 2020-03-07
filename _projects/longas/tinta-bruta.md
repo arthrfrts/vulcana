@@ -5,8 +5,6 @@ image: "/uploads/images/tinta-bruta.jpg"
 video:
   gif: "/uploads/gifs/tinta-bruta.gif"
   mp4: "/uploads/videos/tinta-bruta.mp4"
-tags:
-  - Longas
 ---
 
 2018 / Filme / Drama
