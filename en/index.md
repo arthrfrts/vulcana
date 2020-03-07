@@ -1,8 +1,6 @@
 ---
-lang: en
 layout: home
-image: //placehold.it/1920x1080
+image: /uploads/images/la-botera.jpg
 video:
-  gif: //i.giphy.com/media/eLuSETwvUNOAGE1sfo/200w_d.gif
-  mp4: http://i.giphy.com/media/eLuSETwvUNOAGE1sfo/source.mp4
+  mp4: "https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/source.mp4"
 ---

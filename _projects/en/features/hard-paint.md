@@ -1,28 +1,28 @@
 ---
+layout: home
 title: Hard Paint
 original_title: Tinta Bruta
 release_year: 2018
 image: "/uploads/images/tinta-bruta.jpg"
 video:
-  gif: /uploads/gifs/tinta-bruta.gif
-  mp4: /uploads/videos/tinta-bruta.mp4
+  mp4: "https://i.giphy.com/media/UoMK6XjMeSJCgvCSFy/source.mp4"
 ---
 
 2018 / Filme / Drama
 
-_Written and directed by_  
-Filipe Matzembacher & Marcio Reolon
+_Escrito e dirigido por_  
+Filipe Matzembacher e Marcio Reolon
 
-_Production_  
-Avante Filmes & Besouro Filmes
+_Produção_  
+Avante Filmes e Besouro Filmes
 
-_Distribution_  
+_Distribuição_  
 Vitrine Filmes
 
-_Sales and festivals_  
+_Sales e festivais_  
 m-appeal
 
-_Funding_  
+_Financiamento_  
 Hubert Bals Fund 2014 / Desenvolvimento, MinC B.O. 2015
 
 ***

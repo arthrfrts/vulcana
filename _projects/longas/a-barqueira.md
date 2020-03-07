@@ -17,7 +17,7 @@ Sabrina Blanco
 _Produção_  
 Murillo Cine
 
-_Co-Produção_  
+_Coprodução_  
 Vulcana Cinema
 
 _Financiamento_  
