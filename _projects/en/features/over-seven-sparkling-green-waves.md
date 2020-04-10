@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca9e1bac8de94292813cc2a94d0bdd51a460d558f2541790f857f30d22556a81
-size 198
+---
+layout: project
+title: Over Seven Sparkling Green Waves
+original_title: Sobre Sete Ondas Verdes Espumantes
+release_year: 2013
+image: "/uploads/images/sobre-sete-ondas-verdes-espumantes.jpg"
+---

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f8eae5ba3ff77b5a603daa0e62c913ba06b420e30f829a6c70c7e606920af83
-size 87
+- title: English
+  url: "/en/"
+  lang: en
+- title: Português
+  url: "/"
+  lang: pt-BR
+

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48702faa0934a8484c4d1b127491de52673f515ebd870fae56ece350c7d55b79
-size 183
+- title: Features
+  url: "/en/features/"
+- title: Shorts
+  url: "/en/shorts/"
+- title: TV
+  url: "/en/tv/"
+- title: Projects
+  url: "/en/projects/"
+- title: About
+  url: "/en/about/"

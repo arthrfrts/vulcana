@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12fec1a302bec3b45e124a0f0205761a4a2d1d1eeaf82ccac2dd25d922c9061d
-size 742
+{%- if page.trailer contains "?v=" -%}
+  {% assign video_id = page.trailer | split: "?v=" | last | split: "&" | first %}
+{%- else -%}
+  {%- assign video_id = page.trailer | split: "/" | last | split: "&" | first -%}
+{% endif %}
+
+{% if page.trailer contains "vimeo" %}
+  {% assign video_url = "//player.vimeo.com/video/" %}
+  {% assign video_attr = "?title=0&byline=0&portrait=0" %}
+{% else %}
+  {% assign video_url = "//www.youtube.com/embed/" %}
+  {% assign video_attr = "?modestbranding=1&iv_load_policy=3" %}
+{% endif %}
+
+{% assign video_src = video_id | prepend: video_url | append: video_attr %}
+
+<div class="project-trailer-wrap">
+  <iframe src="{{- video_src -}}" allow="fullscreen" frameborder="0" allowfullscreen>
+  </iframe>
+</div>

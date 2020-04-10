@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f3766204b749e6c16626c175d686aa8f6a5e37e98d78fda1defe697bb87ae7ec
-size 1685
+<header class="masthead">
+  <div class="wrap">
+    {%- capture site_branding -%}
+      <a href="{{ site.url }}" rel="index">
+        {%- if site.logo -%}
+          {% include logo.svg width="48" height="48" fill="#fff" %}
+        {%- else -%}
+          {{- site.title -}}
+        {%- endif -%}
+      </a>
+    {%- endcapture -%}
+  
+    {%- if page.title -%}
+      <div class="site-title">
+        {{ site_branding }}
+      </div>
+    {%- else -%}
+      <h1 class="site-title">
+        {{ site_branding }}
+      </h1>
+    {%- endif -%}
+  
+    {%- assign current_language = page.lang | default: site.lang -%}
+  
+    {%- assign menu = site.data.menu[current_language] -%}
+  
+    {%- if menu -%}
+      <nav class="site-navigation">
+        <input id="main-menu-trigger" type="checkbox" />
+        <label for="main-menu-trigger" class="menu-trigger">
+          <svg class="svg-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16">
+            <title>Menu</title>
+            <path fill-rule="evenodd" fill="#fff" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z" />
+          </svg>
+        </label>
+
+        <ul class="main-menu">
+          {%- for item in menu -%}
+            <li class="menu-item">
+              <a href="{{- item.url -}}" {%- if item.external %} target="_blank" rel="external"{%- endif -%}>
+                {{ item.title }}
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </nav>
+    {%- endif -%}
+  </div>
+</header>

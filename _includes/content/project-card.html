@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63e808683a60120a6e514a17b075853e4195a020c10bf3ad0dca60784cb7f029
-size 1613
+{%- if include.project -%}
+  {% assign project = include.project %}
+{%- endif -%}
+
+<article class="project project-card {%- if project.tags contains 'featured' %} featured-project {%- endif -%}">
+  <a class="project-media" href="{{- project.url -}}" rel="bookmark">
+    {%- if project.tags contains 'featured' and project.video -%}
+      <video class="media-container" autoplay muted playsinline loop poster="{{- project.video.gif | default: project.image -}}">
+        <source type="video/mp4" src="{{- project.video.mp4 | default: project.video -}}" />
+        <img src="{{- project.video.gif | default: project.image -}}" role="presentation" />
+      </video>
+    {%- else -%}
+      <img class="media-container" src="{{- project.image.path | default: project.image -}}" role="presentation" alt="{{- project.image.alt | default: '' -}}" />
+    {%- endif -%}
+  </a>
+  
+  <div class="project-card-content">
+    <header class="project-card-header">
+      <h2 class="project-title">
+        <a href="{{ project.url }}" rel="bookmark">
+          {{ project.title }}
+        </a>
+      </h2>
+      {%- if project.original_title -%}
+        <span class="project-original-title">
+          {{- project.original_title -}}
+        </span>
+      {%- endif -%}
+    </header>
+    <div class="project-card-details">
+      {{ project.content | split: "<hr />" | first }}
+      
+      <a class="project-card-read-more-link" href="{{ project.url }}" rel="bookmark">
+        {%- if page.lang == "en" -%}
+          More info
+        {%- else -%}
+          Leia mais
+        {%- endif -%}
+      </a>
+    </div>
+  </div>
+</article>

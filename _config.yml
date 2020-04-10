@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28cb6c925a35a7a5ee40e988db39c0f601101c25184b93fa1285340f003d99b0
-size 1011
+# Site Settings
+title: Vulcana Cinema
+email: vulcanacinema@gmail.com
+description: >-
+  Vulcana Cinema é uma produtora brasileira focada em cinema de autor, primeiros longas e no mercado internacional.
+address: |+
+  Rua Castro Alves, 163  
+  Porto Alegre, RS — Brasil
+
+baseurl: ""
+url: "https://vulcanacinema.com"
+
+lang: pt-BR
+logo: "/assets/images/logo.png"
+
+# Build settings
+markdown: kramdown
+permalink: "/:tags/:title/"
+
+include:
+  - _headers
+
+collections:
+  projects:
+    output: true
+    permalink: "/:path/"
+    
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "pt-BR"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: "_projects/en"
+      type: "projects"
+    values:
+      lang: "en"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+      
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+social:
+  name: Vulcana Cinema
+  links:
+    - https://www.instagram.com/vulcanacinema
+    - https://vimeo.com/vulcanacinema

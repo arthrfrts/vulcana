@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:539b68c22bf61954e71cd2bc3a9f5e5692ab6f6759217f897a7ef3f10fa9ce5f
-size 1841
+---
+layout: default
+---
+
+<article class="project content">
+  <header class="content-header wrap">
+    {%- include page/cover.html -%}
+    
+    <div class="inner">
+      <h1 class="content-title">
+        {{- page.title -}}
+      </h1>
+    
+      {%- if page.trailer -%}
+        <a class="trailer-anchor" href="#project-trailer">
+          {%- if page.lang == "en" -%}
+            View trailer
+          {%- else -%}
+            Assista ao trailer
+          {%- endif -%}
+        </a>
+      {%- endif -%}
+    </div>
+  </header>
+  
+  <div class="inner content">
+    
+    {% assign project_info = "" %}
+    {% assign project_summary = "" %}
+    {% assign awards_list = "" %}
+    
+    {%- if content contains "<hr />" -%}
+      {%- assign project_contents = content | split: "<hr />" -%}
+      
+      {%- for section in project_contents -%}
+        {%- if forloop.first -%}
+          {% assign project_info = section %}
+        {%- elsif forloop.index == 2 -%}
+          {%- assign project_summary = section -%}
+        {%- endif -%}
+        
+        {%- if forloop.length > 2 -%}
+          {%- assign awards_list = section -%}
+        {% endif %}
+      {%- endfor -%}
+    {%- endif -%}
+    
+    {%- if project_info != blank -%}
+      <section class="project-section project-info">
+        {{ project_info }}
+      </section>
+    {%- endif -%}
+    {%- if project_summary != blank -%}
+      <div class="project-section project-summary">
+        {{ project_summary }}
+      </div>
+    {%- endif -%}
+    {%- if page.trailer -%}
+      <figure id="project-trailer" class="project-section project-trailer">
+        {%- include page/trailer.html -%}
+      </figure>
+    {%- endif -%}
+    {%- if awards_list != blank -%}
+      <aside class="project-section project-awards">
+        {{ awards_list }}
+      </aside>
+    {%- endif -%}
+  </div>
+</article>

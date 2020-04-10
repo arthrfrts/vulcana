@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df0f401663fd2c3d809377354ff5b0341fd0275fa9b1a0d4fe4b95ba6279519f
-size 101
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock
+
+# Local Netlify folder
+.netlify

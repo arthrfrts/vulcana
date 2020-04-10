@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e80ed14161ea6a6121da6399de4aaea48231c5c096105a33a1081edc2d06fab9
-size 549
+<figure class="page-cover">
+  {%- if page.video -%}
+    <video class="media-container" autoplay muted playsinline loop poster="{{- page.video.gif | default: page.image -}}">
+      <source type="video/mp4" src="{{- page.video.mp4 | default: page.video -}}" />
+      <img src="{{- page.video.gif | default: page.image -}}" role="presentation" />
+    </video>
+  {%- else -%}
+    <img class="media-container" src="{{- page.image.path | default: page.image -}}" role="presentation" alt="{{- page.image.alt | default: '' -}}" />
+  {%- endif -%}
+</figure>

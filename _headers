@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46d09fe1c1292d1cc2df5995ba34cc32157cc42fabeeb294cf59105f59560316
-size 244
+/assets/js/*
+  cache-control: max-age=2628000
+
+/assets/css/*
+  cache-control: max-age=2628000
+  
+/uploads/*
+  cache-control: max-age=31536000
+
+/assets/images/*
+  cache-control: max-age=31536000
+  
+/favicon.ico
+  cache-control: max-age=31536000

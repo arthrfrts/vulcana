@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8354101355b6cbef22407fa6a080544dce51e47cccec441a37808300dc36960
-size 238
+# EditorConfig is awesome!
+# https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 2

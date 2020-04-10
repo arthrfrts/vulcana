@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b380cb7230e2d531a26da68f7ca22c40d1569a9c178c8ce6d3a5bd5129dfe49
-size 108
+---
+layout: project
+title: A Última Foto
+release_year: 2014
+image: "/uploads/images/a-ultima-foto.jpg"
+---

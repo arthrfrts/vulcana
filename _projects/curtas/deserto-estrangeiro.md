@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:005c8fbb4b380834863666ea6a02323e787a409e5b244b8723527d0a050023d7
-size 199
+---
+layout: project
+title: Deserto Estrangeiro
+release_year: 2020
+image: "/uploads/images/deserto-estrangeiro.jpg"
+video: "https://i.giphy.com/media/l24H6CT1KeyRf2FZof/source.mp4"
+tags: featured
+---

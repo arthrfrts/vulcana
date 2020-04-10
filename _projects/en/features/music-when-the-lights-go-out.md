@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be4724aca5ff2802f01b045db7aa342c1d5fe43ce3a7aa09d902f237ec0f227c
-size 218
+---
+layout: project
+title: Music when the lights go out
+original_title: Música para quando as luzes se apagam
+release_year: 2017
+image: "/uploads/images/musica-para-quando-as-luzes-se-apagam.jpg"
+tags:
+  - Longas
+---

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1441c5b1d7442dacafc1b35c82daeada80efcac9e65172dafc7924dbeb28ef01
-size 172
+- title: "Longas"
+  url: "/longas/"
+- title: "Curtas"
+  url: "/curtas/"
+- title: "TV"
+  url: "/tv/"
+- title: Projetos
+  url: "/projetos/"
+- title: "Sobre"
+  url: "/sobre/"
