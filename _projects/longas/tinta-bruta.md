@@ -2,6 +2,7 @@
 title: Tinta Bruta
 release_year: 2018
 image: "/uploads/images/tinta-bruta.jpg"
+trailer: "https://www.youtube.com/watch?v=zM9Q36ZKJqY"
 video:
   mp4: "https://i.giphy.com/media/UoMK6XjMeSJCgvCSFy/source.mp4"
 ---

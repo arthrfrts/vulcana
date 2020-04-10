@@ -31,14 +31,13 @@ Dione Avila de Oliveira, Evaristo Goulart, Andressa Goulart, Elizabete Nogueira,
 
 Dione é um jovem misterioso que vive com uma família em uma região rural e remota. A tranquilidade da região é afetada quando um rico fazendeiro tenta comprar a pequena propriedade que Dione e a família vivem.
 
-***
-
 Disponível na NET NOW e iTunes Store.
 
-Selecionado pelo 3º Brasil CineMundi - International Co-production Meeting 2012, 3º Europe-Latin America Co-production Forum do 62º Festival de San Sebastián 2014, 3º BrLab 2014, Talent Project Market da 65° Berlinale 2015.
+***
 
-### Principais exibições
+## Principais exibições
 
+- Selecionado pelo 3º Brasil CineMundi - International Co-production Meeting 2012, 3º Europe-Latin America Co-production Forum do 62º Festival de San Sebastián 2014, 3º BrLab 2014, Talent Project Market da 65° Berlinale 2015.
 - 49º Festival de Brasília do Cinema Brasileiro – Competição de Longas-metragens, 2016. (Prêmios de Melhor Filme – Júri da Crítica, Melhor Roteiro e Melhor Desenho de Som)
 - 10ª Mostra CineBH, 2016.
 - Cine Esquema Novo – Competitiva Brasil, 2016. (Prêmio Destaque)
@@ -55,7 +54,9 @@ Selecionado pelo 3º Brasil CineMundi - International Co-production Meeting 2012
 - 5º Bosphoros International Film Festival – Competição Internacional, 2017.  (Prêmio de Melhor Fotografia)
 - 39º Cairo International Film Festival – Panorama Internacional, 2017.
 
-### Críticas
+***
+
+## Críticas
 
 > "O filme é carregado de imagens-potência, tão fortes quanto contundentes."
 >

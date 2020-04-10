@@ -334,3 +334,133 @@ body {
     }
   }
 }
+
+// Projects
+.layout-project {
+  .content-header {
+    position: relative;
+    
+    .inner {
+      position: absolute;
+      bottom: 0;
+      padding-bottom: $spacing-unit;
+      color: $color-background;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      
+      @include media($on-palm) {
+        flex-flow: column nowrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+      }
+      
+      h1 {
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        
+        @include media($on-palm) {
+          margin-bottom: $spacing-unit;
+        }
+      }
+      
+      a {
+        font-weight: lighter;
+        color: currentColor;
+      }
+    }
+  }
+}
+
+.project-section {
+  margin-top: $spacing-unit * 2;
+  margin-bottom: $spacing-unit * 2;
+}
+
+.project-info {
+  display: flex;
+  flex-flow: row wrap;
+  
+  p {
+    font-size: 2rem;
+    position: relative;
+    flex: 1 1 350px;
+    margin-bottom: $spacing-unit * 2;
+    
+    br {
+      display: none;
+    }
+    
+    em {
+      display: block;
+      font-size: 1.2rem;
+    }
+  }
+}
+
+.project-summary {
+  text-align: justify;
+}
+
+.project-awards {
+  text-align: center;
+  
+  h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: $spacing-unit * 2;
+    margin-bottom: $spacing-unit * 2;
+  }
+  
+  ul {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: $spacing-unit * 2;
+    margin-bottom: $spacing-unit * 2;
+    list-style: none;
+    
+    li {
+      position: relative;
+      flex: 1 1 350px;
+      margin-bottom: $spacing-unit * 2;
+    }
+  }
+  
+  blockquote {
+    max-width: 640px;
+    margin: 0 auto $spacing-unit * 2;
+  }
+}
+
+.project-summary,
+.project-trailer,
+.project-reviews {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.project-summary {
+  p {
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.project-trailer {
+  padding-top: $spacing-unit * 4;
+  padding-bottom: $spacing-unit * 4;
+}
+
+.project-trailer-wrap {
+  position: relative;
+  padding: 56.25% 0 0 0;
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

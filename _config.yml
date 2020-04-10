@@ -31,6 +31,11 @@ defaults:
     values:
       lang: "pt-BR"
   - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
       path: "_projects/en"
       type: "projects"
     values:
