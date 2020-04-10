@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Castanha
 release_year: 2014
 image: "/uploads/images/castanha.jpg"
@@ -32,31 +33,42 @@ Disponível no Amazon Prime Video.
 
 ***
 
-### Principais exibições
+## Principais exibições
 
-- **64º Berlinale – Berlin International Film Festival** – Forum.  (World Premiere)
-- **38º Hong Kong International Film Festival** – Young Cinema Competition. 
-- **Art of the Real** – Film Society Lincoln Center.
-- **16º BAFICI** – Competencia Internacional. (Prêmio FEISAL – Menção Especial)
-- **CPH:PIX** – Front Runners 2014.
-- **21º CineLatino Film Festival** Tübingen – Competencia.
-- **Berlinale Forum Selection** at Goethe Institut – Brussels 2014. 
-- **14º Las Palmas Film Festival** – Sección Oficial.  (Prêmio de Melhor Ator)
+- **64º Berlinale – Berlin International Film Festival** Forum  
+  World Premiere
+- **38º Hong Kong International Film Festival**  
+  Young Cinema Competition. 
+- **Art of the Real**  
+  Film Society Lincoln Center.
+- **16º BAFICI** Competencia Internacional.  
+  Prêmio FEISAL – Menção Especial
+- **CPH:PIX**  
+  Front Runners 2014.
+- **21º CineLatino Film Festival**  
+  Tübingen – Competencia.
+- **Berlinale Forum Selection** at Goethe Institut - Brussels 2014. 
+- **14º Las Palmas Film Festival** Sección Oficial.  
+  Prêmio de Melhor Ator
 - __68º Edinburgh International Film Festival__ – Documentary Competition.
 - __DocMontevideo__ – Documentary Week, 2014.
-- __6º Paulínia Film Festival__ – Competição.  (Prêmio de Melhor Som)
+- __6º Paulínia Film Festival__ – Competição.  
+  Prêmio de Melhor Som
 - 1º Farol – __Festival Internacional de Cinema de Fortaleza__.
 - __18º Queer Lisboa__ – Competição de Documentário.  
-- __36º Festival do Rio__ – Première Brasil Novos Rumos.   (Prêmio de Melhor Filme)
-- __2º Diálogo de Cinema__. (Filme de Abertura)
-- 9° BrasilCine – __Brazilian Film Festival in Scandinavia__. (Filme de Encerramento)
+- __36º Festival do Rio__ – Première Brasil Novos Rumos.  
+  Prêmio de Melhor Filme
+- __2º Diálogo de Cinema__.  
+  Filme de Abertura
+- 9° BrasilCine – __Brazilian Film Festival in Scandinavia__.  
+  Filme de Encerramento
 - __38° Mostra Internacional de Cinema de São Paulo__ – Mostra Brasil.
 - __10° Panorama Internacional Coisa de Cinema__ – Competitiva Nacional.
 - __36° Starz Denver Film Festival__.
 - __4° Festival Internacional Cine Las Orquídeas__, Cuenca – Competencia Opera Prima.
 - __36° Festival Internacional del Nuevo Cine Latinoamericano de Havana__ – Competencia Documental.
 
-### Críticas
+## Críticas
 
 > “É, contudo, pelo aspecto sensível, pelo resultado, que percebe-se uma singularidade – e uma tônica contínua – nessa obra”
 >

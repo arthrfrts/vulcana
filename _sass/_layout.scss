@@ -325,11 +325,13 @@ body {
       }
     }
     
-    &:hover,
-    &:focus {
-      .project-card-details {
-        opacity: 0.75;
-        visibility: visible;
+    @media screen and (min-width: #{$on-palm + 1px}) {
+      &:hover,
+      &:focus {
+        .project-card-details {
+          opacity: 0.75;
+          visibility: visible;
+        }
       }
     }
   }

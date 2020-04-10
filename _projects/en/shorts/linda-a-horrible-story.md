@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Linda, a horrible story
 original_title: Linda, uma história horrível
 release_year: 2013

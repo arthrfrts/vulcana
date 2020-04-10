@@ -1,4 +1,5 @@
 ---
+layout: project
 layout: home
 title: Hard Paint
 original_title: Tinta Bruta

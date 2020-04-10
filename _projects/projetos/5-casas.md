@@ -1,4 +1,5 @@
 ---
+layout: project
 title: 5 Casas
 release_year: 2020
 image: "/uploads/images/5-casas.jpg"

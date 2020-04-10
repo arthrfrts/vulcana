@@ -1,4 +1,5 @@
 ---
+layout: project
 title: O Ninho
 release_year: 2016
 image: "/uploads/images/o-ninho.jpg"

@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Foreign Desert
 original_title: Deserto Estrangeiro
 release_year: 2020

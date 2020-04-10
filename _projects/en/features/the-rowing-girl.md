@@ -1,4 +1,5 @@
 ---
+layout: project
 title: The Rowing Girl
 original_title: La Botera
 release_year: 2020

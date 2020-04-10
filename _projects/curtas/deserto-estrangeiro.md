@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Deserto Estrangeiro
 release_year: 2020
 image: "/uploads/images/deserto-estrangeiro.jpg"
