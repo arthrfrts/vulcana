@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article class="project content">
   <header class="content-header wrap">
     {%- include page/cover.html -%}
@@ -23,8 +24,13 @@ layout: default
   </header>
   
   <div class="inner content">
+    
+    {% assign project_info = "" %}
+    {% assign project_summary = "" %}
+    {% assign awards_list = "" %}
+    
     {%- if content contains "<hr />" -%}
-      {%- assign project_contents = page.content | split: "<hr />" -%}
+      {%- assign project_contents = content | split: "<hr />" -%}
       
       {%- for section in project_contents -%}
         {%- if forloop.first -%}
