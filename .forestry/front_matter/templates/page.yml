@@ -20,3 +20,5 @@ fields:
   config:
     required: false
   label: Permalink
+pages:
+- en/about-vulcana.md
