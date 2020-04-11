@@ -5,22 +5,35 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: project
+  config:
+    required: true
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: number
   name: release_year
-  label: release_year
+  label: Release Year
 - type: file
   name: image
-  label: image
+  label: Featured Image
 - type: text
   name: trailer
-  label: trailer
+  label: Trailer
 - type: field_group
   name: video
-  label: video
+  label: Cover Video
   fields:
   - type: text
     name: mp4
-    label: mp4
+    label: MP4 file
+    description: You can use GIPHY-generated MP4.
+  - name: gif
+    type: file
+    config:
+      maxSize: 2
+    label: GIF file
+    description: You can use a GIPHY-generated file.
