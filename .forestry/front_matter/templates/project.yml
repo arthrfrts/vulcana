@@ -1,0 +1,26 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: number
+  name: release_year
+  label: release_year
+- type: file
+  name: image
+  label: image
+- type: text
+  name: trailer
+  label: trailer
+- type: field_group
+  name: video
+  label: video
+  fields:
+  - type: text
+    name: mp4
+    label: mp4
