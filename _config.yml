@@ -49,6 +49,7 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-menus
 
 social:
   name: Vulcana Cinema
