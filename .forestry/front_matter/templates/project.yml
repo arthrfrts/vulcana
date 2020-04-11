@@ -32,12 +32,12 @@ fields:
   name: video
   label: Cover Video
   fields:
-  - type: text
-    name: mp4
-    label: MP4 file
-    description: You can use GIPHY-generated MP4.
+  - name: mp4
+    type: file
     config:
-      required: false
+      maxSize: 8
+    label: MP4 video file
+    description: You can use a GIPHY-generated file.
   - name: gif
     type: file
     config:
