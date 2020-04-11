@@ -59,7 +59,7 @@ video:
   '52': m
   '53': p
   '54': '4'
-  mp4: "/"
+  mp4: ''
   gif: ''
 trailer: https://vimeo.com/148541526
 original_title: ''
