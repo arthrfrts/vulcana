@@ -59,8 +59,8 @@ video:
   '52': m
   '53': p
   '54': '4'
-  mp4: ''
-  gif: ''
+  mp4: "/uploads/2020/04/o-ninho.mp4"
+  gif: "/uploads/2020/04/o-ninho.gif"
 trailer: https://vimeo.com/148541526
 original_title: ''
 
