@@ -17,8 +17,8 @@ logo: "/assets/images/logo.png"
 markdown: kramdown
 permalink: "/:tags/:title/"
 
-# include:
-#   - _headers
+include:
+  - _headers
 
 collections:
   projects:
