@@ -24,10 +24,10 @@
       </div>
     {% endif %}
     
-    {%- if site.data.lang -%}
+    {%- if site.menus.lang -%}
       <nav class="widget langs">
         <ul>
-          {%- for lang in site.data.lang -%}
+          {%- for lang in site.menus.lang -%}
             <li>
               <a href="{{ lang.url }}" hreflang="{{ lang.code }}">
                 {{ lang.title }}

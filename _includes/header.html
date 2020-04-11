@@ -22,7 +22,7 @@
   
     {%- assign current_language = page.lang | default: site.lang -%}
   
-    {%- assign menu = site.data.menu[current_language] -%}
+    {%- assign menu = site.menus[current_language] -%}
   
     {%- if menu -%}
       <nav class="site-navigation">
