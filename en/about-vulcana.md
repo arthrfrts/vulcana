@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Vulcana
-permalink: "/about/"
+permalink: "/en/about/"
 published: false
 
 ---
