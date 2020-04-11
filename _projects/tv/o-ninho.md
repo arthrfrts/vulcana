@@ -84,8 +84,8 @@ Bruno está procurando por seu irmão, mas acaba encontrando uma nova família.
 
 ## Festivais
 
-* II **Telas – Festival Internacional de Televisão de São Paulo  
-  **Novos Talentos e Ousadia Temática / Menção Honrosa
+* II **Telas – Festival Internacional de Televisão de São Paulo**  
+  Novos Talentos e Ousadia Temática / Menção Honrosa
 * **OutFest LA** 2016  
   Narrativa Internacional / Menção Honrosa do Júri
 * **Kaleidoscope Arkansas International Film Festival** 2016
