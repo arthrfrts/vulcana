@@ -37,3 +37,5 @@ fields:
       maxSize: 2
     label: GIF file
     description: You can use a GIPHY-generated file.
+pages:
+- _projects/teste.md
