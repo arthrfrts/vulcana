@@ -477,6 +477,10 @@ body {
     text-align: center;
   }
   
+  .content-header:first-child {
+    padding-top: 80px;
+  }
+  
   .content-body {
     margin-bottom: $spacing-unit * 3;
     max-width: $on-laptop;
