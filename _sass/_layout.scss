@@ -466,3 +466,25 @@ body {
     height: 100%;
   }
 }
+
+/*
+  Page
+*/
+.layout-page {
+  .content-title {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: center;
+  }
+  
+  .content-body {
+    margin-bottom: $spacing-unit * 3;
+    max-width: $on-laptop;
+    font-size: 1.8rem;
+    text-align: justify;
+    
+    @include media($on-laptop) {
+      font-size: 1.6rem;
+    }
+  }
+}
