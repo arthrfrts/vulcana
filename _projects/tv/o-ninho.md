@@ -63,7 +63,6 @@ video:
   gif: ''
 trailer: https://vimeo.com/148541526
 original_title: ''
-published: false
 
 ---
 2015 / Série / Drama
