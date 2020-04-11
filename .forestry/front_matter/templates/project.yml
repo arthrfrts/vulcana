@@ -14,6 +14,11 @@ fields:
   label: Title
   config:
     required: true
+- name: original_title
+  type: text
+  config:
+    required: false
+  label: Original Title
 - type: number
   name: release_year
   label: Release Year
@@ -27,13 +32,17 @@ fields:
   name: video
   label: Cover Video
   fields:
-  - type: text
-    name: mp4
-    label: MP4 file
-    description: You can use GIPHY-generated MP4.
+  - name: mp4
+    type: file
+    config:
+      maxSize: 8
+    label: MP4 video file
+    description: You can use a GIPHY-generated file.
   - name: gif
     type: file
     config:
       maxSize: 2
     label: GIF file
     description: You can use a GIPHY-generated file.
+pages:
+- _projects/tv/o-ninho.md
