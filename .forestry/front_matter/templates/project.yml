@@ -36,6 +36,8 @@ fields:
     name: mp4
     label: MP4 file
     description: You can use GIPHY-generated MP4.
+    config:
+      required: false
   - name: gif
     type: file
     config:
