@@ -4,6 +4,8 @@ title: 5 Houses
 original_title: 5 Casas
 release_year: 2020
 image: "/uploads/images/5-casas.jpg"
-video: "https://i.giphy.com/media/jSDQ3HoT5UJehPqMLh/giphy.mp4"
+video:
+  mp4: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy.mp4
+  gif: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy-downsized.gif"
 tags: featured
 ---
