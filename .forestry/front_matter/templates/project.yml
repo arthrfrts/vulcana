@@ -35,13 +35,13 @@ fields:
   - name: mp4
     type: file
     config:
-      maxSize: 8
+      maxSize: 10
     label: MP4 video file
     description: You can use a GIPHY-generated file.
   - name: gif
     type: file
     config:
-      maxSize: 2
+      maxSize: 5
     label: GIF file
     description: You can use a GIPHY-generated file.
 pages:
