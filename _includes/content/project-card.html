@@ -28,8 +28,6 @@
       {%- endif -%}
     </header>
     <div class="project-card-details">
-      {{ project.content | split: "<hr />" | first }}
-      
       <a class="project-card-read-more-link" href="{{ project.url }}" rel="bookmark">
         {%- if page.lang == "en" -%}
           More info
