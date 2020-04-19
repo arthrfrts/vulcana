@@ -12,8 +12,8 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: ''
-public_path: "/uploads"
+upload_dir: uploads
+public_path: https://www.vulcanacinema.com/uploads
 front_matter_path: "/uploads"
 use_front_matter_path: true
 file_template: ":year:/:month:/:filename:"
