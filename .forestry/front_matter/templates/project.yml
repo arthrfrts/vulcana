@@ -45,4 +45,5 @@ fields:
     label: GIF file
     description: You can use a GIPHY-generated file.
 pages:
+- _projects/longas/castanha.md
 - _projects/tv/o-ninho.md

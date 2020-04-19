@@ -3,11 +3,13 @@ layout: project
 title: Castanha
 release_year: 2014
 image: "/uploads/images/castanha.jpg"
-trailer: "https://www.youtube.com/watch?v=El7iLi_ZD5M"
+trailer: https://www.youtube.com/watch?v=El7iLi_ZD5M
 video:
-  mp4: "https://i.giphy.com/media/JTazfMtHM49Mxf6Zvs/source.mp4"
----
+  mp4: https://i.giphy.com/media/JTazfMtHM49Mxf6Zvs/source.mp4
+  gif: ''
+original_title: ''
 
+---
 Brasil, 95min / HD / 2014
 
 _Escrito e dirigido por_  
