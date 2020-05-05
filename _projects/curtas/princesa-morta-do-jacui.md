@@ -31,7 +31,7 @@ Vulcana Cinema e Gógo
 
 ***
 
-Principais exibições e prêmios:
+## Principais exibições e prêmios
 
 * Festival do Rio  
   Competição de Curtas, 2018
