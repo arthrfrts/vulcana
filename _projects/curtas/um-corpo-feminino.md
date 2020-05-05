@@ -1,8 +1,13 @@
 ---
 layout: project
 title: Um Corpo Feminino
-release_year: "2018"
+release_year: 2018
 image: "/uploads/images/um-corpo-feminino.jpg"
+original_title: ''
+trailer: ''
+video:
+  mp4: ''
+  gif: ''
 
 ---
 2018 / Curta / Documentário
