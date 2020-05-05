@@ -1,13 +1,13 @@
 ---
 layout: project
 title: Rifle
-release_year: 2016
-trailer: "https://www.youtube.com/watch?v=0w1o62NKv5I"
+release_year: "2016"
+trailer: https://www.youtube.com/watch?v=0w1o62NKv5I
 image: "/uploads/images/rifle.jpg"
 video:
-  mp4: "https://i.giphy.com/media/dWrXccF7zhG3NHVER1/source.mp4"
----
+  mp4: https://i.giphy.com/media/dWrXccF7zhG3NHVER1/source.mp4
 
+---
 Brasil, 88min, HD/DCP, 2016
 
 _Dirigido por_  
@@ -38,39 +38,38 @@ Selecionado pelo 3º Brasil CineMundi - International Co-production Meeting 2012
 
 ***
 
-### Principais exibições
+## Principais exibições
 
-- 49º Festival de Brasília do Cinema Brasileiro – Competição de Longas-metragens, 2016. (Prêmios de Melhor Filme – Júri da Crítica, Melhor Roteiro e Melhor Desenho de Som)
-- 10ª Mostra CineBH, 2016.
-- Cine Esquema Novo – Competitiva Brasil, 2016. (Prêmio Destaque)
-- 12º Panorama Internacional Coisa de Cinema – Competição de Longas-metragens, 2016. (Prêmio de Melhor Filme)
-- 8ª Semana dos Realizadores – Mostra Competitiva, 2016.
-- 8º Festival Internacional de Cinema da Fronteira, 2016. (Filme de Encerramento)
-- 67ª Berlin International Film Festival (Berlinale) – Forum, 2017. (International Premiere)
-- 13º Lucca Film Festival – Competição Internacional, 2017.
-- 18º Jeonju International Film Festival – Competição Internacional, 2017. (Grand Prize)
-- 6º Olhar de Cinema Festival Internacional de Curitiba, 2017.
-- 28º FID Marseille, 2017.
-- 12º Festival de Cinema Latino-Americano de São Paulo, 2017.
-- Cinemaissí Festival de Cinema Latino-Americano de Helsinki, 2017.
-- 5º Bosphoros International Film Festival – Competição Internacional, 2017.  (Prêmio de Melhor Fotografia)
-- 39º Cairo International Film Festival – Panorama Internacional, 2017.
+* 49º Festival de Brasília do Cinema Brasileiro – Competição de Longas-metragens, 2016. (Prêmios de Melhor Filme – Júri da Crítica, Melhor Roteiro e Melhor Desenho de Som)
+* 10ª Mostra CineBH, 2016.
+* Cine Esquema Novo – Competitiva Brasil, 2016. (Prêmio Destaque)
+* 12º Panorama Internacional Coisa de Cinema – Competição de Longas-metragens, 2016. (Prêmio de Melhor Filme)
+* 8ª Semana dos Realizadores – Mostra Competitiva, 2016.
+* 8º Festival Internacional de Cinema da Fronteira, 2016. (Filme de Encerramento)
+* 67ª Berlin International Film Festival (Berlinale) – Forum, 2017. (International Premiere)
+* 13º Lucca Film Festival – Competição Internacional, 2017.
+* 18º Jeonju International Film Festival – Competição Internacional, 2017. (Grand Prize)
+* 6º Olhar de Cinema Festival Internacional de Curitiba, 2017.
+* 28º FID Marseille, 2017.
+* 12º Festival de Cinema Latino-Americano de São Paulo, 2017.
+* Cinemaissí Festival de Cinema Latino-Americano de Helsinki, 2017.
+* 5º Bosphoros International Film Festival – Competição Internacional, 2017.  (Prêmio de Melhor Fotografia)
+* 39º Cairo International Film Festival – Panorama Internacional, 2017.
 
 ## Críticas
 
 > "O filme é carregado de imagens-potência, tão fortes quanto contundentes."
 >
-> _[Revista Continente](http://www.revistacontinente.com.br/festival-de-brasilia-2016/19707-a-resist%C3%AAncia-a-partir-da-paisagem.html)_
+> [_Revista Continente_](http://www.revistacontinente.com.br/festival-de-brasilia-2016/19707-a-resist%C3%AAncia-a-partir-da-paisagem.html)
 
->"Rifle foi uma descoberta. O filme mais bem dirigido do 49º Festival de Brasília do Cinema Brasileiro. Pronto, está dito. Para mim, e de uma forma muito pessoal, a descoberta de Rifle foi o fato de perceber, de uma maneira tão clara, que o que nos representa, a nós, gaúchos, na contemporaneidade, é o gaúcho a pé de Cyro Martins, representado no garoto do filme. Nunca havia tido, de forma tão forte, essa certeza."
+> "Rifle foi uma descoberta. O filme mais bem dirigido do 49º Festival de Brasília do Cinema Brasileiro. Pronto, está dito. Para mim, e de uma forma muito pessoal, a descoberta de Rifle foi o fato de perceber, de uma maneira tão clara, que o que nos representa, a nós, gaúchos, na contemporaneidade, é o gaúcho a pé de Cyro Martins, representado no garoto do filme. Nunca havia tido, de forma tão forte, essa certeza."
 >
-> _[Luiz Carlos Merten, Estadão](http://cultura.estadao.com.br/blogs/luiz-carlos-merten/soltando-o-verbo/)_
-
+> [_Luiz Carlos Merten, Estadão_](http://cultura.estadao.com.br/blogs/luiz-carlos-merten/soltando-o-verbo/)
 
 > "expressivo ‘faroeste’ gaúcho, visão original sobre o conflito pela terra no País"
 >
-> _[Luiz Zanin, Estadão](http://cultura.estadao.com.br/blogs/luiz-zanin/brasilia-2016-um-balanco-final/)_
+> [_Luiz Zanin, Estadão_](http://cultura.estadao.com.br/blogs/luiz-zanin/brasilia-2016-um-balanco-final/)
 
 > "O tom de Rifle é sempre contemplativo, silencioso, quase sufocante de tanta tensão prestes a explodir."
 >
-> _[Revista Interlúdio](http://www.revistainterludio.com.br/?p=9834)_
+> [_Revista Interlúdio_](http://www.revistainterludio.com.br/?p=9834)
