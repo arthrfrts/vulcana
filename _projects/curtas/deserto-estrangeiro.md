@@ -3,13 +3,7 @@ layout: project
 title: Deserto Estrangeiro
 release_year: 2020
 image: "/uploads/images/deserto-estrangeiro.jpg"
-video:
-  mp4: ''
-  gif: ''
 tags: featured
-original_title: ''
-trailer: ''
-
 ---
 Brasil/Alemanha, 23min, DCP, 2020
 
@@ -33,3 +27,6 @@ DAAD Artist-in-Residence Berlin
 
 _Apoio_  
 Galo de Briga Filmes e Abissal
+
+***
+
