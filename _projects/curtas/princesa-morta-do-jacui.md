@@ -4,7 +4,7 @@ title: Princesa Morta do Jacuí
 release_year: 2018
 image: "/uploads/images/princesa-morta-do-jacui.jpg"
 original_title: ''
-trailer: ''
+trailer: https://vimeo.com/309346070
 video:
   mp4: ''
   gif: ''
