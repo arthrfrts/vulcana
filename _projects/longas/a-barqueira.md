@@ -3,7 +3,7 @@ layout: project
 title: A Barqueira
 original_title: La Botera
 release_year: 2020
-trailer: "https://vimeo.com/368842691/70bfab8f3f"
+trailer: "https://vimeo.com/368842691"
 image: "/uploads/images/la-botera.jpg"
 video:
   mp4: "https://i.giphy.com/media/SRkDCZKknlFppe7muG/source.mp4"

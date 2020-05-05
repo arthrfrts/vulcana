@@ -13,6 +13,9 @@ Thais Fernandes
 _Financiamento_  
 Edital PRODAV 12/2015
 
+*Licenciamento*  
+TV Cultura e EBC - TV Brasil
+
 ***
 
 Afinal, quem é Deus? é uma série documental que pretende explorar a visão das crianças sobre espiritualidade. Fugindo de uma narrativa didática sobre ritos e liturgias, o objetivo da série é construir entendimentos através do pensamento lúdico e espontâneo do universo infantil.
@@ -22,3 +25,4 @@ Afinal, quem é Deus? é uma série documental que pretende explorar a visão da
 ## Labs, mercados e eventos
 
 - **DocMontevideo** 2019
+- Finalista do **PRIX JEUNESSE INTERNACIONAL 2020**

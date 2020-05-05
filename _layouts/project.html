@@ -11,7 +11,7 @@ layout: default
         {{- page.title -}}
       </h1>
     
-      {%- if page.trailer != blank -%}
+      {%- if page.trailer and page.trailer != blank -%}
         <a class="trailer-anchor" href="#project-trailer">
           {%- if page.lang == "en" -%}
             View trailer
@@ -55,7 +55,7 @@ layout: default
         {{ project_summary }}
       </div>
     {%- endif -%}
-    {%- if page.trailer != blank -%}
+    {%- if page.trailer and page.trailer != blank -%}
       <figure id="project-trailer" class="project-section project-trailer">
         {%- include page/trailer.html -%}
       </figure>
