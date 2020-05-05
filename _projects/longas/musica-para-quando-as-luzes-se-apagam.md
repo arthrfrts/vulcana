@@ -27,8 +27,8 @@ Quanto mais a autora provoca Emelyn com suas câmeras, mais Emelyn se torna Bern
 
 ## Principais exibições
 
-* 50ª **Festival de Brasília do Cinema Brasileiro  
-  **Seleção Oficial  
+* 50ª **Festival de Brasília do Cinema Brasileiro**  
+  Seleção Oficial  
   Prêmio Especial do Júri: Melhor Ator Social para Emelyn Fischer
 * 25° **Festival Mix Brasil de Cultura da Diversidade**  
   Mostra Competitiva de Longas-Metragens
