@@ -45,6 +45,7 @@ fields:
     label: GIF file
     description: You can use a GIPHY-generated file.
 pages:
+- _projects/curtas/princesa-morta-do-jacui.md
 - _projects/curtas/um-corpo-feminino.md
 - _projects/curtas/vida-como-rizoma.md
 - _projects/longas/castanha.md
