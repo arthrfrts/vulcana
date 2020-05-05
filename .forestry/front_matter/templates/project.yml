@@ -45,6 +45,7 @@ fields:
     label: GIF file
     description: You can use a GIPHY-generated file.
 pages:
+- _projects/curtas/vida-como-rizoma.md
 - _projects/longas/castanha.md
 - _projects/longas/o-ultimo-poema.md
 - _projects/longas/sobre-sete-ondas-verdes-espumantes.md
