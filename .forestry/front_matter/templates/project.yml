@@ -22,6 +22,10 @@ fields:
 - type: number
   name: release_year
   label: Release Year
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - type: file
   name: image
   label: Featured Image
