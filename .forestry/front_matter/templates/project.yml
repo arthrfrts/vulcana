@@ -45,6 +45,7 @@ fields:
     label: GIF file
     description: You can use a GIPHY-generated file.
 pages:
+- _projects/curtas/deserto-estrangeiro.md
 - _projects/curtas/linda-uma-historia-horrivel.md
 - _projects/curtas/metade-homem-metade-fantasma.md
 - _projects/curtas/o-teto-sobre-nos.md

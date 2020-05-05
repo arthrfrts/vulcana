@@ -3,6 +3,33 @@ layout: project
 title: Deserto Estrangeiro
 release_year: 2020
 image: "/uploads/images/deserto-estrangeiro.jpg"
-video: "https://i.giphy.com/media/l24H6CT1KeyRf2FZof/source.mp4"
+video:
+  mp4: ''
+  gif: ''
 tags: featured
+original_title: ''
+trailer: ''
+
 ---
+Brasil/Alemanha, 23min, DCP, 2020
+
+_Com_  
+Isabél Zuá, Mauro Soares, Raquel Villar
+
+_Direção_  
+Davi Pretto
+
+_Roteiro_  
+Davi Pretto e Igor Verde
+
+_Produção_  
+Paola Wink
+
+_Produtoras_  
+Vulcana Cinema e Tokyo Filmes
+
+_Financiamento_  
+DAAD Artist-in-Residence Berlin
+
+_Apoio_  
+Galo de Briga Filmes e Abissal
