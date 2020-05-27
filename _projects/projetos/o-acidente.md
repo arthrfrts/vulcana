@@ -2,10 +2,9 @@
 layout: project
 title: O Acidente
 image: "/uploads/images/o-acidente.jpg"
----
 
-Brasil  
-Longa-metragem em pós-produção
+---
+Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
 
 _Com_  
 Carol Martins, Gabriela Greco, Luis Felipe Xavier
@@ -19,7 +18,7 @@ _Produção_
 Paola Wink
 
 _Produtoras_  
-Tokyo Filmes 
+Tokyo Filmes e Vulcana Cinema
 
 _Financiamento_  
 Fundo Setorial do Audiovisual, Ancine
@@ -30,7 +29,7 @@ Fundo Setorial do Audiovisual, Ancine
 
 ## Labs, Mercados e Eventos
 
-- Torino Film Lab Script Lab 2018  
+* Torino Film Lab Script Lab 2018  
   Laboratório de desenvolvimento de roteiro
-- Málaga Work in Progress - MAFIZ
-- Cartagena Work in Progress
+* Málaga Work in Progress - MAFIZ
+* Cartagena Work in Progress
