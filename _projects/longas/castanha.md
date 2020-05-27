@@ -8,6 +8,7 @@ video:
   mp4: https://i.giphy.com/media/JTazfMtHM49Mxf6Zvs/source.mp4
   gif: ''
 original_title: ''
+tags: []
 
 ---
 Brasil, 95min / HD / 2014
@@ -37,38 +38,38 @@ Disponível no Amazon Prime Video.
 
 ## Principais exibições
 
-- **64º Berlinale – Berlin International Film Festival** Forum  
+* 64º Berlinale – Berlin International Film Festival Forum  
   World Premiere
-- **38º Hong Kong International Film Festival**  
-  Young Cinema Competition. 
-- **Art of the Real**  
+* 38º Hong Kong International Film Festival  
+  Young Cinema Competition.
+* Art of the Real  
   Film Society Lincoln Center.
-- **16º BAFICI** Competencia Internacional.  
+* 16º BAFICI Competencia Internacional.  
   Prêmio FEISAL – Menção Especial
-- **CPH:PIX**  
+* CPH:PIX  
   Front Runners 2014.
-- **21º CineLatino Film Festival**  
+* 21º CineLatino Film Festival  
   Tübingen – Competencia.
-- **Berlinale Forum Selection** at Goethe Institut - Brussels 2014. 
-- **14º Las Palmas Film Festival** Sección Oficial.  
+* Berlinale Forum Selection at Goethe Institut - Brussels 2014.
+* 14º Las Palmas Film Festival Sección Oficial.  
   Prêmio de Melhor Ator
-- __68º Edinburgh International Film Festival__ – Documentary Competition.
-- __DocMontevideo__ – Documentary Week, 2014.
-- __6º Paulínia Film Festival__ – Competição.  
+* 68º Edinburgh International Film Festival – Documentary Competition.
+* DocMontevideo – Documentary Week, 2014.
+* 6º Paulínia Film Festival – Competição.  
   Prêmio de Melhor Som
-- 1º Farol – __Festival Internacional de Cinema de Fortaleza__.
-- __18º Queer Lisboa__ – Competição de Documentário.  
-- __36º Festival do Rio__ – Première Brasil Novos Rumos.  
+* 1º Farol – Festival Internacional de Cinema de Fortaleza.
+* 18º Queer Lisboa – Competição de Documentário.
+* 36º Festival do Rio – Première Brasil Novos Rumos.  
   Prêmio de Melhor Filme
-- __2º Diálogo de Cinema__.  
+* 2º Diálogo de Cinema.  
   Filme de Abertura
-- 9° BrasilCine – __Brazilian Film Festival in Scandinavia__.  
+* 9° BrasilCine – Brazilian Film Festival in Scandinavia.  
   Filme de Encerramento
-- __38° Mostra Internacional de Cinema de São Paulo__ – Mostra Brasil.
-- __10° Panorama Internacional Coisa de Cinema__ – Competitiva Nacional.
-- __36° Starz Denver Film Festival__.
-- __4° Festival Internacional Cine Las Orquídeas__, Cuenca – Competencia Opera Prima.
-- __36° Festival Internacional del Nuevo Cine Latinoamericano de Havana__ – Competencia Documental.
+* 38° Mostra Internacional de Cinema de São Paulo – Mostra Brasil.
+* 10° Panorama Internacional Coisa de Cinema – Competitiva Nacional.
+* 36° Starz Denver Film Festival.
+* 4° Festival Internacional Cine Las Orquídeas, Cuenca – Competencia Opera Prima.
+* 36° Festival Internacional del Nuevo Cine Latinoamericano de Havana – Competencia Documental.
 
 ## Críticas
 
@@ -80,8 +81,8 @@ Disponível no Amazon Prime Video.
 >
 > _Neil Young, Hollywood Reporter, Estados Unidos._
 
-> “Pretto does a terrific job of seamlessly integrating fiction and non-fiction.” 
-> 
+> “Pretto does a terrific job of seamlessly integrating fiction and non-fiction.”
+>
 > _Steven Erickson, Fandor, Estados Unidos._
 
 > “De lo mejor que nos ha regalado últimamente el nuevo cine brasileño.”
