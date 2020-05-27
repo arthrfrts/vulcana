@@ -40,5 +40,5 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 
 ## Festivais & labs
 
-* **34º Mar del Plata IFF**  
+* 34º Mar del Plata IFF  
   Melhor roteiro, melhor atriz, menção especial FEISAL
