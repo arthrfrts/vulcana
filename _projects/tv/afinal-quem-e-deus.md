@@ -1,8 +1,14 @@
 ---
 layout: project
 title: Afinal, Quem É Deus?
-release_year: "2020"
+release_year: 2020
 image: "/uploads/images/afinal-quem-e-deus.jpg"
+tags: []
+trailer: https://vimeo.com/329467814
+original_title: ''
+video:
+  mp4: ''
+  gif: ''
 
 ---
 Brasil, 13 episódios, HD, 2019
