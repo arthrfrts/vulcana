@@ -3,7 +3,14 @@ layout: project
 title: Deserto Estrangeiro
 release_year: 2020
 image: "/uploads/images/deserto-estrangeiro.jpg"
-tags: featured
+tags:
+- featured
+original_title: ''
+trailer: ''
+video:
+  mp4: ''
+  gif: ''
+
 ---
 Brasil/Alemanha, 23min, DCP, 2020
 
@@ -30,3 +37,6 @@ Galo de Briga Filmes e Abissal
 
 ***
 
+## Festivais
+
+* 23ª Mostra de Cinema de Tiradentes
