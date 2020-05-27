@@ -2,16 +2,17 @@
 layout: project
 title: Mateina
 image: "/uploads/images/mateina.jpg"
----
-2019 / Filme / Comédia
 
-*Dirigido por*  
+---
+Brasil / Uruguai, 80 minutos, HD, Longa-metragem em pós-produção
+
+_Dirigido por_  
 Joaquín Peñagaricano e Pablo Abdala
 
-*Produção*  
+_Produção_  
 Besouro Filmes, Jengibre Producciones e Coelho Voador
 
-*Financiamento*  
+_Financiamento_  
 Edital ANCINE/ICAU 2016  
 ICAU Fundo de desenvolvimento  
 Montevideo Socioaudiovisual / Desenvolvimento  
@@ -27,4 +28,4 @@ Moncho e Fico viajam por uma estrada deserta no interior do Uruguai. Estamos no 
 
 ## Labs, mercados e eventos
 
-- San Sebastián / Cine en Construcción 34
+* San Sebastián / Cine en Construcción 34
