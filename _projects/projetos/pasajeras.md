@@ -2,17 +2,17 @@
 layout: project
 title: Pasajeras
 image: "/uploads/images/pasajeras.jpg"
+
 ---
+Brasil, 2021
 
-2018 / filme / documentário
-
-*Escrito e dirigido por*  
+_Escrito e dirigido por_  
 Fran Rebelatto
 
-*Produção*  
+_Produção_  
 Besouro Filmes
 
-*Financiamento*  
+_Financiamento_  
 Rumos Itaú Cultural 2018
 
 ***
@@ -23,10 +23,10 @@ Fronteira entre Brasil, Argentina e Paraguai. Por ali, todos os dias, milhares d
 
 ## Labs, mercados e eventos
 
-- XX Festival Internacional de Videodanza de Buenos Aires 2016  
+* XX Festival Internacional de Videodanza de Buenos Aires 2016  
   Laboratório e Pitching  
   Vencedor do Pitching: Prêmio Legendagem em Inglês e Espanhol
-- GenderLAB - Laboratório na Mostra Internacional de Cinema com Perspectiva de Gênero
-- Taller Andino - Laboratório de desenvolvimento de projeto
-- 51º Festival de Brasília de Cinema Brasileiro  
+* GenderLAB - Laboratório na Mostra Internacional de Cinema com Perspectiva de Gênero
+* Taller Andino - Laboratório de desenvolvimento de projeto
+* 51º Festival de Brasília de Cinema Brasileiro  
   2º Ambiente de Mercado
