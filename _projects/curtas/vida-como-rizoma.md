@@ -8,9 +8,10 @@ original_title: ''
 video:
   mp4: ''
   gif: ''
+tags: []
 
 ---
-2015 / Curta / Documentário
+Brasil, 14 mim, HD/DCP, 2015
 
 _Dirigido por_  
 Lisi Kieling
@@ -31,7 +32,7 @@ Klaus Volkmann é um homem que leva uma vida simples com uma visão positiva do 
 
 ## Festivais
 
-* **É Tudo Verdade** 2016
-* XLIV **Festival de Cinema de Gramado**  
+* É Tudo Verdade 2016
+* XLIV Festival de Cinema de Gramado  
   Mostra de Curtas Gaúchos  
   Prêmio Aquisição – RBS TV
