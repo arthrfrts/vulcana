@@ -63,9 +63,10 @@ video:
   gif: "/uploads/2020/04/o-ninho.gif"
 trailer: https://vimeo.com/148541526
 original_title: ''
+tags: []
 
 ---
-2015 / Série / Drama
+Brasil, 4 episódios, HD, 2015
 
 _Dirigido por_  
 Filipe Matzembacher e Marcio Reolon
