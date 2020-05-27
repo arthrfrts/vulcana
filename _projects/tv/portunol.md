@@ -3,8 +3,14 @@ layout: project
 title: Portuñol
 release_year: 2020
 image: "/uploads/images/portunol.jpg"
----
+tags: []
+original_title: ''
+trailer: ''
+video:
+  mp4: ''
+  gif: ''
 
+---
 2018 / Documentário
 
 *Dirigido por*  
