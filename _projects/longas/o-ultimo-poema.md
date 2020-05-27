@@ -8,12 +8,19 @@ original_title: ''
 video:
   mp4: ''
   gif: ''
+tags: []
 
 ---
-2015 / Filme / Documentário
+Brasil, 70 min, HD/DCP, 2015
 
 _Dirigido por_  
 Mirela Kruel
+
+_Produção_  
+Besouro Filmes
+
+_Distribuição_  
+Lança Filmes
 
 _Financiamento_  
 FUMPROARTE, Edital SEDAC-RS Finalização de longa-metragem
@@ -26,10 +33,10 @@ Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspon
 
 ## Principais exibições
 
-* **Festival de Cine de Bogotá** 2015  
+* Festival de Cine de Bogotá 2015  
   Melhor Documentário de Arte
-* 44ª **Festival de Cinema de Gramado**  
+* 44ª Festival de Cinema de Gramado  
   Mostra de Longas Gaúchos
-* 3º **Festival Internacional de Cinema de Mulher - CINEFEM – Con una Mirada de Mujer**
-* **Doc Montevideo** 2015  
+* 3º Festival Internacional de Cinema de Mulher - CINEFEM – Con una Mirada de Mujer
+* Doc Montevideo 2015  
   Meetings
