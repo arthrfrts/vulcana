@@ -1,22 +1,22 @@
 ---
 layout: project
 title: Banalidade do Mal
-release_year: 2020
+release_year: "2020"
 image: "/uploads/images/banalidade-do-mal.jpg"
----
 
-2018 / Série / Drama
+---
+Brasil, 6 episódios, HD, 2019
 
 _Dirigido por_  
 Fabio Canale
 
 _Produção_  
-Besouro Filmes, Alfredo Soares de Barros e Galo de Briga Filmes
+Besouro Filmes, Alfredo Soares de Barros, Bonobo Filmes e Galo de Briga Filmes
 
 _Financiamento_  
 Edital PRODAV 02/2013
 
-*Licenciamento*  
+_Licenciamento_  
 BOX Brasil
 
 ***
