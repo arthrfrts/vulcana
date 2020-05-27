@@ -8,9 +8,10 @@ original_title: ''
 video:
   mp4: ''
   gif: ''
+tags: []
 
 ---
-2013 / Curta / Drama
+Brasil, 20 min, 35mm/HD, 2013
 
 _Dirigido por_  
 Bruno Gularte Barreto
@@ -28,23 +29,23 @@ A casa continua a mesma, porém degradada pelo tempo, degradação essa que se e
 
 ## Festivais
 
-* XXI **Festival Mix Brasil de Cultura e Diversidade  
-  **Prêmio de Melhor Direção de Fotografia / Júri Técnico  
+* XXI Festival Mix Brasil de Cultura e Diversidade  
+  Prêmio de Melhor Direção de Fotografia / Júri Técnico  
   Prêmio de Incentivo ao Curta-Metragem / Canal Brasil
-* **Diálogo de Cinema** / Mostra Cercanias  
+* Diálogo de Cinema / Mostra Cercanias  
   Melhor Atriz  
   Melhor Fotografia  
   Melhor Filme / Júri Popular  
   Menção Honrosa do Júri
-* **CLOSE – Festival Nacional de Cinema e Diversidade Sexual** 2013  
+* CLOSE – Festival Nacional de Cinema e Diversidade Sexual 2013  
   Melhor Montagem  
   Melhor Atriz
-* XLII **Festival Internacional de Cine de Huesca**
-* XLII **Festival de Cinema de Gramado** / Mostra de Curtas Gaúchos  
+* XLII Festival Internacional de Cine de Huesca
+* XLII Festival de Cinema de Gramado / Mostra de Curtas Gaúchos  
   Melhor Produção  
   Melhor Música  
   Melhor Direção de Arte  
   Melhor Ator  
   Melhor Atriz
-* **Queer Lisboa** 2014
-* XXVI **Festival Internacional de Viña Del Mar** / Competencia Latinoamericana de Cortometraje
+* Queer Lisboa 2014
+* XXVI Festival Internacional de Viña Del Mar / Competencia Latinoamericana de Cortometraje
