@@ -1,19 +1,19 @@
 ---
 layout: project
 title: Ocidentes
-release_year: 2013
+release_year: "2013"
 image: "/uploads/images/ocidentes.jpg"
+
 ---
+Brasil, 4 episódios, HD, 2014
 
-2014 / Série / Drama
-
-*Produção*  
+_Produção_  
 Besouro Filmes e Rainer Cine
 
-*Financiamento*  
+_Financiamento_  
 FAC 2013 / Histórias do Sul
 
-*Dirigido por*  
+_Dirigido por_  
 Bruno Polidoro, Carlos Gerbase, Fabiano de Souza, João Gabriel de Queiroz
 
 ***
