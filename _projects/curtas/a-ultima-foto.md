@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-2014 / Curta / Drama
+Brasil, 6 min, HD/DCP, 2014
 
 _Escrito e dirigido por_  
 Thais Fernandes
