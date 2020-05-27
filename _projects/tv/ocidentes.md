@@ -1,8 +1,14 @@
 ---
 layout: project
 title: Ocidentes
-release_year: "2013"
+release_year: 2013
 image: "/uploads/images/ocidentes.jpg"
+tags: []
+trailer: https://www.youtube.com/watch?v=ClZx-ijaceo
+original_title: ''
+video:
+  mp4: ''
+  gif: ''
 
 ---
 Brasil, 4 episódios, HD, 2014
