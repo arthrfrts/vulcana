@@ -2,20 +2,20 @@
 layout: project
 title: Vocês, brancos, não tem alma
 image: "/uploads/images/voces-brancos-nao-tem-alma.jpg"
+
 ---
+Brasil, 2022
 
-2018 / Filme / Drama
-
-*Dirigido por*  
+_Dirigido por_  
 Eduardo D. Piotroski
 
-*Escrito por*  
+_Escrito por_  
 Eduardo D. Piotroski e Pedro Paim
 
-*Produção*  
+_Produção_  
 Besouro Filmes e Pátio Vazio
 
-*Financiamento*  
+_Financiamento_  
 Edital FSA - PRODAV 05/2016
 
 ***
