@@ -22,7 +22,7 @@ Tokyo Filmes
 _Coprodução_  
 Autentika Films, Casa de Cinema de Porto Alegre e Gogó Conteúdo Sonoro.
 
-_Financiamento_
+_Financiamento_  
 Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovisual - FSA/BRDE, Apoio RUMOS - Itaú Cultural.
 
 _Com_  
