@@ -8,9 +8,10 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
+tags: []
 
 ---
-2018 / Curta / Documentário
+Brasil, 20 min, HD/DCP, 2018
 
 _Dirigido por_  
 Thais Fernandes
@@ -31,34 +32,34 @@ Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ prop�
 
 ## Festivais
 
-* 28ª **Festival Internacional de Curtas do Rio de Janeiro**  
+* 28ª Festival Internacional de Curtas do Rio de Janeiro  
   Curta Cinema 2018  
   Competição Nacional  
   Prêmio do Público de Melhor Filme Nacional  
   Prêmio Canal Brasil de Curtas
-* 62º **BFI Festival de Cinema de Londres**  
+* 62º BFI Festival de Cinema de Londres  
   Love - Lust to love and in between
-* 46º **Festival de Cinema de Gramado**  
+* 46º Festival de Cinema de Gramado  
   Prêmio Assembléia Legislativa - Mostra de Curtas Gaúchos  
   Prêmio de Melhor Filme e Melhor Roteiro
-* 20º **Festival Internacional de Curtas de Belo Horizonte**  
+* 20º Festival Internacional de Curtas de Belo Horizonte  
   Mulher - Corpo Político
-* **Festival Santa Cruz de Cinema**  
+* Festival Santa Cruz de Cinema  
   Mostra Oficial  
   Melhor Montagem
-* **3 Margens: Festival Latino-Americano de Cinema**  
+* 3 Margens: Festival Latino-Americano de Cinema  
   Melhor Filme Júri Popular
-* **Femme Revolution Film Fest**  
+* Femme Revolution Film Fest  
   Mostra Competitiva Internacional de Curtas
-* IV **Cine Jardim**  
+* IV Cine Jardim  
   Festival Latino-Americano de Cinema de Belo Jardim
-* VI **Tudo Sobre Mulheres**
-* 4º **Festival de Cinema de Três Passos**
-* **TRAKINAGEM – MOSTRA DE CINEMA E EDUCAÇÃO**
-* **XIV Cinefest Gato Preto 2018**  
+* VI Tudo Sobre Mulheres
+* 4º Festival de Cinema de Três Passos
+* TRAKINAGEM – MOSTRA DE CINEMA E EDUCAÇÃO
+* XIV Cinefest Gato Preto 2018  
   Prêmio de Melhor Direção  
   Melhor Filme de Votação Popular
-* X **Festival Internacional de Cinema da Fronteira**  
+* X Festival Internacional de Cinema da Fronteira  
   Mostra Competitiva Internacional de Curtas-Metragens
-* 9º **Sercine - Festival Sergipe de Audiovisual**  
+* 9º Sercine - Festival Sergipe de Audiovisual  
   Mostra Brasis
