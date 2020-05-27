@@ -8,12 +8,16 @@ original_title: ''
 video:
   mp4: ''
   gif: ''
+tags: []
 
 ---
-2013 / Filme / Documentário
+Brasil, 75 min, HD/DCP, 2013
 
 _Dirigido por_  
 Bruno Polidoro e Cacá Nazario
+
+_Distribuição_  
+Boulevard Filmes
 
 _Financiamento_  
 Edital FUMPROARTE
@@ -28,8 +32,8 @@ Santiago, Amsterdã, Berlim, Colônia, Paris, Londres, Porto Alegre, São Paulo.
 
 ## Festivais
 
-* **É Tudo Verdade** 2013
-* XLI **Festival de Cinema de Gramado**
-* **Festival Iberoamericano de Cinema do Sergipe** 2013
-* **CLOSE – Festival Nacional de Cinema da Diversidade Sexual** 2013
-* III **Festival Internacional de Cinema da Fronteira**
+* É Tudo Verdade 2013
+* XLI Festival de Cinema de Gramado
+* Festival Iberoamericano de Cinema do Sergipe 2013
+* CLOSE – Festival Nacional de Cinema da Diversidade Sexual 2013
+* III Festival Internacional de Cinema da Fronteira
