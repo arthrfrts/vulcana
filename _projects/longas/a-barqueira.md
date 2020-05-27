@@ -2,14 +2,14 @@
 layout: project
 title: A Barqueira
 original_title: La Botera
-release_year: 2020
-trailer: "https://vimeo.com/368842691"
+release_year: "2020"
+trailer: https://vimeo.com/368842691
 image: "/uploads/images/la-botera.jpg"
 video:
-  mp4: "https://i.giphy.com/media/SRkDCZKknlFppe7muG/source.mp4"
+  mp4: https://i.giphy.com/media/SRkDCZKknlFppe7muG/source.mp4
 tags: featured
----
 
+---
 Argentina / Brasil, 75min, HD / DCP, 2019
 
 _Escrito e dirigido por_  
@@ -20,6 +20,10 @@ Murillo Cine
 
 _Coprodução_  
 Vulcana Cinema
+
+_Distribuição_
+
+Zeta Filmes
 
 _Financiamento_  
 INCAA, ANCINE, Programa Ibermedia, Mecenazgo Cultural
@@ -37,5 +41,5 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 
 ## Festivais & labs
 
-- **34º Mar del Plata IFF**  
+* **34º Mar del Plata IFF**  
   Melhor roteiro, melhor atriz, menção especial FEISAL
