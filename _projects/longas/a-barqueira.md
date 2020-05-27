@@ -21,8 +21,7 @@ Murillo Cine
 _Coprodução_  
 Vulcana Cinema
 
-_Distribuição_
-
+_Distribuição_  
 Zeta Filmes
 
 _Financiamento_  
