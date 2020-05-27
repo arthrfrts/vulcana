@@ -6,7 +6,6 @@ image: "/uploads/images/deserto-estrangeiro.jpg"
 tags:
 - featured
 original_title: ''
-trailer: ''
 video:
   mp4: ''
   gif: ''
