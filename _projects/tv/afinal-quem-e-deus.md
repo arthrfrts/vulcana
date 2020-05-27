@@ -1,11 +1,11 @@
 ---
 layout: project
 title: Afinal, Quem É Deus?
-release_year: 2020
+release_year: "2020"
 image: "/uploads/images/afinal-quem-e-deus.jpg"
----
 
-2018 / Série / Documentário
+---
+Brasil, 13 episódios, HD, 2019
 
 _Dirigido por_  
 Thais Fernandes
@@ -13,7 +13,7 @@ Thais Fernandes
 _Financiamento_  
 Edital PRODAV 12/2015
 
-*Licenciamento*  
+_Licenciamento_  
 TV Cultura e EBC - TV Brasil
 
 ***
@@ -24,5 +24,5 @@ Afinal, quem é Deus? é uma série documental que pretende explorar a visão da
 
 ## Labs, mercados e eventos
 
-- **DocMontevideo** 2019
-- Finalista do **PRIX JEUNESSE INTERNACIONAL 2020**
+* DocMontevideo 2019
+* Finalista do PRIX JEUNESSE INTERNACIONAL 2020
