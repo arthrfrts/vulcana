@@ -30,7 +30,7 @@ Eduardo é um adolescente que vive intensamente a realidade excessivamente docum
 
 ## Principais exibições:
 
-* *16° Festival Internazionale di Cortometraggi Corti da Sogni "Antonio Ricci” - Ravena | Itália
+* 16° Festival Internazionale di Cortometraggi Corti da Sogni "Antonio Ricci” - Ravena | Itália
 * 15ª Festival Iberoamericano de Cinema de Sergipe (Brazil)
 * II Cine Jardim - Pernambuco (Brazil)
 * Mostra "Mulheres gritam ação" - (Instituto Moreire Salles / MG) - Brazil
