@@ -25,6 +25,9 @@ m-appeal
 _Financiamento_  
 Hubert Bals Fund 2014 / Desenvolvimento, MinC B.O. 2015
 
+_Disponível_  
+Telecine Play, Google Play, YouTube Movies
+
 ***
 
 Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudança da irmã para o outro lado do país. Sozinho no escuro do seu quarto, ele dança coberto de tinta neon, enquanto milhares de estranhos o assistem pela webcam.
