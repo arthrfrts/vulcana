@@ -11,27 +11,27 @@ video:
   gif: ''
 
 ---
-2018 / Documentário
+Brasil, 70 min, HD, 2020
 
-*Dirigido por*  
+_Dirigido por_  
 Thais Fernandes
 
-*Financiamento*  
+_Financiamento_  
 GloboNews
 
-*Produção*  
+_Produção_  
 Globo News, Besouro Filmes e Epifania Filmes
 
-*Licenciamento*  
+_Licenciamento_  
 GloboNews
 
 ***
 
-*Portuñol* faz um mergulho na cultura fronteiriça do Brasil com seus vizinhos Uruguai, Argentina, Paraguai, Bolívia, Colômbia, Peru e Venezuela. O portuñol, essa língua que nasce da intersecção de culturas, é pretexto para falar da gênese da América Latina. Uma viagem que vai do sul ao norte do país, desfazendo limites físicos e desvendando a latinidade que une personagens diversos. Um trajeto desconstrução que não busca uma resposta, mas sim romper todas as possíveis certezas do que significa existir nas bordas de definições culturais.
+_Portuñol_ faz um mergulho na cultura fronteiriça do Brasil com seus vizinhos Uruguai, Argentina, Paraguai, Bolívia, Colômbia, Peru e Venezuela. O portuñol, essa língua que nasce da intersecção de culturas, é pretexto para falar da gênese da América Latina. Uma viagem que vai do sul ao norte do país, desfazendo limites físicos e desvendando a latinidade que une personagens diversos. Um trajeto desconstrução que não busca uma resposta, mas sim romper todas as possíveis certezas do que significa existir nas bordas de definições culturais.
 
 ***
 
 ## Labs, mercados e eventos
 
-- XIV Panorama Internacional Coisa de Cinema  
+* XIV Panorama Internacional Coisa de Cinema  
   PanLAB - Laboratório de Montagem
