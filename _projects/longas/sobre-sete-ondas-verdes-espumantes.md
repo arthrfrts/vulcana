@@ -22,8 +22,7 @@ Boulevard Filmes
 _Financiamento_  
 Edital FUMPROARTE
 
-_Disponível_  
-iTunes, Looke
+Disponível no Looke e iTunes Store.
 
 ***
 
