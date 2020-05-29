@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-Brasil, 70 min, HD, 2020
+Brasil, 70 min / 55 min, 4K / DCP, 2020
 
 _Dirigido por_  
 Thais Fernandes
@@ -20,7 +20,7 @@ _Financiamento_
 GloboNews
 
 _Produção_  
-Globo News, Besouro Filmes e Epifania Filmes
+Globo News, Globo Filmes, Vulcana Cinema e Epifania Filmes
 
 _Licenciamento_  
 GloboNews
