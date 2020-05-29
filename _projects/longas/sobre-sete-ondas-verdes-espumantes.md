@@ -22,6 +22,9 @@ Boulevard Filmes
 _Financiamento_  
 Edital FUMPROARTE
 
+_Disponível_  
+iTunes, Looke
+
 ***
 
 Um roadmovie poético construído através da vida e obra do escritor Caio Fernando Abreu.
