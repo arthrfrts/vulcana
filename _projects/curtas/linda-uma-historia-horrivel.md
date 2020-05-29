@@ -3,7 +3,7 @@ layout: project
 title: Linda, uma história horrível
 release_year: 2013
 image: "/uploads/images/linda-uma-historia-horrivel.jpg"
-trailer: https://vimeo.com/107511404
+trailer: https://vimeo.com/vulcanacinema/linda
 original_title: ''
 video:
   mp4: ''
