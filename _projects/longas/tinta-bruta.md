@@ -25,8 +25,7 @@ m-appeal
 _Financiamento_  
 Hubert Bals Fund 2014 / Desenvolvimento, MinC B.O. 2015
 
-_Disponível_  
-Telecine Play, Google Play, YouTube Movies
+Disponível no Telecine Play, Google Play e YouTube Movies e iTunes Store.
 
 ***
 
