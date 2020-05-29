@@ -26,6 +26,8 @@ Canon Short Film Competition
 
 Eduardo é um adolescente que vive intensamente a realidade excessivamente documentada e compartilhada dos tempos atuais. Um dia ele é confrontado com a difícil tarefa de decidir qual será a última imagem registrada pela antiga máquina fotográfica de seu avô.
 
+***
+
 ## Principais exibições:
 
 * *16° Festival Internazionale di Cortometraggi Corti da Sogni "Antonio Ricci” - Ravena | Itália
