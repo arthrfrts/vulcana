@@ -7,7 +7,7 @@ tags:
 - featured
 original_title: ''
 video:
-  mp4: "/uploads/2020/07/gif-1-6.mp4"
+  mp4: "/uploads/2020/07/animated-gif-original.mp4"
   gif: ''
 trailer: ''
 
