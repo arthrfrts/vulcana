@@ -9,7 +9,7 @@ original_title: ''
 video:
   mp4: "/uploads/2020/07/animated-gif-original.mp4"
   gif: ''
-trailer: https://vimeo.com/437227920
+trailer: vimeo.com/437227920
 
 ---
 Brasil/Alemanha, 23min, DCP, 2020
