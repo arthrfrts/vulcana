@@ -26,8 +26,8 @@ Davi Pretto e Igor Verde
 _Produção_  
 Paola Wink
 
-_Produtoras_  
-Vulcana Cinema e Tokyo Filmes
+_Produtora_  
+Vulcana Cinema
 
 _Financiamento_  
 DAAD Artist-in-Residence Berlin
