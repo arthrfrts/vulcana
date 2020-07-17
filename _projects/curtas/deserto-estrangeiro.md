@@ -24,7 +24,7 @@ _Roteiro_
 Davi Pretto e Igor Verde
 
 _Produção_  
-Paola Wink
+Paola Wink 
 
 _Produtora_  
 Vulcana Cinema
