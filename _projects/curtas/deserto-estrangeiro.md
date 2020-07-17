@@ -7,8 +7,9 @@ tags:
 - featured
 original_title: ''
 video:
-  mp4: ''
+  mp4: "/uploads/2020/07/gif-1-6.mp4"
   gif: ''
+trailer: ''
 
 ---
 Brasil/Alemanha, 23min, DCP, 2020
