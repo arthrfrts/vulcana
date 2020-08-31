@@ -225,12 +225,20 @@ body {
 .content-header {
   margin-top: $spacing-unit * 3;
   margin-bottom: $spacing-unit * 3;
+  
+  .layout-project & {
+    margin-top: 0;
+  }
 }
 
 // Cover
 .page-cover {
   position: relative;
   height: 75vh;
+  
+  .layout-project & {
+    height: 85vh;
+  }
   
   @include media($on-palm) {
     height: 60vh;
