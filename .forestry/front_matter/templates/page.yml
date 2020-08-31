@@ -43,4 +43,5 @@ fields:
     description: You can use a GIPHY-generated file.
   label: Cover Video
 pages:
+- _projects/projetos/o-empregado-e-o-patrao.md
 - en/about-vulcana.md
