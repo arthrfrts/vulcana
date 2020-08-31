@@ -2,6 +2,7 @@
 layout: project
 title: De Guiné
 image: "/uploads/images/de-guine.jpg"
+
 ---
 Brasil  
 Longa-metragem em desenvolvimento
@@ -19,11 +20,11 @@ Hubert Bals Development Fund
 
 ***
 
-## Labs, Mercados e Eventos
+## LABS, MERCADOS E EVENTOS
 
-- 3 Puertos Cine 2019  
+* 3 Puertos Cine 2019  
   Laboratório de Projetos
-- Boost NL 2019  
+* Boost NL 2019  
   Laboratório de Projetos
-- Cinemart Rotterdam  
+* Cinemart Rotterdam  
   Mercado de coprodução internacional
