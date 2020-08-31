@@ -1,6 +1,6 @@
 {%- if page.image or page.video -%}
   <figure class="page-cover">
-    {%- if page.video -%}
+    {%- if page.video and page.video != "" or page.video.mp4 != "" -%}
       <video class="media-container" autoplay muted playsinline loop poster="{{- page.video.gif | default: page.image -}}">
         <source type="video/mp4" src="{{- page.video.mp4 | default: page.video -}}" />
         <img src="{{- page.video.gif | default: page.image -}}" role="presentation" />
