@@ -7,7 +7,9 @@ video:
   gif: ''
 
 ---
-Uruguai / Brasil / Argentina / França, Longa-metragem em pós-produção
+Uruguai / Brasil / Argentina / França
+
+Longa-metragem em pós-produção
 
 _Dirigido por_  
 Manuel Nieto Zas
