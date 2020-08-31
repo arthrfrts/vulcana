@@ -11,8 +11,7 @@ release_year:
 trailer: ''
 
 ---
-Uruguai / Brasil / Argentina / França
-
+Uruguai / Brasil / Argentina / França    
 Longa-metragem em pós-produção
 
 _Dirigido por_  
