@@ -1,7 +1,7 @@
 ---
 layout: project
 tags: []
-title: O empregado e o patrão
+title: O empregado e o Patrão
 original_title: El Empleado y El Patrón
 release_year: 
 image: "/uploads/2020/08/eeyep-8.jpg"
