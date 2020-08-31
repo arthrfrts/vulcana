@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: project
 title: O empregado e o Patrão
 image: "/uploads/2020/08/eeyep-8.jpg"
 video:
   mp4: ''
   gif: ''
+tags: []
+original_title: ''
+release_year: 
+trailer: ''
 
 ---
 Uruguai / Brasil / Argentina / França
