@@ -12,7 +12,7 @@ Uruguai / Brasil / Argentina / França, Longa-metragem em pós-produção
 _Dirigido por_  
 Manuel Nieto Zas
 
-_Produção_  
+_Produção_   
 Roken Films (Uruguai)
 
 _Coprodução_  
