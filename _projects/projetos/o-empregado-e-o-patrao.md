@@ -5,7 +5,6 @@ image: "/uploads/2020/08/eeyep-8.jpg"
 video:
   mp4: ''
   gif: ''
-published: false
 
 ---
 Uruguai / Brasil / Argentina / França, Longa-metragem em pós-produção
