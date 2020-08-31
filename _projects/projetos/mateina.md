@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mateina
+title: Mateína
 image: "/uploads/images/mateina.jpg"
 
 ---
