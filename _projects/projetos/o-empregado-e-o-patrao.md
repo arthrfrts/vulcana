@@ -9,7 +9,6 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
-published: false
 
 ---
 Uruguai / Brasil / Argentina / França, HD, Longa-metragem em pós-produção
