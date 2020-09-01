@@ -2,8 +2,15 @@
 layout: project
 title: Casa no Campo
 image: "/uploads/images/casa-no-campo.jpg"
----
+tags: []
+release_year: 2022
+original_title: ''
+trailer: ''
+video:
+  mp4: ''
+  gif: ''
 
+---
 Brasil, Argentina e França
 Longa-metragem em desenvolvimento
 
