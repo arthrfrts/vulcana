@@ -2,6 +2,13 @@
 layout: project
 title: O Acidente
 image: "/uploads/images/o-acidente.jpg"
+tags: []
+release_year: 2020
+original_title: ''
+trailer: ''
+video:
+  mp4: ''
+  gif: ''
 
 ---
 Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
