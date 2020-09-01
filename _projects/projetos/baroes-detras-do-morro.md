@@ -3,7 +3,7 @@ layout: project
 title: Barões detrás do morro
 image: "/uploads/images/baroes-detras-do-morro.jpg"
 tags: []
-release_year: 2023
+release_year: 2024
 original_title: ''
 trailer: ''
 video:
