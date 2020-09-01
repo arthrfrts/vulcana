@@ -3,14 +3,14 @@ layout: project
 title: O Acidente
 image: "/uploads/images/o-acidente.jpg"
 tags: []
-release_year: 2020
+release_year: 2027
 original_title: ''
 trailer: ''
 video:
   mp4: ''
   gif: ''
-
 ---
+
 Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
 
 _Com_  

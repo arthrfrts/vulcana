@@ -44,3 +44,6 @@ fields:
   label: Cover Video
 pages:
 - en/about-vulcana.md
+- en/index.md
+- sobre.md
+- index.md
