@@ -9,9 +9,13 @@ sections:
   label: Projects
   create: all
   match: "**/*"
+  templates:
+    - project
 - type: jekyll-pages
   label: Pages
   create: all
+  templates:
+    - page
 upload_dir: uploads
 public_path: https://www.vulcanacinema.com/uploads
 front_matter_path: "/uploads"

@@ -50,7 +50,6 @@ fields:
     label: GIF file
     description: You can use a GIPHY-generated file.
 pages:
-- _projects/*
 - _projects/curtas/a-ultima-foto.md
 - _projects/curtas/deserto-estrangeiro.md
 - _projects/curtas/linda-uma-historia-horrivel.md
