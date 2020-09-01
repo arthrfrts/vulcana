@@ -2,6 +2,13 @@
 layout: project
 title: Pasajeras
 image: "/uploads/images/pasajeras.jpg"
+tags: []
+release_year: 2026
+original_title: ''
+trailer: ''
+video:
+  mp4: ''
+  gif: ''
 
 ---
 Brasil, 2021
