@@ -7,7 +7,7 @@ video:
   gif: ''
 tags: []
 original_title: ''
-release_year: 
+release_year: 2021
 trailer: ''
 
 ---
