@@ -3,7 +3,7 @@ layout: project
 title: Pasajeras
 image: "/uploads/images/pasajeras.jpg"
 tags: []
-release_year: 2026
+release_year: 2021
 original_title: ''
 trailer: ''
 video:

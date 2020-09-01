@@ -3,7 +3,7 @@ layout: project
 title: Vocês, brancos, não tem alma
 image: "/uploads/images/voces-brancos-nao-tem-alma.jpg"
 tags: []
-release_year: 2025
+release_year: 2022
 original_title: ''
 trailer: ''
 video:
