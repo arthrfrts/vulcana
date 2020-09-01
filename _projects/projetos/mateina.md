@@ -2,6 +2,13 @@
 layout: project
 title: Mateína
 image: "/uploads/images/mateina.jpg"
+tags: []
+release_year: 2020
+original_title: ''
+trailer: ''
+video:
+  mp4: ''
+  gif: ''
 
 ---
 Brasil / Uruguai, 80 minutos, HD, Longa-metragem em pós-produção
