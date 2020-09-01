@@ -2,6 +2,13 @@
 layout: project
 title: Vocês, brancos, não tem alma
 image: "/uploads/images/voces-brancos-nao-tem-alma.jpg"
+tags: []
+release_year: 2025
+original_title: ''
+trailer: ''
+video:
+  mp4: ''
+  gif: ''
 
 ---
 Brasil, 2022
