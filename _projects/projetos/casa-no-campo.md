@@ -3,7 +3,7 @@ layout: project
 title: Casa no Campo
 image: "/uploads/images/casa-no-campo.jpg"
 tags: []
-release_year: 2022
+release_year: 2025
 original_title: ''
 trailer: ''
 video:
