@@ -3,7 +3,7 @@ layout: project
 title: De Guiné
 image: "/uploads/images/de-guine.jpg"
 tags: []
-release_year: 2024
+release_year: 2023
 original_title: ''
 trailer: ''
 video:
