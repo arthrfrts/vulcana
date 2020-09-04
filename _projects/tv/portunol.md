@@ -20,6 +20,11 @@ _Pesquisa e Roteiro_
 Thais Fernandes  
 Boca Migotto
 
+_Produção_  
+Fabiano Florez  
+Jessica Luz  
+Mariana Mêmis Müller
+
 _Coprodução_  
 GloboNews, Globo Filmes e Epifania Filmes
 
