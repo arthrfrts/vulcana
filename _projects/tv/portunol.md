@@ -11,19 +11,23 @@ video:
   gif: ''
 
 ---
-Brasil, 70 min / 55 min, 4K / DCP, 2020
+Portuñol / 70 min - 55 min / 4K / Longa-metragem / 2020
 
-_Dirigido por_  
+_Direção_  
 Thais Fernandes
+
+_Pesquisa e Roteiro_  
+Thais Fernandes  
+Boca Migotto
+
+_Coprodução_  
+Globo News, Globo Filmes e Epifania Filmes
 
 _Financiamento_  
 GloboNews
 
-_Produção_  
-Globo News, Globo Filmes, Vulcana Cinema e Epifania Filmes
-
-_Licenciamento_  
-GloboNews
+_Distribuição  
+_Lança Filmes
 
 ***
 
@@ -33,5 +37,9 @@ Portuñol faz uma viagem através da cultura fronteiriça do Brasil com seus vi
 
 ## Labs, mercados e eventos
 
-* XIV Panorama Internacional Coisa de Cinema  
-  PanLAB - Laboratório de Montagem
+* XIV Panorama Internacional Coisa de Cinema / PanLAB - Laboratório de Montagem
+
+## Principais exibições
+
+* 48° Festival de Cinema de Gramado / Mostra Longa-metragem Gaúchos
+* 1º Festival As Amazonas do Cinema
