@@ -2,10 +2,10 @@
 layout: project
 title: Portuñol
 release_year: 2020
-image: "/uploads/images/portunol.jpg"
+image: "/uploads/2020/09/whatsapp-image-2020-09-04-at-16-10-39.jpeg"
 tags: []
 original_title: ''
-trailer: ''
+trailer: https://vimeo.com/454855190
 video:
   mp4: ''
   gif: ''
@@ -27,7 +27,7 @@ GloboNews
 
 ***
 
-_Portuñol_ faz um mergulho na cultura fronteiriça do Brasil com seus vizinhos Uruguai, Argentina, Paraguai, Bolívia, Colômbia, Peru e Venezuela. O portuñol, essa língua que nasce da intersecção de culturas, é pretexto para falar da gênese da América Latina. Uma viagem que vai do sul ao norte do país, desfazendo limites físicos e desvendando a latinidade que une personagens diversos. Um trajeto desconstrução que não busca uma resposta, mas sim romper todas as possíveis certezas do que significa existir nas bordas de definições culturais.
+Portuñol faz uma viagem através da cultura fronteiriça do Brasil com seus vizinhos hispanohablantes. O portuñol, essa língua que nasce da intersecção de culturas, é pretexto para falar da gênese da América Latina. Um filme de estrada que no trajeto vai desfazendo limites físicos e desvendando a latinidade que une personagens diversos. Uma viagem de desconstrução que não busca uma resposta, mas sim romper todas as possíveis certezas do que significa existir nas bordas de definições culturais.
 
 ***
 
