@@ -26,8 +26,8 @@ Globo News, Globo Filmes e Epifania Filmes
 _Financiamento_  
 GloboNews
 
-_Distribuição  
-_Lança Filmes
+_Distribuição_  
+Lança Filmes
 
 ***
 
