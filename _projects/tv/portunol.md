@@ -21,7 +21,7 @@ Thais Fernandes
 Boca Migotto
 
 _Coprodução_  
-Globo News, Globo Filmes e Epifania Filmes
+GloboNews, Globo Filmes e Epifania Filmes
 
 _Financiamento_  
 GloboNews
