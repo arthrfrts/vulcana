@@ -2,7 +2,7 @@
 layout: project
 title: A Barqueira
 original_title: La Botera
-release_year: "2020"
+release_year: 2020
 trailer: https://vimeo.com/368842691
 image: "/uploads/images/la-botera.jpg"
 video:
@@ -40,5 +40,11 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 
 ## Festivais & labs
 
-* 34º Mar del Plata IFF  
+* 34º Festival Internacional de Mar del Plata  
   Melhor roteiro, melhor atriz, menção especial FEISAL
+* 23º Festival de Málaga / Competencia Zonacine
+
+  Melhor Filme Iberoamericano da Competencia Zonacine
+
+  Melhor Interpretação Feminina
+* Festival Internacional de las Alturas / Mostra International de Ficção
