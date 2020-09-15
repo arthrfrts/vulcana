@@ -24,7 +24,7 @@ Vulcana Cinema
 _Distribuição_  
 Zeta Filmes
 
-_Financiamento_  
+_Financiamento_   
 INCAA, ANCINE, Programa Ibermedia, Mecenazgo Cultural
 
 _Com_  
