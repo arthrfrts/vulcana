@@ -16,9 +16,8 @@ Portuñol / 70 min - 55 min / 4K / Longa-metragem / 2020
 _Direção_  
 Thais Fernandes
 
-_Pesquisa e Roteiro_  
-Thais Fernandes  
-Boca Migotto
+_Argumento Original_  
+Jessica Luz
 
 _Produção_  
 Fabiano Florez  
