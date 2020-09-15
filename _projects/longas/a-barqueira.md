@@ -24,7 +24,7 @@ Vulcana Cinema
 _Distribuição_  
 Zeta Filmes
 
-_Financiamento_   
+_Financiamento_  
 INCAA, ANCINE, Programa Ibermedia, Mecenazgo Cultural
 
 _Com_  
@@ -40,11 +40,9 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 
 ## Festivais & labs
 
-* 34º Festival Internacional de Mar del Plata  
+* 34º Festival Internacional de Mar del Plata    
   Melhor roteiro, melhor atriz, menção especial FEISAL
-* 23º Festival de Málaga / Competencia Zonacine
-
-  Melhor Filme Iberoamericano da Competencia Zonacine
-
+* 23º Festival de Málaga / Competencia Zonacine    
+  Melhor Filme Iberoamericano da Competencia Zonacine    
   Melhor Interpretação Feminina
 * Festival Internacional de las Alturas / Mostra International de Ficção
