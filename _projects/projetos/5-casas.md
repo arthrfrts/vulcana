@@ -37,7 +37,6 @@ PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und
 * Visions Du Réel 2016  
   Pitching Du Réel
 * DocMontevideo 2016
-* Prêmio When East Meets West
 * DOK Leipzig 2016  
   Co-pro Market
 * IDFA Summer School 2017
