@@ -29,9 +29,7 @@ _Sales e festivais_
 m-appeal
 
 ***
-
 Onde assistir: [Telecine Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [Google Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [YouTube Movies](https://www.youtube.com/watch?v=qOOk51Uhxl4), [Mubi](https://mubi.com/pt/films/hard-paint) e [iTunes Store](https://itunes.apple.com/br/movie/tinta-bruta/id1454489881). 
-
 ***
 
 Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudança da irmã para o outro lado do país. Sozinho no escuro do seu quarto, ele dança coberto de tinta neon, enquanto milhares de estranhos o assistem pela webcam.
