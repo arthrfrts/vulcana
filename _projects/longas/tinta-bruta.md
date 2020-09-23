@@ -10,7 +10,7 @@ video:
 ---
 Brasil, 118 min, DCP, Longa-metragem, 2018
 
-_Direção e Roteiro_  
+_Direção e roteiro_
 Filipe Matzembacher e Marcio Reolon
 
 _Com_
