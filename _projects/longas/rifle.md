@@ -1,26 +1,23 @@
 ---
 layout: project
 title: Rifle
-release_year: "2016"
+release_year: 2016
 trailer: https://www.youtube.com/watch?v=0w1o62NKv5I
 image: "/uploads/images/rifle.jpg"
 video:
   mp4: https://i.giphy.com/media/dWrXccF7zhG3NHVER1/source.mp4
 
 ---
-Brasil, 88min, HD/DCP, 2016
+Brasil, 88min, HD/DCP, Longa-metragem, 2016
 
-_Dirigido por_  
+_Direção_  
 Davi Pretto
 
-_Escrito por_  
+_Roteiro_  
 Davi Pretto e Richard Tavares
 
-_Produção_  
-Tokyo Filmes
-
 _Coprodução_  
-Autentika Films, Casa de Cinema de Porto Alegre e Gogó Conteúdo Sonoro.
+Tokyo Filmes, Autentika Films, Casa de Cinema de Porto Alegre e Gogó Conteúdo Sonoro.
 
 _Financiamento_  
 Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovisual - FSA/BRDE, Apoio RUMOS - Itaú Cultural.
@@ -30,9 +27,11 @@ Dione Avila de Oliveira, Evaristo Goulart, Andressa Goulart, Elizabete Nogueira,
 
 ***
 
-Dione é um jovem misterioso que vive com uma família em uma região rural e remota. A tranquilidade da região é afetada quando um rico fazendeiro tenta comprar a pequena propriedade que Dione e a família vivem.
+Assistir: [NET NOW](https://www.nowonline.com.br/filme/rifle/93719) e [iTunes Store](https://itunes.apple.com/br/movie/rifle/id1364693822?l=en&ign-mpt=uo%3D4).
 
-Disponível na NET NOW e iTunes Store.
+***
+
+Dione é um jovem misterioso que vive com uma família em uma região rural e remota. A tranquilidade da região é afetada quando um rico fazendeiro tenta comprar a pequena propriedade que Dione e a família vivem.
 
 Selecionado pelo 3º Brasil CineMundi - International Co-production Meeting 2012, 3º Europe-Latin America Co-production Forum do 62º Festival de San Sebastián 2014, 3º BrLab 2014, Talent Project Market da 65° Berlinale 2015.
 
