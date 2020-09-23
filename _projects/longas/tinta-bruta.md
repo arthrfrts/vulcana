@@ -1,20 +1,26 @@
 ---
 layout: project
 title: Tinta Bruta
-release_year: "2018"
+release_year: 2018
 image: "/uploads/images/tinta-bruta.jpg"
 trailer: https://www.youtube.com/watch?v=zM9Q36ZKJqY
 video:
   mp4: https://i.giphy.com/media/UoMK6XjMeSJCgvCSFy/source.mp4
 
 ---
-Brasil, 118 min, DCP, 2018
+Brasil, 118 min, DCP, Longa-metragem, 2018
 
-_Escrito e dirigido por_  
+_Direção e Roteiro_  
 Filipe Matzembacher e Marcio Reolon
 
-_Produção_  
+_Com_
+Shico Menegat, Bruno Fernandes, Guega Peixoto
+
+_Coprodução_  
 Avante Filmes e Besouro Filmes
+
+_Financiamento_  
+Hubert Bals Fund 2014 / Desenvolvimento, MinC B.O. 2015
 
 _Distribuição_  
 Vitrine Filmes
@@ -22,10 +28,7 @@ Vitrine Filmes
 _Sales e festivais_  
 m-appeal
 
-_Financiamento_  
-Hubert Bals Fund 2014 / Desenvolvimento, MinC B.O. 2015
-
-Disponível no Telecine Play, Google Play, YouTube Movies e iTunes Store.
+Onde assistir: [Telecine Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [Google Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [YouTube Movies](https://www.youtube.com/watch?v=qOOk51Uhxl4), [Mubi](https://mubi.com/pt/films/hard-paint) e [iTunes Store](https://itunes.apple.com/br/movie/tinta-bruta/id1454489881).
 
 ***
 
@@ -33,7 +36,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 
 ***
 
-## Festivais
+## Principais Exibições
 
 * 68ª Berlinale - Festival Internacional de Cinema de Berlim / Panorama / Teddy Award de Melhor Longa-metragem / Prêmio CICAE - Art Cinema Award
 * FICG33 - Festival Internacional de Cinema de Guadalajara / Melhor Filme Prêmio Maguey
