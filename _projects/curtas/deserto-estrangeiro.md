@@ -24,7 +24,7 @@ _Roteiro_
 Davi Pretto e Igor Verde
 
 _Produção_  
-Paola Wink 
+Paola Wink
 
 _Produtora_  
 Vulcana Cinema
@@ -42,3 +42,10 @@ Galo de Briga Filmes e Abissal
 ## Festivais
 
 * 23ª Mostra de Cinema de Tiradentes
+* 48° Festival de Cinema de GramadoMostra Gaúcha de Curtas
+
+  Melhor Ator
+
+  Melhor Atriz
+
+  Melhor fotografia
