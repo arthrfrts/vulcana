@@ -28,7 +28,7 @@ Vitrine Filmes
 _Sales e festivais_  
 m-appeal
 
-Onde assistir: [Telecine Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [Google Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [YouTube Movies](https://www.youtube.com/watch?v=qOOk51Uhxl4), [Mubi](https://mubi.com/pt/films/hard-paint) e [iTunes Store](https://itunes.apple.com/br/movie/tinta-bruta/id1454489881).
+Onde assistir: [Telecine Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [Google Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [YouTube Movies](https://www.youtube.com/watch?v=qOOk51Uhxl4), [Mubi](https://mubi.com/pt/films/hard-paint) e [iTunes Store](https://itunes.apple.com/br/movie/tinta-bruta/id1454489881). 
 
 ***
 
