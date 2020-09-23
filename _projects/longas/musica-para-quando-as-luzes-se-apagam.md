@@ -15,7 +15,6 @@ _Roteiro_
 Ismael Caneppele e Germano de Oliveira
 
 _Com_
-
 Emelyn Fischer e Júlia Lemmertz
 
 _Coprodução_  
