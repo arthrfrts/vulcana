@@ -10,22 +10,22 @@ video:
 tags: featured
 
 ---
-Argentina / Brasil, 75min, HD / DCP, 2019
+Argentina / Brasil, 75 min, Longa-metragem, HD / DCP, 2019
 
-_Escrito e dirigido por_  
+_Direção e roteiro_  
 Sabrina Blanco
 
-_Produção_  
-Murillo Cine
+_Com_  
+Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
 
-_Distribuição_  
-Zeta Filmes
+_Coprodução_  
+Murillo Cine e Vulcana Cinema
 
 _Financiamento_  
 INCAA, ANCINE, Programa Ibermedia, Mecenazgo Cultural
 
-_Com_  
-Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
+_Distribuição_  
+Zeta Filmes
 
 ***
 
@@ -35,10 +35,14 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 
 ***
 
-## Festivais & labs
+## Principais Exibições
 
 * 34º Festival Internacional de Mar del Plata  
-  Melhor roteiro, melhor atriz, menção especial FEISAL
+  Melhor roteiro
+
+  Melhor atriz
+
+  Menção especial FEISAL
 * 23º Festival de Málaga / Competencia Zonacine  
   Melhor Filme Iberoamericano da Competencia Zonacine  
   Melhor Interpretação Feminina
