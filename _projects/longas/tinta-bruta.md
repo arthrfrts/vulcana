@@ -10,11 +10,11 @@ video:
 ---
 Brasil, 118 min, DCP, Longa-metragem, 2018
 
-_Direção e roteiro_  
+_Direção e Roteiro_
 Filipe Matzembacher e Marcio Reolon
 
 _Com_
-Shico Menegat, Bruno Fernandes, Guega Peixoto
+Shico Menegat, Bruno Fernandes e Guega Peixoto
 
 _Coprodução_  
 Avante Filmes e Besouro Filmes
