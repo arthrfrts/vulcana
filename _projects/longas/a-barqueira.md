@@ -16,6 +16,7 @@ _Direção e roteiro_
 Sabrina Blanco
 
 _Com_  
+
 Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
 
 _Coprodução_  
