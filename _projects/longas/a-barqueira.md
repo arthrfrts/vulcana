@@ -39,7 +39,8 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 
 * 34º Festival Internacional de Mar del Plata  
   Melhor roteiro  
-* Melhor atriz  
+
+  Melhor atriz  
 
   Menção especial FEISAL
 * 23º Festival de Málaga / Competencia Zonacine  
