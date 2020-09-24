@@ -41,5 +41,5 @@ Galo de Briga Filmes e Abissal
 * 23ª Mostra de Cinema de Tiradentes
 * 48° Festival de Cinema de GramadoMostra Gaúcha de Curtas
   Melhor Ator
-  Melhor Atriz
-  Melhor fotografia
+  Melhor Atriz  
+  Melhor Fotografia
