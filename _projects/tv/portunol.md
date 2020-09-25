@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-70 min - 55 min, 4K, Longa-metragem, 2020
+Brasil, 70 min - 55 min, 4K, Longa-metragem, 2020
 
 _Direção_  
 Thais Fernandes
