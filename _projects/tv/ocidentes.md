@@ -11,16 +11,16 @@ video:
   gif: ''
 
 ---
-Brasil, 4 episódios, HD, 2014
+Brasil, Uma temporada 4 episódios, HD, 2014
 
-_Produção_  
+_Direção_  
+Bruno Polidoro, Carlos Gerbase, Fabiano de Souza, João Gabriel de Queiroz
+
+_Coprodução_  
 Besouro Filmes e Rainer Cine
 
 _Financiamento_  
 FAC 2013 / Histórias do Sul
-
-_Dirigido por_  
-Bruno Polidoro, Carlos Gerbase, Fabiano de Souza, João Gabriel de Queiroz
 
 ***
 
