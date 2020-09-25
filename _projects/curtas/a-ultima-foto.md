@@ -16,6 +16,9 @@ Brasil, 6 min, HD/DCP, 2014
 _Direção e Roteiro_  
 Thais Fernandes
 
+_Com_    
+Eduardo Cardoso Lacerda
+
 _Coprodução_  
 Cena Expandida, Besouro Filmes e Kiko Ferraz Studio
 
