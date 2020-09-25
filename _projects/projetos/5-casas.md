@@ -34,12 +34,9 @@ PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und
 
 ## Labs, mercados e eventos
 
-* VI Brasil CineMundi 2015  
-  Mercado de Co-produção Internacional
+* VI Brasil CineMundi 2015 / Mercado de Co-produção Internacional
 * IDFA Academy 2015
-* Visions Du Réel 2016  
-  Pitching Du Réel
+* Visions Du Réel 2016 / Pitching Du Réel
 * DocMontevideo 2016
-* DOK Leipzig 2016  
-  Co-pro Market
+* DOK Leipzig 2016 / Co-pro Market
 * IDFA Summer School 2017
