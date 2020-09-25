@@ -9,26 +9,24 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
+
 ---
-
 Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
-
-_Com_  
-Carol Martins, Gabriela Greco, Luis Felipe Xavier
 
 _Direção_  
 Bruno Carboni
 
 _Roteiro_  
 Marcela Ilha Bordin e Bruno Carboni
-_Produção_  
-Paola Wink
 
-_Produtoras_  
+_Com_  
+Carol Martins, Gabriela Greco, Luis Felipe Xavier
+
+_Coprodução_  
 Tokyo Filmes e Vulcana Cinema
 
 _Financiamento_  
-Fundo Setorial do Audiovisual, Ancine
+Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
 
 ***
 
