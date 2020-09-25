@@ -17,7 +17,7 @@ _Direção e Roteiro_
 Mirela Kruel
 
 Com  
-Helena Maria Balbinot, Janaina Kremer, Rodrigo Fiatt e Ana Júlia Chiodi Alberti
+Helena Maria Balbinot, Janaina Kremer, Rodrigo Fiatt e Ana Júlia Chiodi Alberti
 
 _Produção_  
 Besouro Filmes
@@ -28,7 +28,8 @@ FUMPROARTE, Edital SEDAC-RS Finalização de longa-metragem
 _Distribuição_  
 Lança Filmes
 
-Onde Assistir: [NETNOW](https://www.nowonline.com.br/filme/o-ultimo-poema/74858)
+_Onde Assistir_  
+[NETNOW](https://www.nowonline.com.br/filme/o-ultimo-poema/74858)
 
 ***
 
@@ -44,9 +45,7 @@ Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspon
   Mostra de Longas Gaúchos
 * 3º Festival Internacional de Cinema de Mulher - CINEFEM – Con una Mirada de Mujer
 
-  ***
+## Labs, Mercados e Eventos
 
- ## Labs, Mercados e Eventos
- 
-  * DocMontevideo 2015  
-    Meetings
+* DocMontevideo 2015  
+  Meetings
