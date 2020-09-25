@@ -11,16 +11,16 @@ original_title: ''
 tags: []
 
 ---
-Brasil, 95min / HD / 2014
+Brasil, 95min, HD, Longa-metragem, 2014
 
-_Escrito e dirigido por_  
+_Direção e Roteiro_  
 Davi Pretto
 
-_Produção_  
-Tokyo Filmes
+_Com_    
+João Carlos Castanha
 
-_Co-Produção_  
-Canal Brasil
+_Coprodução_  
+Tokyo Filmes e Canal Brasil
 
 _Financiamento_  
 FUMPROARTE 2012
@@ -28,11 +28,11 @@ FUMPROARTE 2012
 _Sales e festivais_  
 Figa Films
 
+Onde assistir: Amazon Prime Vídeo
+
 ***
 
 João Carlos Castanha tem 52 anos e é ator. Também trabalha na noite como transformista em baladas gays. Vive com a mãe septuagenária, Celina, no subúrbio de Porto Alegre. Solitário, doente e confuso, aos poucos ele deixa de discernir realidade e ficção.
-
-Disponível no Amazon Prime Video.
 
 ***
 
