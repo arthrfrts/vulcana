@@ -25,6 +25,9 @@ Tokyo Filmes e Canal Brasil
 _Financiamento_  
 FUMPROARTE 2012
 
+_Distribuição_    
+Vitrine Filmes
+
 _Sales e festivais_  
 Figa Films
 
