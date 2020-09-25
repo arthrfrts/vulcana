@@ -16,10 +16,10 @@ Brasil, 20 min, 35mm/HD, 2013
 _Direção e Roteiro_  
 Bruno Gularte Barreto
 
-_Com_    
+_Com_  
 Rafael Régoli e Sandra Dani
 
-Produção    
+_Produção_  
 Besouro Filmes
 
 _Financiamento_  
