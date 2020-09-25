@@ -16,7 +16,7 @@ Brasil, 75 min, HD/DCP, Longa-metragem, 2013
 _Direção_  
 Bruno Polidoro e Cacá Nazario
 
-Roteiro    
+_Roteiro_    
 Bruno Polidoro, Cacá Nazario e Tatiana Nequete
 
 _Produção_    
