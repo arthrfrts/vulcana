@@ -46,6 +46,6 @@ Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspon
 
   ***
 
-  ## Labs, Mercados e Eventos
+ ## Labs, Mercados e Eventos
   * DocMontevideo 2015  
     Meetings
