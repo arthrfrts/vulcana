@@ -13,10 +13,13 @@ tags: []
 ---
 Brasil, 14 mim, HD/DCP, 2015
 
-_Dirigido por_  
+_Direção e Roteiro_  
 Lisi Kieling
 
-_Produção_  
+_Com_    
+Klaus Volkmann
+
+_Coprodução_  
 Cabana Filmes e Besouro Filmes
 
 _Financiamento_  
@@ -33,6 +36,5 @@ Klaus Volkmann é um homem que leva uma vida simples com uma visão positiva do 
 ## Festivais
 
 * É Tudo Verdade 2016
-* XLIV Festival de Cinema de Gramado  
-  Mostra de Curtas Gaúchos  
+* XLIV Festival de Cinema de Gramado / Mostra de Curtas Gaúchos  
   Prêmio Aquisição – RBS TV
