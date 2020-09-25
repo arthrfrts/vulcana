@@ -16,7 +16,7 @@ Brasil, 70 min, HD/DCP, Longa-metragem, 2015
 _Direção e Roteiro_  
 Mirela Kruel
 
-Com    
+Com  
 Helena Maria Balbinot, Janaina Kremer, Rodrigo Fiatt e Ana Júlia Chiodi Alberti
 
 _Produção_  
@@ -44,6 +44,6 @@ Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspon
 
   ***
 
-  ## LABS, MERCADOS E EVENTOS
-* Doc Montevideo 2015  
-  Meetings
+  ## Labs, Mercados e Eventos
+  * DocMontevideo 2015  
+    Meetings
