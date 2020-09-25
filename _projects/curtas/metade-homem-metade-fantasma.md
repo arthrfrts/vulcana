@@ -8,9 +8,10 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
+tags: []
 
 ---
-Brasil, 26min, HD, 2016.
+Brasil, 26min, HD, Curta-metragem 2016.
 
 _Roteiro e Direção_  
 Davi Pretto
