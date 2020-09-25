@@ -17,7 +17,7 @@ _Direção_
 Bruno Carboni
 
 _Roteiro_  
-Bruno Carboni, Marcela Bordin e João Kowacs
+Bruno Carboni, Marcela Ilha Bordin e João Kowacs
 
 _Com_  
 Cosme Rodrigues, Silvana Rodrigues e Francisco Gick
