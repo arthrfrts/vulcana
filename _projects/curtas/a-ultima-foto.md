@@ -13,10 +13,10 @@ video:
 ---
 Brasil, 6 min, HD/DCP, 2014
 
-_Escrito e dirigido por_  
+_Direção e Roteiro_  
 Thais Fernandes
 
-_Produção_  
+_Coprodução_  
 Cena Expandida, Besouro Filmes e Kiko Ferraz Studio
 
 _Financiamento_  
