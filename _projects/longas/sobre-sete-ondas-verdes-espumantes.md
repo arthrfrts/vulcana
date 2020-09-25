@@ -19,7 +19,7 @@ Bruno Polidoro e Cacá Nazario
 Roteiro    
 Bruno Polidoro, Cacá Nazario e Tatiana Nequete
 
-Produção    
+_Produção_    
 Besouro Filmes
 
 _Financiamento_  
