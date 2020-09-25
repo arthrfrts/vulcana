@@ -11,18 +11,24 @@ video:
 tags: []
 
 ---
-Brasil, 75 min, HD/DCP, 2013
+Brasil, 75 min, HD/DCP, Longa-metragem, 2013
 
-_Dirigido por_  
+_Direção_  
 Bruno Polidoro e Cacá Nazario
 
-_Distribuição_  
-Boulevard Filmes
+Roteiro    
+Bruno Polidoro, Cacá Nazario e Tatiana Nequete
+
+Produção    
+Besouro Filmes
 
 _Financiamento_  
 Edital FUMPROARTE
 
-Disponível no Looke e iTunes Store.
+_Distribuição_  
+Boulevard Filmes
+
+Onde Assistir: [Looke](https://www.looke.com.br/filmes/sobre-sete-ondas-verdes-espumantes) e [iTunes Store](https://itunes.apple.com/br/movie/sobre-sete-ondas-verdes-espumantes/id915809710).
 
 ***
 
