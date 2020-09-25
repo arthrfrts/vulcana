@@ -66,19 +66,22 @@ original_title: ''
 tags: []
 
 ---
-Brasil, 4 episódios, HD, 2015
+Brasil, Uma temporada 4 episódios, HD, 2015
 
-_Dirigido por_  
+_Direção_  
 Filipe Matzembacher e Marcio Reolon
 
-_Produção:_  
-Avante Filmes e Besouro Filmes
+_Roteiro_    
+Filipe Matzembacher, Marcio Reolon e Eleonora Loner
 
-_Sales:_  
-Outplay
+_Coprodução_  
+Avante Filmes e Besouro Filmes
 
 _Financiamento:_  
 FAC 2014 / Histórias do Sul
+
+_Sales:_  
+Outplay
 
 ***
 
