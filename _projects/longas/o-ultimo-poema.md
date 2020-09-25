@@ -11,19 +11,22 @@ video:
 tags: []
 
 ---
-Brasil, 70 min, HD/DCP, 2015
+Brasil, 70 min, HD/DCP, Longa-metragem, 2015
 
-_Dirigido por_  
+_Direção e Roteiro_  
 Mirela Kruel
+
+Com    
+Helena Maria Balbinot, Janaina Kremer, Rodrigo Fiatt e Ana Júlia Chiodi Alberti
 
 _Produção_  
 Besouro Filmes
 
-_Distribuição_  
-Lança Filmes
-
 _Financiamento_  
 FUMPROARTE, Edital SEDAC-RS Finalização de longa-metragem
+
+_Distribuição_  
+Lança Filmes
 
 ***
 
@@ -38,5 +41,9 @@ Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspon
 * 44ª Festival de Cinema de Gramado  
   Mostra de Longas Gaúchos
 * 3º Festival Internacional de Cinema de Mulher - CINEFEM – Con una Mirada de Mujer
+
+  ***
+
+  ## LABS, MERCADOS E EVENTOS
 * Doc Montevideo 2015  
   Meetings
