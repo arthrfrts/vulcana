@@ -11,12 +11,12 @@ video:
   gif: ''
 
 ---
-Brasil, 6 min, HD/DCP, 2014
+Brasil, 6 min, HD/DCP, Curta-metragem, 2014
 
 _Direção e Roteiro_  
 Thais Fernandes
 
-_Com_    
+_Com_  
 Eduardo Cardoso Lacerda
 
 _Coprodução_  
