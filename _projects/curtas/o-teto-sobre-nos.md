@@ -11,10 +11,7 @@ video:
 tags: []
 
 ---
-Brasil, 22min, DCP, 2015.
-
-_Com_  
-Cosme Rodrigues, Silvana Rodrigues e Francisco Gick
+Brasil, 22min, DCP, Curta-metragem, 2015
 
 _Direção_  
 Bruno Carboni
@@ -22,8 +19,11 @@ Bruno Carboni
 _Roteiro_  
 Bruno Carboni, Marcela Bordin e João Kowacs
 
+_Com_  
+Cosme Rodrigues, Silvana Rodrigues e Francisco Gick
+
 _Produção_  
-Paola Wink e Davi Pretto
+Tokyo Filmes
 
 _Financiamento_  
 Secretaria de Estado da Cultura e Pró-Cultura RS
