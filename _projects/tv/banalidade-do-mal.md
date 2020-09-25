@@ -11,12 +11,21 @@ video:
   gif: ''
 
 ---
-Brasil, 6 episódios, HD, 2019
+Brasil, Uma temporada com 6 episódios, HD, 2019
 
-_Dirigido por_  
+_Direção_  
 Fabio Canale
 
-_Produção_  
+_Argumento Original_    
+Fabio Canale
+
+_Roteiro_    
+Guilherme S. Zanella
+
+_Com_    
+Jiddu Pinheiro, Aline Jones e Vinicius Ferreira
+
+_Coprodução_  
 Besouro Filmes, Alfredo Soares de Barros, Bonobo Filmes e Galo de Briga Filmes
 
 _Financiamento_  
