@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-Portuñol / 70 min - 55 min / 4K / Longa-metragem / 2020
+70 min - 55 min, 4K, Longa-metragem, 2020
 
 _Direção_  
 Thais Fernandes
@@ -19,13 +19,8 @@ Thais Fernandes
 _Argumento Original_  
 Jessica Luz
 
-_Produção_  
-Fabiano Florez  
-Jessica Luz  
-Mariana Mêmis Müller
-
 _Coprodução_  
-GloboNews, Globo Filmes e Epifania Filmes
+Vulcana Cinema, GloboNews, Globo Filmes e Epifania Filmes
 
 _Financiamento_  
 GloboNews
@@ -42,8 +37,8 @@ Portuñol faz uma viagem através da cultura fronteiriça do Brasil com seus vi
 ## Principais exibições
 
 * 48° Festival de Cinema de Gramado / Mostra Longa-metragem Gaúchos
-* 1º Festival As Amazonas do Cinema    
-  Melhor Filme de Longa-metragem    
+* 1º Festival As Amazonas do Cinema  
+  Melhor Filme de Longa-metragem  
   Prêmio Especial do Júri Longa-metragem
 
 ## Labs, mercados e eventos
