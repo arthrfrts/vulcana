@@ -16,7 +16,7 @@ Brasil, 70 min, HD/DCP, Longa-metragem, 2015
 _Direção e Roteiro_  
 Mirela Kruel
 
-Com  
+_Com_  
 Helena Maria Balbinot, Janaina Kremer, Rodrigo Fiatt e Ana Júlia Chiodi Alberti
 
 _Produção_  
