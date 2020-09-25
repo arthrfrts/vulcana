@@ -11,7 +11,7 @@ video:
 tags: []
 
 ---
-Brasil, 20 min, 35mm/HD, 2013
+Brasil, 20 min, 35mm/HD, Curta-metragem, 2013
 
 _Direção e Roteiro_  
 Bruno Gularte Barreto
