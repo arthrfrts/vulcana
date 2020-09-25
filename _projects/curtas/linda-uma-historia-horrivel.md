@@ -13,8 +13,14 @@ tags: []
 ---
 Brasil, 20 min, 35mm/HD, 2013
 
-_Dirigido por_  
+_Direção e Roteiro_  
 Bruno Gularte Barreto
+
+_Com_    
+Rafael Régoli e Sandra Dani
+
+Produção    
+Besouro Filmes
 
 _Financiamento_  
 Edital Petrobras 2010 para curta-metragem
