@@ -11,10 +11,13 @@ video:
   gif: ''
 
 ---
-Brasil, 13 episódios, HD, 2019
+Brasil, Uma temporada com 13 episódios, HD, 2019
 
-_Dirigido por_  
+_Direção_  
 Thais Fernandes
+
+_Produção_    
+Besouro Filmes
 
 _Financiamento_  
 Edital PRODAV 12/2015
