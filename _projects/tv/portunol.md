@@ -37,6 +37,8 @@ Portuñol faz uma viagem através da cultura fronteiriça do Brasil com seus vi
 ## Principais exibições
 
 * 48° Festival de Cinema de Gramado / Mostra Longa-metragem Gaúchos
+
+  Melhor Longa-Metragem Gaúcho
 * 1º Festival As Amazonas do Cinema  
   Melhor Filme de Longa-metragem  
   Prêmio Especial do Júri Longa-metragem
