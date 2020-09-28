@@ -11,19 +11,19 @@ video:
   gif: ''
 
 ---
-2018 / Filme / Drama
+Brasil, Longa-metragem em desenvolvimento
 
-*Dirigido por*  
+_Direção_  
 Germano de Oliveira
 
-*Escrito por*  
-Germano de Oliveira e Marcela Bordin
+_Roteiro_  
+Germano de Oliveira e Marcela Ilha Bordin
 
-*Financiamento*  
-Edital Plataforma FUMPROARTE 2016
-
-*Produção*  
+_Coprodução_  
 Avante Filmes, Besouro Filmes e Casa de Cinema de Porto Alegre
+
+_Financiamento_  
+Edital Plataforma FUMPROARTE 2016
 
 ***
 
@@ -33,5 +33,5 @@ Numa comunidade isolada, localizada entre morros e névoas, a jovem Ana percebe 
 
 ## Labs e mercados:
 
-- Olhar de Cinema ‘16  
+* Olhar de Cinema ‘16  
   Curitiba_Lab
