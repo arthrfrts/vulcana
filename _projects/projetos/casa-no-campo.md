@@ -11,8 +11,7 @@ video:
   gif: ''
 
 ---
-Brasil, Argentina e França
-Longa-metragem em desenvolvimento
+Brasil/Argentina/França, Longa-metragem em desenvolvimento
 
 _Direção_  
 Davi Pretto
@@ -20,8 +19,8 @@ Davi Pretto
 _Roteiro_  
 Davi Pretto e Igor Verde
 
-_Produção_  
-Paola Wink e Jéssica Luz
+_Coprodução    
+Vulcana Cinema, Tokyo Filmes, Murillo Cine e Dublin Films_
 
 ***
 
@@ -29,7 +28,7 @@ Paola Wink e Jéssica Luz
 
 ## Labs, Mercados e Eventos
 
-- Berlinale Coproduction Market 2020  
+* Berlinale Coproduction Market 2020  
   Mercado de coprodução internacional
-- Brasil Cinemundi 2019  
+* Brasil Cinemundi 2019  
   Mercado de coprodução internacional
