@@ -24,7 +24,7 @@ Secretaria de Estado da Cultura e Pró-Cultura RS
 
 ***
 
-A vida do homem nada mais é que um ponto no tempo
+A vida do homem nada mais é que um ponto no tempo.
 
 ***
 
