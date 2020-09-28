@@ -16,7 +16,7 @@ Brasil, Longa-metragem em desenvolvimento
 _Direção e Roteiro_  
 Caroline Leone
 
-_Coprodução    
+_Coprodução  
 Vulcana Cinema_
 
 _Financiamento_  
