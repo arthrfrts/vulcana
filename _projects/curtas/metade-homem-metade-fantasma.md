@@ -11,25 +11,13 @@ video:
 tags: []
 
 ---
-Brasil, 26min, HD, Curta-metragem 2016.
+Brasil, 26min, HD, Curta-metragem, 2016.
 
-_Roteiro e Direção_  
+_Direção e Roteiro_  
 Davi Pretto
 
 _Produção_  
-Paola Wink
-
-_Direção de Fotografia_  
-Glauco Firpo
-
-_Montagem_  
-Bruno Carboni
-
-_Desenho de Som_  
-Tiago Bello
-
-_Som Direto_  
-Marcos Lopes
+Tokyo Filmes
 
 _Financiamento_  
 Secretaria de Estado da Cultura e Pró-Cultura RS
