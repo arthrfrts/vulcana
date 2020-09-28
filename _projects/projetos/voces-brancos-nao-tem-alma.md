@@ -11,15 +11,15 @@ video:
   gif: ''
 
 ---
-Brasil, 2022
+Brasil, Longa-metragem em desenvolvimento
 
-_Dirigido por_  
+_Direção_  
 Eduardo D. Piotroski
 
-_Escrito por_  
+_Roteiro_  
 Eduardo D. Piotroski e Pedro Paim
 
-_Produção_  
+_Coprodução_  
 Besouro Filmes e Pátio Vazio
 
 _Financiamento_  
