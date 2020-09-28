@@ -20,7 +20,7 @@ _Roteiro_
 Germano de Oliveira e Marcela Ilha Bordin
 
 _Coprodução_  
-Avante Filmes, Besouro Filmes e Casa de Cinema de Porto Alegre
+Avante Filmes, Vulcana Cinema e Casa de Cinema de Porto Alegre
 
 _Financiamento_  
 Edital Plataforma FUMPROARTE 2016
