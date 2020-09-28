@@ -15,8 +15,8 @@ Argentina / Brasil, 75 min, Longa-metragem, HD / DCP, 2019
 _Direção e roteiro_  
 Sabrina Blanco
 
-_Com    
-_Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
+_Com_  
+Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
 
 _Coprodução_  
 Murillo Cine e Vulcana Cinema
