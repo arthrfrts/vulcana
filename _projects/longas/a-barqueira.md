@@ -15,9 +15,8 @@ Argentina / Brasil, 75 min, Longa-metragem, HD / DCP, 2019
 _Direção e roteiro_  
 Sabrina Blanco
 
-_Com_
-
-Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
+_Com    
+_Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
 
 _Coprodução_  
 Murillo Cine e Vulcana Cinema
@@ -40,12 +39,12 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 
 * 34º Festival Internacional de Mar del Plata  
   Melhor roteiro  
-  Melhor atriz    
+  Melhor atriz  
   Menção especial FEISAL
 * 23º Festival de Málaga / Competencia Zonacine  
   Melhor Filme Iberoamericano da Competencia Zonacine  
   Melhor Interpretação Feminina
-* Festival Internacional de las Alturas / Mostra International de Ficção    
+* Festival Internacional de las Alturas / Mostra International de Ficção  
   Melhor Filme Argentino
 * SANFIC16 - Santiago International Film Festival / Diretoras em Foco
 * Construir Cine | Festival Internacional de Cine Sobre el Trabajo
