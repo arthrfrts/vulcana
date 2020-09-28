@@ -24,6 +24,8 @@ Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema e Gógo
 
 ***
 
+O arqueólogo Margot Moreira retorna ao lugar onde nasceu, a zona de exclusão chamada Depressão Central. Lá, o sol nunca para de brilhar.
+
 ***
 
 ## Principais exibições e prêmios
