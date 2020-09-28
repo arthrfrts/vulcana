@@ -21,7 +21,7 @@ _Roteiro_
 Davi Pretto e Igor Verde
 
 _Com_  
-Isabél Zuá, Mauro Soares, Raquel Villar
+Isabél Zuaa, Mauro Soares, Raquel Villar
 
 _Produção_  
 Vulcana Cinema
