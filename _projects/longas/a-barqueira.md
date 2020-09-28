@@ -47,3 +47,5 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
   Melhor Interpretação Feminina
 * Festival Internacional de las Alturas / Mostra International de Ficção    
   Melhor Filme Argentino
+* SANFIC16 - Santiago International Film Festival / Diretoras em Foco
+* Construir Cine | Festival Internacional de Cine Sobre el Trabajo
