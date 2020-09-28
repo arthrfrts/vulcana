@@ -11,13 +11,13 @@ video:
   gif: ''
 
 ---
-Brasil, 2021
+Brasil, Longa-metragem em pós-produção
 
-_Escrito e dirigido por_  
+_Direção e Roteiro_  
 Fran Rebelatto
 
 _Produção_  
-Besouro Filmes
+Vulcana Cinema
 
 _Financiamento_  
 Rumos Itaú Cultural 2018
@@ -37,3 +37,5 @@ Fronteira entre Brasil, Argentina e Paraguai. Por ali, todos os dias, milhares d
 * Taller Andino - Laboratório de desenvolvimento de projeto
 * 51º Festival de Brasília de Cinema Brasileiro  
   2º Ambiente de Mercado
+* FAM2020    
+  WIP
