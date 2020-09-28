@@ -11,14 +11,13 @@ video:
   gif: ''
 
 ---
-Brasil  
-Longa-metragem em desenvolvimento
+Brasil, Longa-metragem em desenvolvimento
 
-_Roteiro e Direção_  
+_Direção e Roteiro_  
 Caroline Leone
 
-_Produção_  
-Paola Wink e Jéssica Luz
+_Coprodução    
+Vulcana Cinema_
 
 _Financiamento_  
 Hubert Bals Development Fund
