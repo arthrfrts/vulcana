@@ -17,7 +17,7 @@ Brasil / Alemanha, 85 min, HD / DCP, Longa-metragem, 2020
 _Direção_  
 Bruno Gularte Barreto
 
-_Roteiro_    
+_Roteiro_  
 Bruno Gularte Barreto e Vicente Moreno
 
 _Coprodução_  
@@ -25,6 +25,9 @@ Besouro Filmes, TAG / TRAUM Filmproduktion e Estranho Produções
 
 _Financiamento_  
 PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und Medien Stiftung, PRODECINE – INOVAÇÃO DE LINGUAGEM – 05/2016
+
+_Distribuição_    
+Lança Filmes
 
 ***
 
