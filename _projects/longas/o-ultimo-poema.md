@@ -28,8 +28,7 @@ FUMPROARTE, Edital SEDAC-RS Finalização de longa-metragem
 _Distribuição_  
 Lança Filmes
 
-_Onde Assistir_  
-[NETNOW](https://www.nowonline.com.br/filme/o-ultimo-poema/74858)
+Onde Assistir: [NETNOW](https://www.nowonline.com.br/filme/o-ultimo-poema/74858)
 
 ***
 
