@@ -27,8 +27,7 @@ Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovis
 _Com_  
 Dione Avila de Oliveira, Evaristo Goulart, Andressa Goulart, Elizabete Nogueira, Livia Goularte, Francisco Fabrício Dutra dos Santos e Sofia Ferreira
 
-_Onde assistir_  
-[NET NOW](https://www.nowonline.com.br/filme/rifle/93719) e [iTunes Store](https://itunes.apple.com/br/movie/rifle/id1364693822?l=en&ign-mpt=uo%3D4).
+_Onde assistir:_ [NET NOW](https://www.nowonline.com.br/filme/rifle/93719) e [iTunes Store](https://itunes.apple.com/br/movie/rifle/id1364693822?l=en&ign-mpt=uo%3D4).
 
 ***
 
