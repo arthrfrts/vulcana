@@ -4,7 +4,7 @@ title: Um Corpo Feminino
 release_year: 2018
 image: "/uploads/images/um-corpo-feminino.jpg"
 original_title: ''
-trailer: https://vimeo.com/118697188
+trailer: https://vimeo.com/283032072
 video:
   mp4: ''
   gif: ''
