@@ -15,7 +15,7 @@ Argentina / Brasil, 75 min, Longa-metragem, HD / DCP, 2019
 _Direção e roteiro_  
 Sabrina Blanco
 
-_Com_  
+_Com_
 
 Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
 
@@ -45,4 +45,5 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 * 23º Festival de Málaga / Competencia Zonacine  
   Melhor Filme Iberoamericano da Competencia Zonacine  
   Melhor Interpretação Feminina
-* Festival Internacional de las Alturas / Mostra International de Ficção
+* Festival Internacional de las Alturas / Mostra International de Ficção    
+  Melhor Filme Argentino
