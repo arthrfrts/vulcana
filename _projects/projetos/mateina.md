@@ -11,21 +11,16 @@ video:
   gif: ''
 
 ---
-Brasil / Uruguai, 80 minutos, HD, Longa-metragem em pós-produção
+Brasil / Uruguai, Longa-metragem em pós-produção
 
-_Dirigido por_  
+_Direção e Roteiro_  
 Joaquín Peñagaricano e Pablo Abdala
 
-_Produção_  
+_Coprodução_  
 Besouro Filmes, Jengibre Producciones e Coelho Voador
 
 _Financiamento_  
-Edital ANCINE/ICAU 2016  
-ICAU Fundo de desenvolvimento  
-Montevideo Socioaudiovisual / Desenvolvimento  
-Fundo ICAU 2014 de Produção  
-FONA  
-Montevideo Socioaudiovisual / Opera-prima
+Edital ANCINE/ICAU 2016, ICAU Fundo de desenvolvimento, Montevideo Socioaudiovisual / Desenvolvimento, Fundo ICAU 2014 de Produção, FONA, Montevideo Socioaudiovisual / Opera-prima
 
 ***
 
