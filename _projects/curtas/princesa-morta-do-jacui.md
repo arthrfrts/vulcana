@@ -13,7 +13,7 @@ tags: []
 ---
 Brasil, 17min, DCP, Curta-metragem, 2018.
 
-_Roteiro e Direção_  
+_Direção e Roteiro_  
 Marcela Ilha Bordin
 
 _Com_  
