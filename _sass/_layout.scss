@@ -292,6 +292,14 @@ body {
     }
   }
   
+  &:not(.featured-project) {
+    .project-media .media-container {
+      height: 380px;
+    }
+  }
+  
+  
+  
   .project-card-content {
     position: absolute;
     top: 0;

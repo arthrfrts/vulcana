@@ -1,12 +1,12 @@
 {%- if page.image or page.video -%}
   <figure class="page-cover">
     {%- if page.video.mp4 and page.video.mp4 != "" -%}
-      <video class="media-container" autoplay muted playsinline loop poster="{{- page.video.gif | default: page.image -}}">
+      <video loading="eager" class="media-container" autoplay muted playsinline loop poster="{{- page.video.gif | default: page.image -}}">
         <source type="video/mp4" src="{{- page.video.mp4 | default: page.video -}}" />
         <img src="{{- page.video.gif | default: page.image -}}" role="presentation" />
       </video>
     {%- else -%}
-      <img class="media-container" src="{{- page.image.path | default: page.image -}}" role="presentation" alt="{{- page.image.alt | default: '' -}}" />
+      <img loading="eager" class="media-container" src="{{- page.image.path | default: page.image -}}" role="presentation" alt="{{- page.image.alt | default: '' -}}" />
     {%- endif -%}
   </figure>
 {%- endif -%}
