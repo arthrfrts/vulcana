@@ -46,5 +46,11 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
   Melhor Interpretação Feminina
 * Festival Internacional de las Alturas / Mostra International de Ficção  
   Melhor Filme Argentino
+* Mafici Festival - Festival Internacional de Cine de Puerto Madryn /  Competencia Oficial Operas Primas    
+  SAGAI - Prêmio Patacón de Melhor Ator para Sergio Prina    
+  Melhor Atuação para Nicole Rivadero    
+  Prêmio ADF de Melhor Fotografia    
+  Associação Argentina de Atores - Prêmio Carlos Carella para Nicole Rivadero    
+  Prêmio AADA - Melhor Direção de Arte
 * SANFIC16 - Santiago International Film Festival / Diretoras em Foco
 * Construir Cine | Festival Internacional de Cine Sobre el Trabajo
