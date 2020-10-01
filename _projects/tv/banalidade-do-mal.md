@@ -4,7 +4,7 @@ title: Banalidade do Mal
 release_year: 2020
 image: "/uploads/images/banalidade-do-mal.jpg"
 tags: []
-trailer: https://vimeo.com/463894413/76b307336a
+trailer: https://vimeo.com/463894413
 original_title: ''
 video:
   mp4: ''
