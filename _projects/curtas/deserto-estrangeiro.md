@@ -44,3 +44,4 @@ Galo de Briga Filmes e Abissal
   Melhor Roteiro  
   Melhor Fotografia
 * 31° Festival Internacional de Curta-Metragens de São Paulo
+* Diálogo de Cinema. Festival de curtas-metragens de Porto Alegre / Mostra Cercanias
