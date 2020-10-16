@@ -16,7 +16,7 @@ Brasil, Uma temporada com 13 episódios, HD, 2019
 _Direção_  
 Thais Fernandes
 
-_Produção_    
+_Produção_  
 Besouro Filmes
 
 _Financiamento_  
@@ -35,3 +35,4 @@ Afinal, quem é Deus? é uma série documental que pretende explorar a visão da
 
 * DocMontevideo 2019
 * Finalista do PRIX JEUNESSE INTERNACIONAL 2020
+* 18º Festival Internacional de Cinema Infantil (FICI) / Melhores das Telinhas
