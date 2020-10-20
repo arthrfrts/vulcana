@@ -10,32 +10,32 @@ video:
 tags: featured
 
 ---
-Brasil / Alemanha, 85 min, HD / DCP, Longa-metragem, 2020
+Brazil / Germany, 85 min, HD / DCP, Feature Documentary, 2020
 
-_Direção_  
+_Directed by_  
 Bruno Gularte Barreto
 
-_Roteiro_  
+_Writen by_  
 Bruno Gularte Barreto e Vicente Moreno
 
-_Coprodução_  
+_Coproduction_  
 Besouro Filmes, TAG / TRAUM Filmproduktion e Estranho Produções
 
-_Financiamento_  
+_Financing_  
 PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und Medien Stiftung, PRODECINE – INOVAÇÃO DE LINGUAGEM – 05/2016
 
-_Distribuição_  
+_Distribuition Brazil_  
 Lança Filmes
 
 ***
 
-5 Casas e as pessoas que as habitam. Uma velha professora de francês, um jovem homossexual, um homem que vive em uma fazenda isolada, um grupo de freiras que conduzem uma escola e um menino cujos pais morreram 20 anos atrás.
+5 HOUSES and 5 interconnected stories. An old teacher struggling to keep her home, a young man bullied for being gay, a nun expelled from the school she used to run, an old farmhand in a haunted farm and a boy whose parents died 20 years ago.
 
 ***
 
-## Labs, mercados e eventos
+## Labs, markets and events
 
-* VI Brasil CineMundi 2015 / Mercado de Co-produção Internacional
+* VI Brasil CineMundi 2015 / International Coproduction Market
 * IDFA Academy 2015
 * Visions Du Réel 2016 / Pitching Du Réel
 * DocMontevideo 2016
