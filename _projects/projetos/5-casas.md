@@ -21,12 +21,12 @@ _Roteiro_
 Bruno Gularte Barreto e Vicente Moreno
 
 _Coprodução_  
-Besouro Filmes, TAG / TRAUM Filmproduktion e Estranho Produções
+Vulcana Cinema, TAG / TRAUM Filmproduktion e Estranho Produções
 
 _Financiamento_  
 PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und Medien Stiftung, PRODECINE – INOVAÇÃO DE LINGUAGEM – 05/2016
 
-_Distribuição_    
+_Distribuição_  
 Lança Filmes
 
 ***
