@@ -32,6 +32,8 @@ Lança Filmes
 5 HOUSES and 5 interconnected stories. An old teacher struggling to keep her home, a young man bullied for being gay, a nun expelled from the school she used to run, an old farmhand in a haunted farm and a boy whose parents died 20 years ago.
 
 ***
+## Exhibitions
+* IDFA - International Documentary Film Festival Amsterdam / First Appearence Competition
 
 ## Labs, markets and events
 
