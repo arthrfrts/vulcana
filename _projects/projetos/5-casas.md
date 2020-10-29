@@ -36,7 +36,7 @@ Lança Filmes
 ***
 ## Principais Exibições
 
-* IDFA - Festival Internacional de Documentários de Amsterdã / Competição Fist Appearence
+* IDFA - Festival Internacional de Documentários de Amsterdã / Competição First Appearence
 
 ## Labs, mercados e eventos
 
