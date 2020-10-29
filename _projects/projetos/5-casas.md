@@ -34,6 +34,9 @@ Lança Filmes
 5 Casas e as pessoas que as habitam. Uma velha professora de francês, um jovem homossexual, um homem que vive em uma fazenda isolada, um grupo de freiras que conduzem uma escola e um menino cujos pais morreram 20 anos atrás.
 
 ***
+## Principais Exibições
+
+* IDFA - Festival Internacional de Documentários de Amsterdã / Competição Fist Appearence
 
 ## Labs, mercados e eventos
 
