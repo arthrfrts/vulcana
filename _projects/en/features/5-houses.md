@@ -8,7 +8,6 @@ video:
   mp4: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy.mp4"
   gif: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy-downsized.gif"
 tags: featured
-
 ---
 Brazil / Germany, 85 min, HD / DCP, Feature Documentary, 2020
 

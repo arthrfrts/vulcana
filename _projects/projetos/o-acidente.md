@@ -9,7 +9,7 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
-
+tags: featured
 ---
 Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
 

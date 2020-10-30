@@ -7,8 +7,6 @@ trailer: https://vimeo.com/368842691
 image: "/uploads/images/la-botera.jpg"
 video:
   mp4: https://i.giphy.com/media/SRkDCZKknlFppe7muG/source.mp4
-tags: featured
-
 ---
 Argentina / Brasil, 75 min, Longa-metragem, HD / DCP, 2019
 
