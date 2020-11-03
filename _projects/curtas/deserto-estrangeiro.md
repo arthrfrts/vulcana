@@ -44,5 +44,7 @@ Galo de Briga Filmes e Abissal
   Melhor Roteiro  
   Melhor Fotografia
 * 31° Festival Internacional de Curta-Metragens de São Paulo
-* Diálogo de Cinema. Festival de curtas-metragens de Porto Alegre / Mostra Cercanias.    
+* Diálogo de Cinema. Festival de curtas-metragens de Porto Alegre / Mostra Cercanias.  
   Prêmio Zinematógrafo
+* Festival Curta Cinema 2020 – Festival Internacional de Curtas do Rio de Janeiro / Mostra Competitiva Nacional
+* 22º Festival Kinoarte de Cinema
