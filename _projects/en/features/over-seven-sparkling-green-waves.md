@@ -33,12 +33,8 @@ Santiago, Amsterdam, Berlin, Cologne, Paris, London, Porto Alegre, Sao Paulo. Th
 
 ## Labs, Markets and Events
 
-* * **É Tudo Verdade / It's All True Film Festival** 2013
-
-  \* XLI **Gramado Film Festival**
-
-  \* **Festival Iberoamericano de Cinema do Sergipe** 2013
-
-  \* **CLOSE – Festival Nacional de Cinema da Diversidade Sexual** 2013
-
-  \* III **Festival Internacional de Cinema da Fronteira**
+* É Tudo Verdade / It's All True Film Festival 2013
+* XLI Gramado Film Festival
+* Festival Iberoamericano de Cinema do Sergipe 2013
+* CLOSE – Festival Nacional de Cinema da Diversidade Sexual 2013
+* III Festival Internacional de Cinema da Fronteira
