@@ -41,7 +41,7 @@ In a poor neighborhood crisscrossed by a polluted river, Tati, a girl of 14 year
 * 23º Málaga Film Festival /  Zonacine Competition  
   Best Iberoamericano Film in Zonacine Competition  
   Best Female Performance
-* FLas Alturas International Film Festival / International Competition Fiction  
+* Las Alturas International Film Festival / International Competition Fiction  
   Best Argentinian Film
 * Mafici Festival - Cine de Puerto Madryn International Film Festival /  Official Competition for First Features  
   SAGAI - Patacón Award to Sergio Prina for Best Actor  
