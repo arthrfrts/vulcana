@@ -47,9 +47,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * 33° Lovers Film Festival - Torino Lgbtqi Visions / Best Feature Film by the Official Jury / Best Film by the Young Jury (Ottavio Mai Award)
 * Sydney Film Festival
 
-  ***
-
-  ## Labs, Markets and Events
+ ## Labs, Markets and Events
 * LXVI Berlinale / Talent Project Market
 * XXVII Rencontres de Toulouse / Cinéma en Développement 10
 * VI Brasil CineMundi / International Coproduction Meeting
