@@ -18,7 +18,7 @@ _With_
 Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
 
 _Coproduction_  
-Murillo Cine (AR) e Vulcana Cinema (BR)
+Murillo Cine (AR) and Vulcana Cinema (BR)
 
 _Financing_  
 INCAA, ANCINE, Programa Ibermedia, Mecenazgo Cultural
