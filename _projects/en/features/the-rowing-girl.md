@@ -41,14 +41,14 @@ In a poor neighborhood crisscrossed by a polluted river, Tati, a girl of 14 year
 * 23º Málaga Film Festival /  Zonacine Competition  
   Best Iberoamericano Film in Zonacine Competition  
   Best Female Performance
-* Festival Internacional de las Alturas / Mostra International de Ficção  
-  Melhor Filme Argentino
-* Mafici Festival - Festival Internacional de Cine de Puerto Madryn /  Competencia Oficial Operas Primas  
-  SAGAI - Prêmio Patacón de Melhor Ator para Sergio Prina  
-  Melhor Atuação para Nicole Rivadero  
-  Prêmio ADF de Melhor Fotografia  
-  Associação Argentina de Atores - Prêmio Carlos Carella para Nicole Rivadero  
-  Prêmio AADA - Melhor Direção de Arte
+* FLas Alturas International Film Festival / International Competition Fiction  
+  Best Argentinian Film
+* Mafici Festival - Cine de Puerto Madryn International Film Festival /  Official Competition for First Features  
+  SAGAI - Patacón Award to Sergio Prina for Best Actor  
+  Best Acting for Nicole Rivadero  
+  ADF  Award for Best Cinematography  
+  Argentinian Actors Association - Carlos Carella Award to Nicole Rivadero  
+  AADA Award - Best Production Design
 * SANFIC16 - Santiago International Film Festival / Diretoras em Foco
 * Construir Cine | Festival Internacional de Cine Sobre el Trabajo
 * 16FestiFreak - Festival Internacional de Cine Independiente de La Plata / Competencia de Largometrajes Argentinos
