@@ -54,8 +54,8 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 
   ***
 
-  ## Principais Exibições
+  ## Labs, Mercados e Eventos
   * LXVI Festival Internacional de Cinema de Berlim / Talent Project Market
-  * XXVII Rencontres de Toulouse / XXVII Rencontres de Toulouse / Cinéma en Développement 10
+  * XXVII Rencontres de Toulouse / Cinéma en Développement 10
   * VI Brasil CineMundi / International Coproduction Meeting
   * I PlataformaLAB
