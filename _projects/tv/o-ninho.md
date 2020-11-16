@@ -89,7 +89,7 @@ Bruno está procurando por seu irmão, mas acaba encontrando uma nova família.
 
 ***
 
-## Festivais
+## Principais Exibições
 
 * II Telas – Festival Internacional de Televisão de São Paulo  
   Novos Talentos e Ousadia Temática / Menção Honrosa
