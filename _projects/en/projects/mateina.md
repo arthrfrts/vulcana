@@ -7,8 +7,11 @@ release_year: 2020
 ---
 Brazil / Uruguay, Feature in post production
 
-_Directed and written by_  
+_Directed by_  
 Joaquín Peñagaricano e Pablo Abdala
+
+_Written by_  
+Joaquín Peñagaricano
 
 _Coproduction_  
 Besouro Filmes, Jengibre Producciones e Coelho Voador
