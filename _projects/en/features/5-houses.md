@@ -8,6 +8,7 @@ video:
   mp4: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy.mp4"
   gif: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy-downsized.gif"
 tags: featured
+
 ---
 Brazil / Germany, 85 min, HD / DCP, Feature Documentary, 2020
 
@@ -23,7 +24,7 @@ Vulcana Cinema, TAG / TRAUM Filmproduktion and Estranho Produções
 _Financing_  
 PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und Medien Stiftung, PRODECINE – INOVAÇÃO DE LINGUAGEM – 05/2016
 
-_Distribuition Brazil_  
+_Distribution Brazil_  
 Lança Filmes
 
 ***
