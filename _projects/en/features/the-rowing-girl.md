@@ -32,7 +32,7 @@ In a poor neighborhood crisscrossed by a polluted river, Tati, a girl of 14 year
 
 ***
 
-## Principais Exibições
+## Main Exhibitions
 
 * 34º Mar del Plata International Film Festival  
   Best Script  
