@@ -11,13 +11,13 @@ video:
 Brasil, 118 min, DCP, Longa-metragem, 2018
 
 _Directed and written by_  
-Filipe Matzembacher e Marcio Reolon
+Filipe Matzembacher and Marcio Reolon
 
 _With_  
-Shico Menegat, Bruno Fernandes e Guega Peixoto.
+Shico Menegat, Bruno Fernandes and Guega Peixoto.
 
 _Coproduction_  
-Avante Filmes e Besouro Filmes
+Avante Filmes and Besouro Filmes
 
 _Financing_  
 Hubert Bals Fund 2014 / Desenvolvimento, MinC B.O. 2015
