@@ -23,7 +23,7 @@ Murillo Cine (AR) and Vulcana Cinema (BR)
 _Financing_  
 INCAA, ANCINE, Programa Ibermedia, Mecenazgo Cultural
 
-_Distribuition BR_  
+_Distribution BR_  
 Zeta Filmes
 
 ***
