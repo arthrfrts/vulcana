@@ -80,7 +80,7 @@ Avante Filmes e Besouro Filmes
 _Financiamento_  
 FAC 2014 / Histórias do Sul
 
-_Sales:_  
+_Sales_  
 Outplay
 
 ***
