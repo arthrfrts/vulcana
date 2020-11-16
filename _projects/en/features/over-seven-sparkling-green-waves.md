@@ -4,6 +4,7 @@ title: Over Seven Sparkling Green Waves
 original_title: Sobre Sete Ondas Verdes Espumantes
 release_year: 2013
 image: "/uploads/images/sobre-sete-ondas-verdes-espumantes.jpg"
+trailer: https://vimeo.com/75024438
 
 ---
 Brazil, 75 min, HD/DCP, Feature, 2013
