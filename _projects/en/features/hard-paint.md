@@ -8,7 +8,7 @@ video:
   mp4: https://i.giphy.com/media/UoMK6XjMeSJCgvCSFy/source.mp4
 
 ---
-Brasil, 118 min, DCP, Longa-metragem, 2018
+Brazil, 118 min, DCP, Longa-metragem, 2018
 
 _Directed and written by_  
 Filipe Matzembacher and Marcio Reolon
@@ -38,7 +38,7 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * Rio Film Fest / Brazil Premiere: Feature Competition / Best Movie / Best Screenplay / Best Actor / Best Supporting Actor
 * FRAMELINE42
 * 42º SIFF - Seattle International Film Festival
-* 42ª São Paulo International Film Festival** / Session Mostra Brasil
+* 42ª São Paulo International Film Festival / Session Mostra Brasil
 * 26th Mix Brasil Festival of Diversity / Official Selection
 * 54th Chicago International Film Festival / Out-Look Competition / Special mention
 * BFI Flare
@@ -47,8 +47,8 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 * 33° Lovers Film Festival - Torino Lgbtqi Visions / Best Feature Film by the Official Jury / Best Film by the Young Jury (Ottavio Mai Award)
 * Sydney Film Festival
 
- ## Labs, Markets and Events
- 
+## Labs, Markets and Events
+
 * LXVI Berlinale / Talent Project Market
 * XXVII Rencontres de Toulouse / Cinéma en Développement 10
 * VI Brasil CineMundi / International Coproduction Meeting
