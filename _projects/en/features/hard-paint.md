@@ -51,6 +51,6 @@ While facing criminal charges, Pedro must grapple with his sister’s sudden dec
 
   ## Labs, Markets and Events
 * LXVI Berlinale / Talent Project Market
-* XXVII Rencontres de Toulouse / Cinéma en Développement10
+* XXVII Rencontres de Toulouse / Cinéma en Développement 10
 * VI Brasil CineMundi / International Coproduction Meeting
 * I Plataforma:LAB
