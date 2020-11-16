@@ -20,7 +20,7 @@ Besouro Filmes
 _Financing_  
 Edital FUMPROARTE
 
-_Distribuition_  
+_Distribution_  
 Boulevard Filmes
 
 ***
