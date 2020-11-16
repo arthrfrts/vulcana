@@ -51,3 +51,11 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * OUTshine Film Festival / Prêmio Best Narrative - Runner Up
 * 33° Lovers Film Festival - Torino Lgbtqi Visions / Melhor Ficção pelo Júri Oficial / Melhor Filme pelo Júri Jovem (Prêmio Ottavio Mai)
 * Festival de Cinema de Sydney
+
+  ***
+
+  ## Principais Exibições
+  * LXVI Festival Internacional de Cinema de Berlim / Talent Project Market
+  * XXVII Rencontres de Toulouse / XXVII Rencontres de Toulouse / Cinéma en Développement 10
+  * VI Brasil CineMundi / International Coproduction Meeting
+  * I PlataformaLAB
