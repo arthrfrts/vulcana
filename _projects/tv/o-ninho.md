@@ -71,13 +71,13 @@ Brasil, Uma temporada 4 episódios, HD, 2015
 _Direção_  
 Filipe Matzembacher e Marcio Reolon
 
-_Roteiro_    
+_Roteiro_  
 Filipe Matzembacher, Marcio Reolon e Eleonora Loner
 
 _Coprodução_  
 Avante Filmes e Besouro Filmes
 
-_Financiamento:_  
+_Financiamento_  
 FAC 2014 / Histórias do Sul
 
 _Sales:_  
