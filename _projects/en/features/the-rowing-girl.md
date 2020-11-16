@@ -11,7 +11,7 @@ video:
 ---
 Argentina / Brazil, 75 min, Feature, HD / DCP, 2019
 
-_Direção e roteiro_  
+_Directed and written by_  
 Sabrina Blanco
 
 _With_  
