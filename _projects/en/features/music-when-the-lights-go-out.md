@@ -33,7 +33,7 @@ Music when the lights go out is a documentary floating on this thin border betwe
 
 ## Main Exhibitions
 
-* 50ª Festival de Brasília do Cinema Brasileiro / Official selection /  Special Jury Award: Best social actress for Emelyn Fischer 
+* 50ª Festival de Brasília do Cinema Brasileiro / Official selection /  Special Jury Award: Best social actress for Emelyn Fischer
 * 25th Mix Brasil Festival of Diversity / Official Selection
 * XIII Panorama Internacional Coisa de Cinema / Official Selection / Honorable mention for the innovative language
 * 41ª São Paulo International Film Festival / Official Selection
@@ -41,13 +41,13 @@ Music when the lights go out is a documentary floating on this thin border betwe
 * FOR RAINBOW - Film Festival of Culture of Sexual Diversity / Official Selection / Critic Award for Feature Film / Elke Maravilha Award for Best Cinematography
 * 8ª Mostra de Audiovisual de Petrópolis
 * 49th Visions du Réel International Film Festival / Burning Lights Competition / Jury Prize of the Hoteliers of La Côte for The most innovative film of the Burning Lights Competition
-* 25° Sheffield Doc/Fest / Competição Art Doc Award / Art Doc Award 
+* 25° Sheffield Doc/Fest / Competição Art Doc Award / Art Doc Award
 * Amor - Festival Internacional de Cinema LGBT+ / International Competition
 * Verão in New York: A Summer of Brazilian Cinema /  LGBTQ Brazil
 * DokuFest - International Documentary and Short Film Festival / Selection Between my Fingers and the World's Flesh
 * 46ª Festival de Cinema de Gramado
 * Festival FILMAR en América Latina
-* Cine Esquema Novo** – Arte Audiovisual Brasileira 2018
+* Cine Esquema Novo – Arte Audiovisual Brasileira 2018
 
 ## Main Exhibitions
 
