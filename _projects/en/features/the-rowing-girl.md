@@ -49,7 +49,7 @@ In a poor neighborhood crisscrossed by a polluted river, Tati, a girl of 14 year
   ADF  Award for Best Cinematography  
   Argentinian Actors Association - Carlos Carella Award to Nicole Rivadero  
   AADA Award - Best Production Design
-* SANFIC16 - Santiago International Film Festival / Diretoras em Foco
-* Construir Cine | Festival Internacional de Cine Sobre el Trabajo
-* 16FestiFreak - Festival Internacional de Cine Independiente de La Plata / Competencia de Largometrajes Argentinos
+* SANFIC16 - Santiago International Film Festival
+* Construir Cine | Sobre el Trabajo International Film Festival
+* 16FestiFreak - La Plata Independent International Film Festival / Argentinian Features
 * Indie Festival 2020
