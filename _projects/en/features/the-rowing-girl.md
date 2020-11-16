@@ -34,13 +34,13 @@ In a poor neighborhood crisscrossed by a polluted river, Tati, a girl of 14 year
 
 ## Principais Exibições
 
-* 34º Festival Internacional de Mar del Plata  
-  Melhor roteiro  
-  Melhor atriz  
-  Menção especial FEISAL
-* 23º Festival de Málaga / Competencia Zonacine  
-  Melhor Filme Iberoamericano da Competencia Zonacine  
-  Melhor Interpretação Feminina
+* 34º Mar del Plata International Film Festival  
+  Best Script  
+  Best Actress  
+  Honorable Mention FEISAL
+* 23º Málaga Film Festival /  Zonacine Competition  
+  Best Iberoamericano Film in Zonacine Competition  
+  Best Female Performance
 * Festival Internacional de las Alturas / Mostra International de Ficção  
   Melhor Filme Argentino
 * Mafici Festival - Festival Internacional de Cine de Puerto Madryn /  Competencia Oficial Operas Primas  
