@@ -7,6 +7,7 @@ trailer: https://vimeo.com/368842691
 image: "/uploads/images/la-botera.jpg"
 video:
   mp4: https://i.giphy.com/media/SRkDCZKknlFppe7muG/source.mp4
+
 ---
 Argentina / Brasil, 75 min, Longa-metragem, HD / DCP, 2019
 
@@ -53,3 +54,4 @@ Ganhador do Concurso de Desenvolvimento  Raymundo Gleyzer 2015; selecionado para
 * SANFIC16 - Santiago International Film Festival / Diretoras em Foco
 * Construir Cine | Festival Internacional de Cine Sobre el Trabajo
 * 16FestiFreak - Festival Internacional de Cine Independiente de La Plata / Competencia de Largometrajes Argentinos
+* Indie Festival 2020
