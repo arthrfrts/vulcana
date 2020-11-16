@@ -6,6 +6,7 @@ release_year: 2017
 image: "/uploads/images/musica-para-quando-as-luzes-se-apagam.jpg"
 tags:
 - Longas
+trailer: https://vimeo.com/271128595
 
 ---
 Brazil, 70 min, DCP, Feature, 2017
