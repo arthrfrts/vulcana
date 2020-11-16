@@ -19,7 +19,7 @@ _Writen by_
 Bruno Gularte Barreto and Vicente Moreno
 
 _Coproduction_  
-Vulcana Cinema, TAG / TRAUM Filmproduktion and Estranho Produções
+Vulcana Cinema (BR), TAG / TRAUM Filmproduktion (DE) and Estranho Produções (BR)
 
 _Financing_  
 PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und Medien Stiftung, PRODECINE – INOVAÇÃO DE LINGUAGEM – 05/2016
