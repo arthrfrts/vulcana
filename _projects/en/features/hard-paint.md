@@ -6,6 +6,7 @@ release_year: 2018
 image: "/uploads/images/tinta-bruta.jpg"
 video:
   mp4: https://i.giphy.com/media/UoMK6XjMeSJCgvCSFy/source.mp4
+trailer: https://www.youtube.com/watch?v=PdfvZgAC_28
 
 ---
 Brazil, 118 min, DCP, Longa-metragem, 2018
