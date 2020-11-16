@@ -9,10 +9,10 @@ image: "/uploads/images/sobre-sete-ondas-verdes-espumantes.jpg"
 Brazil, 75 min, HD/DCP, Feature, 2013
 
 _Directed by_  
-Bruno Polidoro e Cacá Nazario
+Bruno Polidoro and Cacá Nazario
 
 _Written by_  
-Bruno Polidoro, Cacá Nazario e Tatiana Nequete
+Bruno Polidoro, Cacá Nazario and Tatiana Nequete
 
 _Production_  
 Besouro Filmes
