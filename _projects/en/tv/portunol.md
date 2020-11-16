@@ -29,11 +29,11 @@ Portuñol dives in the culture of the border areas between Brazil and its neighb
 
 ## Main Exhibitions
 
-* 48° Festival de Cinema de Gramado / Mostra Longa-metragem Gaúchos  
-  Melhor Longa-Metragem Gaúcho
+* 48° Gramado Film Festival / Regional Features  
+  Best Regional Feature Film
 * 1º Festival As Amazonas do Cinema  
-  Melhor Filme de Longa-metragem  
-  Prêmio Especial do Júri Longa-metragem
+  Best Feature Film  
+  Jury Special Award
 
 ## Labs, Markets and Events
 
