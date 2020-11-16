@@ -51,5 +51,5 @@ Music when the lights go out is a documentary floating on this thin border betwe
 
 ## Main Exhibitions
 
-* DocSP** 2016 / Rough Cut Lab
-* Plataforma:LAB** 2016
+* DocSP 2016 / Rough Cut Lab
+* Plataforma:LAB 2016
