@@ -23,11 +23,11 @@ Lança Filmes
 
 ***
 
-Portuñol faz uma viagem através da cultura fronteiriça do Brasil com seus vizinhos hispanohablantes. O portuñol, essa língua que nasce da intersecção de culturas, é pretexto para falar da gênese da América Latina. Um filme de estrada que no trajeto vai desfazendo limites físicos e desvendando a latinidade que une personagens diversos. Uma viagem de desconstrução que não busca uma resposta, mas sim romper todas as possíveis certezas do que significa existir nas bordas de definições culturais.
+Portuñol dives in the culture of the border areas between Brazil and its neighbors Uruguay, Argentina, Paraguay, Bolivia, Colombia, Peru and Venezuela. The portuñol, a language born from the intersection of cultures, is a pretext to speak about the genesis of Latin America. A journey that goes from the south to the north of the country, undoing physical limits and unveiling the Latinicity that unites different characters. A deconstructing path that does not seek an answer, but rather to break all possible certainties of what it means to exist at the edges of cultural definitions.
 
 ***
 
-## Principais exibições
+## Main Exhibitions
 
 * 48° Festival de Cinema de Gramado / Mostra Longa-metragem Gaúchos  
   Melhor Longa-Metragem Gaúcho
@@ -35,6 +35,6 @@ Portuñol faz uma viagem através da cultura fronteiriça do Brasil com seus vi
   Melhor Filme de Longa-metragem  
   Prêmio Especial do Júri Longa-metragem
 
-## Labs, mercados e eventos
+## Labs, Markets and Events
 
-* XIV Panorama Internacional Coisa de Cinema / PanLAB - Laboratório de Montagem
+* XIV Panorama Internacional Coisa de Cinema / PanLAB - Editing Laboratory
