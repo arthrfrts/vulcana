@@ -16,10 +16,10 @@ Brasil, 75 min, HD/DCP, Longa-metragem, 2013
 _Direção_  
 Bruno Polidoro e Cacá Nazario
 
-_Roteiro_    
+_Roteiro_  
 Bruno Polidoro, Cacá Nazario e Tatiana Nequete
 
-_Produção_    
+_Produção_  
 Besouro Filmes
 
 _Financiamento_  
@@ -38,7 +38,7 @@ Santiago, Amsterdã, Berlim, Colônia, Paris, Londres, Porto Alegre, São Paulo.
 
 ***
 
-## Festivais
+## Principais Exibições
 
 * É Tudo Verdade 2013
 * XLI Festival de Cinema de Gramado
