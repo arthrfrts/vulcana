@@ -72,7 +72,7 @@ _Written by_
 Filipe Matzembacher, Marcio Reolon and Eleonora Loner
 
 _Coproduction_  
-Avante Filmes e Besouro Filmes
+Avante Filmes and Besouro Filmes
 
 _Financing_  
 FAC 2014 / Histórias do Sul
@@ -89,7 +89,7 @@ Bruno, a young military who has just run away from the army, travels to Porto Al
 ## Main Exhibitions
 
 * Telas – São Paulo International TV Festival New Talents and Thematic Daring / Honorable Mention
-* OutFest LA 2016 /International Narrative.   
+* OutFest LA 2016 /International Narrative.  
   Honorable Mention
 * Kaleidoscope Arkansas International Film Festival 2016
 * InsideOut Toronto LGBT Film Festival 2016
