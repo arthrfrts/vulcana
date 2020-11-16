@@ -20,7 +20,7 @@ Besouro Filmes
 _Financing_  
 FUMPROARTE, Edital SEDAC-RS Finalização de longa-metragem
 
-_Distribuition_  
+_Distribution_  
 Lança Filmes
 
 ***
@@ -31,12 +31,12 @@ Helena Maria Balbinot, a countryside teacher from the south of Brazil, exchanged
 
 ## Main Exhibitions
 
-* Festival de Cine de Bogotá 2015.   
-  Best Art Documentary 
+* Festival de Cine de Bogotá 2015.  
+  Best Art Documentary
 * 44ª Gramado Film Festival
 * 3º Women International Film Festival - CINEFEM – Con una Mirada de Mujer
 
 ## Labs, Markets and Events
 
-* Doc Montevideo 2015.   
+* Doc Montevideo 2015.  
   Meetings
