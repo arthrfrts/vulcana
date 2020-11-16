@@ -61,7 +61,6 @@ video:
   '54': '4'
   gif: "/uploads/2020/04/o-ninho.gif"
 trailer: https://vimeo.com/148541526
-published: false
 
 ---
 Brazil, One season 4 episodes, HD, 2015
