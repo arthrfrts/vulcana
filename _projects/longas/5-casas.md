@@ -9,7 +9,7 @@ video:
 tags:
 - featured
 original_title: ''
-trailer: ''
+trailer: https://vimeo.com/vulcanacinema/5trailer
 
 ---
 Brasil / Alemanha, 85 min, HD / DCP, Longa-metragem, 2020
