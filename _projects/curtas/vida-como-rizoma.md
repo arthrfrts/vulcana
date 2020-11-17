@@ -16,7 +16,7 @@ Brasil, 14 mim, HD/DCP, 2015
 _Direção e Roteiro_  
 Lisi Kieling
 
-_Com_    
+_Com_  
 Klaus Volkmann
 
 _Coprodução_  
@@ -33,7 +33,7 @@ Klaus Volkmann é um homem que leva uma vida simples com uma visão positiva do 
 
 ***
 
-## Festivais
+## Principais Exibições
 
 * É Tudo Verdade 2016
 * XLIV Festival de Cinema de Gramado / Mostra de Curtas Gaúchos  
