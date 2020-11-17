@@ -36,4 +36,4 @@ Eduardo é um adolescente que vive intensamente a realidade excessivamente docum
 * 16° Festival Internazionale di Cortometraggi Corti da Sogni "Antonio Ricci” (Itália)
 * 15ª Festival Iberoamericano de Cinema de Sergipe
 * II Cine Jardim - Pernambuco
-* Mostra "Mulheres gritam ação" - (Instituto Moreire Salles / MG)
+* Mostra "Mulheres gritam ação" - (Instituto Moreira Salles / MG)
