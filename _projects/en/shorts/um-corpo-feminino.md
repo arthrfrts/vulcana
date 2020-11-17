@@ -22,7 +22,7 @@ Edital FUMPROARTE
 
 When we give something a name, does it lose or make sense? _A female body_ proposes an apparently simple game - it asks women from diverse generations the definition of something that in theory unifies them. Part of a transmedia project, the film is the main entrance to a narrative that has many points of view and no right answer.
 
-[Site do projeto](http://www.afemalebodyproject.com/index-port.php#top)
+[Visti the offical website of the project.](http://www.afemalebodyproject.com/index-port.php#top)
 
 ***
 
