@@ -27,8 +27,6 @@ Edital Plataforma FUMPROARTE 2016
 
 ***
 
-Numa comunidade isolada, localizada entre morros e névoas, a jovem Ana percebe alguns seres estranhos vivendo nas florestas do outro lado do rio. Ela ouve a história de uma seita perigosa que foi brutalmente atacada muitos anos atrás no mesmo lugar, e então começa a procurar a história não contada a vila.
-
 ***
 
 ## Labs e mercados:
