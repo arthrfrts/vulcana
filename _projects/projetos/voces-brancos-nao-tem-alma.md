@@ -26,5 +26,3 @@ _Financiamento_
 Edital FSA - PRODAV 05/2016
 
 ***
-
-Adaptado a partir de um livro homônimo escrito por Jorge Pozzobon, o filme conta a jornada real deste antropólogo pelo meio da floresta amazônica em busca de uma etnia desconhecida. No caminho, Jorge faz amizades com os habitantes da floresta e descobre uma nova maneira de encarar a vida e a morte.
