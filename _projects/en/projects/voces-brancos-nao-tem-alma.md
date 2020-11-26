@@ -20,5 +20,3 @@ _Financing_
 Edital FSA - PRODAV 05/2016
 
 ***
-
-Adapted from the book written by Jorge Pozzobon, the film reveals the journey of an anthropologist through the Amazon forest in the search of an unknown ethnicity. During this path, Jorge became friends with the forest residents and finds a new way to face life and death.
