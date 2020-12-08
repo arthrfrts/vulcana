@@ -2,7 +2,7 @@
 layout: page
 title: About Vulcana
 permalink: "/en/about/"
-image: ''
+image: "/uploads/2020/12/5-casas-1.jpg"
 video:
   mp4: ''
   gif: ''
