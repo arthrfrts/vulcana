@@ -28,7 +28,7 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 
 ***
 
-## LABS, MARKETS AND EVENTS
+## Labs, Market and Events
 
 * Torino Film Lab Script Lab 2018  
   Script Lab
