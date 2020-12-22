@@ -6,7 +6,7 @@ image: "/uploads/images/princesa-morta-do-jacui.jpg"
 original_title: Princesa Morta do Jacuí
 
 ---
-Brasil, 17min, DCP, Curta-metragem, 2018.
+Brazil, 17min, DCP, Short, 2018.
 
 _Directed and Written by_  
 Marcela Ilha Bordin
