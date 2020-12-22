@@ -3,7 +3,7 @@ layout: project
 tags: []
 title: The Employee An The Employer
 original_title: El Empleado y El Patrón
-release_year: 
+release_year: 2026
 image: "/uploads/2020/12/eeyep-8.jpg"
 trailer: ''
 video:
