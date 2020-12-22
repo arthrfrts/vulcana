@@ -20,7 +20,7 @@ _Roteiro_
 Davi Pretto e Igor Verde
 
 _Coprodução  
-Vulcana Cinema, Tokyo Filmes, Murillo Cine e Dublin Films_
+_Vulcana Cinema, Tokyo Filmes, Murillo Cine e Dublin Films
 
 ***
 
@@ -29,6 +29,6 @@ Vulcana Cinema, Tokyo Filmes, Murillo Cine e Dublin Films_
 ## Labs, Mercados e Eventos
 
 * Berlinale Coproduction Market 2020 / Mercado de coprodução internacional
-* 11º Brasil Cinemundi  
+* 11º Brasil Cinemundi
 
   PRÊMIO DO WORLD CINEMA FUND – AUDIENCE DESIGN
