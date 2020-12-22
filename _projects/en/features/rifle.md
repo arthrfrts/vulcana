@@ -27,25 +27,46 @@ Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovis
 
 ***
 
-Dione é um jovem misterioso que vive com uma família em uma região rural e remota. A tranquilidade da região é afetada quando um rico fazendeiro tenta comprar a pequena propriedade que Dione e a família vivem.
+Dione, a mysterious young man, finds work in a farm owned by poor farmers. When a rich landowner sends men to threaten the family, Dione thinks that only his rifle can save his life. So he wanders alone through the plains and the undergrowth, shooting at everything that makes him think about somewhere else. Because between the thugs who are playing hide and seek, and a past he just won’t divulge, does Dione even know what he is trying to shoot down?
 
 ***
 
 ## Main Exhibitions
 
-* Selecionado pelo 3º Brasil CineMundi - International Co-production Meeting 2012, 3º Europe-Latin America Co-production Forum do 62º Festival de San Sebastián 2014, 3º BrLab 2014, Talent Project Market da 65° Berlinale 2015.
-* 49º Festival de Brasília do Cinema Brasileiro – Competição de Longas-metragens, 2016. (Prêmios de Melhor Filme – Júri da Crítica, Melhor Roteiro e Melhor Desenho de Som)
+* 49º Brasília Film Festival – Feature Competition, 2016.
+
+  Best Film – Jury Award
+
+  Best Screenplay
+
+  Best Sound Design
 * 10ª Mostra CineBH, 2016.
-* Cine Esquema Novo – Competitiva Brasil, 2016. (Prêmio Destaque)
-* 12º Panorama Internacional Coisa de Cinema – Competição de Longas-metragens, 2016. (Prêmio de Melhor Filme)
-* 8ª Semana dos Realizadores – Mostra Competitiva, 2016.
-* 8º Festival Internacional de Cinema da Fronteira, 2016. (Filme de Encerramento)
-* 67ª Berlin International Film Festival (Berlinale) – Forum, 2017. (International Premiere)
-* 13º Lucca Film Festival – Competição Internacional, 2017.
-* 18º Jeonju International Film Festival – Competição Internacional, 2017. (Grand Prize)
-* 6º Olhar de Cinema Festival Internacional de Curitiba, 2017.
-* 28º FID Marseille, 2017.
-* 12º Festival de Cinema Latino-Americano de São Paulo, 2017.
-* Cinemaissí Festival de Cinema Latino-Americano de Helsinki, 2017.
-* 5º Bosphoros International Film Festival – Competição Internacional, 2017.  (Prêmio de Melhor Fotografia)
-* 39º Cairo International Film Festival – Panorama Internacional, 2017.
+* Cine Esquema Novo / Brazil Competition, 2016
+
+  Destaque Award
+* 12º Panorama Internacional Coisa de Cinema – Competição de Longas-metragens, 2016
+
+  Best Film
+* 8ª Semana dos Realizadores – Mostra Competitiva, 2016
+* 8º Festival Internacional de Cinema da Fronteira, 2016 / Closing Film
+* 67ª Berlin International Film Festival (Berlinale) – Forum, 2017 / International Premiere
+* 13º Lucca Film Festival / Internacional Competition, 2017
+* 18º Jeonju International Film Festival / International Competition 2017
+
+  Grand Prize
+* 6º Olhar de Cinema International Film Festival of Curitiva, 2017
+* 28º FID Marseille, 2017
+* 12º Latin America Film Festival of São Paulo, 2017
+* Cinemaissí Latin American Film Festival, 2017
+* 5º Bosphoros International Film Festival / International Competition, 2017
+
+  Best Cinematography
+* 39º Cairo International Film Festival / Panorama Internacional, 2017
+
+  ***
+
+  ## Labs, Markets and Events
+* 3º Brasil CineMundi / International Co-production Meeting 2012
+* 62º Festival de San Sebastián 2014 / 3º Europe-Latin America Co-production Forum
+* 3º BrLab 2014
+* 65° Berlinale 2015 / Talent Project Market
