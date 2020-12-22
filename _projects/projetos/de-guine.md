@@ -17,7 +17,7 @@ _Direção e Roteiro_
 Caroline Leone
 
 _Coprodução  
-Vulcana Cinema_
+_Vulcana Cinema
 
 _Financiamento_  
 Hubert Bals Development Fund
