@@ -12,10 +12,10 @@ _Directed by_
 Davi Pretto
 
 _Written by_  
-Davi Pretto e Igor Verde
+Davi Pretto and Igor Verde
 
-_Coproduction  
-_Vulcana Cinema, Tokyo Filmes, Murillo Cine and Dublin Films
+_Coproduction_  
+Vulcana Cinema, Tokyo Filmes, Murillo Cine and Dublin Films
 
 ***
 
