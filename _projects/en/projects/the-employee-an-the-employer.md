@@ -23,7 +23,7 @@ Roken Films (Uruguay), Vulcana Cinema e Sancho&Punta (Brazil), Pasto Cine e Muri
 
 ***
 
-## LABS, MARKETS AND EVENTS
+## Labs, Markets and Events
 
 * San Sebastián 2020 - Work in progress Latam  
   Best WIP LatAm
