@@ -11,8 +11,8 @@ Brazil, Feature in Development
 _Directed and Written By_  
 Caroline Leone
 
-_Production  
-Vulcana Cinema_
+_Production_  
+Vulcana Cinema
 
 _Financing_  
 Hubert Bals Development Fund
