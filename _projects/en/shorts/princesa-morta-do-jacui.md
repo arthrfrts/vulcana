@@ -8,14 +8,14 @@ original_title: Princesa Morta do Jacuí
 ---
 Brasil, 17min, DCP, Curta-metragem, 2018.
 
-_Direção e Roteiro_  
+_Directed and Written by_  
 Marcela Ilha Bordin
 
-_Com_  
-Gabriel Palma e Maíra Flores
+_With_  
+Gabriel Palma and Maíra Flores
 
-_Coprodução_  
-Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema e Gógo
+_Coproduction_  
+Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema and Gógo
 
 ***
 
@@ -23,14 +23,14 @@ The archaeologist Margot Moreira returns to his place of birth, an displacement 
 
 ***
 
-## Principais exibições e prêmios
+## Main Exhibitions
 
-* Festival do Rio / Competição de Curtas, 2018
-* Cine Esquema Novo / Competição, 2018  
-  Grande Prêmio
+* Rio de Janeiro Int'l Film Festival 2018
+* Cine Esquema Novo 2018 / Competition  
+  Main Award
 * Viennale International Film Festival, 2019
-* Mostra de Cinema de Tiradentes, 2019
-* IndieLisboa / Competição Internacional, 2019
+* Tiradentes Film Festival, 2019
+* IndieLisboa / International Competitionl, 2019
 * Filmadrid, 2019
-* 14ª Mostra de Cinema de Ouro Preto, 2019
-* Melhor Curta Gaúcho 2018 ACCIRS (Associação de Críticos de Cinema do Rio Grande do Sul)
+* 14ª Ouro Preto Film Festival, 2019
+* Best Gaúcho Short 2018 ACCIRS
