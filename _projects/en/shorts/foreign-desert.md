@@ -62,6 +62,7 @@ video:
   '54': '4'
   gif: "/uploads/2020/12/animated-gif-original.mp4"
 tags: featured
+trailer: vimeo.com/437227920
 
 ---
 Brazil/Germany, 23min, DCP, 2020
