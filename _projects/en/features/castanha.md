@@ -8,27 +8,25 @@ video:
   mp4: https://i.giphy.com/media/JTazfMtHM49Mxf6Zvs/source.mp4
 
 ---
-Brasil, 95min, HD, Longa-metragem, 2014
+Brazil, 95min, HD, Feature 2014
 
-_Direção e Roteiro_  
+_Directed and Written by_  
 Davi Pretto
 
-_Com_  
+_With_  
 João Carlos Castanha
 
-_Coprodução_  
-Tokyo Filmes e Canal Brasil
+_Coproduction_  
+Tokyo Filmes and Canal Brasil
 
-_Financiamento_  
+_Financing_  
 FUMPROARTE 2012
 
-_Distribuição_  
+_Sales - Brazil_  
 Vitrine Filmes
 
-_Sales e festivais_  
+_Sales and festivals_  
 Figa Films
-
-Onde assistir: Amazon Prime Vídeo
 
 ***
 
