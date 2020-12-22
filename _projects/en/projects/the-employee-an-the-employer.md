@@ -1,7 +1,7 @@
 ---
 layout: project
 tags: []
-title: THE EMPLOYEE AN THE EMPLOYER
+title: The Employee An The Employer
 original_title: El Empleado y El Patrón
 release_year: 
 image: "/uploads/2020/12/eeyep-8.jpg"
