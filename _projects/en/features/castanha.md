@@ -30,7 +30,7 @@ Figa Films
 
 ***
 
-João Carlos Castanha tem 52 anos e é ator. Também trabalha na noite como transformista em baladas gays. Vive com a mãe septuagenária, Celina, no subúrbio de Porto Alegre. Solitário, doente e confuso, aos poucos ele deixa de discernir realidade e ficção.
+João Carlos Castanha. 52 years old. Actor. Gay. Son. Crossdresser. Capable of doing anything for those he loves. Or hates.
 
 ***
 
@@ -68,3 +68,19 @@ João Carlos Castanha tem 52 anos e é ator. Também trabalha na noite como tran
 * 36° Starz Denver Film Festival.
 * 4° Festival Internacional Cine Las Orquídeas, Cuenca – Competencia Opera Prima.
 * 36° Festival Internacional del Nuevo Cine Latinoamericano de Havana – Competencia Documental.
+
+  ***
+
+  ## Críticas
+
+  > “É, contudo, pelo aspecto sensível, pelo resultado, que percebe-se uma singularidade – e uma tônica contínua – nessa obra”
+  >
+  > _Pablo Gonçalho, Revista Cinética, Brasil._
+
+  > “Castanha intrigues and absorbs on a scene-by-scene basis”
+  >
+  > _Neil Young, Hollywood Reporter, Estados Unidos._
+
+  > “Pretto does a terrific job of seamlessly integrating fiction and non-fiction.”
+  >
+  > _Steven Erickson, Fandor, Estados Unidos._
