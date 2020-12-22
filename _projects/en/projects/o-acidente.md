@@ -7,19 +7,19 @@ release_year: 2027
 tags: featured
 
 ---
-Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
+Brasil, 90 min, HD/DCP, Feature in post production
 
 _Directed by_  
 Bruno Carboni
 
 _Written by_  
-Marcela Ilha Bordin e Bruno Carboni
+Marcela Ilha Bordin and Bruno Carboni
 
 _With_  
 Carol Martins, Gabriela Greco, Luis Felipe Xavier
 
 _Coproduction_  
-Tokyo Filmes e Vulcana Cinema
+Tokyo Filmes and Vulcana Cinema
 
 _Financing_  
 Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
