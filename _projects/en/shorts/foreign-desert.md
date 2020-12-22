@@ -3,7 +3,7 @@ layout: project
 title: Foreign Desert
 original_title: Deserto Estrangeiro
 release_year: 2020
-image: ''
+image: "/uploads/2020/12/de-still-01.jpg"
 video:
   '0': h
   '1': t
