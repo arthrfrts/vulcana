@@ -17,7 +17,7 @@ _Directed by_
 Manuel Nieto Zas
 
 _Coproduction_  
-Roken Films (Uruguay), Vulcana Cinema e Sancho&Punta (Brazil), Pasto Cine e Murillo Cine (Argentina) e Paradise Films (France)
+Roken Films (Uruguay), Vulcana Cinema e Sancho&Punta (Brazil), Pasto Cine e Murillo Cine (Argentina) and Paradise Films (France)
 
 ***
 
