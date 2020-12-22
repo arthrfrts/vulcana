@@ -35,6 +35,8 @@ Portuñol dives in the culture of the border areas between Brazil and its neighb
 * 1º Festival As Amazonas do Cinema  
   Best Feature Film  
   Jury Special Award
+* Cabíria Fest - Official Selection
+* 3 Margens - Festival de Cine
 
 ## Labs, Markets and Events
 
