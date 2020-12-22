@@ -6,7 +6,7 @@ image: "/uploads/images/casa-no-campo.jpg"
 release_year: 2025
 
 ---
-Brasil/Argentina/France, Feature in development
+Brazil/Argentina/France, Feature in development
 
 _Directed by_  
 Davi Pretto
