@@ -29,6 +29,8 @@ Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovis
 
 Dione, a mysterious young man, finds work in a farm owned by poor farmers. When a rich landowner sends men to threaten the family, Dione thinks that only his rifle can save his life. So he wanders alone through the plains and the undergrowth, shooting at everything that makes him think about somewhere else. Because between the thugs who are playing hide and seek, and a past he just won’t divulge, does Dione even know what he is trying to shoot down?
 
+Selected for: 3º Brasil CineMundi / International Co-production Meeting 2012, 62º Festival de San Sebastián 2014 / 3º Europe-Latin America Co-production Forum, 3º BrLab 2014 and 65° Berlinale 2015 / Talent Project Market.
+
 ***
 
 ## Main Exhibitions
@@ -64,9 +66,3 @@ Dione, a mysterious young man, finds work in a farm owned by poor farmers. When 
 * 39º Cairo International Film Festival / Internacional Panorama, 2017
 
   ***
-
-  ## Labs, Markets and Events
-* 3º Brasil CineMundi / International Co-production Meeting 2012
-* 62º Festival de San Sebastián 2014 / 3º Europe-Latin America Co-production Forum
-* 3º BrLab 2014
-* 65° Berlinale 2015 / Talent Project Market
