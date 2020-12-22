@@ -6,7 +6,7 @@ video:
   mp4: ''
   gif: ''
 tags: []
-original_title: ''
+original_title: El Empleado y el Patrón
 release_year: 2026
 trailer: ''
 
