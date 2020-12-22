@@ -16,16 +16,14 @@ Davi Pretto
 _Roteiro_  
 Davi Pretto e Richard Tavares
 
+_Com_  
+Dione Avila de Oliveira, Evaristo Goulart, Andressa Goulart, Elizabete Nogueira, Livia Goularte, Francisco Fabrício Dutra dos Santos e Sofia Ferreira
+
 _Coprodução_  
-Tokyo Filmes, Autentika Films,  
-Casa de Cinema de Porto Alegre e  
-Gogó Conteúdo Sonoro.
+Tokyo Filmes, Autentika Films, Casa de Cinema de Porto Alegre e Gogó Conteúdo Sonoro.
 
 _Financiamento_  
 Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovisual - FSA/BRDE, Apoio RUMOS - Itaú Cultural.
-
-_Com_  
-Dione Avila de Oliveira, Evaristo Goulart, Andressa Goulart, Elizabete Nogueira, Livia Goularte, Francisco Fabrício Dutra dos Santos e Sofia Ferreira
 
 Onde assistir: [NET NOW](https://www.nowonline.com.br/filme/rifle/93719) e [iTunes Store](https://itunes.apple.com/br/movie/rifle/id1364693822?l=en&ign-mpt=uo%3D4).
 
