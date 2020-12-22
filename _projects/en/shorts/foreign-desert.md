@@ -3,7 +3,7 @@ layout: project
 title: Foreign Desert
 original_title: Deserto Estrangeiro
 release_year: 2020
-image: "/uploads/2020/12/animated-gif-original.mp4"
+image: ''
 video:
   '0': h
   '1': t
@@ -60,7 +60,8 @@ video:
   '52': m
   '53': p
   '54': '4'
-  gif: "/uploads/2020/12/animated-gif-original.mp4"
+  gif: ''
+  mp4: "/uploads/2020/12/animated-gif-original.mp4"
 tags: featured
 trailer: vimeo.com/437227920
 
