@@ -7,7 +7,7 @@ release_year: 2027
 tags: featured
 
 ---
-Brasil, 90 min, HD/DCP, Feature in post production
+Brazil, 90 min, HD/DCP, Feature in post production
 
 _Directed by_  
 Bruno Carboni
