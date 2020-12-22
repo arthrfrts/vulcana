@@ -61,7 +61,7 @@ Dione, a mysterious young man, finds work in a farm owned by poor farmers. When 
 * 5º Bosphoros International Film Festival / International Competition, 2017
 
   Best Cinematography
-* 39º Cairo International Film Festival / Panorama Internacional, 2017
+* 39º Cairo International Film Festival / Internacional Panorama, 2017
 
   ***
 
