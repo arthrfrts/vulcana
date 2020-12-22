@@ -19,8 +19,8 @@ Davi Pretto
 _Roteiro_  
 Davi Pretto e Igor Verde
 
-_Coprodução  
-_Vulcana Cinema, Tokyo Filmes, Murillo Cine e Dublin Films
+_Coprodução_  
+Vulcana Cinema, Tokyo Filmes, Murillo Cine e Dublin Films
 
 ***
 
