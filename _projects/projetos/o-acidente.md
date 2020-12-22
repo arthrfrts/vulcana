@@ -2,14 +2,15 @@
 layout: project
 title: O Acidente
 image: "/uploads/images/o-acidente.jpg"
-tags: []
+tags:
+- featured
 release_year: 2027
 original_title: ''
 trailer: ''
 video:
   mp4: ''
   gif: ''
-tags: featured
+
 ---
 Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
 
@@ -37,4 +38,7 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 * Torino Film Lab Script Lab 2018  
   Laboratório de desenvolvimento de roteiro
 * Málaga Work in Progress - MAFIZ
-* Cartagena Work in Progress
+* FICCI 60 / Puerto Lab
+
+  Prêmio Infra Rojo
+* Curitiba LAB
