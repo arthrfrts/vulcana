@@ -23,6 +23,6 @@ Vulcana Cinema e Avante Filmes
 
 ***
 
-## LABS, MARKETS AND EVENTS
+## Labs, Markets and Events
 
 * Ventana Sur 2020 - Proyecta
