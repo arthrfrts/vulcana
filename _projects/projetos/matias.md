@@ -9,7 +9,6 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
-published: false
 
 ---
 Brasil, Longa-metragem em desenvolvimento
