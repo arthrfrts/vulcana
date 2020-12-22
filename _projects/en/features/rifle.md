@@ -37,7 +37,7 @@ Selected for: 3º Brasil CineMundi / International Co-production Meeting 2012, 6
 
 * 49º Brasília Film Festival – Feature Competition, 2016.    
   Best Film – Jury Award    
-  Best Screenplay.   
+  Best Screenplay  
   Best Sound Design
 * 10ª Mostra CineBH, 2016.
 * Cine Esquema Novo / Brazil Competition, 2016.   
