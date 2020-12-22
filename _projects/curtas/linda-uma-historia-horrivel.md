@@ -33,7 +33,7 @@ A casa continua a mesma, porém degradada pelo tempo, degradação essa que se e
 
 ***
 
-## Festivais
+## Principais Exibições
 
 * XXI Festival Mix Brasil de Cultura e Diversidade  
   Prêmio de Melhor Direção de Fotografia / Júri Técnico  
