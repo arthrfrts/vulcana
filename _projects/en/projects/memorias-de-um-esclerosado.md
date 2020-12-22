@@ -26,4 +26,4 @@ Itaú Rumos 2019-2020
 
 ***
 
-## LABS, MARKETS AND EVENTS
+## Labs, Markets and Events
