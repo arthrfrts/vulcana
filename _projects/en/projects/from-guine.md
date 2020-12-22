@@ -8,7 +8,7 @@ release_year: 2023
 ---
 Brazil, Feature in Development
 
-_Directed and Written By_  
+_Directed and Written by_  
 Caroline Leone
 
 _Production_  
