@@ -14,14 +14,11 @@ trailer: ''
 Uruguai / Brasil / Argentina / França  
 Longa-metragem em pós-produção
 
-_Dirigido por_  
+_Direção_  
 Manuel Nieto Zas
 
-_Produção_  
-Roken Films (Uruguai)
-
 _Coprodução_  
-Vulcana Cinema e Sancho&Punta (Brasil), Pasto Cine e Murillo Cine (Argentina) e Paradise Films (França)
+Roken Films (Uruguai), Vulcana Cinema e Sancho&Punta (Brasil), Pasto Cine e Murillo Cine (Argentina) e Paradise Films (França)
 
 ***
 
@@ -29,5 +26,5 @@ Vulcana Cinema e Sancho&Punta (Brasil), Pasto Cine e Murillo Cine (Argentina) e 
 
 ## LABS, MERCADOS E EVENTOS
 
-* Festival de San Sebastián 2020 - Work in progress Latam    
+* Festival de San Sebastián 2020 - Work in progress Latam  
   Melhor WIP LatAm
