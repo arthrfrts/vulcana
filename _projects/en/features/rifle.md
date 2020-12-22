@@ -64,5 +64,3 @@ Selected for: 3º Brasil CineMundi / International Co-production Meeting 2012, 6
 
   Best Cinematography
 * 39º Cairo International Film Festival / Internacional Panorama, 2017
-
-  ***
