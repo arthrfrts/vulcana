@@ -84,7 +84,7 @@ _Financing_
 DAAD Artist-in-Residence Berlin
 
 _Support_  
-Galo de Briga Filmes e Abissal
+Galo de Briga Filmes and Abissal
 
 ***
 
