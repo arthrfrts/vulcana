@@ -9,7 +9,6 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
-published: false
 
 ---
 Uruguay / Brazil / Argentina / France, Feature in post production
