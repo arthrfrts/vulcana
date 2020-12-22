@@ -14,10 +14,10 @@ video:
 Brazil, Feature in development
 
 _Directed and Writetn by_  
-Filipe Matzembacher e Marcio Reolon
+Filipe Matzembacher and Marcio Reolon
 
 _Coproduction_  
-Vulcana Cinema e Avante Filmes
+Vulcana Cinema and Avante Filmes
 
 ***
 
