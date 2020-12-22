@@ -4,6 +4,7 @@ title: Dead Princess of Jacuí
 release_year: 2018
 image: "/uploads/images/princesa-morta-do-jacui.jpg"
 original_title: Princesa Morta do Jacuí
+trailer: https://vimeo.com/309346070
 
 ---
 Brazil, 17min, DCP, Short, 2018.
