@@ -28,7 +28,7 @@ O arqueólogo Margot Moreira retorna ao lugar onde nasceu, a zona de exclusão c
 
 ***
 
-## Principais exibições e prêmios
+## Principais exibições
 
 * Festival do Rio / Competição de Curtas, 2018
 * Cine Esquema Novo / Competição, 2018  
