@@ -15,7 +15,7 @@ _Written by_
 Davi Pretto e Igor Verde
 
 _Coproduction  
-Vulcana Cinema, Tokyo Filmes, Murillo Cine e Dublin Films_
+_Vulcana Cinema, Tokyo Filmes, Murillo Cine and Dublin Films
 
 ***
 
