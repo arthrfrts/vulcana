@@ -32,5 +32,5 @@ Hubert Bals Development Fund
   Laboratório de Projetos
 * Boost NL 2019  
   Laboratório de Projetos
-* Cinemart Rotterdam  
+* CineMart Rotterdam  
   Mercado de coprodução internacional
