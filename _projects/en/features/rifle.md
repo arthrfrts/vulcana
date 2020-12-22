@@ -36,31 +36,24 @@ Selected for: 3º Brasil CineMundi / International Co-production Meeting 2012, 6
 ## Main Exhibitions
 
 * 49º Brasília Film Festival – Feature Competition, 2016.
-
   Best Film – Jury Award
-
   Best Screenplay
-
   Best Sound Design
 * 10ª Mostra CineBH, 2016.
 * Cine Esquema Novo / Brazil Competition, 2016
-
   Destaque Award
 * 12º Panorama Internacional Coisa de Cinema – Competição de Longas-metragens, 2016
-
   Best Film
 * 8ª Semana dos Realizadores – Mostra Competitiva, 2016
 * 8º Festival Internacional de Cinema da Fronteira, 2016 / Closing Film
 * 67ª Berlin International Film Festival (Berlinale) – Forum, 2017 / International Premiere
 * 13º Lucca Film Festival / Internacional Competition, 2017
 * 18º Jeonju International Film Festival / International Competition 2017
-
   Grand Prize
 * 6º Olhar de Cinema International Film Festival of Curitiva, 2017
 * 28º FID Marseille, 2017
 * 12º Latin America Film Festival of São Paulo, 2017
 * Cinemaissí Latin American Film Festival, 2017
 * 5º Bosphoros International Film Festival / International Competition, 2017
-
   Best Cinematography
 * 39º Cairo International Film Festival / Internacional Panorama, 2017
