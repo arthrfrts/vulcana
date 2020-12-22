@@ -13,7 +13,7 @@ video:
 ---
 Brasil, Longa-metragem em produção
 
-_Direção de Roteiro_  
+_Direção e Roteiro_  
 Thais Fernandes
 
 _Produção_  
