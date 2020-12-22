@@ -4,7 +4,7 @@ tags: []
 title: THE EMPLOYEE AN THE EMPLOYER
 original_title: El Empleado y El Patrón
 release_year: 
-image: ''
+image: "/uploads/2020/12/eeyep-8.jpg"
 trailer: ''
 video:
   mp4: ''
