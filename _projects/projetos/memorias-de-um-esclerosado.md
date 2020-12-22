@@ -11,19 +11,19 @@ video:
   gif: ''
 
 ---
-Brazil, Feature in development
+Brasil, Longa-metragem em produção
 
-_Directed and Written by_  
+_Direção de Roteiro_  
 Thais Fernandes
 
-_Production_  
+_Produção_  
 Vulcana Cinema
 
-_Financing_  
+_Financiamento_  
 Itaú Rumos 2019-2020
 
 ***
 
 ***
 
-## LABS, MARKETS AND EVENTS
+## LABS, MERCADOS E EVENTOS
