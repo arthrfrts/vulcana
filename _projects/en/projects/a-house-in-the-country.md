@@ -6,7 +6,7 @@ image: "/uploads/images/casa-no-campo.jpg"
 release_year: 2025
 
 ---
-Brazil / Argentina / France, Feature in development
+Argentina / Brazil / France, Feature in development
 
 _Directed by_  
 Davi Pretto
@@ -15,7 +15,7 @@ _Written by_
 Davi Pretto and Igor Verde
 
 _Coproduction_  
-Vulcana Cinema, Tokyo Filmes, Murillo Cine and Dublin Films
+Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR) e Dublin Films (FR)
 
 ***
 
