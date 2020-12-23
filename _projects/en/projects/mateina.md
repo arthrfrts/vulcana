@@ -5,7 +5,7 @@ image: "/uploads/images/mateina.jpg"
 release_year: 2020
 
 ---
-Brazil / Uruguay / Argentina, Feature in post production
+Argentina / Brazil / Uruguay, Feature in post production
 
 _Directed by_  
 Joaquín Peñagaricano and Pablo Abdala
