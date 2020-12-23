@@ -11,14 +11,13 @@ release_year: 2026
 trailer: ''
 
 ---
-Uruguai / Brasil / Argentina / França  
-Longa-metragem em pós-produção
+Uruguai / Brasil / Argentina / França, Longa-metragem em pós-produção
 
 _Direção_  
 Manuel Nieto Zas
 
 _Coprodução_  
-Roken Films (Uruguai), Vulcana Cinema e Sancho&Punta (Brasil), Pasto Cine e Murillo Cine (Argentina) e Paradise Films (França)
+Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Murillo Cine (AR) e Paradise Films (FR)
 
 ***
 
