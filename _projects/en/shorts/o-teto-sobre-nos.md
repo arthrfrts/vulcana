@@ -41,21 +41,14 @@ Squatters living in an abandoned building receive a notice that they may be evic
 * 22° Valdivia Internacional Film Festival / Nuevos Caminos
 * 57° Festival Internacional de Cine Documental y Cortometraje de Bilbao, Zinebi / International Short Film Competition  
   Best Latin Film
-* 25° Curta Cinema – Festival Internacional de Curtas-Metragens do Rio de Janeiro  
-  Competição Nacional de Curtas, 2015
-* 15ª Goiânia Mostra Curtas  
-  Mostra Brasil, 2015
-* 17° Festival Kinoarte de Cinema, Londrina  
-  Competição de Curtas, 2015  
-  Prêmio de Melhor Som
+* 25° Curta Cinema – Rio de Janeiro International Short Film Festival / National Competition
+* 15ª Goiânia Mostra Curtas / Mostra Brasil
+* 17° Festival Kinoarte de Cinema/ Short Competition  
+  Best Sound Design
 * 9ª Mostra CineBH, 2015.
-* 8º International Festival of Independent Films 2morrow, 2015.
-* 17º Festival de Cinema Luso Brasileiro de Santa Maria da Feira  
-  Competição de Curtas, 2015.  
-  Prêmio Especial do Júri
-* 56° Festival Internacional de Cine de Cartagena de Indias  
-  Competição Internacional de Curtas, 2016.
-* 26° CineCeará  
-  Festival Iberoamericano de Cinema  
-  Competição Nacional de Curtas, 2016  
-  Prêmio Melhor Filme
+* 8º International Festival of Independent Films 2morrow
+* 17º Festival de Cinema Luso Brasileiro de Santa Maria da Feira / Short Competition  
+  Jury Special Award
+* 56° Cartagena de Indias International Film Festival / International Short Competition
+* 26° CineCeará - Festival Iberoamericano de Cinema / National Short Competition  
+  Best Film
