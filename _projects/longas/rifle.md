@@ -38,20 +38,20 @@ Selecionado pelo 3º Brasil CineMundi - International Co-production Meeting 2012
 ## Principais exibições
 
 * 49º Festival de Brasília do Cinema Brasileiro – Competição de Longas-metragens, 2016. (Prêmios de Melhor Filme – Júri da Crítica, Melhor Roteiro e Melhor Desenho de Som)
-* 10ª Mostra CineBH, 2016.
+* 10ª Mostra CineBH, 2016
 * Cine Esquema Novo – Competitiva Brasil, 2016. (Prêmio Destaque)
 * 12º Panorama Internacional Coisa de Cinema – Competição de Longas-metragens, 2016. (Prêmio de Melhor Filme)
-* 8ª Semana dos Realizadores – Mostra Competitiva, 2016.
+* 8ª Semana dos Realizadores – Mostra Competitiva, 2016
 * 8º Festival Internacional de Cinema da Fronteira, 2016. (Filme de Encerramento)
-* 67ª Berlin International Film Festival (Berlinale) – Forum, 2017. (International Premiere)
-* 13º Lucca Film Festival – Competição Internacional, 2017.
-* 18º Jeonju International Film Festival – Competição Internacional, 2017. (Grand Prize)
-* 6º Olhar de Cinema Festival Internacional de Curitiba, 2017.
-* 28º FID Marseille, 2017.
-* 12º Festival de Cinema Latino-Americano de São Paulo, 2017.
-* Cinemaissí Festival de Cinema Latino-Americano de Helsinki, 2017.
-* 5º Bosphoros International Film Festival – Competição Internacional, 2017.  (Prêmio de Melhor Fotografia)
-* 39º Cairo International Film Festival – Panorama Internacional, 2017.
+* 67ª Berlin International Film Festival (Berlinale) – Forum, 2017 (International Premiere)
+* 13º Lucca Film Festival – Competição Internacional, 2017
+* 18º Jeonju International Film Festival – Competição Internacional, 2017 (Grand Prize)
+* 6º Olhar de Cinema Festival Internacional de Curitiba, 2017
+* 28º FID Marseille, 2017
+* 12º Festival de Cinema Latino-Americano de São Paulo, 2017
+* Cinemaissí Festival de Cinema Latino-Americano de Helsinki, 2017
+* 5º Bosphoros International Film Festival – Competição Internacional, 2017  (Prêmio de Melhor Fotografia)
+* 39º Cairo International Film Festival – Panorama Internacional, 2017
 
 ## Críticas
 
