@@ -70,8 +70,8 @@ João Carlos Castanha. 52 years old. Actor. Gay. Son. Crossdresser. Capable of d
 
 > “[_Castanha_ intrigues and absorbs on a scene-by-scene basis](http://www.hollywoodreporter.com/review/castanha-copenhagen-review-697919)”
 >
-> _Neil Young, Hollywood Reporter, Estados Unidos._
+> _Neil Young, Hollywood Reporter, USA._
 
 > “[Pretto does a terrific job of seamlessly integrating fiction and non-fiction](http://www.fandor.com/keyframe/film-society-of-lincoln-centers-daring-art-of-the-real).”
 >
-> _Steven Erickson, Fandor, Estados Unidos._
+> _Steven Erickson, Fandor, USA._
