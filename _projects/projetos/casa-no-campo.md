@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-Brasil/Argentina/França, Longa-metragem em desenvolvimento
+Argentina / Brasil / França, Longa-metragem em desenvolvimento
 
 _Direção_  
 Davi Pretto
@@ -20,7 +20,7 @@ _Roteiro_
 Davi Pretto e Igor Verde
 
 _Coprodução_  
-Vulcana Cinema, Tokyo Filmes, Murillo Cine e Dublin Films
+Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR) e Dublin Films (FR)
 
 ***
 
