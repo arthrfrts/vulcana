@@ -26,7 +26,7 @@ Secretaria de Estado da Cultura and Pró-Cultura RS
 
 ***
 
-Ocupantes de um prédio abandonado recebem um aviso que eles podem ser despejados a qualquer momento. Enquanto Anna tenta lidar com a notícia, ela se depara com um misterioso homem deitado em sua cama.
+Squatters living in an abandoned building receive a notice that they may be evicted some time soon. While Anna tries to deal with the news, she has to confront a mysterious man lying in her bed.
 
 ***
 
