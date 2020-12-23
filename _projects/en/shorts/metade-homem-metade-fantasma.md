@@ -30,4 +30,4 @@ The whole life of man is but a point in time.
 * Brive Film Festival, 2018
 * Beijing International Short Film Festival, 2018  
   Outstanding Art Exploration Award
-* Cinemaissi Latin American Film Festival, Helsinque, 2017
+* Cinemaissi Latin American Film Festival, 2017
