@@ -4,7 +4,7 @@ tags: []
 title: Memórias de um Esclerosado
 original_title: ''
 release_year: 
-image: ''
+image: "/uploads/2020/12/memorias_para-site.jpg"
 trailer: ''
 video:
   mp4: ''
