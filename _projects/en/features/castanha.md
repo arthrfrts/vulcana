@@ -66,7 +66,7 @@ João Carlos Castanha. 52 years old. Actor. Gay. Son. Crossdresser. Capable of d
 
   ***
 
-  ## Críticas
+## Críticas
 
   > “[_Castanha_ intrigues and absorbs on a scene-by-scene basis](http://www.hollywoodreporter.com/review/castanha-copenhagen-review-697919)”
   >
