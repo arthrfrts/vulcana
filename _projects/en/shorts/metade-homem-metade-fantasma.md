@@ -15,7 +15,7 @@ _Production_
 Tokyo Filmes
 
 _Financing_  
-Secretaria de Estado da Cultura e Pró-Cultura RS
+Secretaria de Estado da Cultura and Pró-Cultura RS
 
 ***
 
