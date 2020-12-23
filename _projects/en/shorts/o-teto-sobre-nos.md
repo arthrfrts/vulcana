@@ -32,19 +32,15 @@ Squatters living in an abandoned building receive a notice that they may be evic
 
 ## Principais exibições:
 
-* 68° Festival del Film Locarno  
-  Leopards of Tomorrow, 2015  
+* 68° Festival del Film Locarno / Leopards of Tomorrow  
   World Premiere
-* 43° Festival de Cinema de Gramado  
-  Competição Nacional de Curtas, 2015  
-  Prêmio de Melhor Direção e Melhor Desenho de Som
-* 26° Festival Internacional de Curtas-Metragens de São Paulo  
-  Mostra Brasil, 2015
-* 22° Festival Internacional de Cine de Valdivia  
-  Nuevos Caminos, 2015.
-* 57° Festival Internacional de Cine Documental y Cortometraje de Bilbao, Zinebi  
-  Competição Internacional de Curtas, 2015  
-  Prêmio de Melhor Filme Latino Americano
+* 43° Gramado Film Festival / National Short Competition  
+  Best Director    
+  Best Sound Design
+* 26° São Paulo International Short Film Festival
+* 22° Valdivia Internacional Film Festival / Nuevos Caminos
+* 57° Festival Internacional de Cine Documental y Cortometraje de Bilbao, Zinebi / International Short Film Competition  
+  Best Latin Film
 * 25° Curta Cinema – Festival Internacional de Curtas-Metragens do Rio de Janeiro  
   Competição Nacional de Curtas, 2015
 * 15ª Goiânia Mostra Curtas  
