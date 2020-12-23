@@ -34,7 +34,7 @@ João Carlos Castanha. 52 years old. Actor. Gay. Son. Crossdresser. Capable of d
 
 ***
 
-## Principais exibições
+## Principais Exibições
 
 * 64º Berlinale – Berlin International Film Festival Forum / World Premiere
 * 38º Hong Kong International Film Festival / Young Cinema Competition
@@ -68,10 +68,10 @@ João Carlos Castanha. 52 years old. Actor. Gay. Son. Crossdresser. Capable of d
 
 ## Críticas
 
-  > “[_Castanha_ intrigues and absorbs on a scene-by-scene basis](http://www.hollywoodreporter.com/review/castanha-copenhagen-review-697919)”
-  >
-  > _Neil Young, Hollywood Reporter, Estados Unidos._
+> “[_Castanha_ intrigues and absorbs on a scene-by-scene basis](http://www.hollywoodreporter.com/review/castanha-copenhagen-review-697919)”
+>
+> _Neil Young, Hollywood Reporter, Estados Unidos._
 
-  > “[Pretto does a terrific job of seamlessly integrating fiction and non-fiction](http://www.fandor.com/keyframe/film-society-of-lincoln-centers-daring-art-of-the-real).”
-  >
-  > _Steven Erickson, Fandor, Estados Unidos._
+> “[Pretto does a terrific job of seamlessly integrating fiction and non-fiction](http://www.fandor.com/keyframe/film-society-of-lincoln-centers-daring-art-of-the-real).”
+>
+> _Steven Erickson, Fandor, Estados Unidos._
