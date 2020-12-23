@@ -23,7 +23,7 @@ _Financing_
 FUMPROARTE 2012
 
 _Sales - Brazil_  
-Vitrine Filmes
+Vitrine Filmes 
 
 _Sales and festivals_  
 Figa Films
