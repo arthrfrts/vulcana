@@ -28,11 +28,13 @@ Vitrine Filmes
 _Sales and festivals_  
 Figa Films
 
-  ***
+***
 
 João Carlos Castanha. 52 years old. Actor. Gay. Son. Crossdresser. Capable of doing anything for those he loves. Or hates.
 
-  ***
+***
+
+***
 
 ## Principais Exibições
 
