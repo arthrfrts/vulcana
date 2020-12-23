@@ -17,7 +17,7 @@ _Direção e Roteiro_
 Joaquín Peñagaricano e Pablo Abdala
 
 _Coprodução_  
-Besouro Filmes, Jengibre Producciones e Coelho Voador
+Vulcana Cinema (BR), Jengibre Producciones (UY), HC Filmes (AR) e Coelho Voador (BR)
 
 _Financiamento_  
 Edital ANCINE/ICAU 2016, ICAU Fundo de desenvolvimento, Montevideo Socioaudiovisual / Desenvolvimento, Fundo ICAU 2014 de Produção, FONA, Montevideo Socioaudiovisual / Opera-prima
