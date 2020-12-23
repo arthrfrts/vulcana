@@ -8,8 +8,8 @@ video:
   mp4: https://i.giphy.com/media/JTazfMtHM49Mxf6Zvs/source.mp4
 original_title: ''
 tags: []
----
 
+---
 Brazil, 95min, HD, Feature, 2014
 
 _Directed and Written by_  
@@ -65,8 +65,6 @@ João Carlos Castanha. 52 years old. Actor. Gay. Son. Crossdresser. Capable of d
 * 36° Starz Denver Film Festival.
 * 4° Festival Internacional Cine Las Orquídeas, Cuenca / First Films Competition
 * 36° Festival Internacional del Nuevo Cine Latinoamericano de Havana / Documentary Competition
-
-  ***
 
 ## Reviews
 
