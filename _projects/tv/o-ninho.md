@@ -83,6 +83,8 @@ FAC 2014 / Histórias do Sul
 _Sales_  
 Outplay
 
+_Para alugar a série no_ [_Vimeo On Demand_](https://vimeo.com/ondemand/oninho)
+
 ***
 
 Bruno está procurando por seu irmão, mas acaba encontrando uma nova família.
