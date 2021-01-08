@@ -25,7 +25,7 @@ Edital PRODAV 12/2015
 _Licenciamento_  
 TV Cultura e EBC - TV Brasil
 
-_Para alugar a série no_ [_Vimeo On Demand_](https://vimeo.com/ondemand/afinalquemedeus)
+Para alugar a série no [_Vimeo On Demand_](https://vimeo.com/ondemand/afinalquemedeus)
 
 ***
 
