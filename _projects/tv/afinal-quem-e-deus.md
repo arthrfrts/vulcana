@@ -25,6 +25,8 @@ Edital PRODAV 12/2015
 _Licenciamento_  
 TV Cultura e EBC - TV Brasil
 
+_Para alugar a série no_ [_Vimeo On Demand_](https://vimeo.com/ondemand/afinalquemedeus)
+
 ***
 
 Afinal, quem é Deus? é uma série documental que pretende explorar a visão das crianças sobre espiritualidade. Fugindo de uma narrativa didática sobre ritos e liturgias, o objetivo da série é construir entendimentos através do pensamento lúdico e espontâneo do universo infantil.
