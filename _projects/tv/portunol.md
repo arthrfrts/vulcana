@@ -30,7 +30,7 @@ Lança Filmes
 
 ***
 
-Portuñol faz uma viagem através da cultura fronteiriça do Brasil com seus vizinhos hispanohablantes. O portuñol, essa língua que nasce da intersecção de culturas, é pretexto para falar da gênese da América Latina. Um filme de estrada que no trajeto vai desfazendo limites físicos e desvendando a latinidade que une personagens diversos. Uma viagem de desconstrução que não busca uma resposta, mas sim romper todas as possíveis certezas do que significa existir nas bordas de definições culturais.
+Uma viagem através da cultura fronteiriça do Brasil com seus vizinhos hispanohablantes. A cumbia uruguaia, o rap guarani e a poesia do Portuñol Selvagem se juntam nesse road movie que rompe fronteiras, desvenda latinidades e une personagens diversos.
 
 ***
 
