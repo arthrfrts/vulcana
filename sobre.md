@@ -26,3 +26,5 @@ _Assistente de produção_
 Priscila Severo  
 _Controller Projetos_
 </div>
+
+![](https://www.vulcanacinema.com/uploads/2021/05/whatsapp-image-2021-04-29-at-10-40-39.jpeg)
