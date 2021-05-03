@@ -218,6 +218,12 @@ body {
   Content
 */
 
+.content-body {
+  img {
+    max-width: 100%
+  }
+}
+
 .layout-default {
   padding-top: 48px + $spacing-unit;
 }
