@@ -20,7 +20,7 @@ upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
 use_front_matter_path: true
-file_template: ":year:/:month:/:filename:"
+file_template: ":year:/:month:/:day:/:filename:"
 build:
   preview_env:
   - JEKYLL_ENV=staging
