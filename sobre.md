@@ -2,9 +2,9 @@
 layout: page
 title: Sobre a Vulcana
 permalink: "/sobre/"
-image: "/uploads/2021/05/whatsapp-image-2021-04-29-at-10-40-39.jpeg"
+image: ''
 video:
-  mp4: 'https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/source.mp4'
+  mp4: https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/source.mp4
   gif: ''
 
 ---
