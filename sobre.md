@@ -4,7 +4,7 @@ title: Sobre a Vulcana
 permalink: "/sobre/"
 image: "/uploads/images/5-casas.jpg"
 video:
-  mp4: https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/source.mp4
+  mp4: ''
   gif: ''
 
 ---
