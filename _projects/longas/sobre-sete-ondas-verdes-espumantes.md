@@ -28,7 +28,7 @@ Edital FUMPROARTE
 _Distribuição_  
 Boulevard Filmes
 
-Onde Assistir: [Looke](https://www.looke.com.br/filmes/sobre-sete-ondas-verdes-espumantes) e [iTunes Store](https://itunes.apple.com/br/movie/sobre-sete-ondas-verdes-espumantes/id915809710).
+Onde Assistir: [Looke](https://www.looke.com.br/filmes/sobre-sete-ondas-verdes-espumantes), [Filme Filme](), [Globo Play](https://globoplay.globo.com/sobre-sete-ondas-verdes-espumantes/t/qnFncy817x/), [Canal Curta](https://canalcurta.tv.br/filme/?name=sobre_sete_ondas_verdes_espumantes) e [iTunes Store](https://itunes.apple.com/br/movie/sobre-sete-ondas-verdes-espumantes/id915809710).
 
 ***
 
