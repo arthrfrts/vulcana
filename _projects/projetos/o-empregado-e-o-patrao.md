@@ -23,6 +23,10 @@ Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Muril
 
 ***
 
+## PRINCIPAIS EXIBIÇÕES
+
+* Quinzena dos Realizadores 2021
+
 ## LABS, MERCADOS E EVENTOS
 
 * Festival de San Sebastián 2020 - Work in progress Latam  
