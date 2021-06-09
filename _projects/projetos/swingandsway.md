@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Swing and Sway
+title: Vai e Vem
 image: "/uploads/2021/04/whatsapp-image-2021-04-27-at-11-16-32.jpeg"
 tags: []
 release_year: 2022
@@ -21,6 +21,9 @@ Fernanda Pessoa e Adriana Barbosa
 
 _Coprodução_  
 Vulcana Cinema e Pessoa Produções
+
+_Financiamento_  
+Visions Sud Est
 
 ***
 
