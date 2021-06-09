@@ -3,7 +3,7 @@ layout: project
 title: O empregado e o Patrão
 image: "/uploads/2020/08/eeyep-8.jpg"
 video:
-  mp4: "/uploads/2021/06/09/animated-gif-original.mp4"
+  mp4: "/uploads/2021/06/09/gif3.mp4"
   gif: ''
 tags:
 - featured
