@@ -3,15 +3,15 @@ layout: project
 title: O empregado e o Patrão
 image: "/uploads/2020/08/eeyep-8.jpg"
 video:
-  mp4: ""
-  gif: ""
+  mp4: "/uploads/2021/06/09/animated-gif-original.mp4"
+  gif: ''
 tags:
-  - featured
+- featured
 original_title: El Empleado y el Patrón
 release_year: 2026
-trailer: ""
----
+trailer: ''
 
+---
 Uruguai / Brasil / Argentina / França, Longa-metragem em pós-produção
 
 _Direção_  
