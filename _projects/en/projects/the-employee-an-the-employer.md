@@ -23,6 +23,10 @@ Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Muril
 
 ***
 
+## Main Exhibitions
+
+* Director's Fortnight 2021
+
 ## Labs, Markets and Events
 
 * San Sebastián 2020 - Work in progress Latam  
