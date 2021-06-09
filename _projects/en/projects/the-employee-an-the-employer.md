@@ -21,6 +21,8 @@ Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Muril
 
 ***
 
+The employer is a young man who apparently has everything going on for him except one pressing concern: his baby’s health. The employee is looking for a job to support his newborn too, so does not hesitate when the first decides to hire him to work in his lands. Both will meet their needs by helping each other. But one day an accident happens. This unexpected event will strain the ties between them, endangering the fate of the two families.
+
 ***
 
 ## Main Exhibitions
