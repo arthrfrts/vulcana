@@ -29,10 +29,11 @@ The employer is a young man who apparently has everything going on for him excep
 ## Main Exhibitions
 
 * Director's Fortnight 2021
+* 69º Festival de Cinema de San Sebastian 2021 / Horizontes Latinos / Closing Night Film
 
 ## Labs, Markets and Events
 
-* San Sebastián 2020 / Work in progress Latam  
+* 68º San Sebastián 2020 / Work in progress Latam  
   Best WIP LatAm
 * LoboLab / Mar del Plata Film Festival
 * BrLab
