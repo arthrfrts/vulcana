@@ -29,10 +29,11 @@ O patrão tem tudo garantido na vida, exceto uma preocupação premente: a saúd
 ## PRINCIPAIS EXIBIÇÕES
 
 * Quinzena dos Realizadores 2021
+* 69º Festival de Cinema de San Sebastian 2021 / Horizontes Latinos / Filme de encerramento
 
 ## LABS, MERCADOS E EVENTOS
 
-* Festival de San Sebastián 2020 / Work in progress Latam  
+* 68º Festival de San Sebastián 2020 / Work in progress Latam  
   Melhor WIP LatAm
 * LoboLab / Festival Mar del Plata
 * BrLab
