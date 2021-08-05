@@ -34,3 +34,4 @@ Fernanda é uma brasileira que mora em São Paulo, Adriana é uma mexicana-brasi
 ## Labs, mercados e eventos
 
 * Sheffield Doc/Fest 2021 / 2021 Arts Talent Market Projects
+* 25º Florianópolis Audiovisual Mercosul / Seleção Oficial WIP
