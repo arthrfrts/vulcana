@@ -9,8 +9,8 @@ video:
   gif: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy-downsized.gif"
 tags: []
 trailer: https://vimeo.com/428561170
----
 
+---
 Brazil / Germany, 85 min, HD / DCP, Feature Documentary, 2020
 
 _Directed by_  
@@ -28,21 +28,24 @@ PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und
 _Distribution Brazil_  
 Lança Filmes
 
----
+***
 
 5 HOUSES and 5 interconnected stories. An old teacher struggling to keep her home, a young man bullied for being gay, a nun expelled from the school she used to run, an old farmhand in a haunted farm and a boy whose parents died 20 years ago.
 
----
+***
 
 ## Exhibitions
 
-- IDFA - International Documentary Film Festival Amsterdam / First Appearence Competition
+* IDFA - International Documentary Film Festival Amsterdam / First Appearence Competition
+* Cinélatino 2021 / Découvertes Documentaires
+* Biografilm 2021
+* Queer Lisboa 25 / Queer Art Competition
 
 ## Labs, markets and events
 
-- VI Brasil CineMundi 2015 / International Coproduction Market
-- IDFA Academy 2015
-- Visions Du Réel 2016 / Pitching Du Réel
-- DocMontevideo 2016
-- DOK Leipzig 2016 / Co-pro Market
-- IDFA Summer School 2017
+* VI Brasil CineMundi 2015 / International Coproduction Market
+* IDFA Academy 2015
+* Visions Du Réel 2016 / Pitching Du Réel
+* DocMontevideo 2016
+* DOK Leipzig 2016 / Co-pro Market
+* IDFA Summer School 2017
