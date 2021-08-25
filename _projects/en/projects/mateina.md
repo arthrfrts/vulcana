@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Mateina
-image: "/uploads/images/mateina.jpg"
+image: "/uploads/2021/08/25/mateina_still1_300dpi_fotografa-analia-pollio.jpg"
 release_year: 2020
 
 ---
