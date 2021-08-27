@@ -40,6 +40,7 @@ Lança Filmes
 * Cinélatino 2021 / Découvertes Documentaires
 * Biografilm 2021
 * Queer Lisboa 25 / Competição Queer Art
+* 2021 Festival Internacional de Cine de Viña Del Mar
 
 ## Labs, mercados e eventos
 
