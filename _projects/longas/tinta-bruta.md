@@ -43,8 +43,6 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 * VI Brasil CineMundi / International Coproduction Meeting
 * I PlataformaLAB
 
-***
-
 ## Principais Exibições
 
 * 68ª Berlinale - Festival Internacional de Cinema de Berlim / Panorama / Teddy Award de Melhor Longa-metragem / Prêmio CICAE - Art Cinema Award
