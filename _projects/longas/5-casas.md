@@ -38,9 +38,9 @@ Lança Filmes
 
 * IDFA - Festival Internacional de Documentários de Amsterdã / Competição First Appearence
 * Cinélatino 2021 / Découvertes Documentaires
+* 2021 Festival Internacional de Cine de Viña Del Mar / Mostra Latino Americana de Longa-metragens Documentais / Prêmio PAOA
 * Biografilm 2021
 * Queer Lisboa 25 / Competição Queer Art
-* 2021 Festival Internacional de Cine de Viña Del Mar / Mostra Latino Americana de Longa-metragens Documentais / Prêmio PAOA
 
 ## Labs, mercados e eventos
 
