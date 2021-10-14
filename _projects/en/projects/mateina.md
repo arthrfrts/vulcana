@@ -2,7 +2,7 @@
 layout: project
 title: Mateina
 image: "/uploads/2021/08/25/mateina_still1_300dpi_fotografa-analia-pollio.jpg"
-release_year: 2020
+release_year: 2021
 trailer: https://vimeo.com/631288862
 
 ---

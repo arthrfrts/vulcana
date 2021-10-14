@@ -3,7 +3,7 @@ layout: project
 title: Mateína - A Erva Proibida
 image: "/uploads/2021/08/25/mateina_still1_300dpi_fotografa-analia-pollio.jpg"
 tags: []
-release_year: 2020
+release_year: 2021
 original_title: ''
 trailer: https://vimeo.com/631288862
 video:
