@@ -14,7 +14,7 @@ video:
 Brasil, Longa-metragem documental em pós-produção
 
 _Direção_  
-Fernanda Pessoa e Adriana Barbosa
+Fernanda Pessoa e Chica Barbosa
 
 _Roteiro_  
 Fernanda Pessoa e Adriana Barbosa
@@ -24,6 +24,12 @@ Vulcana Cinema e Pessoa Produções
 
 _Financiamento_  
 Visions Sud Est
+
+_Distribuição_  
+Boulevard Filmes
+
+_Sales_  
+Kino Rebelde
 
 ***
 
