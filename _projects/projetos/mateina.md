@@ -29,6 +29,10 @@ Lança Filmes
 
 ***
 
+## Principais Exibições
+
+* 45ª Mostra Internacional de Cinema em São Paulo / Competição Novos Diretores
+
 ## Labs, mercados e eventos
 
 * San Sebastián / Cine en Construcción 34
