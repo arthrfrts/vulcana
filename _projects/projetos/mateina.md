@@ -22,6 +22,9 @@ Vulcana Cinema (BR), Jengibre Producciones (UY), HC Filmes (AR) e Coelho Voador 
 _Financiamento_  
 Edital ANCINE/ICAU 2016, ICAU Fundo de desenvolvimento, Montevideo Socioaudiovisual / Desenvolvimento, Fundo ICAU 2014 de Produção, FONA, Montevideo Socioaudiovisual / Opera-prima
 
+_Distribuição_  
+Lança Filmes
+
 ***
 
 ***
