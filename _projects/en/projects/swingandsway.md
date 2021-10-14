@@ -36,4 +36,4 @@ Fernanda is a Brazilian living in São Paulo, Adriana is a Mexican-Brazilian liv
 * Sheffield Doc/Fest 2021 / 2021 Arts Talent Market Projects
 * 25º Florianópolis Audiovisual Mercosul / WIP Oficial Selection
 * Arché - Doclisboa 2021
-* 
+* JI.HLAVA NEW VISIONS FORUM: U.S. DOCS
