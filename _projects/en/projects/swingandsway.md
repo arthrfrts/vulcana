@@ -8,16 +8,22 @@ release_year: 2022
 Brazil, documentary in post production
 
 _Directed by_  
-Fernanda Pessoa and Adriana Barbosa
+Fernanda Pessoa and Chica Barbosa
 
 _Written by_  
-Fernanda Pessoa and Adriana Barbosa
+Fernanda Pessoa and Chica Barbosa
 
 _Coproduction_  
 Vulcana Cinema and Pessoa Produções
 
 _Financing_  
 Visions Sud Est
+
+_Distribution_  
+Boulevard Filmes (Brazil)
+
+_Sales_  
+Kino Rebelde
 
 ***
 
