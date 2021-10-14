@@ -17,7 +17,7 @@ _Direção_
 Fernanda Pessoa e Chica Barbosa
 
 _Roteiro_  
-Fernanda Pessoa e Adriana Barbosa
+Fernanda Pessoa e Chica Barbosa
 
 _Coprodução_  
 Vulcana Cinema e Pessoa Produções

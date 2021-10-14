@@ -24,7 +24,7 @@ _Financiamento_
 Edital SEDAC 11 2014
 
 _Distribuição_  
-Art House
+Art House, O2 Play
 
 ***
 
