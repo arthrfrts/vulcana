@@ -5,7 +5,7 @@ image: "/uploads/2021/08/25/mateina_still1_300dpi_fotografa-analia-pollio.jpg"
 release_year: 2020
 
 ---
-Argentina / Brazil / Uruguay, Feature in post production
+Argentina / Brazil / Uruguay, Feature, 2021
 
 _Directed by_  
 Joaquín Peñagaricano and Pablo Abdala
@@ -22,6 +22,10 @@ Edital ANCINE/ICAU 2016, ICAU Fundo de desenvolvimento, Montevideo Socioaudiovis
 ***
 
 ***
+
+## Main Exhibitions
+
+* 45ª São Paulo International Film Festival
 
 ## Labs, Markets and Events
 
