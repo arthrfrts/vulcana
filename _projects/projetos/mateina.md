@@ -5,7 +5,7 @@ image: "/uploads/2021/08/25/mateina_still1_300dpi_fotografa-analia-pollio.jpg"
 tags: []
 release_year: 2020
 original_title: ''
-trailer: ''
+trailer: https://vimeo.com/631288862
 video:
   mp4: ''
   gif: ''
