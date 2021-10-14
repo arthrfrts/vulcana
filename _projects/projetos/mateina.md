@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-Argentina / Brasil / Uruguai, Longa-metragem em pós-produção
+Argentina / Brasil / Uruguai, Longa-metragem, 2021
 
 _Direção e Roteiro_  
 Joaquín Peñagaricano e Pablo Abdala
