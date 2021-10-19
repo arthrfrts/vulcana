@@ -33,7 +33,7 @@ Kino Rebelde
 
 ***
 
-Fernanda é uma brasileira que mora em São Paulo, Adriana é uma mexicana-brasileira que mora em Los Angeles, dois países e cidades diferentes entre si, mas semelhantes no caos político e social que 2020 trouxe sobre elas. Em um período de isolamento, distantes uma da outra, elas se reencontram por meio de video-cartas, inspiradas no olhar poético de dezesseis mulheres cineastas experimentais.
+Duas amigas revelam seus corpos e lentes em um diálogo fílmico enquanto seguem o rastro de cineastas experimentais que vieram antes delas. Separadas pelos hemisférios da América, uma no Brasil e a outra nos Estados Unidos, fluem entre os dilemas de tempos turbulentos: a necessidade de enfrentar os medos do cotidiano, a desconstrução da realidade doméstica, seu lugar no feminismo e o desejo de um encontro.
 
 ***
 
