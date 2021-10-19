@@ -27,7 +27,7 @@ Kino Rebelde
 
 ***
 
-Fernanda is a Brazilian living in São Paulo, Adriana is a Mexican-Brazilian living in Los Angeles, two countries and cities different from each other yet similar in the political and social chaos that 2020 brought upon them. In a period of isolation, far away from each other, they reconnect through video-letters, inspired by the poetic gaze of sixteen women experimental filmmakers.
+Two friends unveil their bodies and lenses in a filmic dialogue while following the trace of women experimental filmmakers that came before them. Separated by America’s hemispheres, one in Brazil and the other in the United States, dilemmas from turbulent times flow between both of them: the need to confront the everyday fears, the deconstruction of the domestic reality, their place in feminism and the desire of an encounter.
 
 ***
 
