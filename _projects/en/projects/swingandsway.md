@@ -27,7 +27,7 @@ Kino Rebelde
 
 ***
 
-Two friends unveil their bodies and lenses in a filmic dialogue while following the trace of women experimental filmmakers that came before them. Separated by America’s hemispheres, one in Brazil and the other in the United States, dilemmas from turbulent times flow between both of them: the need to confront the everyday fears, the deconstruction of the domestic reality, their place in feminism and the desire of an encounter.
+Two friends, one in Brazil and the other in the U.S, engage in a filmic dialogue inspired by the work of women experimental filmmakers, revealing a contemporary portrait of their countries and of the women around them.
 
 ***
 
