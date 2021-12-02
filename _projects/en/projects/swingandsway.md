@@ -27,7 +27,7 @@ Kino Rebelde
 
 ***
 
-Two friends, one in Brazil and the other in the U.S, engage in a filmic dialogue inspired by the work of women experimental filmmakers, revealing a contemporary portrait of their countries and of the women around them.
+Two girlfriends, one in Brazil and the other in the U.S, engage in a filmic dialogue inspired by the work of women experimental filmmakers, revealing a contemporary portrait of their countries and of the women around them.
 
 ***
 
