@@ -43,6 +43,7 @@ Lança Filmes
 * Queer Lisboa 25 / Queer Art Competition
 * 31º Cine Ceará / Feature Ibero-America Session / Best Screen / Best Sound / Best Film
 * XVII Panorama Internacional Coisa de Cinema / Nacional Competition
+* Atlantidoc - Uruguay International Documentary Film Festival
 
 ## Labs, markets and events
 
