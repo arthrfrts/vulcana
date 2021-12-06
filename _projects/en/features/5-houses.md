@@ -41,7 +41,8 @@ Lança Filmes
 * 2021 Viña del Mar International Film Festival / Latin America Feature Documentary Competition / PAOA Award
 * Biografilm 2021
 * Queer Lisboa 25 / Queer Art Competition
-* 31º Cine Ceará
+* 31º Cine Ceará / Feature Ibero-America Session / Best Screen / Best Sound / Best Film
+* XVII Panorama Internacional Coisa de Cinema / Nacional Competition
 
 ## Labs, markets and events
 
