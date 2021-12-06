@@ -42,6 +42,8 @@ Lança Filmes
 * Biografilm 2021
 * Queer Lisboa 25 / Competição Queer Art
 * 31º Cine Ceará
+* Mostra Ibero-americana de Longa-metragem / Melhor Roteiro / Melhor Som / Melhor Filme
+* XVII Panorama Internacional Coisa de Cinema / Competitiva Nacional
 
 ## Labs, mercados e eventos
 
