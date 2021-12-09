@@ -41,9 +41,8 @@ Lança Filmes
 * 2021 Festival Internacional de Cine de Viña Del Mar / Mostra Latino Americana de Longa-metragens Documentais / Prêmio PAOA
 * Biografilm 2021
 * Queer Lisboa 25 / Competição Queer Art
-* 31º Cine Ceará
-* Mostra Ibero-americana de Longa-metragem / Melhor Roteiro / Melhor Som / Melhor Filme
-* XVII Panorama Internacional Coisa de Cinema / Competitiva Nacional
+* 31º Cine Ceará / Mostra Ibero-americana de Longa-metragem / Melhor Roteiro / Melhor Som / Melhor Filme
+* XVII Panorama Internacional Coisa de Cinema / Competitiva Nacional / Melhor Filme da Competitiva Nacional pelo Júri Jovem
 * Atlantidoc - Festival Internacional de Cinema Documental do Uruguay
 
 ## Labs, mercados e eventos
