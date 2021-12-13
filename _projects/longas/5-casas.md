@@ -43,7 +43,7 @@ Lança Filmes
 * Queer Lisboa 25 / Competição Queer Art
 * 31º Cine Ceará / Mostra Ibero-americana de Longa-metragem / Melhor Roteiro / Melhor Som / Melhor Filme
 * XVII Panorama Internacional Coisa de Cinema / Competitiva Nacional / Melhor Filme da Competitiva Nacional pelo Júri Jovem
-* Atlantidoc - Festival Internacional de Cinema Documental do Uruguay / Melhor Documentário pela Associação de Críticos Cinematográficos do Uruguai
+* Atlantidoc - Festival Internacional de Cinema Documental do Uruguay / Prêmio Melhor Documentário pela Associação de Críticos Cinematográficos do Uruguai
 
 ## Labs, mercados e eventos
 
