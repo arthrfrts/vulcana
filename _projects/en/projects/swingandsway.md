@@ -27,7 +27,7 @@ Kino Rebelde
 
 ***
 
-Two girlfriends, one in Brazil and the other in the U.S, engage in a filmic dialogue inspired by the work of women experimental filmmakers, revealing a contemporary portrait of their countries and of the women around them.
+As a counterpoint to a virtual and (dis)connected world two girlfriends engage in a filmic provocation under their own rules. A swing and sway that in ominous times becomes a dance of resistance.
 
 ***
 
