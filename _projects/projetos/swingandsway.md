@@ -33,7 +33,7 @@ Kino Rebelde
 
 ***
 
-Duas amigas revelam seus corpos e lentes em um diálogo fílmico enquanto seguem o rastro de cineastas experimentais que vieram antes delas. Separadas pelos hemisférios da América, uma no Brasil e a outra nos Estados Unidos, fluem entre os dilemas de tempos turbulentos: a necessidade de enfrentar os medos do cotidiano, a desconstrução da realidade doméstica, seu lugar no feminismo e o desejo de um encontro.
+Como contraponto ao mundo virtual e (des)conectado, duas amigas criam uma provocação fílmica seguindo suas normas. Um vai e vem que em tempos turbulentos se torna uma dança de resistência.
 
 ***
 
