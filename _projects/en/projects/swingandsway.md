@@ -22,9 +22,6 @@ Visions Sud Est
 _Distribution_  
 Boulevard Filmes (Brazil)
 
-_Sales_  
-Kino Rebelde
-
 ***
 
 As a counterpoint to a virtual and (dis)connected world two girlfriends engage in a filmic provocation under their own rules. A swing and sway that in ominous times becomes a dance of resistance.
