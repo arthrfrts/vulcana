@@ -28,9 +28,6 @@ Visions Sud Est
 _Distribuição_  
 Boulevard Filmes
 
-_Sales_  
-Kino Rebelde
-
 ***
 
 Como contraponto ao mundo virtual e (des)conectado, duas amigas criam uma provocação fílmica seguindo suas normas. Um vai e vem que em tempos turbulentos se torna uma dança de resistência.
