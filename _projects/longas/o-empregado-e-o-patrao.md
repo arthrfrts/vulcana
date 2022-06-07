@@ -30,6 +30,37 @@ O patrão tem tudo garantido na vida, exceto uma preocupação premente: a saúd
 
 * Quinzena dos Realizadores 2021
 * 69º Festival de Cinema de San Sebastian 2021 / Horizontes Latinos / Filme de encerramento
+* Festival Internacional de Cinema de Atenas
+* Festival de Cinema Latino Americano de Biarritz
+* Black Movie Film Festival
+* Festival Internacional de Cinema de Bogotá
+* Festival Internacional de Cinema de Chennai
+* Cineuropa Santiago De Compostela
+* D'a Film Festival
+* Festival de Cinema de Malaga
+* Festival de Cinema de Punta Del Este
+* Festival de Cinema Global da Republica Dominicana
+* Festival de Cinema Iberoamericano De Huelva
+* Festival de Mons
+* Festival Internacional de Cinema de Guadalajara
+* Festival Internacional de Cinema de Guanajuato
+* Festival Internacional de Cinema de Hamptons
+* Festival Internacional de Cinema de Hong Kong
+* Festival Internacional de Cinema de Kerala
+* Festival Internacional de Cinema de Jerusalem
+* Festival Internacional de Cinema de Karlovy Vary
+* Lichter Filmkulture
+* Festival Internacional de Cinema de Mannheim-Heidelberg
+* Festival Internacional de Cinema de Miami
+* Festival Internacional de Cinema de Munich
+* Festival Internacional de Cinema de New Horizons
+* Festival Internacional de Cinema de New Zealand
+* Festival Internacional de Cinema de San Francisco
+* Festival de Cinema Tallinn Black Nights
+* Festival Internacional de Cinema de Thessaloniki
+* Festival Internacional de Cinema de Transilvania
+* Festival de Cinema de Warsaw
+* Festival de Cinema de Zurich
 
 ## LABS, MERCADOS E EVENTOS
 
