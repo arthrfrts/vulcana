@@ -3,7 +3,7 @@ layout: project
 title: Swing and Sway
 image: "/uploads/2021/04/whatsapp-image-2021-04-27-at-11-16-32.jpeg"
 release_year: 2022
-trailer: https://vimeo.com/711409698/240afd5e7b
+trailer: https://vimeo.com/711409698
 
 ---
 Brazil, 82 minutes, feature documentary, DCP, 2022
