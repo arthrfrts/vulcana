@@ -27,3 +27,7 @@ Rumos Itaú Cultural 2018
 * GenderLAB - Laboratory inside the Gender Perspective International Film Festival - Project Development Laboratory
 * Taller Andino - Project Development Laboratory
 * 51º Brasilia Film Festival / 2º Ambiente de Mercado -  Pitching and Meetings
+
+## Main Exhibitions
+
+* Olhar de Cinema - Curitiba IFF / Mirada Paraense
