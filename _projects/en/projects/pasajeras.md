@@ -2,11 +2,11 @@
 layout: project
 title: Pasajeras
 image: "/uploads/images/pasajeras.jpg"
-release_year: 2022
+release_year: 2021
 trailer: https://vimeo.com/540148948
 
 ---
-Brazil, 73 minutes, feature documentary, DCP, 2022
+Brazil, 73 minutes, feature documentary, DCP, 2021
 
 _Directed and written by_  
 Fran Rebelatto
