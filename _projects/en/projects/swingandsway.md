@@ -34,3 +34,8 @@ As a counterpoint to a virtual and (dis)connected world two girlfriends engage i
 * 25º Florianópolis Audiovisual Mercosul / WIP Oficial Selection
 * Arché - Doclisboa 2021
 * JI.HLAVA NEW VISIONS FORUM: U.S. DOCS
+
+## Main Exhibitions
+
+* Olhar de Cinema - Curitiba IFF / Opening Film
+* Sheffield DocFest / International Competition
