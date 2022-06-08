@@ -6,7 +6,7 @@ release_year: 2022
 trailer: https://vimeo.com/711409698/240afd5e7b
 
 ---
-Brazil, documentary in post production
+Brazil, 82 minutes, feature documentary, DCP, 2022
 
 _Directed by_  
 Fernanda Pessoa and Chica Barbosa
@@ -22,6 +22,9 @@ Visions Sud Est
 
 _Distribution_  
 Boulevard Filmes (Brazil)
+
+_International Sales_  
+Utopia Docs
 
 ***
 

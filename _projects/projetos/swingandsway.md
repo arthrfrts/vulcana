@@ -28,7 +28,7 @@ Visions Sud Est, Spcine
 _Distribuição_  
 Boulevard Filmes
 
-_Sales internacional_  
+_Sales Internacional_  
 Utopia Docs
 
 ***
