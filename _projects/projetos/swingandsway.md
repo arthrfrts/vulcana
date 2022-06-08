@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-Brasil, Longa-metragem documental em pós-produção
+Brasil, , 82 minutos, Longa-metragem documental, DCP, 2022
 
 _Direção_  
 Fernanda Pessoa e Chica Barbosa
