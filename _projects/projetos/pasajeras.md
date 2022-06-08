@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-Brasil, Longa-metragem em pós-produção
+Brasil, 73 min, longa-metragem documental, DCP, 2022
 
 _Direção e Roteiro_  
 Fran Rebelatto
@@ -23,6 +23,8 @@ _Financiamento_
 Rumos Itaú Cultural 2018
 
 ***
+
+Mulheres "paseras" que vivem e se deslocam em territórios de fronteira, personagens que se fazem no chão entre Brasil e Paraguai. Todos os dias de um lado a outro do rio Paraná elas carregam sobrevivência e sonhos.
 
 ***
 
