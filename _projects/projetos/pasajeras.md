@@ -37,3 +37,6 @@ Rumos Itaú Cultural 2018
   2º Ambiente de Mercado
 * FAM2020  
   Mostra WIP
+
+  ## Principais Exibições
+  * 11º Olhar de Cinema – Festival Internacional de Curitiba / Mirada Paraense
