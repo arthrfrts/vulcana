@@ -5,7 +5,7 @@ image: "/uploads/images/pasajeras.jpg"
 tags: []
 release_year: 2021
 original_title: ''
-trailer: ''
+trailer: https://vimeo.com/540148948
 video:
   mp4: ''
   gif: ''
