@@ -23,10 +23,13 @@ _Coprodução_
 Vulcana Cinema e Pessoa Produções
 
 _Financiamento_  
-Visions Sud Est
+Visions Sud Est, Spcine
 
 _Distribuição_  
 Boulevard Filmes
+
+_Sales internacional_  
+Utopia Docs
 
 ***
 
