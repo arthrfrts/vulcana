@@ -11,7 +11,7 @@ video:
   gif: ''
 
 ---
-Brasil, 73 min, longa-metragem documental, DCP, 2022
+Brasil, 73 min, longa-metragem documental, DCP, 2021
 
 _Direção e Roteiro_  
 Fran Rebelatto
