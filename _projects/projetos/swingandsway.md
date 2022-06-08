@@ -42,3 +42,8 @@ Como contraponto ao mundo virtual e (des)conectado, duas amigas criam uma provoc
 * 25º Florianópolis Audiovisual Mercosul / Seleção Oficial WIP
 * Arché - Doclisboa 2021
 * JI.HLAVA NEW VISIONS FORUM: U.S. DOCS
+
+## Principais Exibições
+
+* 11º Olhar de Cinema – Festival Internacional de Curitiba / Filme de Abertura
+* Sheffield DocFest / Competição Internacional
