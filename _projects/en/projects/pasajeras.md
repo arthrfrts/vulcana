@@ -5,7 +5,7 @@ image: "/uploads/images/pasajeras.jpg"
 release_year: 2021
 
 ---
-Brazil, Feature in post production
+Brazil, 73 minutes, feature documentary, DCP, 2022
 
 _Directed and written by_  
 Fran Rebelatto
@@ -17,6 +17,8 @@ _Financing_
 Rumos Itaú Cultural 2018
 
 ***
+
+Women cross-border commuters, locally known as paseras, live and move along the borderlands, creating themselves on the ground between Brazil and Paraguay. In their daily travels across the Paraná River, they carry survival and dreams.
 
 ***
 
