@@ -3,76 +3,89 @@ label: Project
 hide_body: false
 display_field: title
 fields:
-- type: text
-  name: layout
-  label: layout
-  hidden: true
-  default: project
-  config:
-    required: true
-- type: text
-  name: title
-  label: Title
-  config:
-    required: true
-- name: original_title
-  type: text
-  config:
-    required: false
-  label: Original Title
-- type: number
-  name: release_year
-  label: Release Year
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
-- type: file
-  name: image
-  label: Featured Image
-- type: text
-  name: trailer
-  label: Trailer
-- type: field_group
-  name: video
-  label: Cover Video
-  fields:
-  - name: mp4
-    type: file
+  - type: text
+    name: layout
+    label: layout
+    hidden: true
+    default: project
     config:
-      maxSize: 10
-    label: MP4 video file
-    description: You can use a GIPHY-generated file.
-  - name: gif
-    type: file
+      required: true
+  - type: text
+    name: title
+    label: Title
     config:
-      maxSize: 5
-    label: GIF file
-    description: You can use a GIPHY-generated file.
+      required: true
+  - name: original_title
+    type: text
+    config:
+      required: false
+    label: Original Title
+  - name: category
+    type: select
+    label: Category
+    config:
+      required: true
+      source:
+        type: custom
+      options:
+        - longas
+        - curtas
+        - features
+        - shorts
+        - tv
+  - type: number
+    name: release_year
+    label: Release Year
+  - name: tags
+    type: tag_list
+    default: []
+    label: Tags
+  - type: file
+    name: image
+    label: Featured Image
+  - type: text
+    name: trailer
+    label: Trailer
+  - type: field_group
+    name: video
+    label: Cover Video
+    fields:
+      - name: mp4
+        type: file
+        config:
+          maxSize: 10
+        label: MP4 video file
+        description: You can use a GIPHY-generated file.
+      - name: gif
+        type: file
+        config:
+          maxSize: 5
+        label: GIF file
+        description: You can use a GIPHY-generated file.
 pages:
-- _projects/curtas/a-ultima-foto.md
-- _projects/curtas/deserto-estrangeiro.md
-- _projects/curtas/linda-uma-historia-horrivel.md
-- _projects/curtas/metade-homem-metade-fantasma.md
-- _projects/curtas/o-teto-sobre-nos.md
-- _projects/curtas/princesa-morta-do-jacui.md
-- _projects/curtas/um-corpo-feminino.md
-- _projects/curtas/vida-como-rizoma.md
-- _projects/en/projects/matias.md
-- _projects/en/projects/memorias-de-um-esclerosado.md
-- _projects/longas/castanha.md
-- _projects/longas/o-ultimo-poema.md
-- _projects/longas/sobre-sete-ondas-verdes-espumantes.md
-- _projects/projetos/baroes-detras-do-morro.md
-- _projects/projetos/casa-no-campo.md
-- _projects/projetos/de-guine.md
-- _projects/projetos/matias.md
-- _projects/projetos/memorias-de-um-esclerosado.md
-- _projects/projetos/o-acidente.md
-- _projects/projetos/pasajeras.md
-- _projects/projetos/swingandsway.md
-- _projects/tv/afinal-quem-e-deus.md
-- _projects/tv/banalidade-do-mal.md
-- _projects/tv/o-ninho.md
-- _projects/tv/ocidentes.md
-- _projects/tv/portunol.md
+  - _projects/curtas/a-ultima-foto.md
+  - _projects/curtas/deserto-estrangeiro.md
+  - _projects/curtas/linda-uma-historia-horrivel.md
+  - _projects/curtas/metade-homem-metade-fantasma.md
+  - _projects/curtas/o-teto-sobre-nos.md
+  - _projects/curtas/princesa-morta-do-jacui.md
+  - _projects/curtas/um-corpo-feminino.md
+  - _projects/curtas/vida-como-rizoma.md
+  - _projects/en/projects/matias.md
+  - _projects/en/projects/memorias-de-um-esclerosado.md
+  - _projects/longas/castanha.md
+  - _projects/longas/o-ultimo-poema.md
+  - _projects/longas/sobre-sete-ondas-verdes-espumantes.md
+  - _projects/projetos/baroes-detras-do-morro.md
+  - _projects/projetos/casa-no-campo.md
+  - _projects/projetos/de-guine.md
+  - _projects/projetos/matias.md
+  - _projects/projetos/memorias-de-um-esclerosado.md
+  - _projects/projetos/o-acidente.md
+  - _projects/projetos/pasajeras.md
+  - _projects/projetos/swingandsway.md
+  - _projects/tv/afinal-quem-e-deus.md
+  - _projects/tv/banalidade-do-mal.md
+  - _projects/tv/o-ninho.md
+  - _projects/tv/ocidentes.md
+  - _projects/tv/portunol.md

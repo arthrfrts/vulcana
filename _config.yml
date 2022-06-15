@@ -24,7 +24,7 @@ collections:
   projects:
     output: true
     permalink: "/:path/"
-    
+
 defaults:
   - scope:
       path: ""
@@ -44,7 +44,7 @@ defaults:
       path: "en"
     values:
       lang: "en"
-      
+
 # Plugins
 plugins:
   - jekyll-seo-tag
