@@ -9,6 +9,8 @@ original_title: El Empleado y el Patrón
 release_year: 2026
 trailer: ''
 category: longas
+tags:
+- featured
 
 ---
 Uruguai / Brasil / Argentina / França, Longa-metragem, 2021
