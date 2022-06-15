@@ -9,6 +9,8 @@ video:
   mp4: ''
   gif: ''
 category: features
+tags:
+- featured
 
 ---
 Uruguay / Brazil / Argentina / France, Fiction, 2021
