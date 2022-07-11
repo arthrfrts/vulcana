@@ -10,7 +10,6 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
-published: false
 
 ---
 Brazil, 1 season with 5 episodes, in post production.
