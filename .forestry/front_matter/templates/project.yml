@@ -62,3 +62,5 @@ fields:
       maxSize: 5
     label: GIF file
     description: You can use a GIPHY-generated file.
+pages:
+- _projects/vozes-em-disputa.md
