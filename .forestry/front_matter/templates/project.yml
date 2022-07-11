@@ -63,4 +63,5 @@ fields:
     label: GIF file
     description: You can use a GIPHY-generated file.
 pages:
+- _projects/en/vozes-em-disputa.md
 - _projects/vozes-em-disputa.md
