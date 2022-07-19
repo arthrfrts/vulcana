@@ -3,7 +3,7 @@ layout: project
 tags: []
 title: Vozes em Disputa
 original_title: ''
-category: tv
+category: projetos
 release_year: 2023
 image: "/uploads/2022/07/11/screen-shot-2022-07-11-at-15-57-50.png"
 trailer: ''
