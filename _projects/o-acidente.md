@@ -30,17 +30,20 @@ Tokyo Filmes e Vulcana Cinema
 _Financiamento_  
 Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
 
----
+***
 
----
+***
+
+## Principais Exibições
+
+* Festival do Rio 2022 / Première Brasil - Novos Rumos
 
 ## Labs, Mercados e Eventos
 
-- Torino Film Lab Script Lab 2018  
+* Torino Film Lab Script Lab 2018  
   Laboratório de desenvolvimento de roteiro
-- Málaga Work in Progress - MAFIZ
-- FICCI 60 / Puerto Lab
+* Málaga Work in Progress - MAFIZ
+* FICCI 60 / Puerto Lab
 
   Prêmio Infra Rojo
-
-- Curitiba LAB
+* Curitiba LAB
