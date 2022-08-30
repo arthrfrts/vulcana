@@ -2,16 +2,16 @@
 layout: project
 tags: []
 title: Memórias de um Esclerosado
-original_title: ""
-release_year:
+original_title: ''
+release_year: 2027
 image: "/uploads/2020/12/memorias_para-site.jpg"
-trailer: ""
+trailer: ''
 video:
-  mp4: ""
-  gif: ""
+  mp4: ''
+  gif: ''
 category: projetos
----
 
+---
 Brasil, Longa-metragem em produção
 
 _Direção e Roteiro_  
