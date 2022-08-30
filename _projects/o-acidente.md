@@ -4,7 +4,7 @@ title: O Acidente
 image: "/uploads/images/o-acidente.jpg"
 tags:
 - featured
-release_year: 2027
+release_year: ''
 original_title: ''
 trailer: ''
 video:
