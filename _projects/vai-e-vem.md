@@ -32,23 +32,22 @@ Boulevard Filmes
 _Sales Internacional_  
 Utopia Docs
 
----
+***
 
 Como contraponto ao mundo virtual e (des)conectado, duas amigas criam uma provocação fílmica seguindo suas normas. Um vai e vem que em tempos turbulentos se torna uma dança de resistência.
 
----
-
-## Labs, mercados e eventos
-
-- Sheffield Doc/Fest 2021
-
-  2021 Arts Talent Market Projects
-
-- 25º Florianópolis Audiovisual Mercosul / Seleção Oficial WIP
-- Arché - Doclisboa 2021
-- JI.HLAVA NEW VISIONS FORUM: U.S. DOCS
+***
 
 ## Principais Exibições
 
-- 11º Olhar de Cinema – Festival Internacional de Curitiba / Filme de Abertura
-- Sheffield DocFest / Competição Internacional
+* 11º Olhar de Cinema – Festival Internacional de Curitiba / Filme de Abertura
+* Sheffield DocFest / Competição Internacional
+
+## Labs, mercados e eventos
+
+* Sheffield Doc/Fest 2021
+
+  2021 Arts Talent Market Projects
+* 25º Florianópolis Audiovisual Mercosul / Seleção Oficial WIP
+* Arché - Doclisboa 2021
+* JI.HLAVA NEW VISIONS FORUM: U.S. DOCS
