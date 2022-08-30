@@ -3,7 +3,7 @@ layout: project
 title: The Accident
 original_title: O Acidente
 image: "/uploads/images/o-acidente.jpg"
-release_year: 2027
+release_year: ''
 tags: featured
 category: features
 
