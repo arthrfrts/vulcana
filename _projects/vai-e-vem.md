@@ -44,6 +44,7 @@ Como contraponto ao mundo virtual e (des)conectado, duas amigas criam uma provoc
 * Sheffield DocFest / Competição Internacional
 * 16a CineBH - Mostra Internacional de Cinema de Belo Horizonte / Mostra Latino-Americana
 * 12ª GuadaLAjara Film Festival
+* 27º Festival Internacional de Cinema de Kerala
 
 ## Labs, mercados e eventos
 
