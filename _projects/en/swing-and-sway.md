@@ -41,6 +41,7 @@ As a counterpoint to a virtual and (dis)connected world two girlfriends engage i
 * 16a CineBH - International Film Festival / Mostra Latino-Americana
 * 12ª GuadaLAjara Film Festival
 * 27º International Film Festival of Kerala
+* Pravo Ljudski Film Festival
 
 ## Labs, markets and events
 
