@@ -42,6 +42,7 @@ Como contraponto ao mundo virtual e (des)conectado, duas amigas criam uma provoc
 
 * 11º Olhar de Cinema – Festival Internacional de Curitiba / Filme de Abertura
 * Sheffield DocFest / Competição Internacional
+* 16a CineBH - Mostra Internacional de Cinema de Belo Horizonte / Mostra Latino-Americana
 
 ## Labs, mercados e eventos
 
