@@ -46,6 +46,7 @@ Lança Filmes
 * 31º Cine Ceará / Mostra Ibero-americana de Longa-metragem / Melhor Roteiro / Melhor Som / Melhor Filme
 * XVII Panorama Internacional Coisa de Cinema / Competitiva Nacional / Melhor Filme da Competitiva Nacional pelo Júri Jovem
 * Atlantidoc - Festival Internacional de Cinema Documental do Uruguay / Prêmio Melhor Documentário pela Associação de Críticos Cinematográficos do Uruguai
+* 16a CineBH - Mostra Internacional de Cinema de Belo Horizonte / Mostra CineMundi
 
 ## Labs, mercados e eventos
 
