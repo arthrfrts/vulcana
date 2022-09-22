@@ -28,20 +28,21 @@ Boulevard Filmes (Brazil)
 _International Sales_  
 Utopia Docs
 
----
+***
 
 As a counterpoint to a virtual and (dis)connected world two girlfriends engage in a filmic provocation under their own rules. A swing and sway that in ominous times becomes a dance of resistance.
 
----
-
-## Labs, markets and events
-
-- Sheffield Doc/Fest 2021 / 2021 Arts Talent Market Projects
-- 25º Florianópolis Audiovisual Mercosul / WIP Oficial Selection
-- Arché - Doclisboa 2021
-- JI.HLAVA NEW VISIONS FORUM: U.S. DOCS
+***
 
 ## Main Exhibitions
 
-- Olhar de Cinema - Curitiba IFF / Opening Film
-- Sheffield DocFest / International Competition
+* Olhar de Cinema - Curitiba IFF / Opening Film
+* Sheffield DocFest / International Competition
+* 16a CineBH - International Film Festival / Mostra Latino-Americana
+
+## Labs, markets and events
+
+* Sheffield Doc/Fest 2021 / 2021 Arts Talent Market Projects
+* 25º Florianópolis Audiovisual Mercosul / WIP Oficial Selection
+* Arché - Doclisboa 2021
+* JI.HLAVA NEW VISIONS FORUM: U.S. DOCS
