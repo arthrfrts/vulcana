@@ -39,6 +39,7 @@ As a counterpoint to a virtual and (dis)connected world two girlfriends engage i
 * Olhar de Cinema - Curitiba IFF / Opening Film
 * Sheffield DocFest / International Competition
 * 16a CineBH - International Film Festival / Mostra Latino-Americana
+* 12ª GuadaLAjara Film Festival
 
 ## Labs, markets and events
 
