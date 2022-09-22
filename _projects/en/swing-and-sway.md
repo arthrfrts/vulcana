@@ -40,6 +40,7 @@ As a counterpoint to a virtual and (dis)connected world two girlfriends engage i
 * Sheffield DocFest / International Competition
 * 16a CineBH - International Film Festival / Mostra Latino-Americana
 * 12ª GuadaLAjara Film Festival
+* 27º Festival Internacional de Cinema de Kerala
 
 ## Labs, markets and events
 
