@@ -46,6 +46,7 @@ Lança Filmes
 * 31º Cine Ceará / Feature Ibero-America Session / Best Screen / Best Sound / Best Film
 * XVII Panorama Internacional Coisa de Cinema / Nacional Competition
 * Atlantidoc - Uruguay International Documentary Film Festival / Best Documentary by the Uruguayan Association of Film Critics
+* 16a CineBH - International Film Festival / Mostra CineMundi
 
 ## Labs, markets and events
 
