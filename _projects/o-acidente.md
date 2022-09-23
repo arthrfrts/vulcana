@@ -36,6 +36,7 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 
 ## Principais Exibições
 
+* 32º Cine Ceará / Mostra Competitiva Ibero-Americana de Longa-Metragens
 * Festival do Rio 2022 / Première Brasil - Novos Rumos
 
 ## Labs, Mercados e Eventos
