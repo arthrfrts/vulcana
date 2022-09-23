@@ -31,6 +31,7 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 
 ## Main Exhibitions
 
+* 32º Cine Ceará / Ibero-American Feature
 * Rio de Janeiro IFF / Première Brasil
 
 ## Labs, Market and Events
