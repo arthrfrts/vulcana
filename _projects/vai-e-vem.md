@@ -5,7 +5,7 @@ image: "/uploads/2021/04/whatsapp-image-2021-04-27-at-11-16-32.jpeg"
 tags: []
 release_year: 2022
 original_title: ''
-trailer: https://vimeo.com/711409698
+trailer: ''
 video:
   mp4: ''
   gif: ''
