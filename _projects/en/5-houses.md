@@ -47,6 +47,7 @@ Lança Filmes
 * XVII Panorama Internacional Coisa de Cinema / Nacional Competition
 * Atlantidoc - Uruguay International Documentary Film Festival / Best Documentary by the Uruguayan Association of Film Critics
 * 16a CineBH - International Film Festival / Mostra CineMundi
+* XIII International Festival of Frontier Cinema / Best Film / Honorable Mention Editing / Best Film by the Audience
 
 ## Labs, markets and events
 
