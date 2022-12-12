@@ -47,6 +47,7 @@ Lança Filmes
 * XVII Panorama Internacional Coisa de Cinema / Competitiva Nacional / Melhor Filme da Competitiva Nacional pelo Júri Jovem
 * Atlantidoc - Festival Internacional de Cinema Documental do Uruguay / Prêmio Melhor Documentário pela Associação de Críticos Cinematográficos do Uruguai
 * 16a CineBH - Mostra Internacional de Cinema de Belo Horizonte / Mostra CineMundi
+* XIII Festival de Cinema da Fronteira / Melhor Filme / Menção Honrosa de Montagem / Prêmio do Júri Popular
 
 ## Labs, mercados e eventos
 
