@@ -33,6 +33,8 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 
 * 32º Cine Ceará / Ibero-American Feature
 * Rio de Janeiro IFF / Première Brasil
+* 26º Tallinn Black Nights - First Feature Competition
+* 40th Torino Film Festival
 
 ## Labs, Market and Events
 
