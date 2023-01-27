@@ -38,6 +38,8 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 
 * 32º Cine Ceará / Mostra Competitiva Ibero-Americana de Longa-Metragens
 * Festival do Rio 2022 / Première Brasil - Novos Rumos
+* 26º Tallinn Black Nights - First Feature Competition
+* 40º Festival de Cinema de Torino
 
 ## Labs, Mercados e Eventos
 
