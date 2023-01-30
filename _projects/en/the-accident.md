@@ -41,7 +41,7 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 * Torino Film Lab Script Lab 2018  
   Script Lab
 * Málaga Work in Progress - MAFIZ
-* FICCI 60 / Puerto Lab
+* Cartagena International Film Festival 60 / Puerto Lab
 
   Infra Rojo Award
 * Curitiba LAB
