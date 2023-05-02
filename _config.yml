@@ -1,6 +1,6 @@
 ---
 title: Vulcana Cinema
-timezone: UTC
+timezone: America/Sao_Paulo
 collections:
   posts:
     title: Posts
@@ -35,7 +35,7 @@ email: vulcanacinema@gmail.com
 description: Vulcana Cinema é uma produtora brasileira focada em cinema de autor,
   primeiros longas e no mercado internacional.
 address: "Rua Castro Alves, 163  \nPorto Alegre, RS — Brasil\n\n"
-baseurl: ''
+baseurl: 
 url: https://vulcanacinema.com
 lang: pt-BR
 logo: "/assets/images/logo.png"
