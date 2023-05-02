@@ -15,7 +15,6 @@ logo: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
-permalink: "/:tags/:title/"
 
 include:
   - _headers
@@ -23,7 +22,7 @@ include:
 collections:
   projects:
     output: true
-    permalink: "/:collection/:title/"
+    permalink: "/projects/:title/"
 
 defaults:
   - scope:
