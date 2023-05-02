@@ -9,10 +9,18 @@ Setting the projects
 {%- assign archive_tag = page.path | split: '.' | first | split: "/" | last -%}
 
 {%- assign current_language = page.lang | default: site.lang -%}
-{%- assign archive_projects = site.projects | where_exp: "project", "project.category contains archive_tag" | where:
+{%- assign archive_projects = site.projects | where_exp: "project", "project.categories contains archive_tag" | where:
 "lang", current_language | sort: "release_year" | reverse -%}
 
 {%- assign featured_project = archive_projects | where_exp: "project","project.tags contains 'featured'" | first -%}
+
+
+{{ archive_tag }}
+{{ current_language }}
+{% for project in site.projects %}
+  {{ project.category }}
+{% endfor %}
+
 
 {% comment %}
 The Layout itself

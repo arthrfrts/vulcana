@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Happy Jekylling!
-gem "jekyll", "~> 4.1"
+gem "jekyll", "~> 4.3"
 
 group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.7"
@@ -14,5 +14,3 @@ install_if -> { Gem.win_platform? } do
   gem "tzinfo", "~> 2.0.4"
   gem "tzinfo-data"
 end
-
-gem "webrick", "~> 1.7"
