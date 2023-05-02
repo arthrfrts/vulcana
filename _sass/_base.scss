@@ -1,0 +1,68 @@
+/*
+  Setting some scaffolding styles.
+*/
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+  Basic styling for text elements
+*/
+
+body {
+  color: $color-text;
+  background-color: $color-background;
+  font: #{$base-font-weight} #{$base-font-size}/#{$base-line-height} $base-font-family;
+}
+
+// Links
+a {
+  color: $color-text;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+  
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+// Media
+svg, img {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+/*
+  Text Elements
+*/
+
+p, ul, ol, dl,
+h1, h2, h3, h4, h5, h6,
+blockquote {
+  margin-top: calc($spacing-unit / 2);
+  margin-bottom: calc($spacing-unit / 2);
+}
+
+// Lists
+
+ul, ol, dl {
+  margin-left: $spacing-unit;
+}

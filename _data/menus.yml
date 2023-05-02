@@ -1,0 +1,30 @@
+en:
+  - title: Features
+    url: "/en/features/"
+  - title: Shorts
+    url: "/en/shorts/"
+  - title: TV
+    url: "/en/tv/"
+  - title: Projects
+    url: "/en/projects/"
+  - title: About
+    url: "/en/about/"
+pt-BR:
+  - title: "Longas"
+    url: "/longas/"
+  - title: "Curtas"
+    url: "/curtas/"
+  - title: "TV"
+    url: "/tv/"
+  - title: Projetos
+    url: "/projetos/"
+  - title: "Sobre"
+    url: "/sobre/"
+lang:
+  - title: English
+    url: "/en/"
+    lang: en
+  - title: Português
+    url: "/"
+    lang: pt-BR
+  

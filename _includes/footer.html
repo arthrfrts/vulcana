@@ -1,0 +1,41 @@
+<footer class="colophon">
+  <div class="wrap">
+    <div class="widget about">
+      <h4>{{- site.title -}}</h4>
+      {%- if site.address -%}
+        {{ site.address | markdownify }}
+      {%- endif -%}
+      {%- if site.email -%}
+        <a class="email-link" href="{{- site.email | prepend: 'mailto:' -}}">{{- site.email -}}</a>
+      {%- endif -%}
+    </div>
+    
+    {%- if site.social.links -%}
+      <div class="widget social">
+        <h4>{%- if page.lang == "en" -%}Follow Us{%- else -%}Siga-nos{%- endif -%}</h4>
+      
+        {%- for social_link in site.social.links -%}
+          <a href="{{ social_link }}" rel="external" target="_blank">
+            {%- assign service = social_link | remove: "www." | split: ".com" | first | split: "//" | last -%}
+            
+            {%- include social.svg service=service -%}
+          </a>
+        {%- endfor -%}
+      </div>
+    {% endif %}
+    
+    {%- if site.menus.lang -%}
+      <nav class="widget langs">
+        <ul>
+          {%- for lang in site.menus.lang -%}
+            <li>
+              <a href="{{ lang.url }}" hreflang="{{ lang.code }}">
+                {{ lang.title }}
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </nav>
+    {%- endif -%}
+  </div>
+</footer>

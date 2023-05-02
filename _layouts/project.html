@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<script>
+console.dir({{ page.video | jsonify }});
+</script>
+
+<article class="project content">
+  <header class="content-header wrap">
+    {%- include page/cover.html -%}
+    
+    <div class="inner">
+      <h1 class="content-title">
+        {{- page.title -}}
+      </h1>
+    
+      {%- if page.trailer and page.trailer != "" -%}
+        <a class="trailer-anchor" href="#project-trailer">
+          {%- if page.lang == "en" -%}
+            View trailer
+          {%- else -%}
+            Assista ao trailer
+          {%- endif -%}
+        </a>
+      {%- endif -%}
+    </div>
+  </header>
+  
+  <div class="inner content">
+    
+    {% assign project_info = "" %}
+    {% assign project_summary = "" %}
+    {% assign awards_list = "" %}
+    
+    {%- if content contains "<hr />" -%}
+      {%- assign project_contents = content | split: "<hr />" -%}
+      
+      {%- for section in project_contents -%}
+        {%- if forloop.first -%}
+          {% assign project_info = section %}
+        {%- elsif forloop.index == 2 -%}
+          {%- assign project_summary = section -%}
+        {%- endif -%}
+        
+        {%- if forloop.length > 2 -%}
+          {%- assign awards_list = section -%}
+        {% endif %}
+      {%- endfor -%}
+    {%- endif -%}
+    
+    {%- if project_info != blank -%}
+      <section class="project-section project-info">
+        {{ project_info }}
+      </section>
+    {%- endif -%}
+    {%- if project_summary != blank -%}
+      <div class="project-section project-summary">
+        {{ project_summary }}
+      </div>
+    {%- endif -%}
+    {%- if page.trailer and page.trailer != "" -%}
+      <figure id="project-trailer" class="project-section project-trailer">
+        {%- include page/trailer.html -%}
+      </figure>
+    {%- endif -%}
+    {%- if awards_list != blank -%}
+      <aside class="project-section project-awards">
+        {{ awards_list }}
+      </aside>
+    {%- endif -%}
+  </div>
+</article>

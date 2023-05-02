@@ -1,0 +1,54 @@
+---
+title: Vulcana Cinema
+timezone: America/Sao_Paulo
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/:path/"
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    lang: pt-BR
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: project
+- scope:
+    path: _projects/en
+    type: projects
+  values:
+    lang: en
+- scope:
+    path: en
+  values:
+    lang: en
+email: vulcanacinema@gmail.com
+description: Vulcana Cinema é uma produtora brasileira focada em cinema de autor,
+  primeiros longas e no mercado internacional.
+address: "Rua Castro Alves, 163  \nPorto Alegre, RS — Brasil\n\n"
+baseurl: 
+url: https://vulcanacinema.com
+lang: pt-BR
+logo: "/assets/images/logo.png"
+markdown: kramdown
+include:
+- _headers
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-menus
+social:
+  name: Vulcana Cinema
+  links:
+  - https://www.instagram.com/vulcanacinema
+  - https://vimeo.com/vulcanacinema
+permalink: pretty

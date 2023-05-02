@@ -1,0 +1,52 @@
+---
+---
+
+---
+label: Page
+hide_body: false
+display_field: title
+fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  label: layout
+  default: page
+  hidden: true
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
+- name: image
+  type: file
+  config:
+    maxSize: 2
+  label: Image
+- name: video
+  type: field_group
+  config: {}
+  fields:
+  - name: mp4
+    type: file
+    config:
+      maxSize: 8
+    label: MP4 Video file
+    description: You can use a GIPHY-generated file.
+  - name: gif
+    type: file
+    config:
+      maxSize: 5
+    label: GIF
+    description: You can use a GIPHY-generated file.
+  label: Cover Video
+pages:
+- en/about-vulcana.md
+- en/index.md
+- index.md
+- sobre.md

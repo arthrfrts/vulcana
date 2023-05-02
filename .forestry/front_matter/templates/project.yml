@@ -1,0 +1,72 @@
+---
+---
+
+---
+label: Project
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: project
+  config:
+    required: true
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- name: original_title
+  type: text
+  config:
+    required: false
+  label: Original Title
+- name: category
+  type: select
+  label: Category
+  config:
+    required: true
+    source:
+      type: custom
+    options:
+    - longas
+    - curtas
+    - projetos
+    - features
+    - shorts
+    - projects
+    - tv
+- type: number
+  name: release_year
+  label: Release Year
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- type: file
+  name: image
+  label: Featured Image
+- type: text
+  name: trailer
+  label: Trailer
+- type: field_group
+  name: video
+  label: Cover Video
+  fields:
+  - name: mp4
+    type: file
+    config:
+      maxSize: 10
+    label: MP4 video file
+    description: You can use a GIPHY-generated file.
+  - name: gif
+    type: file
+    config:
+      maxSize: 5
+    label: GIF file
+    description: You can use a GIPHY-generated file.
+pages:
+- _projects/en/vozes-em-disputa.md
+- _projects/vozes-em-disputa.md
