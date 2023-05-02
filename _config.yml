@@ -23,7 +23,7 @@ include:
 collections:
   projects:
     output: true
-    permalink: "/:path/"
+    permalink: "/:collection/:title/"
 
 defaults:
   - scope:
