@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Sobre sete ondas verdes espumantes
+categories:
+- longas
+layout: project
 release_year: 2013
 image: "/uploads/images/sobre-sete-ondas-verdes-espumantes.jpg"
 trailer: https://vimeo.com/87435846
-original_title: ""
+original_title: ''
 video:
-  mp4: ""
-  gif: ""
-tags: []
-category: longas
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 75 min, HD/DCP, Longa-metragem, 2013

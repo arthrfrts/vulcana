@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Vida como Rizoma
+categories:
+- curtas
+layout: project
 release_year: 2015
 image: "/uploads/images/vida-como-rizoma.jpg"
 trailer: https://vimeo.com/133766113
-original_title: ""
+original_title: ''
 video:
-  mp4: ""
-  gif: ""
-tags: []
-category: curtas
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 14 mim, HD/DCP, 2015

@@ -1,18 +1,19 @@
 ---
-layout: project
 title: O Acidente
-image: "/uploads/images/o-acidente.jpg"
+categories:
+- longas
 tags:
 - featured
+layout: project
+image: "/uploads/images/o-acidente.jpg"
 release_year: ''
 original_title: ''
 trailer: ''
 video:
   mp4: ''
   gif: ''
-category: longas
-
 ---
+
 Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
 
 _Direção_  

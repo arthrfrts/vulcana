@@ -1,9 +1,10 @@
 ---
 title: Ocidentes
+categories:
+- tv
 release_year: 2013
 image: "/uploads/images/ocidentes.jpg"
 trailer: https://www.youtube.com/watch?v=ClZx-ijaceo
-category: tv
 ---
 
 Brazil, One season with 4 episodes, HD, 2014

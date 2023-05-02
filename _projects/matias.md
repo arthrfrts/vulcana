@@ -1,15 +1,15 @@
 ---
-layout: project
-tags: []
 title: Matias
-original_title: ""
+categories:
+- projetos
+layout: project
+original_title: ''
 release_year: 2026
 image: "/uploads/2021/02/berlin-4x.png"
-trailer: ""
+trailer: ''
 video:
-  mp4: ""
-  gif: ""
-category: projetos
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, Longa-metragem em desenvolvimento

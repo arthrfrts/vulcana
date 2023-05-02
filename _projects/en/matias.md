@@ -1,15 +1,15 @@
 ---
-layout: project
-tags: []
 title: Matias
+categories:
+- projects
+layout: project
 original_title: Matias
 release_year: 2026
 image: "/uploads/2021/02/berlin-4x.png"
-trailer: ""
+trailer: ''
 video:
-  mp4: ""
-  gif: ""
-category: projects
+  mp4: ''
+  gif: ''
 ---
 
 Brazil, Feature in development

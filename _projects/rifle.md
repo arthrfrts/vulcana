@@ -1,12 +1,13 @@
 ---
-layout: project
 title: Rifle
+categories:
+- longas
+layout: project
 release_year: 2016
 trailer: https://www.youtube.com/watch?v=0w1o62NKv5I
 image: "/uploads/images/rifle.jpg"
 video:
   mp4: https://i.giphy.com/media/dWrXccF7zhG3NHVER1/source.mp4
-category: longas
 ---
 
 Brasil, 88min, HD/DCP, Longa-metragem, 2016

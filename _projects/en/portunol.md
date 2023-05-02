@@ -1,9 +1,10 @@
 ---
 title: Portuñol
+categories:
+- tv
 release_year: 2020
 image: "/uploads/images/portunol.jpg"
 trailer: https://vimeo.com/454855190
-category: tv
 ---
 
 Brazil, 70 min - 55 min, 4K, Feature, 2020

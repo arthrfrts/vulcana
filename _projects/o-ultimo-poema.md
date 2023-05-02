@@ -1,15 +1,15 @@
 ---
-layout: project
 title: O Último Poema
+categories:
+- longas
+layout: project
 release_year: 2016
 image: "/uploads/images/o-ultimo-poema.jpg"
 trailer: https://vimeo.com/96622776
-original_title: ""
+original_title: ''
 video:
-  mp4: ""
-  gif: ""
-tags: []
-category: longas
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 70 min, HD/DCP, Longa-metragem, 2015

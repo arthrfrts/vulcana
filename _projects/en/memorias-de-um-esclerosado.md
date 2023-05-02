@@ -1,15 +1,15 @@
 ---
-layout: project
-tags: []
 title: MS'd Up
+categories:
+- projects
+layout: project
 original_title: Memórias de um Esclerosado
-release_year:
+release_year: 
 image: "/uploads/2020/12/memorias_para-site.jpg"
-trailer: ""
+trailer: ''
 video:
-  mp4: ""
-  gif: ""
-category: projects
+  mp4: ''
+  gif: ''
 ---
 
 Brazil, Feature in development

@@ -1,5 +1,5 @@
 ---
-layout: archive
 title: Curtas
+layout: archive
 ---
 

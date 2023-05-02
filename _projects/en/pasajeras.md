@@ -1,12 +1,13 @@
 ---
-layout: project
 title: Pasajeras
+categories:
+- features
+layout: project
 image: "/uploads/images/pasajeras.jpg"
 release_year: 2021
 trailer: https://vimeo.com/540148948
-category: features
-
 ---
+
 Brazil, 73 minutes, feature documentary, DCP, 2021
 
 _Directed and written by_  

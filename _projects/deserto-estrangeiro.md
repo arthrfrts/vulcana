@@ -1,16 +1,17 @@
 ---
-layout: project
 title: Deserto Estrangeiro
+categories:
+- curtas
+tags:
+- featured
+layout: project
 release_year: 2020
 image: "/uploads/images/deserto-estrangeiro.jpg"
-tags:
-  - featured
-original_title: ""
+original_title: ''
 video:
   mp4: "/uploads/2020/07/animated-gif-original.mp4"
-  gif: ""
+  gif: ''
 trailer: vimeo.com/437227920
-category: curtas
 ---
 
 Brasil/Alemanha, 23min, DCP, 2020

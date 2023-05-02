@@ -1,17 +1,17 @@
 ---
-layout: project
-tags: []
 title: Vozes em Disputa
+categories:
+- projetos
+layout: project
 original_title: ''
-category: projetos
 release_year: 2023
 image: "/uploads/2022/07/11/screen-shot-2022-07-11-at-15-57-50.png"
 trailer: ''
 video:
   mp4: ''
   gif: ''
-
 ---
+
 Brasil, 1 temporada de 5 episódios, série documental em fase de pós-produção
 
 _Direção_

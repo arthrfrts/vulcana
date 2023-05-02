@@ -1,11 +1,12 @@
 ---
-layout: project
 title: Life as Rhizome
+categories:
+- shorts
+layout: project
 original_title: Vida como Rizoma
 release_year: 2015
 image: "/uploads/images/vida-como-rizoma.jpg"
 trailer: https://vimeo.com/133766113
-category: shorts
 ---
 
 Brazil, 14 mim, HD/DCP, 2015

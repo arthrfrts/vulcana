@@ -1,17 +1,17 @@
 ---
-layout: project
-tags: []
 title: Vozes em Disputa
+categories:
+- projects
+layout: project
 original_title: ''
-category: projects
 release_year: 2023
 image: "/uploads/2022/07/11/screen-shot-2022-07-11-at-15-57-50.png"
 trailer: ''
 video:
   mp4: ''
   gif: ''
-
 ---
+
 Brazil, 1 season with 5 episodes, in post production.
 
 _Directed by_

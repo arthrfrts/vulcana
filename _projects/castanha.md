@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Castanha
+categories:
+- longas
+layout: project
 release_year: 2014
 image: "/uploads/images/castanha.jpg"
 trailer: https://www.youtube.com/watch?v=El7iLi_ZD5M
 video:
   mp4: https://i.giphy.com/media/JTazfMtHM49Mxf6Zvs/source.mp4
-  gif: ""
-original_title: ""
-tags: []
-category: longas
+  gif: ''
+original_title: ''
 ---
 
 Brasil, 95min, HD, Longa-metragem, 2014

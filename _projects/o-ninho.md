@@ -1,15 +1,15 @@
 ---
-layout: project
 title: O Ninho
+categories:
+- tv
+layout: project
 release_year: 2016
 image: "/uploads/images/o-ninho.jpg"
 video:
   mp4: "/uploads/2020/04/o-ninho.mp4"
   gif: "/uploads/2020/04/o-ninho.gif"
 trailer: https://vimeo.com/148541526
-original_title: ""
-tags: []
-category: tv
+original_title: ''
 ---
 
 Brasil, Uma temporada 4 episódios, HD, 2015

@@ -1,11 +1,12 @@
 ---
-layout: project
 title: The Last Picture
+categories:
+- shorts
+layout: project
 original_title: A Última Foto
 release_year: 2014
 image: "/uploads/images/a-ultima-foto.jpg"
 trailer: https://vimeo.com/118697188
-category: shorts
 ---
 
 Brazil, 6 min, HD/DCP, Short, 2014

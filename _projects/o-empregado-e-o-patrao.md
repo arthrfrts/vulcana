@@ -1,6 +1,10 @@
 ---
-layout: project
 title: O empregado e o Patrão
+categories:
+- longas
+tags:
+- featured
+layout: project
 image: "/uploads/2020/08/eeyep-8.jpg"
 video:
   mp4: "/uploads/2021/06/09/gif3.mp4"
@@ -8,11 +12,8 @@ video:
 original_title: El Empleado y el Patrón
 release_year: 2026
 trailer: ''
-category: longas
-tags:
-- featured
-
 ---
+
 Uruguai / Brasil / Argentina / França, Longa-metragem, 2021
 
 _Direção_  

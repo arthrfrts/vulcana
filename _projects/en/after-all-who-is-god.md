@@ -1,10 +1,11 @@
 ---
 title: After All, Who Is God?
+categories:
+- tv
 original_title: Afinal, Quem É Deus?
 release_year: 2020
 image: "/uploads/images/afinal-quem-e-deus.jpg"
 trailer: https://vimeo.com/329467814
-category: tv
 ---
 
 Brazil, One season with 13 episodes, HD, 2019

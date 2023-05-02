@@ -1,13 +1,14 @@
 ---
-layout: project
 title: Hard Paint
+categories:
+- features
+layout: project
 original_title: Tinta Bruta
 release_year: 2018
 image: "/uploads/images/tinta-bruta.jpg"
 video:
   mp4: https://i.giphy.com/media/UoMK6XjMeSJCgvCSFy/source.mp4
 trailer: https://www.youtube.com/watch?v=PdfvZgAC_28
-category: features
 ---
 
 Brazil, 118 min, DCP, Longa-metragem, 2018

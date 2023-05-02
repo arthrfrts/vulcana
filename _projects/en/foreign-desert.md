@@ -1,15 +1,17 @@
 ---
-layout: project
 title: Foreign Desert
+categories:
+- shorts
+tags:
+- featured
+layout: project
 original_title: Deserto Estrangeiro
 release_year: 2020
 image: "/uploads/2020/12/de-still-01.jpg"
 video:
-  gif: ""
+  gif: ''
   mp4: "/uploads/2020/12/animated-gif-original.mp4"
-tags: featured
 trailer: vimeo.com/437227920
-category: shorts
 ---
 
 Brazil/Germany, 23min, DCP, 2020

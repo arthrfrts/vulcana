@@ -1,15 +1,15 @@
 ---
-layout: project
 title: De Guiné
+categories:
+- projetos
+layout: project
 image: "/uploads/images/de-guine.jpg"
-tags: []
 release_year: 2023
-original_title: ""
-trailer: ""
+original_title: ''
+trailer: ''
 video:
-  mp4: ""
-  gif: ""
-category: projetos
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, Longa-metragem em desenvolvimento

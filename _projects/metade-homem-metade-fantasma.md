@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Metade Homem, Metade Fantasma
+categories:
+- curtas
+layout: project
 release_year: 2016
 image: "/uploads/images/metade-homem-metade-fantasma.jpg"
-original_title: ""
-trailer: ""
+original_title: ''
+trailer: ''
 video:
-  mp4: ""
-  gif: ""
-tags: []
-category: curtas
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 26min, HD, Curta-metragem, 2016.

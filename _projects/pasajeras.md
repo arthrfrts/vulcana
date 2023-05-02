@@ -1,17 +1,17 @@
 ---
-layout: project
 title: Pasajeras
+categories:
+- longas
+layout: project
 image: "/uploads/images/pasajeras.jpg"
-tags: []
 release_year: 2021
 original_title: ''
 trailer: https://vimeo.com/540148948
 video:
   mp4: ''
   gif: ''
-category: longas
-
 ---
+
 Brasil, 73 min, longa-metragem documental, DCP, 2021
 
 _Direção e Roteiro_  

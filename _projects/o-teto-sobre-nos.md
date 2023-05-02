@@ -1,15 +1,15 @@
 ---
-layout: project
 title: O Teto Sobre Nós
+categories:
+- curtas
+layout: project
 release_year: 2015
 image: "/uploads/images/o-teto-sobre-nos.jpg"
-original_title: ""
+original_title: ''
 trailer: https://vimeo.com/133497698
 video:
-  mp4: ""
-  gif: ""
-tags: []
-category: curtas
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 22min, DCP, Curta-metragem, 2015

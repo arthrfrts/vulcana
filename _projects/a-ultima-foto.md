@@ -1,15 +1,15 @@
 ---
-layout: project
 title: A Última Foto
+categories:
+- curtas
+layout: project
 release_year: 2014
 image: "/uploads/images/a-ultima-foto.jpg"
-tags: []
-original_title: ""
+original_title: ''
 trailer: https://vimeo.com/118697188
-category: curtas
 video:
-  mp4: ""
-  gif: ""
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 6 min, HD/DCP, Curta-metragem, 2014

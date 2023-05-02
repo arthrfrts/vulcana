@@ -1,11 +1,12 @@
 ---
-layout: project
 title: The Roof Above Us
+categories:
+- shorts
+layout: project
 release_year: 2015
 image: "/uploads/images/o-teto-sobre-nos.jpg"
 original_title: O Teto Sobre Nós
 trailer: https://vimeo.com/133497698
-category: shorts
 ---
 
 Brazil, 22min, DCP, Short, 2015

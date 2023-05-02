@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Um Corpo Feminino
+categories:
+- curtas
+layout: project
 release_year: 2018
 image: "/uploads/images/um-corpo-feminino.jpg"
-original_title: ""
+original_title: ''
 trailer: https://vimeo.com/283032072
 video:
-  mp4: ""
-  gif: ""
-tags: []
-category: curtas
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 20 min, HD/DCP, Curta-metragem, 2018

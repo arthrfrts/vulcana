@@ -1,13 +1,14 @@
 ---
-layout: project
 title: Music when the lights go out
+categories:
+- features
+tags:
+- Longas
+layout: project
 original_title: Música para quando as luzes se apagam
 release_year: 2017
 image: "/uploads/images/musica-para-quando-as-luzes-se-apagam.jpg"
-tags:
-  - Longas
 trailer: https://vimeo.com/271128595
-category: features
 ---
 
 Brazil, 70 min, DCP, Feature, 2017

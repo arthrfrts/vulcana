@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Princesa Morta do Jacuí
+categories:
+- curtas
+layout: project
 release_year: 2018
 image: "/uploads/images/princesa-morta-do-jacui.jpg"
-original_title: ""
+original_title: ''
 trailer: https://vimeo.com/309346070
 video:
-  mp4: ""
-  gif: ""
-tags: []
-category: curtas
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 17min, DCP, Curta-metragem, 2018.

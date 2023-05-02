@@ -1,17 +1,17 @@
 ---
-layout: project
 title: 5 Houses
+categories:
+- features
+layout: project
 original_title: 5 Casas
 release_year: 2020
 image: "/uploads/images/5-casas.jpg"
 video:
   mp4: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy.mp4"
   gif: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy-downsized.gif"
-tags: []
 trailer: https://vimeo.com/428561170
-category: features
-
 ---
+
 Brazil / Germany, 85 min, HD / DCP, Feature Documentary, 2020
 
 _Directed by_  

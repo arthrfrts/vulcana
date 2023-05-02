@@ -1,6 +1,10 @@
 ---
-layout: project
 title: The Employee An The Employer
+categories:
+- features
+tags:
+- featured
+layout: project
 original_title: El Empleado y El Patrón
 release_year: 2026
 image: "/uploads/2020/12/eeyep-8.jpg"
@@ -8,11 +12,8 @@ trailer: ''
 video:
   mp4: ''
   gif: ''
-category: features
-tags:
-- featured
-
 ---
+
 Uruguay / Brazil / Argentina / France, Fiction, 2021
 
 _Directed by_  

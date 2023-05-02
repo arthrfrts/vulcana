@@ -1,10 +1,11 @@
 ---
-layout: project
 title: A House in the Country
+categories:
+- projects
+layout: project
 original_title: Casa no Campo
 image: "/uploads/images/casa-no-campo.jpg"
 release_year: 2025
-category: projects
 ---
 
 Argentina / Brazil / France, Feature in development

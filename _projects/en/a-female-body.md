@@ -1,11 +1,12 @@
 ---
-layout: project
 title: A Female Body
+categories:
+- shorts
+layout: project
 original_title: Um Corpo Feminino
 release_year: 2018
 image: "/uploads/images/um-corpo-feminino.jpg"
 trailer: https://vimeo.com/283032072
-category: shorts
 ---
 
 Brazil, 20 min, HD/DCP, Short, 2018

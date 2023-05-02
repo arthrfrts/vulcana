@@ -1,10 +1,11 @@
 ---
-layout: project
 title: Barons Behind The Hill
+categories:
+- projects
+layout: project
 original_title: Barões detrás do morro
 image: "/uploads/images/baroes-detras-do-morro.jpg"
 release_year: 2024
-category: projects
 ---
 
 Brazil, Feature in development

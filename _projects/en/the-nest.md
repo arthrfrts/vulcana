@@ -1,12 +1,13 @@
 ---
 title: The Nest
+categories:
+- tv
 original_title: O Ninho
 release_year: 2016
 image: "/uploads/images/o-ninho.jpg"
 video:
   gif: "/uploads/2020/04/o-ninho.gif"
 trailer: https://vimeo.com/148541526
-category: tv
 ---
 
 Brazil, One season 4 episodes, HD, 2015

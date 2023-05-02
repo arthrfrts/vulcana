@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Barões detrás do morro
+categories:
+- projetos
+layout: project
 image: "/uploads/images/baroes-detras-do-morro.jpg"
-tags: []
 release_year: 2024
-original_title: ""
-trailer: ""
+original_title: ''
+trailer: ''
 video:
-  mp4: ""
-  gif: ""
-category: projetos
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, Longa-metragem em desenvolvimento

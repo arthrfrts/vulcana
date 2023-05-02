@@ -1,10 +1,11 @@
 ---
 title: Banality of Evil
+categories:
+- tv
 original_title: Banalidade do Mal
 release_year: 2020
 image: "/uploads/images/banalidade-do-mal.jpg"
 trailer: https://vimeo.com/463894413
-category: tv
 ---
 
 Brazil, One season with 4 episodes, HD, 2019

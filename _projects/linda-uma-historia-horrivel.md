@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Linda, uma história horrível
+categories:
+- curtas
+layout: project
 release_year: 2013
 image: "/uploads/images/linda-uma-historia-horrivel.jpg"
 trailer: https://vimeo.com/107511404
-original_title: ""
+original_title: ''
 video:
-  mp4: ""
-  gif: ""
-tags: []
-category: curtas
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 20 min, 35mm/HD, Curta-metragem, 2013

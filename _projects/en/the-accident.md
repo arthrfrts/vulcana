@@ -1,13 +1,15 @@
 ---
-layout: project
 title: The Accident
+categories:
+- features
+tags:
+- featured
+layout: project
 original_title: O Acidente
 image: "/uploads/images/o-acidente.jpg"
 release_year: ''
-tags: featured
-category: features
-
 ---
+
 Brazil, 90 min, HD/DCP, Feature in post production
 
 _Directed by_  

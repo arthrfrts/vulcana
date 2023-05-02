@@ -1,10 +1,11 @@
 ---
-layout: project
 title: Mateina
+categories:
+- features
+layout: project
 image: "/uploads/2021/08/25/mateina_still1_300dpi_fotografa-analia-pollio.jpg"
 release_year: 2021
 trailer: https://vimeo.com/631288862
-category: features
 ---
 
 Argentina / Brazil / Uruguay, Feature, 2021

@@ -1,17 +1,17 @@
 ---
-layout: project
 title: Vai e Vem
+categories:
+- longas
+layout: project
 image: "/uploads/2021/04/whatsapp-image-2021-04-27-at-11-16-32.jpeg"
-tags: []
 release_year: 2022
 original_title: ''
 trailer: ''
 video:
   mp4: ''
   gif: ''
-category: longas
-
 ---
+
 Brasil, , 82 minutos, Longa-metragem documental, DCP, 2022
 
 _Direção_  

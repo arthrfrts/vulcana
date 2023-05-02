@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Portuñol
+categories:
+- tv
+layout: project
 release_year: 2020
 image: "/uploads/2020/09/whatsapp-image-2020-09-04-at-16-10-39.jpeg"
-tags: []
-original_title: ""
+original_title: ''
 trailer: https://vimeo.com/454855190
 video:
-  mp4: ""
-  gif: ""
-category: tv
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, 70 min - 55 min, 4K, Longa-metragem, 2020

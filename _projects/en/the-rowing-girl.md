@@ -1,13 +1,14 @@
 ---
-layout: project
 title: Boat Rower Girl
+categories:
+- features
+layout: project
 original_title: La Botera
 release_year: 2020
 trailer: https://vimeo.com/368842691
 image: "/uploads/images/la-botera.jpg"
 video:
   mp4: https://i.giphy.com/media/SRkDCZKknlFppe7muG/source.mp4
-category: features
 ---
 
 Argentina / Brazil, 75 min, Feature, HD / DCP, 2019

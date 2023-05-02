@@ -1,10 +1,11 @@
 ---
-layout: project
 title: Música para quando as luzes se apagam
+categories:
+- longas
+layout: project
 release_year: 2017
 image: "/uploads/images/musica-para-quando-as-luzes-se-apagam.jpg"
 trailer: https://vimeo.com/262417921
-category: longas
 ---
 
 Brasil, 70 min, DCP, Longa-metragem, 2017

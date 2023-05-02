@@ -1,7 +1,7 @@
 ---
 layout: home
-image: /uploads/images/la-botera.jpg
+image: "/uploads/images/la-botera.jpg"
 video:
-  mp4: "https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/source.mp4"
+  mp4: https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/source.mp4
 ---
 

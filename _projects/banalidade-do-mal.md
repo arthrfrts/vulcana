@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Banalidade do Mal
+categories:
+- tv
+layout: project
 release_year: 2020
 image: "/uploads/images/banalidade-do-mal.jpg"
-tags: []
 trailer: https://vimeo.com/463894413
-original_title: ""
+original_title: ''
 video:
-  mp4: ""
-  gif: ""
-category: tv
+  mp4: ''
+  gif: ''
 ---
 
 Brasil, Uma temporada com 6 episódios, HD, 2019

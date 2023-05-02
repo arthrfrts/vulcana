@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Casa no Campo
+categories:
+- projetos
+layout: project
 image: "/uploads/images/casa-no-campo.jpg"
-tags: []
 release_year: 2025
-original_title: ""
-trailer: ""
+original_title: ''
+trailer: ''
 video:
-  mp4: ""
-  gif: ""
-category: projetos
+  mp4: ''
+  gif: ''
 ---
 
 Argentina / Brasil / França, Longa-metragem em desenvolvimento

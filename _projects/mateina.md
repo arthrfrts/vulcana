@@ -1,15 +1,15 @@
 ---
-layout: project
 title: Mateína - A Erva Perdida
+categories:
+- longas
+layout: project
 image: "/uploads/2021/08/25/mateina_still1_300dpi_fotografa-analia-pollio.jpg"
-tags: []
 release_year: 2021
-original_title: ""
+original_title: ''
 trailer: https://vimeo.com/631288862
 video:
-  mp4: ""
-  gif: ""
-category: longas
+  mp4: ''
+  gif: ''
 ---
 
 Argentina / Brasil / Uruguai, Longa-metragem, 2021

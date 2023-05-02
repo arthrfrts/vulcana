@@ -1,10 +1,11 @@
 ---
-layout: project
 title: From Guiné
+categories:
+- projects
+layout: project
 original_title: De Guiné
 image: "/uploads/images/de-guine.jpg"
 release_year: 2023
-category: projects
 ---
 
 Brazil, Feature in Development
