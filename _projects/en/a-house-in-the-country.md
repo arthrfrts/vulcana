@@ -2,13 +2,13 @@
 title: A House in the Country
 categories:
 - projects
-layout: project
 original_title: Casa no Campo
 image: "/uploads/images/casa-no-campo.jpg"
 release_year: 2025
+layout: project
 ---
 
-Argentina / Brazil / France, Feature in development
+Argentina / Brazil / France, Feature post production
 
 _Directed by_  
 Davi Pretto
@@ -17,7 +17,7 @@ _Written by_
 Davi Pretto and Igor Verde
 
 _Coproduction_  
-Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR) e Dublin Films (FR)
+Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR), Pasto Cine (AR) e Dublin Films (FR)
 
 ---
 

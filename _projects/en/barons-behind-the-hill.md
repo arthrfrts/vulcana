@@ -2,13 +2,13 @@
 title: Barons Behind The Hill
 categories:
 - projects
-layout: project
 original_title: Barões detrás do morro
 image: "/uploads/images/baroes-detras-do-morro.jpg"
 release_year: 2024
+layout: project
 ---
 
-Brazil, Feature in development
+Brazil, Feature post production
 
 _Directed by_  
 Germano de Oliveira
@@ -20,7 +20,7 @@ _Coproduction_
 Avante Filmes, Vulcana Cinema and Casa de Cinema de Porto Alegre
 
 _Financing_  
-Edital Plataforma FUMPROARTE 2016
+Edital Plataforma FUMPROARTE 2016, FSA
 
 ---
 
