@@ -4,10 +4,10 @@ categories:
 - features
 tags:
 - featured
-layout: project
 original_title: O Acidente
 image: "/uploads/images/o-acidente.jpg"
-release_year: ''
+release_year: 
+layout: project
 ---
 
 Brazil, 90 min, HD/DCP, Feature in post production
@@ -37,6 +37,8 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 * Rio de Janeiro IFF / Première Brasil
 * 26º Tallinn Black Nights - First Feature Competition
 * 40th Torino Film Festival
+* 13º Beijing International Film Festival / Best Screenplay
+* 11º Olhar de Cinema / Special Screening
 
 ## Labs, Market and Events
 
