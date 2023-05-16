@@ -2,17 +2,17 @@
 title: Barões detrás do morro
 categories:
 - projetos
-layout: project
 image: "/uploads/images/baroes-detras-do-morro.jpg"
 release_year: 2024
-original_title: ''
-trailer: ''
+original_title: 
+trailer: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, Longa-metragem em desenvolvimento
+Brasil, Longa-metragem em pós-produção
 
 _Direção_  
 Germano de Oliveira
@@ -24,7 +24,7 @@ _Coprodução_
 Avante Filmes, Vulcana Cinema e Casa de Cinema de Porto Alegre
 
 _Financiamento_  
-Edital Plataforma FUMPROARTE 2016
+Edital Plataforma FUMPROARTE 2016, FSA
 
 ---
 
