@@ -18,7 +18,7 @@ _Direção_
 Davi Pretto
 
 _Roteiro_  
-Davi Pretto e Igor Verde
+Davi Pretto, Igor Verde e Paola Wink
 
 _Coprodução_  
 Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR), Pasto Cine (AR) e Dublin Films (FR)
