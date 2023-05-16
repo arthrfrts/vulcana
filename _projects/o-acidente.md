@@ -4,14 +4,14 @@ categories:
 - longas
 tags:
 - featured
-layout: project
 image: "/uploads/images/o-acidente.jpg"
-release_year: ''
-original_title: ''
-trailer: ''
+release_year: 
+original_title: 
+trailer: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
 Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
@@ -38,9 +38,12 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 ## Principais Exibições
 
 * 32º Cine Ceará / Mostra Competitiva Ibero-Americana de Longa-Metragens
+
 * Festival do Rio 2022 / Première Brasil - Novos Rumos
 * 26º Tallinn Black Nights - First Feature Competition
 * 40º Festival de Cinema de Torino
+* 13º Festival de Cinema de Beijing / Prêmio de Melhor Roteiro
+* 11º Olhar de Cinema / Exibições Especiais
 
 ## Labs, Mercados e Eventos
 
