@@ -10,7 +10,7 @@ release_year:
 layout: project
 ---
 
-Brazil, 90 min, HD/DCP, Feature in post production
+Brazil, 90 min, Longa-metragem, HD/DCP, 2022
 
 _Directed by_  
 Bruno Carboni

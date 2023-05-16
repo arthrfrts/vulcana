@@ -14,7 +14,7 @@ video:
 layout: project
 ---
 
-Brasil, 90 min, HD/DCP, Longa-metragem em pós-produção
+Brasil, 90 min, Feature, HD/DCP, 2022
 
 _Direção_  
 Bruno Carboni
