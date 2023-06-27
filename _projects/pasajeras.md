@@ -12,7 +12,7 @@ video:
 layout: project
 ---
 
-Brasil, Longa-metragem documental, 2021
+Brasil, Longa-metragem documental, 2021\
 
 *Direção e roteiro*\
 Fran Rebelatto
