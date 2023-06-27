@@ -22,6 +22,9 @@ Manuel Nieto Zas
 _Coprodução_  
 Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Murillo Cine (AR) e Paradise Films (FR)
 
+_Disponível em_
+[Netflix] (https://www.netflix.com/br/title/81579849), [Apple TV] (https://tv.apple.com/br/movie/o-empregado-e-o-patrao/umc.cmc.2ghoobgy0yj33t9j1tyz1f7vp?action=play), [YouTube Filmes] (https://www.youtube.com/watch?v=5BBxQkd_J58) e [Google Play] (https://play.google.com/store/movies/details?id=MKx8rXc05bs.P&pli=1)
+
 ***
 
 O patrão tem tudo garantido na vida, exceto uma preocupação premente: a saúde frágil de seu bebê. O empregado busca sustento para sua filha recém-nascida e aceita uma oferta para trabalhar nas terras do patrão. Um inesperado evento trágico e uma corrida de cavalos acirrada colocam em risco o destino das duas famílias.

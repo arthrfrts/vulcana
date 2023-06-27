@@ -2,22 +2,19 @@
 title: Vai e Vem
 categories:
 - longas
-layout: project
 image: "/uploads/2021/04/whatsapp-image-2021-04-27-at-11-16-32.jpeg"
 release_year: 2022
-original_title: ''
-trailer: ''
+original_title: 
+trailer: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, , 82 minutos, Longa-metragem documental, DCP, 2022
+Brasil, Longa-metragem documental, 2022
 
-_Direção_  
-Fernanda Pessoa e Chica Barbosa
-
-_Roteiro_  
+_Direção e roteiro_  
 Fernanda Pessoa e Chica Barbosa
 
 _Coprodução_  
