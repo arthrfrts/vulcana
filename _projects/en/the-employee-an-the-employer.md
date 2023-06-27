@@ -14,7 +14,7 @@ video:
 layout: project
 ---
 
-Uruguay / Brazil / Argentina / France, Fiction, Feature, 2021
+Uruguay / Brazil / Argentina / France, Feature, 2021
 
 *Directed and written by*\
 Manuel Nieto Zas
