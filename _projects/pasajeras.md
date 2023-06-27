@@ -2,25 +2,25 @@
 title: Pasajeras
 categories:
 - longas
-layout: project
 image: "/uploads/images/pasajeras.jpg"
 release_year: 2021
-original_title: ''
+original_title: 
 trailer: https://vimeo.com/540148948
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 73 min, longa-metragem documental, DCP, 2021
+Brasil, Longa-metragem documental, 2021
 
-_Direção e Roteiro_  
+*Direção e roteiro*\ 
 Fran Rebelatto
 
-_Produção_  
+*Produção*\ 
 Vulcana Cinema
 
-_Financiamento_  
+*Financiamento*\  
 Rumos Itaú Cultural 2018
 
 ***
