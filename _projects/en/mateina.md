@@ -21,6 +21,8 @@ Edital ANCINE/ICAU 2016, ICAU Fundo de desenvolvimento, Montevideo Socioaudiovis
 
 ---
 
+Uruguay, 2045. Yerba mate has been forbidden. Two illegal salesmen begin a journey towards Paraguay to smuggle the herb. On the trip, they become heroes by chance, and try to return to their people their lost identity.
+
 ---
 
 ## Main Exhibitions
