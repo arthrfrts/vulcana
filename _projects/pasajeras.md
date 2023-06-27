@@ -14,13 +14,13 @@ layout: project
 
 Brasil, Longa-metragem documental, 2021
 
-*Direção e roteiro* 
+*Direção e roteiro*
 Fran Rebelatto
 
-*Produção* 
+*Produção*
 Vulcana Cinema
 
-*Financiamento*  
+*Financiamento*
 Rumos Itaú Cultural 2018
 
 ***
