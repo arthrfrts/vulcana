@@ -18,7 +18,7 @@ Brasil, Longa-metragem documental, 2021
 Fran Rebelatto
 
 *Produção*\
-### Vulcana Cinema
+Vulcana Cinema
 
 *Financiamento*\
 Rumos Itaú Cultural 2018
