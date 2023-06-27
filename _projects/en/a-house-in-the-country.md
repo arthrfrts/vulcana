@@ -14,7 +14,7 @@ _Directed by_
 Davi Pretto
 
 _Written by_  
-Davi Pretto and Igor Verde
+Davi Pretto, Igor Verde and Paola Wink
 
 _Coproduction_  
 Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR), Pasto Cine (AR) e Dublin Films (FR)
