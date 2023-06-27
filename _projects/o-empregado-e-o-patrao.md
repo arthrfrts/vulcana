@@ -23,7 +23,7 @@ _Coprodução_
 Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Murillo Cine (AR) e Paradise Films (FR)
 
 _Disponível em_
-[Netflix] (https://www.netflix.com/br/title/81579849), [Apple TV] (https://tv.apple.com/br/movie/o-empregado-e-o-patrao/umc.cmc.2ghoobgy0yj33t9j1tyz1f7vp?action=play), [YouTube Filmes] (https://www.youtube.com/watch?v=5BBxQkd_J58) e [Google Play] (https://play.google.com/store/movies/details?id=MKx8rXc05bs.P&pli=1)
+[**Netflix**](https://www.netflix.com/br/title/81579849), [**Apple TV**](https://tv.apple.com/br/movie/o-empregado-e-o-patrao/umc.cmc.2ghoobgy0yj33t9j1tyz1f7vp?action=play), [**YouTube Filmes**](https://www.youtube.com/watch?v=5BBxQkd_J58) e [**Google Play**](https://play.google.com/store/movies/details?id=MKx8rXc05bs.P&pli=1)
 
 ***
 
