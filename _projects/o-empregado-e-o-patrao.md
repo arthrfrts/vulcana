@@ -17,11 +17,11 @@ layout: project
 Uruguai / Brasil / Argentina / França, Longa-metragem, 2021\
 \
 *Direção e roteiro*\
-Manuel Nieto Zas\
+Manuel Nieto Zas
 
 *Coprodução*\
 Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Murillo Cine (AR) e Paradise Films (FR)\
-
+\
 *Disponível em*\
 Netflix, Apple TV, Youtube Filmes e Google Play
 
