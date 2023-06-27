@@ -16,7 +16,7 @@ layout: project
 
 Uruguai / Brasil / Argentina / França, Longa-metragem, 2021
 
-_Direção_  
+_Direção e roteiro_  
 Manuel Nieto Zas
 
 _Coprodução_  
