@@ -2,7 +2,7 @@
 title: Pasajeras
 categories:
 - features
-image: "/uploads/images/pasajeras.jpg"
+image: "/uploads/PASAJERAS-e7f567.jpg"
 release_year: 2021
 trailer: https://vimeo.com/540148948
 layout: project
