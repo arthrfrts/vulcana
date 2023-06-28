@@ -14,13 +14,13 @@ Setting the projects
 
 {%- assign featured_project = archive_projects | where_exp: "project","project.tags contains 'featured'" | first -%}
 
-
+{% comment %}
 {{ archive_tag }}
 {{ current_language }}
 {% for project in site.projects %}
   {{ project.category }}
 {% endfor %}
-
+{% endcomment %}
 
 {% comment %}
 The Layout itself
