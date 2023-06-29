@@ -9,7 +9,7 @@ release_year: 2026
 image: "/uploads/2020/12/eeyep-8.jpg"
 trailer: https://www.youtube.com/watch?v=N-AtYSW1eGU
 video:
-  mp4: 
+  mp4: "/uploads/2021/06/09/gif3.mp4"
   gif: 
 layout: project
 ---
