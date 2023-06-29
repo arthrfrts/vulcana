@@ -2,22 +2,19 @@
 title: A Barqueira
 categories:
 - longas
-layout: project
 original_title: La Botera
 release_year: 2020
 trailer: https://vimeo.com/368842691
 image: "/uploads/images/la-botera.jpg"
 video:
   mp4: https://i.giphy.com/media/SRkDCZKknlFppe7muG/source.mp4
+layout: project
 ---
 
-Argentina / Brasil, 75 min, Longa-metragem, HD / DCP, 2019
+Argentina / Brasil, Longa-metragem, 2019
 
 _Direção e roteiro_  
 Sabrina Blanco
-
-_Com_  
-Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
 
 _Coprodução_  
 Murillo Cine (AR) e Vulcana Cinema (BR)
