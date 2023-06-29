@@ -12,7 +12,7 @@ original_title:
 layout: project
 ---
 
-Brasil, Longa-metragem, 2014
+Brasil, Longa-metragem documental, 2014
 
 _Direção e Roteiro_  
 Davi Pretto
