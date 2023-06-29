@@ -5,7 +5,7 @@ categories:
 tags:
 - featured
 image: "/uploads/images/o-acidente.jpg"
-release_year: 
+release_year: 2023
 original_title: 
 trailer: 
 video:
