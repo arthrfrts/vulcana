@@ -4,7 +4,7 @@ categories:
 - longas
 tags:
 - featured
-image: "/uploads/images/o-acidente.jpg"
+image: "/uploads/The%20Accident%20Still_1_fotoGlaucoFirpo.png"
 release_year: 
 original_title: 
 trailer: 
@@ -14,16 +14,13 @@ video:
 layout: project
 ---
 
-Brasil, 90 min, Feature, HD/DCP, 2022
+Brasil, Longa-metragem, 2022
 
 _Direção_  
 Bruno Carboni
 
 _Roteiro_  
 Marcela Ilha Bordin e Bruno Carboni
-
-_Com_  
-Carol Martins, Gabriela Greco, Luis Felipe Xavier
 
 _Coprodução_  
 Tokyo Filmes e Vulcana Cinema
@@ -32,6 +29,8 @@ _Financiamento_
 Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
 
 ***
+
+A ciclista Joana é envolvida em um estranho acidente, onde ela é carregada no capô do carro por um quarteirão. Joana sai da situação sem se machucar e tenta escondê-la de sua parceira Cecília. Porém, um vídeo do ocorrido feito por um menino que estava dentro do carro, expõe a omissão de Joana e ela se vê obrigada a prestar queixas contra a motorista. Ela começa pouco a pouco a se envolver na vida da família que a atropelou.
 
 ***
 
