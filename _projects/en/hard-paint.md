@@ -26,7 +26,7 @@ Hubert Bals Fund 2014 / Desenvolvimento, MinC B.O. 2015
 m-appeal
 
 *Available on*\
-[Globoplay](https://globoplay.globo.com/tinta-bruta/t/LvqRzDPsz9/), [YouTube Films ](https://www.youtube.com/watch?v=qOOk51Uhxl4) and [Apple TV.](https://tv.apple.com/br/movie/tinta-bruta/umc.cmc.5pafjnbt5ij9je70c0i2aurrr)\
+[Globoplay](https://globoplay.globo.com/tinta-bruta/t/LvqRzDPsz9/), [YouTube Films ](https://www.youtube.com/watch?v=qOOk51Uhxl4) and [Apple TV.](https://tv.apple.com/br/movie/tinta-bruta/umc.cmc.5pafjnbt5ij9je70c0i2aurrr)
 
 ---
 
