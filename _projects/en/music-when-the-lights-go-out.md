@@ -4,14 +4,14 @@ categories:
 - features
 tags:
 - Longas
-layout: project
 original_title: Música para quando as luzes se apagam
 release_year: 2017
 image: "/uploads/images/musica-para-quando-as-luzes-se-apagam.jpg"
 trailer: https://vimeo.com/271128595
+layout: project
 ---
 
-Brazil, 70 min, DCP, Feature, 2017
+Brazil, Feature, 2017
 
 _Directed by_  
 Ismael Caneppele
@@ -19,17 +19,14 @@ Ismael Caneppele
 _Written by_  
 Ismael Caneppele e Germano de Oliveira
 
-_With_  
-Emelyn Fischer and Júlia Lemmertz
-
 _Coproduction_  
 Zeppelin Filmes e Besouro Filmes
 
 _Financing_  
 Edital SEDAC 11 2014
 
-_Distribuition_  
-Art House (Brazil), O2 Play (Brazil)
+_Distribuition Brazil_  
+Art House and O2 Play
 
 ---
 

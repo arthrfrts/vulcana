@@ -2,22 +2,19 @@
 title: Música para quando as luzes se apagam
 categories:
 - longas
-layout: project
 release_year: 2017
 image: "/uploads/images/musica-para-quando-as-luzes-se-apagam.jpg"
 trailer: https://vimeo.com/262417921
+layout: project
 ---
 
-Brasil, 70 min, DCP, Longa-metragem, 2017
+Brasil, Longa-metragem, 2017
 
 _Direção_  
 Ismael Caneppele
 
 _Roteiro_  
 Ismael Caneppele e Germano de Oliveira
-
-_Com_  
-Emelyn Fischer e Júlia Lemmertz
 
 _Coprodução_  
 Zeppelin Filmes e Besouro Filmes
@@ -26,7 +23,7 @@ _Financiamento_
 Edital SEDAC 11 2014
 
 _Distribuição_  
-Art House, O2 Play
+Art House e O2 Play
 
 ---
 
