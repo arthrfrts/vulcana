@@ -4,7 +4,7 @@ categories:
 - longas
 tags:
 - featured
-image: "/uploads/The%20Accident%20Still_1_fotoGlaucoFirpo.png"
+image: "/uploads/3ce16060-20f7-44d9-a819-cfbab43c4074.png"
 release_year: 
 original_title: 
 trailer: 
