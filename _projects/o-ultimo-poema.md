@@ -2,34 +2,29 @@
 title: O Último Poema
 categories:
 - longas
-layout: project
 release_year: 2016
-image: "/uploads/images/o-ultimo-poema.jpg"
+image: "/uploads/DIV%20O%20ultimo%20poema_janaina.jpg"
 trailer: https://vimeo.com/96622776
-original_title: ''
+original_title: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 70 min, HD/DCP, Longa-metragem, 2015
+Brasil, Longa-metragem, 2015
 
-_Direção e Roteiro_  
+*Direção e Roteiro*\
 Mirela Kruel
 
-_Com_  
-Helena Maria Balbinot, Janaina Kremer, Rodrigo Fiatt e Ana Júlia Chiodi Alberti
-
-_Produção_  
+*Produção*\
 Besouro Filmes
 
-_Financiamento_  
+*Financiamento*\
 FUMPROARTE, Edital SEDAC-RS Finalização de longa-metragem
 
-_Distribuição_  
+*Distribuição*\
 Lança Filmes
-
-Onde Assistir: [NETNOW](https://www.nowonline.com.br/filme/o-ultimo-poema/74858)
 
 ---
 
@@ -39,13 +34,15 @@ Helena Maria Balbinot, professora do interior do Rio Grande do Sul, se correspon
 
 ## Principais exibições
 
-- Festival de Cine de Bogotá 2015  
+* Festival de Cine de Bogotá 2015\
   Melhor Documentário de Arte
-- 44ª Festival de Cinema de Gramado  
+
+* 44ª Festival de Cinema de Gramado\
   Mostra de Longas Gaúchos
-- 3º Festival Internacional de Cinema de Mulher - CINEFEM – Con una Mirada de Mujer
+
+* 3º Festival Internacional de Cinema de Mulher - CINEFEM – Con una Mirada de Mujer
 
 ## Labs, Mercados e Eventos
 
-- DocMontevideo 2015  
+* DocMontevideo 2015\
   Meetings
