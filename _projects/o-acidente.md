@@ -16,40 +16,50 @@ layout: project
 
 Brasil, Longa-metragem, 2022
 
-_Direção_  
+*Direção*\
 Bruno Carboni
 
-_Roteiro_  
+*Roteiro*\
 Marcela Ilha Bordin e Bruno Carboni
 
-_Coprodução_  
+*Coprodução*\
 Tokyo Filmes e Vulcana Cinema
 
-_Financiamento_  
+*Financiamento*\
 Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
 
-***
+---
 
 A ciclista Joana é envolvida em um estranho acidente, onde ela é carregada no capô do carro por um quarteirão. Joana sai da situação sem se machucar e tenta escondê-la de sua parceira Cecília. Porém, um vídeo do ocorrido feito por um menino que estava dentro do carro, expõe a omissão de Joana e ela se vê obrigada a prestar queixas contra a motorista. Ela começa pouco a pouco a se envolver na vida da família que a atropelou.
 
-***
+---
 
 ## Principais Exibições
 
 * 32º Cine Ceará / Mostra Competitiva Ibero-Americana de Longa-Metragens
 
 * Festival do Rio 2022 / Première Brasil - Novos Rumos
+
 * 26º Tallinn Black Nights - First Feature Competition
+
 * 40º Festival de Cinema de Torino
-* 13º Festival de Cinema de Beijing / Prêmio de Melhor Roteiro
-* 11º Olhar de Cinema / Exibições Especiais
+
+* 13º Festival de Cinema de Beijing
+  Prêmio de Melhor Roteiro
+
+* 12º Olhar de Cinema - Exibições Especiais
 
 ## Labs, Mercados e Eventos
 
-* Torino Film Lab Script Lab 2018  
+* Torino Film Lab Script Lab 2018\
   Laboratório de desenvolvimento de roteiro
-* Málaga Work in Progress - MAFIZ
-* Festival Internacional de Cinema de Cartagena 60 / Puerto Lab
 
+* Málaga Work in Progress - MAFIZ\
+  Prêmio LATAM
+  Prêmio Video Library
+
+* Festival Internacional de Cinema de Cartagena 60\
+  Puerto Lab
   Prêmio Infra Rojo
+
 * CURITIBAlab
