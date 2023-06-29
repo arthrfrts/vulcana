@@ -2,22 +2,19 @@
 title: Castanha
 categories:
 - features
-layout: project
 release_year: 2014
 image: "/uploads/images/castanha.jpg"
 trailer: https://www.youtube.com/watch?v=El7iLi_ZD5M
 video:
   mp4: https://i.giphy.com/media/JTazfMtHM49Mxf6Zvs/source.mp4
-original_title: ''
+original_title: 
+layout: project
 ---
 
-Brazil, 95min, HD, Feature, 2014
+Brazil, Feature, 2014
 
-_Directed and Written by_  
+_Directed and written by_  
 Davi Pretto
-
-_With_  
-João Carlos Castanha
 
 _Coproduction_  
 Tokyo Filmes and Canal Brasil
@@ -33,7 +30,7 @@ Figa Films
 
 ---
 
-João Carlos Castanha. 52 years old. Actor. Gay. Son. Crossdresser. Capable of doing anything for those he loves. Or hates.
+João is a 50 year old actor who lives with his 72 year old mother, Celina. He spends his time between his work at night as a crossdresser in small gay bars and his parts in small plays, movies and TV shows. Tormented and haunted by ghosts from his past, day after day Joao starts to merge the reality in which he lived with the fiction he is interpreting.
 
 ---
 
