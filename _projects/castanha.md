@@ -2,17 +2,17 @@
 title: Castanha
 categories:
 - longas
-layout: project
 release_year: 2014
 image: "/uploads/images/castanha.jpg"
 trailer: https://www.youtube.com/watch?v=El7iLi_ZD5M
 video:
   mp4: https://i.giphy.com/media/JTazfMtHM49Mxf6Zvs/source.mp4
-  gif: ''
-original_title: ''
+  gif: 
+original_title: 
+layout: project
 ---
 
-Brasil, 95min, HD, Longa-metragem, 2014
+Brasil, Longa-metragem, 2014
 
 _Direção e Roteiro_  
 Davi Pretto
@@ -31,8 +31,6 @@ Vitrine Filmes
 
 _Sales e festivais_  
 Figa Films
-
-Onde assistir: Amazon Prime Vídeo
 
 ---
 
