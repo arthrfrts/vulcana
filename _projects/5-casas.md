@@ -2,17 +2,17 @@
 title: 5 Casas
 categories:
 - longas
-layout: project
 release_year: 2020
-image: "/uploads/images/5-casas.jpg"
+image: "/uploads/5%20CASAS%20-%203.jpg"
 video:
   mp4: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy.mp4"
   gif: "//i.giphy.com/media/mFerAGOGUBwz0iiQqb/giphy-downsized.gif"
-original_title: ''
+original_title: 
 trailer: https://vimeo.com/428561170
+layout: project
 ---
 
-Brasil / Alemanha, 85 min, HD / DCP, Longa-metragem, 2020
+Brasil / Alemanha, Longa-metragem, 2020
 
 _Direção_  
 Bruno Gularte Barreto
