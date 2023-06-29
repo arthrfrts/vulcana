@@ -22,7 +22,7 @@ Tokyo Filmes and Canal Brasil
 _Financing_  
 FUMPROARTE 2012
 
-_Sales - Brazil_  
+_Distribution Brazil_  
 Vitrine Filmes
 
 _Sales and festivals_  
