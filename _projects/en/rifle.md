@@ -10,7 +10,7 @@ video:
 layout: project
 ---
 
-Brazil, feature, 2016
+Brazil, Feature, 2016
 
 _Directed by_  
 Davi Pretto
