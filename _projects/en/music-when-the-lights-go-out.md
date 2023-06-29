@@ -6,7 +6,7 @@ tags:
 - Longas
 original_title: Música para quando as luzes se apagam
 release_year: 2017
-image: "/uploads/images/musica-para-quando-as-luzes-se-apagam.jpg"
+image: "/uploads/MPQLA%205.png"
 trailer: https://vimeo.com/271128595
 layout: project
 ---
