@@ -30,7 +30,7 @@ Figa Films
 
 ---
 
-João is a 50 year old actor who lives with his 72 year old mother, Celina. He spends his time between his work at night as a crossdresser in small gay bars and his parts in small plays, movies and TV shows. Tormented and haunted by ghosts from his past, day after day Joao starts to merge the reality in which he lived with the fiction he is interpreting.
+João Carlos Castanha is a 50 year old actor who lives with his 72 year old mother, Celina. He spends his time between his work at night as a crossdresser in small gay bars and his parts in small plays, movies and TV shows. Tormented and haunted by ghosts from his past, day after day Joao starts to merge the reality in which he lived with the fiction he is interpreting.
 
 ---
 

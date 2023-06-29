@@ -17,9 +17,6 @@ Brasil, Longa-metragem, 2014
 _Direção e Roteiro_  
 Davi Pretto
 
-_Com_  
-João Carlos Castanha
-
 _Coprodução_  
 Tokyo Filmes e Canal Brasil
 
