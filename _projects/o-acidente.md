@@ -52,4 +52,4 @@ A ciclista Joana é envolvida em um estranho acidente, onde ela é carregada no 
 * Festival Internacional de Cinema de Cartagena 60 / Puerto Lab
 
   Prêmio Infra Rojo
-* Curitiba LAB
+* CURITIBAlab
