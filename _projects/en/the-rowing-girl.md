@@ -2,22 +2,19 @@
 title: Boat Rower Girl
 categories:
 - features
-layout: project
 original_title: La Botera
 release_year: 2020
 trailer: https://vimeo.com/368842691
 image: "/uploads/images/la-botera.jpg"
 video:
   mp4: https://i.giphy.com/media/SRkDCZKknlFppe7muG/source.mp4
+layout: project
 ---
 
-Argentina / Brazil, 75 min, Feature, HD / DCP, 2019
+Argentina / Brazil, Feature, 2019
 
 _Directed and written by_  
 Sabrina Blanco
-
-_With_  
-Nicole Rivadero, Alan Gómez, Sergio Prina, Gabriela Saidon
 
 _Coproduction_  
 Murillo Cine (AR) and Vulcana Cinema (BR)
