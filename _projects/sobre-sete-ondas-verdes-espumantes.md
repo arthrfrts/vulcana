@@ -1,18 +1,18 @@
 ---
-title: Sobre sete ondas verdes espumantes
+title: Sobre Sete Ondas Verdes Espumantes
 categories:
 - longas
-layout: project
 release_year: 2013
 image: "/uploads/images/sobre-sete-ondas-verdes-espumantes.jpg"
 trailer: https://vimeo.com/87435846
-original_title: ''
+original_title: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 75 min, HD/DCP, Longa-metragem, 2013
+Brasil, Longa-metragem documental, 2013
 
 _Direção_  
 Bruno Polidoro e Cacá Nazario
@@ -29,7 +29,8 @@ Edital FUMPROARTE
 _Distribuição_  
 Boulevard Filmes
 
-Onde Assistir: [Looke](https://www.looke.com.br/filmes/sobre-sete-ondas-verdes-espumantes), [Filme Filme](), [Globo Play](https://globoplay.globo.com/sobre-sete-ondas-verdes-espumantes/t/qnFncy817x/), [Canal Curta](https://canalcurta.tv.br/filme/?name=sobre_sete_ondas_verdes_espumantes) e [iTunes Store](https://itunes.apple.com/br/movie/sobre-sete-ondas-verdes-espumantes/id915809710).
+*Disponível em*\ 
+[Amazon Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.b2b98d71-8b79-52cd-cc05-fcefeb511e73?autoplay=0&ref_=atv_cf_strg_wb), [Looke](https://www.looke.com.br/filmes/sobre-sete-ondas-verdes-espumantes), [GloboPlay](https://globoplay.globo.com/sobre-sete-ondas-verdes-espumantes/t/qnFncy817x/), [Canal Curta](https://canalcurta.tv.br/filme/?name=sobre_sete_ondas_verdes_espumantes), [Apple TV](https://itunes.apple.com/br/movie/sobre-sete-ondas-verdes-espumantes/id915809710), [YouTube Filmes](https://www.youtube.com/watch?v=5huuaP4nsqw) e [Google Play](https://play.google.com/store/movies/details?id=5huuaP4nsqw)
 
 ---
 
