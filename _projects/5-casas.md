@@ -12,7 +12,7 @@ trailer: https://vimeo.com/428561170
 layout: project
 ---
 
-Brasil / Alemanha, Longa-metragem, 2020
+Brasil / Alemanha, Longa-metragem documental, 2020
 
 _Direção_  
 Bruno Gularte Barreto
