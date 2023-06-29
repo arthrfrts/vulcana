@@ -2,20 +2,17 @@
 title: The Last Poem
 categories:
 - features
-layout: project
 original_title: O Último Poema
 release_year: 2015
-image: "/uploads/images/o-ultimo-poema.jpg"
+image: "/uploads/DIV%20O%20ultimo%20poema_janaina-2ef106.jpg"
 trailer: https://vimeo.com/127177783
+layout: project
 ---
 
-Brazil, 70 min, HD/DCP, Feature, 2015
+Brazil, Feature, 2015
 
 _Directed and Written by_  
 Mirela Kruel
-
-_With_  
-Helena Maria Balbinot, Janaina Kremer, Rodrigo Fiatt and Ana Júlia Chiodi Alberti
 
 _Production_  
 Besouro Filmes
@@ -23,7 +20,7 @@ Besouro Filmes
 _Financing_  
 FUMPROARTE, Edital SEDAC-RS Finalização de longa-metragem
 
-_Distribution_  
+_Distribution Brazil_  
 Lança Filmes
 
 ---
