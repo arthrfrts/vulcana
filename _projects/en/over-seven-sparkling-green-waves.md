@@ -2,14 +2,14 @@
 title: Over Seven Sparkling Green Waves
 categories:
 - features
-layout: project
 original_title: Sobre Sete Ondas Verdes Espumantes
 release_year: 2013
 image: "/uploads/images/sobre-sete-ondas-verdes-espumantes.jpg"
 trailer: https://vimeo.com/75024438
+layout: project
 ---
 
-Brazil, 75 min, HD/DCP, Feature, 2013
+Brazil, Feature documentary, 2013
 
 _Directed by_  
 Bruno Polidoro and Cacá Nazario
@@ -23,8 +23,12 @@ Besouro Filmes
 _Financing_  
 Edital FUMPROARTE
 
-_Distribution_  
+_Distribution Brazil_  
 Boulevard Filmes
+
+*Available on*
+[Amazon Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.b2b98d71-8b79-52cd-cc05-fcefeb511e73?autoplay=0&ref_=atv_cf_strg_wb), [Looke](https://www.looke.com.br/filmes/sobre-sete-ondas-verdes-espumantes), [GloboPlay](https://globoplay.globo.com/sobre-sete-ondas-verdes-espumantes/t/qnFncy817x/), [Canal Curta](https://canalcurta.tv.br/filme/?name=sobre_sete_ondas_verdes_espumantes), [Apple TV](https://itunes.apple.com/br/movie/sobre-sete-ondas-verdes-espumantes/id915809710), [YouTube Films](https://www.youtube.com/watch?v=5huuaP4nsqw) and [Google Play](https://play.google.com/store/movies/details?id=5huuaP4nsqw)
+
 
 ---
 
