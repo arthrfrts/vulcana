@@ -2,24 +2,21 @@
 title: Rifle
 categories:
 - longas
-layout: project
 release_year: 2016
 trailer: https://www.youtube.com/watch?v=0w1o62NKv5I
 image: "/uploads/images/rifle.jpg"
 video:
   mp4: https://i.giphy.com/media/dWrXccF7zhG3NHVER1/source.mp4
+layout: project
 ---
 
-Brasil, 88min, HD/DCP, Longa-metragem, 2016
+Brasil, Longa-metragem, 2016
 
 _Direção_  
 Davi Pretto
 
 _Roteiro_  
 Davi Pretto e Richard Tavares
-
-_Com_  
-Dione Avila de Oliveira, Evaristo Goulart, Andressa Goulart, Elizabete Nogueira, Livia Goularte, Francisco Fabrício Dutra dos Santos e Sofia Ferreira
 
 _Coprodução_  
 Tokyo Filmes, Autentika Films, Casa de Cinema de Porto Alegre e Gogó Conteúdo Sonoro.

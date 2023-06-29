@@ -2,24 +2,21 @@
 title: Rifle
 categories:
 - features
-layout: project
 release_year: 2016
 trailer: https://www.youtube.com/watch?v=0w1o62NKv5I
 image: "/uploads/images/rifle.jpg"
 video:
   mp4: https://i.giphy.com/media/dWrXccF7zhG3NHVER1/source.mp4
+layout: project
 ---
 
-Brazil, 88min, HD/DCP, 2016
+Brazil, feature, 2016
 
 _Directed by_  
 Davi Pretto
 
 _Written by_  
 Davi Pretto and Richard Tavares
-
-_With_  
-Dione Avila de Oliveira, Evaristo Goulart, Andressa Goulart, Elizabete Nogueira, Livia Goularte, Francisco Fabrício Dutra dos Santos and Sofia Ferreira
 
 _Production_  
 Tokyo Filmes, Autentika Films, Casa de Cinema de Porto Alegre and Gogó Conteúdo Sonoro
