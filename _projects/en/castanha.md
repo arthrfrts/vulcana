@@ -11,7 +11,7 @@ original_title:
 layout: project
 ---
 
-Brazil, Feature, 2014
+Brazil, Feature documentary, 2014
 
 _Directed and written by_  
 Davi Pretto
