@@ -28,7 +28,7 @@ Vitrine Filmes
 m-appeal
 
 *Disponível em*\
-[Telecine Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [Google Play](https://www.telecineplay.com.br/filme/Tinta_Bruta_14272), [YouTube Filmes ](https://www.youtube.com/watch?v=qOOk51Uhxl4)e [Apple TV.](https://tv.apple.com/br/movie/tinta-bruta/umc.cmc.5pafjnbt5ij9je70c0i2aurrr)
+[Globoplay](https://globoplay.globo.com/tinta-bruta/t/LvqRzDPsz9/), [YouTube Filmes ](https://www.youtube.com/watch?v=qOOk51Uhxl4) e [Apple TV.](https://tv.apple.com/br/movie/tinta-bruta/umc.cmc.5pafjnbt5ij9je70c0i2aurrr)
 
 ---
 
