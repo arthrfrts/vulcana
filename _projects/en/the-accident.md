@@ -10,16 +10,13 @@ release_year:
 layout: project
 ---
 
-Brazil, 90 min, Longa-metragem, HD/DCP, 2022
+Brazil, Feature, 2022
 
 _Directed by_  
 Bruno Carboni
 
 _Written by_  
 Marcela Ilha Bordin and Bruno Carboni
-
-_With_  
-Carol Martins, Gabriela Greco, Luis Felipe Xavier
 
 _Coproduction_  
 Tokyo Filmes and Vulcana Cinema
@@ -28,6 +25,8 @@ _Financing_
 Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
 
 ***
+
+The cyclist Joana is involved in an odd accident, where she is carried on the hood of a car for a block. Joana leaves unharmed and decides to hide this incident from her partner Cecilia . When a strange video of the accident emerges, Joana's omission is exposed. She starts little by little to get involved in the life of the family who run over her.
 
 ***
 
@@ -48,4 +47,4 @@ Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concur
 * Cartagena International Film Festival 60 / Puerto Lab
 
   Infra Rojo Award
-* Curitiba LAB
+* CURTIBAlab
