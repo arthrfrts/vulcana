@@ -12,7 +12,7 @@ trailer: https://vimeo.com/428561170
 layout: project
 ---
 
-Brazil / Germany, Feature Documentary, 2020
+Brazil / Germany, Feature documentary, 2020
 
 _Directed by_  
 Bruno Gularte Barreto
