@@ -44,7 +44,7 @@ A ciclista Joana é envolvida em um estranho acidente, onde ela é carregada no 
 
 * 40º Festival de Cinema de Torino
 
-* 13º Festival de Cinema de Beijing
+* 13º Festival de Cinema de Beijing\
   Prêmio de Melhor Roteiro
 
 * 12º Olhar de Cinema - Exibições Especiais
@@ -55,11 +55,11 @@ A ciclista Joana é envolvida em um estranho acidente, onde ela é carregada no 
   Laboratório de desenvolvimento de roteiro
 
 * Málaga Work in Progress - MAFIZ\
-  Prêmio LATAM
+  Prêmio LATAM\
   Prêmio Video Library
 
 * Festival Internacional de Cinema de Cartagena 60\
-  Puerto Lab
+  Puerto Lab\
   Prêmio Infra Rojo
 
 * CURITIBAlab
