@@ -1,14 +1,14 @@
 ---
-title: Barons Behind The Hill
+title: Barons Beyond The Hill
 categories:
 - projects
 original_title: Barões detrás do morro
-image: "/uploads/images/baroes-detras-do-morro.jpg"
+image: "/uploads/Design%20sem%20nome-64c521.jpg"
 release_year: 2024
 layout: project
 ---
 
-Brazil, Feature post production
+Brazil, Feature in post production
 
 _Directed by_  
 Germano de Oliveira
@@ -24,9 +24,11 @@ Edital Plataforma FUMPROARTE 2016, FSA
 
 ---
 
+In a small village in southern Brazil, little Ana becomes obsessed by a play that presents the ancient legend of the Thiltapes – a mysterious animal that hides beyond the hill. Two hundred years before, a German botanist hears the same story told by a settler. While dealing with their own demons, each character searches for the same creature.
+
 ---
 
-## Labs, Markets and Events
+## LABS, MARKETS AND EVENTS
 
-- Olhar de Cinema ‘16  
-  Curitiba_Lab
+- 6º Olhar de Cinema (2017)\  
+  CURITIBA_LAB
