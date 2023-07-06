@@ -1,5 +1,5 @@
 ---
-title: MS'd Up
+title: MSD'UP - My Life with Multiple Esclerorsis
 categories:
 - projects
 original_title: Memórias de um Esclerosado
@@ -12,24 +12,30 @@ video:
 layout: project
 ---
 
-Brazil, Feature in development
+Brazil, Feature in post production
 
-_Directed and Written by_  
+*Directed by*\
 Thais Fernandes
 
-_Co-directed by_
+*Co-directed by*\
 Rafael Corrêa
 
-_Production_  
+*Written by*\
+Thais Fernandes, Rafael Corrêa and Ma Villa Real
+
+*Production*\
 Vulcana Cinema
 
-_Financing_  
+*Financing*\
 Itaú Rumos 2019-2020, FAC Filma RS
 
 ---
 
+In his quest for answers and some adventure, Brazilian cartoonist Rafael Corrêa decides to make a film to organize his memories and find out if the death of a frog is the origin of his degenerative disease. 
+
 ---
 
-## Labs, Markets and Events
+## LABS, MARKETS AND EVENTS
 
-- DocSP 2018 / DOCLAB
+* DocSP 2018\
+  DOCLAB
