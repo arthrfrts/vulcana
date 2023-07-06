@@ -3,29 +3,29 @@ title: A House in the Country
 categories:
 - projects
 original_title: Casa no Campo
-image: "/uploads/images/casa-no-campo.jpg"
+image: "/uploads/CNC_WIP_Still03-a2ac2c.jpg"
 release_year: 2025
 layout: project
 ---
 
-Argentina / Brazil / France, Feature post production
+Argentina / Brazil / France, Feature in post production
 
-_Directed by_  
+*Directed by*\
 Davi Pretto
 
-_Written by_  
+*Written by*\
 Davi Pretto, Igor Verde and Paola Wink
 
-_Coproduction_  
+*Coproduction*\
 Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR), Pasto Cine (AR) e Dublin Films (FR)
 
 ---
 
 ---
 
-## Labs, Markets and Events
+## LABS, MARKETS AND EVENTS
 
-- Berlinale Coproduction Market 2020
-- 11º Brasil Cinemundi
+* Berlinale Coproduction Market 2020
 
-  WORLD CINEMA FUND – AUDIENCE DESIGN
+* 11º Brasil Cinemundi\
+  World Cinema Fund - Audience Design Award
