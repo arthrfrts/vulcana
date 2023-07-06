@@ -3,7 +3,7 @@ title: Barons Beyond The Hill
 categories:
 - projects
 original_title: Barões detrás do morro
-image: "/uploads/images/baroes-detras-do-morro.jpg"
+image: "/uploads/Design%20sem%20nome-64c521.jpg"
 release_year: 2024
 layout: project
 ---
