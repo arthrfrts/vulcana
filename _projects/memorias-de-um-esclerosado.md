@@ -14,28 +14,28 @@ layout: project
 
 Brasil, Longa-metragem em pós-produção
 
-_Direção_  
+*Direção*\
 Thais Fernandes
 
-_Co-direção_
+*Co-direção*\
 Rafael Corrêa
 
-_Roteiro_
+*Roteiro*\
 Thais Fernandes, Rafael Corrêa e Ma Villa Real
 
-_Produção_  
+*Produção*\
 Vulcana Cinema
 
-_Financiamento_  
+*Financiamento*\
 Itaú Rumos 2019-2020 e FAC Filma RS
 
 ---
 
-Na busca por respostas e um pouco de aventura, o cartunista brasileiro Rafael Corrêa decide fazer um filme para organizar suas memórias e descobrir se é a morte de um sapo a origem de sua doença degenerativa. 
+Na busca por respostas e um pouco de aventura, o cartunista brasileiro Rafael Corrêa decide fazer um filme para organizar suas memórias e descobrir se é a morte de um sapo a origem de sua doença degenerativa.
 
 ---
 
 ## LABS, MERCADOS E EVENTOS
 
-- DocSP 2018\
+* DocSP 2018\
   DOCLAB
