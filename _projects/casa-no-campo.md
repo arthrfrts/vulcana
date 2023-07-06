@@ -2,7 +2,7 @@
 title: Casa no Campo
 categories:
 - projetos
-image: "/uploads/images/casa-no-campo.jpg"
+image: "/uploads/CNC_WIP_Still03.jpg"
 release_year: 2025
 original_title: 
 trailer: 
@@ -14,22 +14,22 @@ layout: project
 
 Argentina / Brasil / França, Longa-metragem em pós-produção
 
-_Direção_  
+*Direção*\
 Davi Pretto
 
-_Roteiro_  
+*Roteiro*\
 Davi Pretto, Igor Verde e Paola Wink
 
-_Coprodução_  
+*Coprodução*\
 Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR), Pasto Cine (AR) e Dublin Films (FR)
 
 ---
 
 ---
 
-## Labs, Mercados e Eventos
+## LABS, MERCADOS E EVENTOS
 
-- Berlinale Coproduction Market 2020 / Mercado de coprodução internacional
-- 11º Brasil Cinemundi
+* Berlinale Coproduction Market 2020 / Mercado de Co-produção Internacional
 
-  PRÊMIO DO WORLD CINEMA FUND – AUDIENCE DESIGN
+* 11º Brasil Cinemundi
+  Prêmio World Cinema Fund – Audience Design
