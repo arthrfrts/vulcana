@@ -31,5 +31,5 @@ Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR), Pasto Cine (AR) e Dub
 
 * Berlinale Coproduction Market 2020 / Mercado de Co-produção Internacional
 
-* 11º Brasil Cinemundi
+* 11º Brasil Cinemundi\
   Prêmio World Cinema Fund – Audience Design
