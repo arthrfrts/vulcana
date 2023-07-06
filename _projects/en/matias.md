@@ -2,28 +2,32 @@
 title: Matias
 categories:
 - projects
-layout: project
 original_title: Matias
 release_year: 2026
 image: "/uploads/2021/02/berlin-4x.png"
-trailer: ''
+trailer: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
 Brazil, Feature in development
 
-_Directed and Writetn by_  
+*Directed and Writetn by*\
 Filipe Matzembacher and Marcio Reolon
 
-_Coproduction_  
-Vulcana Cinema and Avante Filmes
+*Production*\
+Avante Filmes
+
+*Coproduction*\
+Vulcana Cinema
 
 ---
 
 ---
 
-## Labs, Markets and Events
+## LABS, MARKETS AND EVENTS
 
-- Ventana Sur 2020 - Proyecta
+* Ventana Sur 2020\
+  Proyecta
