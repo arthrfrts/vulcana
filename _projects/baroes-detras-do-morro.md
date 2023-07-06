@@ -1,8 +1,8 @@
 ---
-title: Barões detrás do morro
+title: Barões Detrás do Morro
 categories:
 - projetos
-image: "/uploads/images/baroes-detras-do-morro.jpg"
+image: "/uploads/Bar%C3%B5esDetr%C3%A1sDoMorro_1.jpg"
 release_year: 2024
 original_title: 
 trailer: 
@@ -27,10 +27,10 @@ _Financiamento_
 Edital Plataforma FUMPROARTE 2016, FSA
 
 ---
-
+Em um pequeno vilarejo, a pequena Ana assiste a uma peça de teatro que apresenta a história do Thiltapes. Duzentos anos antes um botanista alemão escuta de um colono a história sobre o mesmo animal. Ao mesmo tempo que lidam com seus próprios demônios, cada personagem procura pela mesma criatura.
 ---
 
 ## Labs e mercados:
 
-- Olhar de Cinema ‘16  
-  Curitiba_Lab
+- 6º Olhar de Cinema (2017) 
+  CURITIBA_LAB
