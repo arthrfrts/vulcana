@@ -30,5 +30,5 @@ In a small village in southern Brazil, little Ana becomes obsessed by a play tha
 
 ## LABS, MARKETS AND EVENTS
 
-- 6º Olhar de Cinema (2017)\  
+- 6º Olhar de Cinema (2017)  
   CURITIBA_LAB
