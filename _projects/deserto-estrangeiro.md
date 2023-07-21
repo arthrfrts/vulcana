@@ -4,26 +4,23 @@ categories:
 - curtas
 tags:
 - featured
-layout: project
 release_year: 2020
 image: "/uploads/images/deserto-estrangeiro.jpg"
-original_title: ''
+original_title: 
 video:
   mp4: "/uploads/2020/07/animated-gif-original.mp4"
-  gif: ''
+  gif: 
 trailer: vimeo.com/437227920
+layout: project
 ---
 
-Brasil/Alemanha, 23min, DCP, 2020
+Brasil / Alemanha, Curta-metragem, 23min, 2020
 
 _Direção_  
 Davi Pretto
 
 _Roteiro_  
 Davi Pretto e Igor Verde
-
-_Com_  
-Isabél Zuaa, Mauro Soares, Raquel Villar
 
 _Produção_  
 Vulcana Cinema
@@ -35,6 +32,8 @@ _Apoio_
 Galo de Briga Filmes e Abissal
 
 ---
+
+Um jovem brasileiro, que recém começou a trabalhar em uma imensa floresta em Berlim, é arrastado para um pesadelo envolvendo o passado colonial alemão quando tenta encontrar uma garota perdida na mata.
 
 ---
 
