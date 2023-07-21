@@ -5,6 +5,7 @@ categories:
 - projects
 lang: en
 image: "/uploads/Talism%C3%A3_fotodeSoraiaCosta_Vertical.jpg"
+original_title: Talismã
 ---
 
 Brazil, Feature in development
