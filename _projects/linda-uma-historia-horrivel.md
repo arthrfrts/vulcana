@@ -1,24 +1,21 @@
 ---
-title: Linda, uma história horrível
+title: Linda, Uma História Horrível
 categories:
 - curtas
-layout: project
 release_year: 2013
 image: "/uploads/images/linda-uma-historia-horrivel.jpg"
 trailer: https://vimeo.com/107511404
-original_title: ''
+original_title: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 20 min, 35mm/HD, Curta-metragem, 2013
+Brasil, Curta-metragem, 20 min, 2013
 
 _Direção e Roteiro_  
 Bruno Gularte Barreto
-
-_Com_  
-Rafael Régoli e Sandra Dani
 
 _Produção_  
 Besouro Filmes
