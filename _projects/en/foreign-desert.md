@@ -14,7 +14,7 @@ trailer: vimeo.com/437227920
 layout: project
 ---
 
-Brazil / Germany, 23 min, 2020
+Brazil / Germany, Short, 23 min, 2020
 
 _Directed by_  
 Davi Pretto
