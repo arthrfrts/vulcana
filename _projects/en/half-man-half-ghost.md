@@ -10,7 +10,7 @@ layout: project
 
 Brazil, Documentary short, 26 min, 2016
 
-_Directed and Written by_  
+_Directed and written by_  
 Davi Pretto
 
 _Production_  
