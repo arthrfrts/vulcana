@@ -2,26 +2,23 @@
 title: O Teto Sobre Nós
 categories:
 - curtas
-layout: project
 release_year: 2015
 image: "/uploads/images/o-teto-sobre-nos.jpg"
-original_title: ''
+original_title: 
 trailer: https://vimeo.com/133497698
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 22min, DCP, Curta-metragem, 2015
+Brasil, Curta-metragem, 22 min, 2015
 
-_Direção_  
+_Direção_
 Bruno Carboni
 
 _Roteiro_  
 Bruno Carboni, Marcela Ilha Bordin e João Kowacs
-
-_Com_  
-Cosme Rodrigues, Silvana Rodrigues e Francisco Gick
 
 _Produção_  
 Tokyo Filmes
