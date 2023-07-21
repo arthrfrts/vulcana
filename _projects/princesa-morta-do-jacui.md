@@ -3,7 +3,7 @@ title: Princesa Morta do Jacuí
 categories:
 - curtas
 release_year: 2018
-image: "/uploads/princesam_f05cor_2018133152.jpg"
+image: "/uploads/princesam_f03cor_2018133152.jpg"
 original_title: 
 trailer: https://vimeo.com/536986030
 video:
