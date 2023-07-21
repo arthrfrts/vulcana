@@ -14,10 +14,10 @@ layout: project
 
 Brasil, Curta-metragem, 17 min, 2018
 
-_Direção e Roteiro_  
+*Direção e Roteiro*\
 Marcela Ilha Bordin
 
-_Coprodução_  
+*Coprodução*\
 Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema e Gogó
 
 ---
@@ -28,12 +28,19 @@ O arqueólogo Margot Moreira retorna ao lugar onde nasceu, a zona de exclusão c
 
 ## Principais exibições
 
-- Festival do Rio / Competição de Curtas, 2018
-- Cine Esquema Novo / Competição, 2018  
+* Festival do Rio / Competição de Curtas, 2018
+
+* Cine Esquema Novo / Competição, 2018\
   Grande Prêmio
-- Viennale International Film Festival, 2019
-- Mostra de Cinema de Tiradentes, 2019
-- IndieLisboa / Competição Internacional, 2019
-- Filmadrid, 2019
-- 14ª Mostra de Cinema de Ouro Preto, 2019
-- Melhor Curta Gaúcho 2018 ACCIRS (Associação de Críticos de Cinema do Rio Grande do Sul)
+
+* Viennale International Film Festival, 2019
+
+* Mostra de Cinema de Tiradentes, 2019
+
+* IndieLisboa / Competição Internacional, 2019
+
+* Filmadrid, 2019
+
+* 14ª Mostra de Cinema de Ouro Preto, 2019
+
+* Melhor Curta Gaúcho 2018 ACCIRS (Associação de Críticos de Cinema do Rio Grande do Sul)
