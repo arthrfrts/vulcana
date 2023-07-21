@@ -2,10 +2,10 @@
 title: From Guiné
 categories:
 - projects
-layout: project
 original_title: De Guiné
 image: "/uploads/images/de-guine.jpg"
 release_year: 2023
+layout: project
 ---
 
 Brazil, Feature in Development
@@ -14,10 +14,13 @@ _Directed and Written by_
 Caroline Leone
 
 _Production_  
-Vulcana Cinema
+Vulcana Cinema and Klaxon Cultura Audiovisual
 
 _Financing_  
 Hubert Bals Development Fund
+
+_Distribution_
+Vitrine Filmes
 
 ---
 
