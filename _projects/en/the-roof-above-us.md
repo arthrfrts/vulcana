@@ -9,7 +9,7 @@ trailer: https://www.youtube.com/watch?v=vDrPWSyCHTU
 layout: project
 ---
 
-Brazil, 22min, DCP, Short, 2015
+Brazil, Short, 22 min, 2015
 
 _Directed by_  
 Bruno Carboni
