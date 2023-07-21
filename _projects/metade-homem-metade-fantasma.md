@@ -31,7 +31,7 @@ A vida do homem nada mais é que um ponto no tempo.
 
 ## Principais exibições
 
-- Histórias do Sul – canal TVE-RS, 2016. (versão televisão)
+- Histórias do Sul – Canal TVE-RS, 2016. (Versão televisão)
 - Arsenal Film Institut, Berlin, 2018.
 - Brive Film Festival, 2018.
 - Beijing International Short Film Festival, 2018.  
