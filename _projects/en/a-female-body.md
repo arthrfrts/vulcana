@@ -2,16 +2,16 @@
 title: A Female Body
 categories:
 - shorts
-layout: project
 original_title: Um Corpo Feminino
 release_year: 2018
 image: "/uploads/images/um-corpo-feminino.jpg"
 trailer: https://vimeo.com/283032072
+layout: project
 ---
 
-Brazil, 20 min, HD/DCP, Short, 2018
+Brazil, Documentary Short, 20 min, 2018
 
-_Directed and Written by_  
+_Directed and written by_  
 Thais Fernandes
 
 _Coproduction_  
@@ -24,7 +24,7 @@ Edital FUMPROARTE
 
 When we give something a name, does it lose or make sense? _A female body_ proposes an apparently simple game - it asks women from diverse generations the definition of something that in theory unifies them. Part of a transmedia project, the film is the main entrance to a narrative that has many points of view and no right answer.
 
-[Visti the offical website of the project.](http://www.afemalebodyproject.com/index-port.php#top)
+[OFFICIAL PROJECT WEBSITE](http://www.afemalebodyproject.com/index-port.php#top)
 
 ---
 
