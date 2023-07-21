@@ -15,7 +15,7 @@ _Directed and written by_
 Marcela Ilha Bordin
 
 _Coproduction_  
-Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema and Gógo
+Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema and Gogó
 
 ---
 
