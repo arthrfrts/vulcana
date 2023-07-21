@@ -5,7 +5,7 @@ categories:
 release_year: 2016
 image: "/uploads/images/metade-homem-metade-fantasma.jpg"
 original_title: 
-trailer: 
+trailer: https://www.youtube.com/watch?v=qeZQQ1pr4bI
 video:
   mp4: 
   gif: 
