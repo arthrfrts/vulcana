@@ -5,7 +5,7 @@ categories:
 release_year: 2015
 image: "/uploads/images/o-teto-sobre-nos.jpg"
 original_title: O Teto Sobre Nós
-film: https://www.youtube.com/watch?v=vDrPWSyCHTU
+trailer: https://www.youtube.com/watch?v=vDrPWSyCHTU
 layout: project
 ---
 
