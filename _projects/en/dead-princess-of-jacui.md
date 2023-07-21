@@ -2,20 +2,17 @@
 title: Dead Princess of Jacuí
 categories:
 - shorts
-layout: project
 release_year: 2018
-image: "/uploads/images/princesa-morta-do-jacui.jpg"
+image: "/uploads/princesam_f03cor_2018133152.jpg"
 original_title: Princesa Morta do Jacuí
 trailer: https://vimeo.com/309346070
+layout: project
 ---
 
-Brazil, 17min, DCP, Short, 2018.
+Brazil, Short, 17 min, 2018.
 
-_Directed and Written by_  
+_Directed and written by_  
 Marcela Ilha Bordin
-
-_With_  
-Gabriel Palma and Maíra Flores
 
 _Coproduction_  
 Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema and Gógo
