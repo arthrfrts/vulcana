@@ -3,6 +3,7 @@ title: Talisman
 date: 2023-07-21 11:44:00 -03:00
 categories:
 - projects
+lang: en
 image: "/uploads/Talism%C3%A3_fotodeSoraiaCosta_Vertical.jpg"
 ---
 
