@@ -14,10 +14,7 @@ trailer: vimeo.com/437227920
 layout: project
 ---
 
-Brasil / Alemanha, Curta-metragem, 2020
-
-_Duração_
-23 min
+Brasil / Alemanha, Curta-metragem, 23 min, 2020
 
 _Direção_  
 Davi Pretto
