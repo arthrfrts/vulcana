@@ -9,7 +9,7 @@ trailer: https://vimeo.com/309346070
 layout: project
 ---
 
-Brazil, Short, 17 min, 2018.
+Brazil, Short, 17 min, 2018
 
 _Directed and written by_  
 Marcela Ilha Bordin
