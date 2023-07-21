@@ -2,17 +2,17 @@
 title: Um Corpo Feminino
 categories:
 - curtas
-layout: project
 release_year: 2018
 image: "/uploads/images/um-corpo-feminino.jpg"
-original_title: ''
+original_title: 
 trailer: https://vimeo.com/283032072
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 20 min, HD/DCP, Curta-metragem, 2018
+Brasil, Curta-metragem documental, 20 min, 2018
 
 _Direção e Roteiro_  
 Thais Fernandes
@@ -27,7 +27,7 @@ Edital FUMPROARTE
 
 Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ propõe um jogo aparentemente simples – pergunta para mulheres de diversas gerações a definição de algo que em teoria as unifica. Parte de um projeto transmídia, o filme é a porta de entrada para uma narrativa que possui muitos pontos de vista e nenhuma resposta certa.
 
-[Site do projeto](http://www.afemalebodyproject.com/index-port.php#top)
+[SITE DO PROJETO](http://www.afemalebodyproject.com/index-port.php#top)
 
 ---
 
