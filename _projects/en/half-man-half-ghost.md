@@ -2,13 +2,13 @@
 title: Half Man, Half Ghost
 categories:
 - shorts
-layout: project
 original_title: Metade Homem, Metade Fantasma
 release_year: 2016
 image: "/uploads/images/metade-homem-metade-fantasma.jpg"
+layout: project
 ---
 
-Brazil, 26min, HD, Short, 2016
+Brazil, Documentary short, 26 min, 2016
 
 _Directed and Written by_  
 Davi Pretto
