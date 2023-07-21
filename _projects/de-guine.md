@@ -18,10 +18,13 @@ Brasil, Longa-metragem em desenvolvimento
 Caroline Leone
 
 *Coprodução*\
-Vulcana Cinema
+Vulcana Cinema e Klaxon Cultura Audiovisual 
 
 *Financiamento*\
 Hubert Bals Development Fund
+
+*Distribuição*\
+Vitrine Filmes
 
 ---
 
