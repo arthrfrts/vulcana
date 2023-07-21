@@ -4,26 +4,23 @@ categories:
 - shorts
 tags:
 - featured
-layout: project
 original_title: Deserto Estrangeiro
 release_year: 2020
 image: "/uploads/2020/12/de-still-01.jpg"
 video:
-  gif: ''
+  gif: 
   mp4: "/uploads/2020/12/animated-gif-original.mp4"
 trailer: vimeo.com/437227920
+layout: project
 ---
 
-Brazil/Germany, 23min, DCP, 2020
+Brazil / Germany, 23 min, 2020
 
 _Directed by_  
 Davi Pretto
 
 _Written by_  
 Davi Pretto and Igor Verde
-
-_With_  
-Isabél Zuaa, Mauro Soares, Raquel Villar
 
 _Production_  
 Vulcana Cinema
@@ -35,7 +32,7 @@ _Support_
 Galo de Briga Filmes and Abissal
 
 ---
-
+A young Brazilian, who has just started working in a huge forest in Berlin, is dragged into a nightmare involving the German colonial past when he tries to find a girl lost in the woods.
 ---
 
 ## Main Exhibitions
