@@ -2,23 +2,20 @@
 title: A Última Foto
 categories:
 - curtas
-layout: project
 release_year: 2014
 image: "/uploads/images/a-ultima-foto.jpg"
-original_title: ''
+original_title: 
 trailer: https://vimeo.com/118697188
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 6 min, HD/DCP, Curta-metragem, 2014
+Brasil, Curta-metragem, 6 min, 2014
 
 _Direção e Roteiro_  
 Thais Fernandes
-
-_Com_  
-Eduardo Cardoso Lacerda
 
 _Coprodução_  
 Cena Expandida, Besouro Filmes e Kiko Ferraz Studio
