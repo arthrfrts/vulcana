@@ -2,25 +2,25 @@
 title: De Guiné
 categories:
 - projetos
-layout: project
 image: "/uploads/images/de-guine.jpg"
 release_year: 2023
-original_title: ''
-trailer: ''
+original_title: 
+trailer: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
 Brasil, Longa-metragem em desenvolvimento
 
-_Direção e Roteiro_  
+*Direção e Roteiro*\
 Caroline Leone
 
-\_Coprodução  
-\_Vulcana Cinema
+*Coprodução*\
+Vulcana Cinema
 
-_Financiamento_  
+*Financiamento*\
 Hubert Bals Development Fund
 
 ---
@@ -29,9 +29,11 @@ Hubert Bals Development Fund
 
 ## LABS, MERCADOS E EVENTOS
 
-- 3 Puertos Cine 2019  
+* 3 Puertos Cine 2019\
   Laboratório de Projetos
-- Boost NL 2019  
+
+* Boost NL 2019\
   Laboratório de Projetos
-- CineMart Rotterdam  
+
+* CineMart Rotterdam\
   Mercado de coprodução internacional
