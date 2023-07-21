@@ -2,17 +2,17 @@
 title: Metade Homem, Metade Fantasma
 categories:
 - curtas
-layout: project
 release_year: 2016
 image: "/uploads/images/metade-homem-metade-fantasma.jpg"
-original_title: ''
-trailer: ''
+original_title: 
+trailer: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 26min, HD, Curta-metragem, 2016.
+Brasil, Curta-metragem documental, 26 min, 2016.
 
 _Direção e Roteiro_  
 Davi Pretto
