@@ -5,7 +5,7 @@ categories:
 release_year: 2015
 image: "/uploads/images/o-teto-sobre-nos.jpg"
 original_title: 
-trailer: https://www.youtube.com/watch?v=vDrPWSyCHTU
+filme: https://www.youtube.com/watch?v=vDrPWSyCHTU
 video:
   mp4: 
   gif: 
