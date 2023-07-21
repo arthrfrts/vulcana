@@ -2,26 +2,23 @@
 title: Princesa Morta do Jacuí
 categories:
 - curtas
-layout: project
 release_year: 2018
-image: "/uploads/images/princesa-morta-do-jacui.jpg"
-original_title: ''
-trailer: https://vimeo.com/309346070
+image: "/uploads/princesam_f05cor_2018133152.jpg"
+original_title: 
+trailer: https://vimeo.com/536986030
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
-Brasil, 17min, DCP, Curta-metragem, 2018.
+Brasil, Curta-metragem, 17 min, 2018
 
 _Direção e Roteiro_  
 Marcela Ilha Bordin
 
-_Com_  
-Gabriel Palma e Maíra Flores
-
 _Coprodução_  
-Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema e Gógo
+Muitas Palmeiras, Tokyo Filmes, Vulcana Cinema e Gogó
 
 ---
 
