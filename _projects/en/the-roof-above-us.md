@@ -17,9 +17,6 @@ Bruno Carboni
 _Written by_  
 Bruno Carboni, Marcela Ilha Bordin and João Kowacs
 
-_With_  
-Cosme Rodrigues, Silvana Rodrigues and Francisco Gick
-
 _Production_  
 Tokyo Filmes
 
