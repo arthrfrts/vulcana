@@ -18,7 +18,7 @@ Brasil, Longa-metragem em pós-produção
 Germano de Oliveira
 
 *Roteiro*\
-Germano de Oliveira e Marcela Ilha Bordin
+Germano de Oliveira, Igor Verde e Marcela Ilha Bordin
 
 *Coprodução*\
 Avante Filmes, Vulcana Cinema e Casa de Cinema de Porto Alegre
