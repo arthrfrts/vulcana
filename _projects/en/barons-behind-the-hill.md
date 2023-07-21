@@ -14,7 +14,7 @@ _Directed by_
 Germano de Oliveira
 
 _Written by_  
-Germano de Oliveira and Marcela Ilha Bordin
+Germano de Oliveira, Igor Verde and Marcela Ilha Bordin
 
 _Coproduction_  
 Avante Filmes, Vulcana Cinema and Casa de Cinema de Porto Alegre
