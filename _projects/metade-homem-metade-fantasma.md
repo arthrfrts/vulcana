@@ -24,9 +24,7 @@ _Financiamento_
 Secretaria de Estado da Cultura e Pró-Cultura RS
 
 ---
-
 A vida do homem nada mais é que um ponto no tempo.
-
 ---
 
 ## Principais exibições
