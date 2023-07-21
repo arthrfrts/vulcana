@@ -48,7 +48,7 @@ A young Brazilian, who has just started working in a huge forest in Berlin, is d
 
 * 31° São Paulo International Short Film Festival
 
-* Diálogo de Cinema / Mostra Cercanias.\
+* Diálogo de Cinema / Mostra Cercanias\
   Zinematógrafo Award
 
 * Curta Cinema 2020 – Rio de Janeiro International Short Film Festival / National Competition
