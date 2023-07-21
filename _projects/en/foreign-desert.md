@@ -16,34 +16,41 @@ layout: project
 
 Brazil / Germany, Short, 23 min, 2020
 
-_Directed by_  
+*Directed by*\
 Davi Pretto
 
-_Written by_  
+*Written by*\
 Davi Pretto and Igor Verde
 
-_Production_  
+*Production*\
 Vulcana Cinema
 
-_Financing_  
+*Financing*\
 DAAD Artist-in-Residence Berlin
 
-_Support_  
+*Support*\
 Galo de Briga Filmes and Abissal
 
 ---
+
 A young Brazilian, who has just started working in a huge forest in Berlin, is dragged into a nightmare involving the German colonial past when he tries to find a girl lost in the woods.
+
 ---
 
 ## Main Exhibitions
 
-- 23ª Tiradentes Film Festival
-- 48° Gramado Film Festival / Regional Shorts Competition  
-  Best Actress  
-  Best Screenplay  
+* 23ª Tiradentes Film Festival
+
+* 48° Gramado Film Festival / Regional Shorts Competition\
+  Best Actress\
+  Best Screenplay\
   Best Cinematography
-- 31° São Paulo International Short Film Festival
-- Diálogo de Cinema / Mostra Cercanias.  
+
+* 31° São Paulo International Short Film Festival
+
+* Diálogo de Cinema / Mostra Cercanias.\
   Zinematógrafo Award
-- Curta Cinema 2020 – Rio de Janeiro International Short Film Festival / National Competition
-- 22º Kinoarte Film Festival
+
+* Curta Cinema 2020 – Rio de Janeiro International Short Film Festival / National Competition
+
+* 22º Kinoarte Film Festival
