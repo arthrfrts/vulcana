@@ -52,7 +52,7 @@ Enquanto responde a um processo criminal, Pedro é forçado a lidar com a mudan�
 
 * FICG33 - Festival Internacional de Cinema de Guadalajara / Melhor Filme Prêmio Maguey
 
-* do Rio / Première Brasil: Competição longa ficção / Melhor Filme / Melhor Roteiro / Melhor Ator / Melhor Ator Coadjuvante
+* Festival do Rio / Première Brasil: Competição longa ficção / Melhor Filme / Melhor Roteiro / Melhor Ator / Melhor Ator Coadjuvante
 
 * FRAMELINE42
 
