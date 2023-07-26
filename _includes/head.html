@@ -2,11 +2,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  {%- if page.title -%}
-    {%- seo -%}
-  {%- else -%}
+  {%- if page.layout == "home" -%}
     <title>{{- site.title -}}</title>
     {%- seo title=false -%}
+  {%- else -%}
+    {%- seo -%}
   {%- endif -%}
   
   <link rel="stylesheet" type="text/css" href="{{ '/assets/css/screen.css' | relative_url }}" />
