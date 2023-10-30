@@ -2,7 +2,7 @@
 title: The Creature Beyond the Hill
 categories:
 - projects
-original_title: Barões Detrás do Morro
+original_title: O Animal Imaginado
 image: "/uploads/Design%20sem%20nome-64c521.jpg"
 release_year: 2024
 layout: project
