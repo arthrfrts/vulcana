@@ -4,7 +4,7 @@ categories:
 - projetos
 original_title: 
 release_year: 2027
-image: "/uploads/2020/12/memorias_para-site.jpg"
+image: "/uploads/MEMORIAS_MS'd%20Up_01.jpg"
 trailer: 
 video:
   mp4: 

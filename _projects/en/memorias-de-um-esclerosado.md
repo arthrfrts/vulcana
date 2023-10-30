@@ -4,7 +4,7 @@ categories:
 - projects
 original_title: Memórias de um Esclerosado
 release_year: 
-image: "/uploads/2020/12/memorias_para-site.jpg"
+image: "/uploads/MEMORIAS_MS'd%20Up_01.jpg"
 trailer: 
 video:
   mp4: 

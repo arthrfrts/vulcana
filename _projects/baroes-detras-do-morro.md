@@ -1,8 +1,8 @@
 ---
-title: Barões Detrás do Morro
+title: O Animal Imaginado
 categories:
 - projetos
-image: "/uploads/Design%20sem%20nome.jpg"
+image: "/uploads/Bar%C3%B5esDetr%C3%A1sDoMorro_1.jpg"
 release_year: 2024
 original_title: 
 trailer: 
