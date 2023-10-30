@@ -2,7 +2,7 @@
 title: Continent
 categories:
 - projects
-original_title: Casa no Campo
+original_title: Continente
 image: "/uploads/CNC_WIP_Still03-a2ac2c.jpg"
 release_year: 2025
 layout: project
