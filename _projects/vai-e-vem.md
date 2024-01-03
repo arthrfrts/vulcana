@@ -38,17 +38,33 @@ Como contraponto ao mundo virtual e (des)conectado, duas amigas criam uma provoc
 ## Principais Exibições
 
 * 11º Olhar de Cinema – Festival Internacional de Curitiba / Filme de Abertura
-* Sheffield DocFest / Competição Internacional
+* Sheffield DocFest 2022 / Competição Internacional
 * 16a CineBH - Mostra Internacional de Cinema de Belo Horizonte / Mostra Latino-Americana
 * 12ª GuadaLAjara Film Festival
 * 27º Festival Internacional de Cinema de Kerala
 * Pravo Ljudski Film Festival
+* 10º IndieCork Film Festival / Ganhador do prêmio Louis Marcus para Melhor Documentário
+* DOK Leipzig / Camera Lucida
+* RIDM - Rencontres internationales du documentaire de Montréal / Programa especial de Filmes Brasileiros
+* Kassel Documentary Film and Video Festival
+* Firstborn Girl Festival
+* Cinélatino – Rencontres de Toulouse
+* 26º Festival de Málaga
+* 30º San Diego Latino Film Festival
+* Outgaze Film Festival
+* Dallas International Film Festival
+* Festival Del Cinema Dei Diritti Umani Di Napoli
+* Kaleidoskop Film und Freiluft am Karlsplatz
+* Philadelphia Latino Film Festival
+* Queer Lisboa Festival Internacional de Cinema Queer / Competição Longas-Metragens
+* EQUIS Festival de Cine Feminista de Ecuador
+* MOVE IT! Filmfestival for human rights
+* SOCINE XXVI - Encontro da Sociedade Brasileira de Estudos de Cinema
+* Mostra Germaine Dulac: para além da vanguarda
 
 ## Labs, mercados e eventos
 
-* Sheffield Doc/Fest 2021
-
-  2021 Arts Talent Market Projects
+* Sheffield Doc/Fest 2021 / 2021 Arts Talent Market Projects
 * 25º Florianópolis Audiovisual Mercosul / Seleção Oficial WIP
 * Arché - Doclisboa 2021
 * JI.HLAVA NEW VISIONS FORUM: U.S. DOCS
