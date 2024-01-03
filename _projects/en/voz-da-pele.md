@@ -14,19 +14,19 @@ layout: project
 
 Brazil, 1 season with 5 episodes, in post production.
 
-_Directed by_
+_Directed by_\
 Igor Verde e Davi Pretto
 
-_Written by_
+_Written by_\
 Ceci Alves, Davi Pretto, Igor Verde, Phelipe Caetano
 
-_With_
+_With_\
 Alexya Salvador, Ana Flávia Magalhães, Flávio Gomes , Katiuscia Ribeiro, Monica Lima, Muniz Sodré, Paco Gomes, Renato Noguera , Rosana Paulino, Rosane Borges, Veronica Oliveira
 
-_Production_
+_Production_\
 Vulcana Cinema
 
-_Financing_
+_Financing_\
 PRODAV - TVS PÚBLICAS
 
 ***
