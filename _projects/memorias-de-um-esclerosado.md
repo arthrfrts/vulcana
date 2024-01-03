@@ -24,7 +24,7 @@ Rafael Corrêa
 Thais Fernandes, Rafael Corrêa e Ma Villa Real
 
 *Produção*\
-Vulcana Cinema
+Vulcana Cinema, Cena Expandida
 
 *Financiamento*\
 Itaú Rumos 2019-2020 e FAC Filma RS
