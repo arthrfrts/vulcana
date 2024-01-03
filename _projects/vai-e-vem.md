@@ -5,7 +5,7 @@ categories:
 image: "/uploads/2021/04/whatsapp-image-2021-04-27-at-11-16-32.jpeg"
 release_year: 2022
 original_title: 
-trailer: 
+trailer: https://www.youtube.com/watch?v=Ht8jNvHEsGE
 video:
   mp4: 
   gif: 
