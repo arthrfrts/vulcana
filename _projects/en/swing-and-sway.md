@@ -37,11 +37,29 @@ As a counterpoint to a virtual and (dis)connected world two girlfriends engage i
 ## Main Exhibitions
 
 * Olhar de Cinema - Curitiba IFF / Opening Film
-* Sheffield DocFest / International Competition
+* Sheffield DocFest 2022 / International Competition
 * 16a CineBH - International Film Festival / Mostra Latino-Americana
 * 12ª GuadaLAjara Film Festival
 * 27º International Film Festival of Kerala
 * Pravo Ljudski Film Festival
+* IndieCork Film Festival - Louis Marcus Award for Best Documentary
+* DOK Leipzig
+* RIDM - Rencontres internationales du documentaire de Montréal
+* Kassel Documentary Film and Video Festival
+* Firstborn Girl Festival
+* Cinélatino – Rencontres de Toulouse
+* Málaga Film Festival
+* San Diego Latino Film Festival
+* Outgaze Film Festival
+* Dallas International Film Festival
+* Festival Del Cinema Dei Diritti Umani Di Napoli
+* Kaleidoskop Film und Freiluft am Karlsplatz
+* Philadelphia Latino Film Festival
+* Queer Lisboa International Queer Film Festival / Feature Film Competition
+* EQUIS Festival de Cine Feminista de Ecuador
+* MOVE IT! Filmfestival for human rights
+* SOCINE XXVI Meeting of the Brazilian Society of Cinema Studies
+* Mostra Germaine Dulac: beyond the avant-garde
 
 ## Labs, markets and events
 
