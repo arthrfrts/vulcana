@@ -17,11 +17,8 @@ Brazil, Feature in post production
 *Directed and Writetn by*\
 Filipe Matzembacher and Marcio Reolon
 
-*Production*\
-Avante Filmes
-
 *Coproduction*\
-Vulcana Cinema
+Avante Filmes, Vulcana Cinema
 
 ---
 
