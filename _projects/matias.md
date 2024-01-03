@@ -17,11 +17,8 @@ Brasil, Longa-metragem em pós-produção
 *Direção e Roteiro*\
 Filipe Matzembacher e Marcio Reolon
 
-*Produção*\
-Avante Filmes
-
-*Coprodução*\
-Vulcana Cinema
+*Coprodução*
+Avante Filmes, Vulcana Cinema
 
 ---
 
