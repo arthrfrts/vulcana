@@ -12,7 +12,7 @@ video:
 layout: project
 ---
 
-Brasil, Longa-metragem em desenvolvimento
+Brasil, Longa-metragem em pós-produção
 
 *Direção e Roteiro*\
 Filipe Matzembacher e Marcio Reolon
