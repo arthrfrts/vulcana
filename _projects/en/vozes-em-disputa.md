@@ -1,15 +1,15 @@
 ---
-title: Vozes em Disputa
+title: Voz da Pele
 categories:
 - projects
-layout: project
-original_title: ''
+original_title: 
 release_year: 2023
 image: "/uploads/2022/07/11/screen-shot-2022-07-11-at-15-57-50.png"
-trailer: ''
+trailer: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
 Brazil, 1 season with 5 episodes, in post production.
