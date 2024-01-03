@@ -14,19 +14,19 @@ layout: project
 
 Brasil, 1 temporada de 5 episódios, série documental em fase de pós-produção
 
-_Direção_
+_Direção_\
 Igor Verde e Davi Pretto
 
-_Roteiro_
+_Roteiro_\
 Ceci Alves, Davi Pretto, Igor Verde, Phelipe Caetano
 
-_Com_
+_Com_\
 Alexya Salvador, Ana Flávia Magalhães, Flávio Gomes , Katiuscia Ribeiro, Monica Lima, Muniz Sodré, Paco Gomes, Renato Noguera , Rosana Paulino, Rosane Borges, Veronica Oliveira
 
-_Produção_
+_Produção_\
 Vulcana Cinema
 
-_Financiamento_
+_Financiamento_\
 PRODAV - TVS PÚBLICAS
 
 ***
