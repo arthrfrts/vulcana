@@ -23,7 +23,7 @@ Manuel Nieto Zas
 Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Murillo Cine (AR) e Paradise Films (FR)\
 \
 *Disponível em*\
-Netflix, Apple TV, Youtube Filmes e Google Play
+Netflix, Youtube Filmes e Google Play
 
 ---
 
