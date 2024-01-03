@@ -17,7 +17,7 @@ _Written by_
 Germano de Oliveira, Igor Verde and Marcela Ilha Bordin
 
 _Coproduction_  
-Avante Filmes, Vulcana Cinema and Casa de Cinema de Porto Alegre
+Casa de Cinema de Porto Alegre, Vulcana Cinema e Avante Filmes
 
 _Financing_  
 Edital Plataforma FUMPROARTE 2016, FSA
