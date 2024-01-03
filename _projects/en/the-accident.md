@@ -33,12 +33,22 @@ The cyclist Joana is involved in an odd accident, where she is carried on the ho
 
 ## Main Exhibitions
 
-* 32º Cine Ceará / Ibero-American Feature
-* Rio de Janeiro IFF / Première Brasil
-* 26º Tallinn Black Nights - First Feature Competition
-* 40th Torino Film Festival
-* 13º Beijing International Film Festival / Best Screenplay
-* 11º Olhar de Cinema / Special Screening
+* 32º Cine Ceará - World Premiere / Ibero-American Feature Competition
+* 24º Rio de Janeiro IFF - Première Brasil / Novos Rumos Competition)
+* 26º Tallinn Black Nights Film Festival - Internacional Premiere / First Feature Competition
+* 40º Torino Film Festival - Italian Premiere / Out Of Competition/Torino Film Lab
+* 26º Amsterdam LGBTQ+ Film Festival - Roze Filmdagen / New Perspectives
+* 42º Minneapolis St. Paul IFF - North American Premiere / Cine Latino and LGBTQ+ Currents
+* 13º Beijing IFF / Forward Future, Best Screenplay Award
+* OFFCINE 22 / Best Film; Best Director; Supporting Actress; Art Director; Production; Honorable Mention e Revelation Award
+* 1º Encontro dos Festivais Ibero-americanos de Cinema
+* 2023 Philadelphia Latino Film Festival
+* 12º Olhar Curitiba IFF (Special Exhibitions)
+* 51º Gramado FF / Gaúchos Features Competition / Best Production Design, Best Actress
+* Queer Lisboa International Queer Film Festival / Feature Film Competition
+* 54th International Film Festival of India - IFFI Goa / Cinema of the World
+* 25º Kinoarte Film Festival
+* 2023 International Film Festival of Kerala (IFFK) / World Cinema
 
 ## Labs, Market and Events
 

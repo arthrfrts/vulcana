@@ -36,22 +36,22 @@ A ciclista Joana é envolvida em um estranho acidente, onde ela é carregada no 
 
 ## Principais Exibições
 
-* 32º Cine Ceará Festival Ibero-americano de Cinema - Estreia Mundial (Mostra Competitiva Ibero-Americana de Longa-Metragens)
-* 24º Festival do Rio - Première Brasil (Competição Novos Rumos)
-* 26º Tallinn Black Nights Film Festival - Estreia Internacional (Competição de Primeiro Longa-metragem)
-* 40º Festival de Cinema de Torino - Estreia Italiana (Mostra Não Competitiva/Torino Film Lab)
-* 26º Amsterdam LGBTQ+ Film Festival - Roze Filmdagen (Novas Perspectivas)
-* 42º Minneapolis St. Paul Festival Internacional de Cinema - Estreia Norte Americana (Cine Latino e LGBTQ+ Currents)
-* 13º Festival de Cinema Internacional de Beijing (Forward Future, Prêmio de Melhor Roteiro)
-* OFFCINE 22 (Prêmios de Melhor filme; Melhor direção; Atriz coadjuvante; Direção de Arte; Produção; Honra ao Mérito e Revelação)
+* 32º Cine Ceará Festival Ibero-americano de Cinema - Estreia Mundial / Mostra Competitiva Ibero-Americana de Longa-Metragens
+* 24º Festival do Rio - Première Brasil / Competição Novos Rumos
+* 26º Tallinn Black Nights Film Festival - Estreia Internacional / Competição de Primeiro Longa-metragem
+* 40º Festival de Cinema de Torino / Mostra Não Competitiva/Torino Film Lab
+* 26º Amsterdam LGBTQ+ Film Festival - Roze Filmdagen / Novas Perspectivas
+* 42º Minneapolis St. Paul Festival Internacional de Cinema - / Cine Latino e LGBTQ+ Currents
+* 13º Festival de Cinema Internacional de Beijing / Forward Future, Prêmio de Melhor Roteiro
+* OFFCINE 22 / Prêmios de Melhor filme; Melhor direção; Atriz coadjuvante; Direção de Arte; Produção; Honra ao Mérito e Revelação
 * 1º Encontro dos Festivais Ibero-americanos de Cinema
 * 2023 Festival de Cinema Latino da Filadélfia
-* 12º Olhar Festival Internacional de Cinema de Curitiba (Exibições Especiais)
-* 51º Festival de Cinema de Gramado (Mostra Competitiva de Longas-Metragens Gaúchos)
-* Queer Lisboa Festival Internacional de Cinema Queer (Competição Longas-Metragens)
-* 54th Festival Internacional de Cinema da Índia - IFFI Goa (Cinema of the World)
+* 12º Olhar Festival Internacional de Cinema de Curitiba / Exibições Especiais
+* 51º Festival de Cinema de Gramado / Mostra Competitiva de Longas-Metragens Gaúchos / Melhor Atriz; Melhor Direção de Arte
+* Queer Lisboa Festival Internacional de Cinema Queer / Competição Longas-Metragens
+* 54th Festival Internacional de Cinema da Índia - IFFI Goa / Cinema of the World
 * 25º Festival Kinoarte De Cinema
-* 2023 Festival Internacional de Cinema de Kerala (IFFK) (World Cinema)
+* 2023 Festival Internacional de Cinema de Kerala (IFFK) / World Cinema
 
 ## Labs, Mercados e Eventos
 
