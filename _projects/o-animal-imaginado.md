@@ -21,7 +21,7 @@ Germano de Oliveira
 Germano de Oliveira, Igor Verde e Marcela Ilha Bordin
 
 *Coprodução*\
-Avante Filmes, Vulcana Cinema e Casa de Cinema de Porto Alegre
+Casa de Cinema de Porto Alegre, Vulcana Cinema e Avante Filmes
 
 *Financiamento*\
 Edital Plataforma FUMPROARTE 2016, FSA
@@ -36,3 +36,4 @@ Em um pequeno vilarejo, a pequena Ana assiste a uma peça de teatro que apresent
 
 * 6º Olhar de Cinema (2017)\
   CURITIBA_LAB
+* 2023 SANFIC - WORK IN PROGRESS IBEROAMERICANO
