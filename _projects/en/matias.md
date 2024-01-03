@@ -12,7 +12,7 @@ video:
 layout: project
 ---
 
-Brazil, Feature in development
+Brazil, Feature in post production
 
 *Directed and Writetn by*\
 Filipe Matzembacher and Marcio Reolon
