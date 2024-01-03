@@ -32,3 +32,4 @@ In a small village in southern Brazil, little Ana becomes obsessed by a play tha
 
 - 6º Olhar de Cinema (2017)  
   CURITIBA_LAB
+* 2023 SANFIC - WORK IN PROGRESS IBEROAMERICANO
