@@ -1,5 +1,5 @@
 ---
-title: Talisman
+title: Talented
 date: 2023-07-21 11:44:00 -03:00
 categories:
 - projects
