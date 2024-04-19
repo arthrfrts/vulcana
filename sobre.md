@@ -25,6 +25,7 @@ _Produtora_
 Natasha Ferla  
 _Assistente de Produção_
 
-Luísa Schwengber
+Luísa Schwengber  
 _Assistente de Produção_
+
 </div>
