@@ -1,9 +1,9 @@
 ---
 title: Voz da Pele
 categories:
-- projetos
+- tv
 original_title: 
-release_year: 2023
+release_year: 2024
 image: "/uploads/2022/07/11/screen-shot-2022-07-11-at-15-57-50.png"
 trailer: 
 video:
