@@ -11,10 +11,10 @@ release_year: 2024
 
 Brazil, Feature in Development
 
-_Directed and Written by_   
+_Directed and Written by_ 
 Leonardo da Rosa
 
-_Coproduction_  
+_Coproduction_
 Vulcana Cinema e Saturno Filmes
 
 _Financing_
