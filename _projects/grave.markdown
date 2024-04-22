@@ -3,7 +3,7 @@ title: Grave
 date: 2024-04-22 11:32:00 -03:00
 categories:
 - projetos
-image: "/uploads/Still_ref_grave_1.jpg"
+image: "/uploads/3.jpg"
 release_year: 2024
 ---
 
