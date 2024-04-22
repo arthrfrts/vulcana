@@ -13,10 +13,12 @@ _Direção e Roteiro_
 Leonardo da Rosa
 
 _Coprodução_  
-Vulcana Cinema
+Vulcana Cinema e Saturno Filmes
 
 _Financiamento_  
 SEDAC/LPG nº 16/2023
+
+---
 
 ## Festivais
 
