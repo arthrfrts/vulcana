@@ -17,7 +17,7 @@ Leonardo da Rosa
 _Coproduction_  
 Vulcana Cinema e Saturno Filmes
 
-_Financing_ 
+_Financing_
 SEDAC/LPG nº 16/2023
 
 ---
