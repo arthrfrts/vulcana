@@ -20,6 +20,6 @@ SEDAC/LPG nº 16/2023
 
 ---
 
-## Festivais
+## Labs, mercados e eventos
 
 - Arché 2023
