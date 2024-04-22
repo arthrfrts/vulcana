@@ -29,5 +29,8 @@ Vulcana Cinema
 _Financiamento_\
 PRODAV - TVS PÚBLICAS
 
-***
+---
 
+Voz da Pele é uma série documental em cinco episódios que parte de discursos escravagistas e abolicionistas da mídia e de personagens do período próximo da Lei Áurea em 1888, ao mesmo tempo que narra a história de personagens negros protagonistas em suas lutas pela liberdade em revoltas quilombolas, na imprensa negra e nas ruas das cidades. A série discute como aquele período e aquelas vozes silenciadas e outras silenciadoras ainda ecoam nos dias de hoje, contando com depoimentos de importantes pensadores negros da atualidade como Muniz Sodré, Rosane Borges, Flavio Gomes, Katiúscia Ribeiro, Rosana Paulino, Ana Flavia Magalhães, Renato Nogueira, Alexya Salvador, Veronica Oliveira, Mônica Lima e Paco Gomes.
+
+---
