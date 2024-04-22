@@ -16,8 +16,8 @@ Caroline Leone
 _Production_  
 Vulcana Cinema and Klaxon Cultura Audiovisual
 
-_Financing_  
-Hubert Bals Development Fund
+_Financing_
+  Hubert Bals Development Fund
 
 _Distribution_
 Vitrine Filmes
