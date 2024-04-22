@@ -18,6 +18,8 @@ Vulcana Cinema e Saturno Filmes
 _Financiamento_  
 SEDAC/LPG nº 16/2023
 
+---
+
 ## Festivais
 
 - Arché 2023
