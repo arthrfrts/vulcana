@@ -31,7 +31,7 @@ Quando nomeamos uma coisa, ela perde ou ganha sentido? _Um corpo feminino_ prop�
 
 ---
 
-## Festivais
+## PRINCIPAIS EXIBIÇÕES
 
 - 28ª Festival Internacional de Curtas do Rio de Janeiro - Curta Cinema 2018 / Competição Nacional  
   Prêmio do Público de Melhor Filme Nacional  
