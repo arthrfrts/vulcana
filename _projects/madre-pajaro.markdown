@@ -1,0 +1,32 @@
+---
+title: Madre Pájaro
+date: 2024-04-24 11:43:00 -03:00
+image: "/uploads/MADRE%20PA%CC%81JARO%20-%20MOODBOARD%20PT%20BR%20LPG.jpg"
+release_year: 2024
+---
+
+Brasil/Costa Rica/Argentina, Longa-metragem em desenvolvimento
+
+*Direção e Roteiro*\
+Sofía Quirós Úbeda
+
+*Coprodução*\
+Vulcana Cinema, Sputnik Films e Murillo Cine
+
+*Financiamento*\
+SEDAC/LPG nº 16/2023
+
+---
+
+---
+
+## LABS, MERCADOS E EVENTOS
+
+* 3 Puertos Cine 2019\
+  Laboratório de Projetos
+
+* Boost NL 2019\
+  Laboratório de Projetos
+
+* CineMart Rotterdam\
+  Mercado de coprodução internacional
