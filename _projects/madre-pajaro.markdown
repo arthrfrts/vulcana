@@ -17,16 +17,3 @@ Vulcana Cinema, Sputnik Films e Murillo Cine
 SEDAC/LPG nº 16/2023
 
 ---
-
----
-
-## LABS, MERCADOS E EVENTOS
-
-* 3 Puertos Cine 2019\
-  Laboratório de Projetos
-
-* Boost NL 2019\
-  Laboratório de Projetos
-
-* CineMart Rotterdam\
-  Mercado de coprodução internacional
