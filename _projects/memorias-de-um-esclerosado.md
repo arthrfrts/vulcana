@@ -3,7 +3,7 @@ title: Memórias de um Esclerosado
 categories:
 - longas
 original_title: 
-release_year: 2026
+release_year: 2025
 image: "/uploads/MEMORIAS_MS'd%20Up_01.jpg"
 trailer: 
 video:
