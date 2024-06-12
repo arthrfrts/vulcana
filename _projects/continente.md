@@ -23,6 +23,12 @@ Davi Pretto, Igor Verde e Paola Wink
 *Coprodução*\
 Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR), Pasto Cine (AR) e Dublin Films (FR)
 
+*Distribuição*\
+Vitrine Filmes
+
+*International Sales*\
+Lights On
+
 ---
 
 Em um vilarejo isolado no sul do Brasil, uma relutante herdeira e seu namorado francês se envolvem em um perturbador acordo quando ela precisa assumir a fazenda de seu pai, enquanto a única médica local luta para proteger os trabalhadores.
