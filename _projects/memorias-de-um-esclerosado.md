@@ -1,7 +1,7 @@
 ---
 title: Memórias de um Esclerosado
 categories:
-- projetos
+- longas
 original_title: 
 release_year: 2027
 image: "/uploads/MEMORIAS_MS'd%20Up_01.jpg"
@@ -12,7 +12,7 @@ video:
 layout: project
 ---
 
-Brasil, Longa-metragem em pós-produção
+Brasil, Longa-metragem, 2024
 
 *Direção*\
 Thais Fernandes
