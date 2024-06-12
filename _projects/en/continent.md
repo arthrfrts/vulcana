@@ -1,7 +1,7 @@
 ---
 title: Continent
 categories:
-- longas
+- features
 original_title: Continente
 image: "/uploads/CNC_WIP_Still03-a2ac2c.jpg"
 release_year: 2027
