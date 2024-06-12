@@ -7,7 +7,7 @@ tags:
 original_title: O Acidente
 trailer: https://vimeo.com/660415401?share=copy
 image: "/uploads/images/o-acidente.jpg"
-release_year: 
+release_year: 2023
 layout: project
 ---
 
