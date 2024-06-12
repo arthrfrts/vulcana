@@ -3,7 +3,7 @@ title: Continent
 categories:
 - features
 original_title: Continente
-image: "/uploads/CNC_WIP_Still03-a2ac2c.jpg"
+image: "/uploads/01_Still_Continente_1.jpg"
 release_year: 2027
 layout: project
 ---
@@ -17,7 +17,7 @@ Davi Pretto
 Davi Pretto, Igor Verde and Paola Wink
 
 *Coproduction*\
-Vulcana Cinema (BR), Tokyo Filmes (BR), Murillo Cine (AR), Pasto Cine (AR) e Dublin Films (FR)
+Vulcana Cinema (BR), Murillo Cine (AR), Pasto Cine (AR) e Dublin Films (FR)
 
 *Distribution*\
 Vitrine Filmes
@@ -41,3 +41,8 @@ In a secluded village of southern Brazil, a young woman returns after years as h
 
 * 11º Brasil Cinemundi\
   World Cinema Fund - Audience Design Award
+
+* 70º San Sebastián Festival - WIP Latam\
+  WIP Paradiso Award
+
+* Full Circle Lab Nouvelle-Aquitaine 2022
