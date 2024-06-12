@@ -41,7 +41,7 @@ Em um vilarejo isolado no sul do Brasil, uma relutante herdeira e seu namorado f
 
 ## LABS, MERCADOS E EVENTOS
 
-* Berlinale Coproduction Market 2020 / Mercado de Co-produção Internacional
+* Berlinale Coproduction Market 2020 - Mercado de Co-produção Internacional
 
 * 11º Brasil Cinemundi\
   Prêmio World Cinema Fund – Audience Design
