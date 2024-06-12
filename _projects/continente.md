@@ -3,7 +3,7 @@ title: Continente
 categories:
 - longas
 image: "/uploads/CNC_WIP_Still03.jpg"
-release_year: 2025
+release_year: 2027
 original_title: 
 trailer: 
 video:
