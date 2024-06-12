@@ -36,7 +36,9 @@ Na busca por respostas e um pouco de aventura, o cartunista brasileiro Rafael Co
 ---
 
 ## Principais Exibições
-* CinePE 2024\Mostra Competitiva de Longas-Metragens \Melhor Filme; Júri Popular; Melhor Roteiro; Melhor Trilha Sonora; Melhor Ator Coadjuvante
+
+* CinePE 2024 - Mostra Competitiva de Longas-Metragens\
+  Melhor Filme; Júri Popular; Melhor Roteiro; Melhor Trilha Sonora; Melhor Ator Coadjuvante
 
 ## LABS, MERCADOS E EVENTOS
 
