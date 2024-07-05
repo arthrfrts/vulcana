@@ -7,7 +7,7 @@ image: "/uploads/image.png"
 release_year: 2025
 ---
 
-Brasil, Longa-metragem em desenvolvimento
+Brasil, Média-metragem em desenvolvimento
 
 *Direção e Roteiro*\
 Daniel Candido de Bem
