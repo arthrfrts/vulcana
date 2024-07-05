@@ -4,6 +4,7 @@ date: 2024-06-21 16:27:00 -03:00
 categories:
 - projects
 lang: en
+original_title: Futuro Futuro
 image: "/uploads/WhatsApp%20Image%202024-06-21%20at%2016.24.26.jpeg"
 year release: 2023
 ---
