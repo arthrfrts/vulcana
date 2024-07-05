@@ -1,5 +1,5 @@
 ---
-title: Futuro Futuro
+title: Future Future
 date: 2024-06-21 16:27:00 -03:00
 categories:
 - projects
