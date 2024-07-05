@@ -9,7 +9,7 @@ image: "/uploads/image.png"
 release_year: 2025
 ---
 
-Brazil, Short film in Development
+Brazil, Mid-Length Film in Development
 
 *Directed and Written by*\
 Daniel Candido de Bem
