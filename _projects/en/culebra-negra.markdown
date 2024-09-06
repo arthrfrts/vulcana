@@ -17,7 +17,7 @@ Aurélien Vernhes-Lermusiaux
 _Written by_  
 Aurélien Vernhes-Lermusiaux and Marlène Poste
 
-_Coproduction_  
+_Coproduction_ 
 Dublin Films (FR), Burning (CO) and Vulcana Cinema (BR)
 
 _Financing_  
