@@ -2,7 +2,7 @@
 title: Bicho Monstro
 categories:
 - projetos
-image: "/uploads/Bar%C3%B5esDetr%C3%A1sDoMorro_1.jpg"
+image: "/uploads/BM_still%2001.jpg"
 release_year: 2024
 original_title: 
 trailer: 
