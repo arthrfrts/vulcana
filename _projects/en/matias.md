@@ -1,8 +1,8 @@
 ---
-title: Matias
+title: The Loneliness Of Young Actors
 categories:
 - projects
-original_title: Matias
+original_title: A Solidão dos Jovens Atores
 release_year: 2026
 image: "/uploads/2021/02/berlin-4x.png"
 trailer: 
