@@ -1,6 +1,8 @@
 ---
 title: Culebra Negra
 date: 2024-09-06 10:47:00 -03:00
+categories:
+- projects
 lang: en
 original_title: La Couleuvre Noire
 release_year: 2025
