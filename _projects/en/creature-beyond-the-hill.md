@@ -1,9 +1,9 @@
 ---
-title: The Creature Beyond the Hill
+title: Creature Beyond the Hill
 categories:
 - projects
-original_title: O Animal Imaginado
-image: "/uploads/Design%20sem%20nome-64c521.jpg"
+original_title: Bicho Monstro
+image: "/uploads/BM_still%2001.jpg"
 release_year: 2024
 layout: project
 ---
