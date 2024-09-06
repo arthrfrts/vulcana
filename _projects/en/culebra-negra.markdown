@@ -4,6 +4,7 @@ date: 2024-09-06 10:47:00 -03:00
 lang: en
 original_title: La Couleuvre Noire
 release_year: 2025
+image: "/uploads/Culebra%20negra.png"
 ---
 
 France / Colombia / Brazil, Feature in post production
