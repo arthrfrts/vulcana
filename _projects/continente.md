@@ -5,7 +5,7 @@ categories:
 image: "/uploads/01_Still_Continente_1.jpg"
 release_year: 2027
 original_title: 
-trailer: 
+trailer: https://www.youtube.com/watch?v=vwFkp2EUxNI
 video:
   mp4: 
   gif: 
