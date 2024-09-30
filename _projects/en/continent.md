@@ -5,6 +5,7 @@ categories:
 original_title: Continente
 image: "/uploads/01_Still_Continente_1.jpg"
 release_year: 2027
+trailer: https://www.youtube.com/watch?v=vwFkp2EUxNI
 layout: project
 ---
 
