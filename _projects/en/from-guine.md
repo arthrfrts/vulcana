@@ -1,5 +1,6 @@
 ---
 title: From Guiné
+published: false
 categories:
 - projects
 original_title: De Guiné
