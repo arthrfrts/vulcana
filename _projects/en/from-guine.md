@@ -14,7 +14,7 @@ _Directed and Written by_
 Caroline Leone
 
 _Production_  
-Vulcana Cinema and Klaxon Cultura Audiovisual
+Klaxon Cultura Audiovisual
 
 _Financing_
   Hubert Bals Development Fund
