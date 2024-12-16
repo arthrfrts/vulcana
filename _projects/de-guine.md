@@ -17,8 +17,8 @@ Brasil, Longa-metragem em desenvolvimento
 *Direção e Roteiro*\
 Caroline Leone
 
-*Coprodução*\
-Vulcana Cinema e Klaxon Cultura Audiovisual 
+*Produção*\
+Klaxon Cultura Audiovisual 
 
 *Financiamento*\
 Hubert Bals Development Fund
