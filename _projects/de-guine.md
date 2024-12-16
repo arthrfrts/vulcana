@@ -1,5 +1,6 @@
 ---
 title: De Guiné
+published: false
 categories:
 - projetos
 image: "/uploads/images/de-guine.jpg"
