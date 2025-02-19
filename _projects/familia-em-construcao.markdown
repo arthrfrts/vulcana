@@ -5,9 +5,10 @@ categories:
 - projetos
 image: "/uploads/image.png"
 release_year: 2025
+trailer: https://vimeo.com/1058331914?share=copy
 ---
 
-Brasil, Média-metragem em desenvolvimento
+Brasil, Média-metragem, 2025
 
 *Direção e Roteiro*\
 Daniel Candido de Bem
@@ -18,4 +19,10 @@ Vulcana Cinema e TV Globo
 *Financiamento*\
 TV Globo
 
----
+***
+
+No mundo disciplinado do boxe, Fabiana mantém a ordem como árbitra, mas sua vida toma um rumo inesperado quando decide adotar Dudu, um menino problemático de 12 anos. Pra sair dessa, ela precisa se reaproximar de seu pai, um ator frustrado.
+Enquanto a sociedade favorece mães, pais e filhos "perfeitos", esse trio inesperado enfrenta desafios e descobre que família é muito mais do que um modelo ideal.
+
+
+
