@@ -1,5 +1,5 @@
 ---
-title: Creature Beyond the Hill
+title: Monster Story
 categories:
 - projects
 original_title: Bicho Monstro
@@ -27,6 +27,10 @@ Edital Plataforma FUMPROARTE 2016, FSA
 In a small village in southern Brazil, little Ana becomes obsessed by a play that presents the ancient legend of the Thiltapes – a mysterious animal that hides beyond the hill. Two hundred years before, a German botanist hears the same story told by a settler. While dealing with their own demons, each character searches for the same creature.
 
 ---
+
+## MAIN EXHIBITIONS
+
+* 48ª São Paulo International Film Festival / New Directors Competition
 
 ## LABS, MARKETS AND EVENTS
 
