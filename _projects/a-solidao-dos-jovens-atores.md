@@ -1,7 +1,7 @@
 ---
 title: A Solidão dos Jovens Atores
 categories:
-- projetos
+- longas
 original_title: 
 release_year: 2026
 image: "/uploads/2021/02/berlin-4x.png"
@@ -38,7 +38,7 @@ Um ator e um político vivem um caso em sigilo e, juntos, descobrem ter fetiche 
 ## Principais Exibições
 
 *75ª Berlinale - Festival Internacional de Cinema de Berlim / Panorama
-*BFI Flare: London LGBTQIA+ Film Festival 2025
+*BFI Flare: London LGBTQIA+ Film Festival 2025 / Filme de encerramento
 
 ## LABS, MERCADOS E EVENTOS
 
