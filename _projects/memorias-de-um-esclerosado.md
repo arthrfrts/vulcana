@@ -37,8 +37,11 @@ Na busca por respostas e um pouco de aventura, o cartunista brasileiro Rafael Co
 
 ## Principais Exibições
 
-* CinePE 2024 - Mostra Competitiva de Longas-Metragens\
-  Melhor Filme; Júri Popular; Melhor Roteiro; Melhor Trilha Sonora; Melhor Ator Coadjuvante
+* 52º Festival de Cinema de Gramado / Mostra Competitiva de Longas-Metragens Gaúchos / Melhor Roteiro, Melhor Montagem, Melhor Desenho de Som, Melhor Trilha Musical, Menção Honrosa
+* CinePE 2024 - Mostra Competitiva de Longas-Metragens / Melhor Filme; Júri Popular; Melhor Roteiro; Melhor Trilha Sonora; Melhor Ator Coadjuvante
+* DOCSP 2024
+* Mostra FRAPA 2024 - Festival de Roteiro Audiovisual de Porto Alegre
+* FIDBA 2024 / Ibero-American feature film competition
 
 ## LABS, MERCADOS E EVENTOS
 
