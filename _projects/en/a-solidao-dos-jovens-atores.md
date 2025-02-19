@@ -1,7 +1,7 @@
 ---
 title: The Loneliness Of Young Actors
 categories:
-- projects
+- longas
 original_title: A Solidão dos Jovens Atores
 release_year: 2026
 image: "/uploads/2021/02/berlin-4x.png"
@@ -12,7 +12,7 @@ video:
 layout: project
 ---
 
-Brazil, Feature in post production
+Brazil, Feature, 2025
 
 *Directed and Writetn by*\
 Filipe Matzembacher and Marcio Reolon
@@ -20,9 +20,22 @@ Filipe Matzembacher and Marcio Reolon
 *Coproduction*\
 Avante Filmes, Vulcana Cinema
 
----
+*Financing*\
+FSA
 
----
+*Sales and Festivals*\
+m-appeal
+
+***
+
+Actor and politician begin affair, develop public sex fetish. As fame beckons, they crave riskier encounters.
+
+***
+
+## Main Exhibitions
+
+*75ª Berlinale - Berlin International Film Festival / Panorama
+*BFI Flare: London LGBTQIA+ Film Festival 2025 / Closing Film
 
 ## LABS, MARKETS AND EVENTS
 
