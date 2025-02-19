@@ -3,7 +3,7 @@ title: Ato Noturno
 categories:
 - longas
 original_title: 
-release_year: 2026
+release_year: 2025
 image: "/uploads/2021/02/berlin-4x.png"
 trailer: 
 video:
