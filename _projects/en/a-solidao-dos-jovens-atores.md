@@ -4,7 +4,7 @@ categories:
 - longas
 original_title: Ato Noturno
 release_year: 2025
-image: "/uploads/2021/02/berlin-4x.png"
+image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
 trailer: 
 video:
   mp4: 
