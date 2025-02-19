@@ -1,9 +1,9 @@
 ---
-title: The Loneliness Of Young Actors
+title: Night Stage
 categories:
 - longas
-original_title: A Solidão dos Jovens Atores
-release_year: 2026
+original_title: Ato Noturno
+release_year: 2025
 image: "/uploads/2021/02/berlin-4x.png"
 trailer: 
 video:
