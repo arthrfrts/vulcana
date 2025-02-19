@@ -37,7 +37,14 @@ Em um vilarejo isolado no sul do Brasil, uma relutante herdeira e seu namorado f
 
 ## PRINCIPAIS EXIBIÇÕES
 
-* 41º FILMFEST MÜNCHEN - Cine Rebels Competition
+* Festival do Rio / Première Brasil: Novos Rumos - Longa-metragens / Melhor Diretor
+* 41º FILMFEST MÜNCHEN / Competição Cine Rebels
+* Gritos en el Planetario / Prêmio “Narcizo Ibáñez Menta” de Melhor Longa-metragem
+* Sitges Film Festival / Competição Oficial
+* Caminhos do Cinema Português
+* MOTELX - Festival Internacional de Cinema de Terror de Lisboa / Sessão Serviço de Quarto
+* TOHorror Fantastic Film Fest / Competição de longa-metragens
+* MACABRO FICH
 
 ## LABS, MERCADOS E EVENTOS
 
