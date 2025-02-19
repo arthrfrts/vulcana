@@ -5,7 +5,7 @@ categories:
 original_title: 
 release_year: 2025
 image: "/uploads/MEMORIAS_MS'd%20Up_01.jpg"
-trailer: 
+trailer: https://www.youtube.com/watch?v=bap3pzonLsU
 video:
   mp4: 
   gif: 
