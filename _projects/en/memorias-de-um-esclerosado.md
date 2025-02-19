@@ -5,7 +5,7 @@ categories:
 original_title: Memórias de um Esclerosado
 release_year: 2026
 image: "/uploads/MEMORIAS_MS'd%20Up_01.jpg"
-trailer: 
+trailer: https://www.youtube.com/watch?v=bap3pzonLsU
 video:
   mp4: 
   gif: 
@@ -39,6 +39,10 @@ In his quest for answers and some adventure, Brazilian cartoonist Rafael Corrêa
 
 * CinePE 2024\
   Best Film; Best Film by the Popular Jury; Best Screenplay; Best Soundtrack; Best Supporting Actor
+
+* 52º Gramado Film Festival / Regional Feature Film / Best Script, Best Editing, Best Sound Design, Best Original Soundtrack, Honorable Mention
+* FRAPA 2024 - Festival de Roteiro Audiovisual de Porto Alegre
+* FIDBA 2024 / Ibero-American feature film competition
 
 ## LABS, MARKETS AND EVENTS
 
