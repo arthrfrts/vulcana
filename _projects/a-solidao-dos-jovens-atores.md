@@ -5,7 +5,7 @@ categories:
 original_title: 
 release_year: 2025
 image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
-trailer: 
+trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
   mp4: 
   gif: 
