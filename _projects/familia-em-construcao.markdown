@@ -2,7 +2,7 @@
 title: Família em Construção
 date: 2024-04-22 12:02:00 -03:00
 categories:
-- projetos
+- longas
 image: "/uploads/FEC_Still_01.png"
 release_year: 2025
 trailer: https://vimeo.com/1058331914?share=copy
