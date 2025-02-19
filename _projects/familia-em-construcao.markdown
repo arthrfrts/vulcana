@@ -23,6 +23,3 @@ TV Globo
 
 No mundo disciplinado do boxe, Fabiana mantém a ordem como árbitra, mas sua vida toma um rumo inesperado quando decide adotar Dudu, um menino problemático de 12 anos. Pra sair dessa, ela precisa se reaproximar de seu pai, um ator frustrado.
 Enquanto a sociedade favorece mães, pais e filhos "perfeitos", esse trio inesperado enfrenta desafios e descobre que família é muito mais do que um modelo ideal.
-
-
-
