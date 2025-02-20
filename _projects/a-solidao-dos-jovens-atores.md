@@ -5,7 +5,7 @@ categories:
 tags:
 - featured
 original_title: 
-release_year: 2027
+release_year: 2028
 image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
