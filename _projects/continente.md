@@ -3,7 +3,7 @@ title: Continente
 categories:
 - longas
 image: "/uploads/01_Still_Continente_1.jpg"
-release_year: 2027
+release_year: 2024
 original_title: 
 trailer: https://www.youtube.com/watch?v=vwFkp2EUxNI
 video:
