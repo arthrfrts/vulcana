@@ -2,7 +2,7 @@
 title: Vida como Rizoma
 categories:
 - curtas
-position: 53
+position: 52
 release_year: 2015
 image: "/uploads/images/vida-como-rizoma.jpg"
 trailer: https://vimeo.com/133766113

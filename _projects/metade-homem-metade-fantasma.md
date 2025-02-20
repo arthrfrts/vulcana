@@ -2,7 +2,7 @@
 title: Metade Homem, Metade Fantasma
 categories:
 - curtas
-position: 17
+position: 16
 release_year: 2016
 image: "/uploads/images/metade-homem-metade-fantasma.jpg"
 original_title: 

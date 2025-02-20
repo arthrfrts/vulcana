@@ -2,7 +2,7 @@
 title: The Last Picture
 categories:
 - shorts
-position: 7
+position: 6
 original_title: A Última Foto
 release_year: 2014
 image: "/uploads/images/a-ultima-foto.jpg"

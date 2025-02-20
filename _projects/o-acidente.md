@@ -2,7 +2,7 @@
 title: O Acidente
 categories:
 - longas
-position: 59
+position: 58
 image: "/uploads/images/o-acidente.jpg"
 release_year: 2022
 original_title: 

@@ -2,7 +2,7 @@
 title: Hard Paint
 categories:
 - features
-position: 26
+position: 25
 original_title: Tinta Bruta
 release_year: 2018
 image: "/uploads/images/tinta-bruta.jpg"

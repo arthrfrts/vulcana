@@ -2,7 +2,7 @@
 title: Rifle
 categories:
 - features
-position: 14
+position: 13
 release_year: 2016
 trailer: https://www.youtube.com/watch?v=0w1o62NKv5I
 image: "/uploads/images/rifle.jpg"
