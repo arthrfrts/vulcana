@@ -23,4 +23,5 @@ SEDAC/LPG nº 16/2023
 
 ## Labs, mercados e eventos
 
-- Arché 2023
+* Arché 2023
+* Tres Puertos - Australab
