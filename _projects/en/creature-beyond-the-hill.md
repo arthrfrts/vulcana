@@ -1,7 +1,7 @@
 ---
 title: Monster Story
 categories:
-- projects
+- features
 original_title: Bicho Monstro
 image: "/uploads/BM_still%2001.jpg"
 release_year: 2024
