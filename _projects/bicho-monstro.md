@@ -1,7 +1,7 @@
 ---
 title: Bicho Monstro
 categories:
-- projetos
+- longas
 image: "/uploads/BM_still%2001.jpg"
 release_year: 2024
 original_title: 
