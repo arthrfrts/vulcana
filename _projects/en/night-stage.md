@@ -1,7 +1,7 @@
 ---
 title: Night Stage
 categories:
-- longas
+- features
 tags:
 - featured
 original_title: Ato Noturno
