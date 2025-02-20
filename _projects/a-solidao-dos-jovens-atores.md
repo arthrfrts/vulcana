@@ -11,7 +11,7 @@ image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
   mp4: 
-  gif: 
+  gif: https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U1ZnJqMnR5d3Y3dTZqdnZsZ3k0cWJpZXA4Zm5nbDRzZDBid2RwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RPfe1oy9Va4KmHe4BW/giphy.gif
 layout: project
 ---
 
