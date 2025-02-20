@@ -2,8 +2,6 @@
 title: The Accident
 categories:
 - features
-tags:
-- featured
 original_title: O Acidente
 trailer: https://vimeo.com/660415401?share=copy
 image: "/uploads/images/o-acidente.jpg"
