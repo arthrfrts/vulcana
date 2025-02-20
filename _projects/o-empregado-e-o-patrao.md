@@ -2,8 +2,6 @@
 title: O Empregado e o Patrão
 categories:
 - longas
-tags:
-- featured
 image: "/uploads/2020/08/eeyep-8.jpg"
 video:
   mp4: "/uploads/2021/06/09/gif3.mp4"
