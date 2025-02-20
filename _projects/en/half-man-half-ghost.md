@@ -2,7 +2,7 @@
 title: Half Man, Half Ghost
 categories:
 - shorts
-position: 32
+position: 31
 original_title: Metade Homem, Metade Fantasma
 release_year: 2016
 image: "/uploads/images/metade-homem-metade-fantasma.jpg"

@@ -2,7 +2,7 @@
 title: Continent
 categories:
 - features
-position: 72
+position: 71
 original_title: Continente
 image: "/uploads/01_Still_Continente_1.jpg"
 release_year: 2024

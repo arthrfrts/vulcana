@@ -3,7 +3,7 @@ title: Future Future
 date: 2024-06-21 16:27:00 -03:00
 categories:
 - projects
-position: 70
+position: 69
 lang: en
 original_title: Futuro Futuro
 image: "/uploads/FUTFUT-Still%2001.jpeg"

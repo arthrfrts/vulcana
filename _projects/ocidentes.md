@@ -2,7 +2,7 @@
 title: Ocidentes
 categories:
 - tv
-position: 41
+position: 40
 layout: project
 release_year: 2013
 image: "/uploads/images/ocidentes.jpg"

@@ -2,7 +2,7 @@
 title: O Último Poema
 categories:
 - longas
-position: 40
+position: 39
 release_year: 2016
 image: "/uploads/DIV%20O%20ultimo%20poema_janaina-2ef106.jpg"
 trailer: https://vimeo.com/96622776

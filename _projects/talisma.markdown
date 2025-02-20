@@ -3,7 +3,7 @@ title: Talismã
 date: 2023-07-21 11:28:00 -03:00
 categories:
 - projetos
-position: 3
+position: 2
 image: "/uploads/Talism%C3%A3_fotodeSoraiaCosta_Vertical.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: From Guiné
 published: false
 categories:
 - projects
-position: 5
+position: 4
 original_title: De Guiné
 image: "/uploads/images/de-guine.jpg"
 release_year: 2023

@@ -2,7 +2,7 @@
 title: After All, Who Is God?
 categories:
 - tv
-position: 38
+position: 37
 original_title: Afinal, Quem É Deus?
 release_year: 2020
 image: "/uploads/images/afinal-quem-e-deus.jpg"

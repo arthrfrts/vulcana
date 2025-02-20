@@ -2,7 +2,7 @@
 title: Banalidade do Mal
 categories:
 - tv
-position: 12
+position: 11
 layout: project
 release_year: 2020
 image: "/uploads/images/banalidade-do-mal.jpg"
