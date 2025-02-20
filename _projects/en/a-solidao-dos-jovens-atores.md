@@ -2,6 +2,8 @@
 title: Night Stage
 categories:
 - longas
+tags:
+- featured
 original_title: Ato Noturno
 release_year: 2027
 image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
