@@ -8,6 +8,7 @@ lang: en
 original_title: La Couleuvre Noire
 release_year: 2025
 image: "/uploads/Culebra%20negra.png"
+layout: project
 ---
 
 France / Colombia / Brazil, Feature in post production
