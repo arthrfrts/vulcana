@@ -1,12 +1,13 @@
 ---
 title: Culebra Negra
+date: 2025-02-20 10:43:00 -03:00
 categories:
 - projetos
 position: 74
 lang: pt
 original_title: La Couleuvre Noire
 release_year: 2025
-image: "/uploads/La%20Couleuvre%20noire%20-%20Ciro%20-%20Visuel%20octobre%202024.jpg"
+image: "/uploads/Culebra%20negra.png"
 ---
 
 França / Colômbia / Brasil, Longa-metragem em pós-produção
@@ -25,3 +26,7 @@ Development Fund Région Nouvelle-Aquitaine, Minority co-production support FDC 
 
 *Sales Internacional*
 MPM Premium
+
+---
+
+---
