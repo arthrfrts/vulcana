@@ -13,16 +13,17 @@ image: "/uploads/Culebra%20negra.png"
 França / Colômbia / Brasil, Longa-metragem em pós-produção
 
 *Directed by*\
+*Direção*\
 Aurélien Vernhes-Lermusiaux
 
-*Written by*\
+*Roteiro*\
 Aurélien Vernhes-Lermusiaux and Marlène Poste
 
-*Coproduction*
+*Coprodução*
 Dublin Films (FR), Burning (CO) and Vulcana Cinema (BR)
 
-*Financing*\
+*Financiamento*\
 Development Fund Région Nouvelle-Aquitaine, Minority co-production support FDC Proimágenes Colombia, Minority co-production support ANCINE/FSA, Production Fund Région Nouvelle-Aquitaine, Private Fund (Ley de cine 814 Colombia), Fondation Gan pour le Cinéma.
 
-*International Sales*
+*Sales Internacional*
 MPM Premium
