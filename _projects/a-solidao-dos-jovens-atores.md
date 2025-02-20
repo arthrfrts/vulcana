@@ -3,7 +3,7 @@ title: Ato Noturno
 categories:
 - longas
 original_title: 
-release_year: 2025
+release_year: 2027
 image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
@@ -38,7 +38,7 @@ Um ator e um político vivem um caso em sigilo e, juntos, descobrem ter fetiche 
 ## Principais Exibições
 
 *75ª Berlinale - Festival Internacional de Cinema de Berlim / Panorama
-*BFI Flare: London LGBTQIA+ Film Festival 2025 / Filme de encerramento
+* BFI Flare: London LGBTQIA+ Film Festival 2025 / Filme de encerramento
 
 ## LABS, MERCADOS E EVENTOS
 
