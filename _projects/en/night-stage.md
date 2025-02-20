@@ -10,8 +10,7 @@ release_year: 2028
 image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
-  mp4: 
-  gif: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41NG5kMXJ5amJhc244aHRvNXRvaGJvOXMzMHF5dW9qN3J1b3Y3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RPfe1oy9Va4KmHe4BW/giphy.gif
+  mp4: https://drive.google.com/file/d/1azJPfIhUsgn-3qdioX2gi79VvrT1xju0/view?usp=sharing
 layout: project
 ---
 
