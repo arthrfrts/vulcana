@@ -4,6 +4,7 @@ categories:
 - curtas
 tags:
 - featured
+position: 36
 release_year: 2020
 image: "/uploads/images/deserto-estrangeiro.jpg"
 original_title: 

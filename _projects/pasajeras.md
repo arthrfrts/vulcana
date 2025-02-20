@@ -2,6 +2,7 @@
 title: Pasajeras
 categories:
 - longas
+position: 42
 image: "/uploads/PASAJERAS-666405.jpg"
 release_year: 2021
 original_title: 

@@ -2,6 +2,7 @@
 title: Sobre Sete Ondas Verdes Espumantes
 categories:
 - longas
+position: 46
 release_year: 2013
 image: "/uploads/images/sobre-sete-ondas-verdes-espumantes.jpg"
 trailer: https://vimeo.com/87435846

@@ -2,6 +2,7 @@
 title: Continente
 categories:
 - longas
+position: 73
 image: "/uploads/01_Still_Continente_1.jpg"
 release_year: 2024
 original_title: 

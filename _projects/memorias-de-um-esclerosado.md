@@ -2,6 +2,7 @@
 title: Memórias de um Esclerosado
 categories:
 - longas
+position: 58
 original_title: 
 release_year: 2025
 image: "/uploads/MEMORIAS_MS'd%20Up_01.jpg"

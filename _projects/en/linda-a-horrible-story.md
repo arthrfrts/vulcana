@@ -2,6 +2,7 @@
 title: Linda, A Horrible Story
 categories:
 - shorts
+position: 25
 original_title: Linda, Uma História Horrível
 release_year: 2013
 image: "/uploads/images/linda-uma-historia-horrivel.jpg"

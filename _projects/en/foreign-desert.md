@@ -4,6 +4,7 @@ categories:
 - shorts
 tags:
 - featured
+position: 31
 original_title: Deserto Estrangeiro
 release_year: 2020
 image: "/uploads/2020/12/de-still-01.jpg"
