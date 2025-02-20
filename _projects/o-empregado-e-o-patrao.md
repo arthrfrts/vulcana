@@ -7,7 +7,7 @@ video:
   mp4: "/uploads/2021/06/09/gif3.mp4"
   gif: 
 original_title: El Empleado y el Patrón
-release_year: 2026
+release_year: 2021
 trailer: https://www.youtube.com/watch?v=Zde17QMxR3k
 layout: project
 ---
