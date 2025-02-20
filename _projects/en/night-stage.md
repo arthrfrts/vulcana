@@ -11,7 +11,10 @@ image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
   mp4: 
-  gif: 
+  gif: <div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe
+    src="https://giphy.com/embed/EkigQhZKzq0uoz39Ya" width="100%" height="100%" style="position:absolute"
+    frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/EkigQhZKzq0uoz39Ya">via
+    GIPHY</a></p>
 layout: project
 ---
 
