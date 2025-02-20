@@ -3,7 +3,7 @@ title: Pasajeras
 categories:
 - longas
 image: "/uploads/PASAJERAS-666405.jpg"
-release_year: 2022
+release_year: 2021
 original_title: 
 trailer: https://vimeo.com/540148948
 video:
