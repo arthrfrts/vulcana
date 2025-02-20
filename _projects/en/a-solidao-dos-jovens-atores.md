@@ -41,5 +41,4 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 
 ## LABS, MARKETS AND EVENTS
 
-* Ventana Sur 2020\
-  Proyecta
+* Ventana Sur 2020 / Proyecta
