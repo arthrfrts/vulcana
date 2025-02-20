@@ -36,7 +36,7 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 
 ## Main Exhibitions
 
-*75ª Berlinale - Berlin International Film Festival / Panorama
+* 75ª Berlinale - Berlin International Film Festival / Panorama
 * BFI Flare: London LGBTQIA+ Film Festival 2025 / Closing Film
 
 ## LABS, MARKETS AND EVENTS
