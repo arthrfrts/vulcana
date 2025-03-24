@@ -7,7 +7,7 @@ tags:
 position: 59
 original_title: 
 release_year: 2028
-image: "/uploads/Still%202024-12-12%20184821_1.5.24.T.jpg"
+image: "/uploads/NIGHT-STAGE@AvanteFilms_VulcanaCinema_SITE.png"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
   mp4: 
