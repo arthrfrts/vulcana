@@ -7,7 +7,7 @@ tags:
 position: 75
 original_title: Ato Noturno
 release_year: 2028
-image: "/uploads/NIGHT-STAGE@AvanteFilms_VulcanaCinema_SITE-463a9f.png"
+image: "/uploads/NIGHT%20STAGE%20BERLINALE.png"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
   mp4: 
