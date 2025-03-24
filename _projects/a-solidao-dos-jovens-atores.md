@@ -7,7 +7,7 @@ tags:
 position: 59
 original_title: 
 release_year: 2028
-image: "/uploads/NIGHT-STAGE@AvanteFilms_VulcanaCinema_SITE.png"
+image: "/uploads/NIGHT%20STAGE%20BERLINALE.png"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:
   mp4: 
