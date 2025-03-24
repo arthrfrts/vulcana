@@ -5,7 +5,7 @@ categories:
 position: 53
 original_title: 
 release_year: 2024
-image: "/uploads/2022/07/11/screen-shot-2022-07-11-at-15-57-50.png"
+image: "/uploads/VED_Still_01.jpg"
 trailer: https://www.youtube.com/watch?v=bD_TlzMj9Vg&t=5s
 video:
   mp4: 
