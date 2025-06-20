@@ -30,4 +30,11 @@ TALISMAN chronicles the journey of a street dancer, Teresa, and her daughter, Pi
 
 ## LABS, MARKETS AND EVENTS
 
-* 13º Br Lab
+* BrLab Audience Design (2023)
+* Workshop Audience Thinking by Projeto Paradiso (2023)
+* Finalist of the FRAPA Screenplay Competition (2021) and participant of FRAPA[LAB]
+* Finalist of the Cabíria Award (2019)
+* Bolivia Lab (Bolivia/2019)
+* Semifinalist of the Cabíria Award (2016)
+* Novas Histórias Script Lab by Sesc (2016)
+* Curitiba Lab at Olhar de Cinema – Curitiba International Film Festival (2015)
