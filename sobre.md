@@ -1,6 +1,7 @@
 ---
 title: Sobre a Vulcana
 permalink: "/sobre/"
+position: 11
 image: 
 video:
   mp4: https://i.giphy.com/media/iDUaIwGfHdAqULTj3R/source.mp4

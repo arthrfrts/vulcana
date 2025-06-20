@@ -1,6 +1,7 @@
 ---
 title: About Vulcana
 permalink: "/en/about/"
+position: 10
 image: "/uploads/2020/12/5-casas-1.jpg"
 video:
   mp4: "/uploads/2020/12/source.mp4"

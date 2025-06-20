@@ -7,7 +7,7 @@ position: 70
 image: "/uploads/FUTFUT-Still%2001.jpeg"
 ---
 
-Brasil, Longa-metragem em produção
+Brasil, Longa-metragem, 2025
 
 *Direção e Roteiro*\
 Davi Pretto
