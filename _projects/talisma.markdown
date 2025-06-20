@@ -7,7 +7,7 @@ position: 2
 image: "/uploads/Talism%C3%A3_fotodeSoraiaCosta_Vertical.jpg"
 ---
 
-Brasil, Longa-metragem em desenvolvimento
+Brasil, Longa-metragem em pós-produção
 
 *Direção*\
 Thais Fujinaga
@@ -16,7 +16,7 @@ Thais Fujinaga
 Thais Fujinaga e Fernanda Chicolet
 
 *Produção*\
-Vulcana Cinema
+Vulcana Cinema, Syndrome Filmes e Vitrine Filmes
 
 ---
 
