@@ -2,15 +2,15 @@
 title: Future Future
 date: 2024-06-21 16:27:00 -03:00
 categories:
-- projects
+- features
 position: 69
 lang: en
 original_title: Futuro Futuro
 image: "/uploads/FUTFUT-Still%2001.jpeg"
-year release: 2023
+year release: 2026
 ---
 
-Brazil, Feature in Production
+Brazil, Feature, 2025
 
 _Directed and Written by_  
 Davi Pretto
