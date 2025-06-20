@@ -7,7 +7,7 @@ position: 69
 lang: en
 original_title: Futuro Futuro
 image: "/uploads/FUTFUT-Still%2001.jpeg"
-year release: 2026
+release_year: 2026
 ---
 
 Brazil, Feature, 2025
