@@ -1,7 +1,7 @@
 ---
 title: A Cobra Negra
 categories:
-- projetos
+- longas
 position: 0
 lang: pt-BR
 original_title: La Couleuvre Noire
