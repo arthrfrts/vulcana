@@ -5,6 +5,7 @@ categories:
 - longas
 position: 70
 image: "/uploads/FUTFUT-Still%2001.jpeg"
+release_year: 2025
 ---
 
 Brasil, Longa-metragem, 2025
