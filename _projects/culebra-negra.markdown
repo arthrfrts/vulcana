@@ -9,7 +9,7 @@ release_year: 2025
 image: "/uploads/La%20Couleuvre%20noire%20-%20Ciro%20-%20Visuel%20octobre%202024.jpg"
 ---
 
-França / Colômbia / Brasil, 2025
+França / Colômbia / Brasil, Longa-metragem, 2025
 
 *Direção*
 Aurélien Vernhes-Lermusiaux
