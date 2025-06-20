@@ -2,7 +2,7 @@
 title: Life as Rhizome
 categories:
 - shorts
-position: 26
+position: 27
 layout: project
 original_title: Vida como Rizoma
 release_year: 2015

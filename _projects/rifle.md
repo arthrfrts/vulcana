@@ -2,7 +2,7 @@
 title: Rifle
 categories:
 - longas
-position: 43
+position: 44
 release_year: 2016
 trailer: https://www.youtube.com/watch?v=0w1o62NKv5I
 image: "/uploads/images/rifle.jpg"

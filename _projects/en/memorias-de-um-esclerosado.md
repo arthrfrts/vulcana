@@ -2,7 +2,7 @@
 title: MSD'UP - My Life with Multiple Esclerorsis
 categories:
 - features
-position: 55
+position: 56
 original_title: Memórias de um Esclerosado
 release_year: 2025
 image: "/uploads/MEMORIAS_MS'd%20Up_01.jpg"

@@ -2,7 +2,7 @@
 title: Tinta Bruta
 categories:
 - longas
-position: 45
+position: 46
 release_year: 2018
 image: "/uploads/images/tinta-bruta.jpg"
 trailer: https://www.youtube.com/watch?v=zM9Q36ZKJqY

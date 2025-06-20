@@ -3,7 +3,7 @@ title: Talented
 date: 2023-07-21 11:44:00 -03:00
 categories:
 - projects
-position: 1
+position: 2
 lang: en
 image: "/uploads/Talism%C3%A3_fotodeSoraiaCosta_Vertical.jpg"
 original_title: Talismã
