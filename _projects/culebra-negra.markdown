@@ -1,5 +1,5 @@
 ---
-title: Culebra Negra
+title: A Cobra Negra
 categories:
 - projetos
 position: 0
@@ -9,13 +9,13 @@ release_year: 2025
 image: "/uploads/La%20Couleuvre%20noire%20-%20Ciro%20-%20Visuel%20octobre%202024.jpg"
 ---
 
-França / Colômbia / Brasil, Longa-metragem em pós-produção
+França / Colômbia / Brasil, 2025
 
 *Direção*
 Aurélien Vernhes-Lermusiaux
 
 *Roteiro*
-Aurélien Vernhes-Lermusiaux and Marlène Poste
+Aurélien Vernhes-Lermusiaux e Marlène Poste
 
 *Coprodução*
 Dublin Films (FR), Burning (CO) and Vulcana Cinema (BR)

@@ -2,7 +2,7 @@
 title: Afinal, Quem É Deus?
 categories:
 - tv
-position: 10
+position: 12
 layout: project
 release_year: 2020
 image: "/uploads/images/afinal-quem-e-deus.jpg"
