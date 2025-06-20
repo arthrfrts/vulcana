@@ -9,7 +9,7 @@ release_year: 2024
 layout: project
 ---
 
-Brazil, Feature in post production
+Brazil, Feature, 2024
 
 _Directed by_  
 Germano de Oliveira
@@ -32,6 +32,9 @@ In a small village in southern Brazil, little Ana becomes obsessed by a play tha
 ## MAIN EXHIBITIONS
 
 * 48ª São Paulo International Film Festival / New Directors Competition
+
+*16th Festival Internacional de Cinema da Fronteira / International Feature Film Competition / Best Screenplay
+
 
 ## LABS, MARKETS AND EVENTS
 
