@@ -2,7 +2,7 @@
 title: A Última Foto
 categories:
 - curtas
-position: 19
+position: 20
 release_year: 2014
 image: "/uploads/images/a-ultima-foto.jpg"
 original_title: 

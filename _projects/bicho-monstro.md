@@ -13,7 +13,7 @@ video:
 layout: project
 ---
 
-Brasil, Longa-metragem em pós-produção
+Brasil, Longa-metragem, 2024
 
 *Direção*\
 Germano de Oliveira
@@ -39,6 +39,9 @@ Em um pequeno vilarejo, a pequena Ana assiste a uma peça de teatro que apresent
 ## PRINCIPAIS EXIBIÇÕES
 
 * 48ª Mostra Internacional de Cinema em São Paulo / Competição Novos Diretores
+
+* 16ª Festival Internacional de Cinema da Fronteira / Mostra Internacional de Longa-metragens / Melhor roteiro
+
 
 ## LABS, MERCADOS E EVENTOS
 

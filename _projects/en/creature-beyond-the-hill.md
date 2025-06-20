@@ -2,7 +2,7 @@
 title: Monster Story
 categories:
 - features
-position: 59
+position: 60
 original_title: Bicho Monstro
 image: "/uploads/BM_still%2001.jpg"
 release_year: 2024
