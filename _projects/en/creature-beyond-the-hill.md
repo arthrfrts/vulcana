@@ -31,9 +31,9 @@ In a small village in southern Brazil, little Ana becomes obsessed by a play tha
 
 ## MAIN EXHIBITIONS
 
-* 48ª São Paulo International Film Festival / New Directors Competition
+* 48th São Paulo International Film Festival / New Directors Competition
 
-*16th Festival Internacional de Cinema da Fronteira / International Feature Film Competition / Best Screenplay
+* 16th Festival Internacional de Cinema da Fronteira / International Feature Film Competition / Best Screenplay
 
 
 ## LABS, MARKETS AND EVENTS
