@@ -15,8 +15,11 @@ Thais Fujinaga
 *Roteiro*\
 Thais Fujinaga e Fernanda Chicolet
 
-*Produção*\
+*Coprodução*\
 Vulcana Cinema, Syndrome Filmes e Vitrine Filmes
+
+*Distribuição*\
+Vitrine Filmes
 
 ---
 
