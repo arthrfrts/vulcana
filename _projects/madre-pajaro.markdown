@@ -6,11 +6,11 @@ categories:
 position: 70
 lang: en
 original_title: Madre Pájaro
-image: "/uploads/MADRE%20PA%CC%81JARO%20-%20MOODBOARD%20PT%20BR%20LPG.jpg"
+image: "/uploads/MADRE%20P%C3%81JARO%20-%20MOODBOARD%20PT%20BR%20LPG.jpg"
 release_year: 2024
 ---
 
-Brazil/Costa Rica/Argentina, Feature in Development
+Brazil/Costa Rica/Argentina, Feature in post-production
 
 *Directed and Written by*\
 Sofía Quirós Úbeda
