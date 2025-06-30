@@ -13,7 +13,7 @@ Brasil, Longa-metragem em pós-produção
 Thais Fujinaga
 
 *Roteiro*\
-Thais Fujinaga e Fernanda Chicolet
+Fernanda Chicolet e Thais Fujinaga
 
 *Coprodução*\
 Vulcana Cinema, Syndrome Filmes e Vitrine Filmes
