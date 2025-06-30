@@ -15,7 +15,7 @@ Brazil, Feature in post-production
 Thais Fujinaga
 
 *Writetn by*\
-Thais Fujinaga and Fernanda Chicolet
+Fernanda Chicolet and Thais Fujinaga
 
 *Production*\
 Vulcana Cinema
