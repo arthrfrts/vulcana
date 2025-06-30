@@ -22,9 +22,8 @@ Vulcana Cinema
 
 ---
 
-TALISMAN chronicles the journey of a street dancer, Teresa, and her daughter, Pina, in a famous television child talent show. The spirit of media competition sets up a conflict between mother and daughter, but after experiencing an extreme exposure on the show, their love goes viral.
+A passionate dancer who never had her talent recognized goes into crisis when she sees her daughter achieve fame on a reality show that explores young talents. 
 
----
 
 ---
 
