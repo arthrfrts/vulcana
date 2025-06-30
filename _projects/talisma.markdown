@@ -4,7 +4,7 @@ date: 2023-07-21 11:28:00 -03:00
 categories:
 - projetos
 position: 2
-image: "/uploads/Talism%C3%A3_fotodeSoraiaCosta_Vertical.jpg"
+image: "/uploads/Still%202025-05-16%20110842_1.1.1.jpg%20Foto_%20Andre%CC%81%20Luiz%20de%20Luiz.jpg"
 ---
 
 Brasil, Longa-metragem em pós-produção
