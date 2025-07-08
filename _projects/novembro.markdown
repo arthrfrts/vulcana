@@ -3,7 +3,7 @@ title: Novembro
 date: 2025-07-08 18:02:00 -03:00
 categories:
 - projetos
-image: 
+image: "/uploads/PORTADAS%20NOVIEMBRE.jpg"
 release_year: 2025
 ---
 
