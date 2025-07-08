@@ -1,0 +1,20 @@
+---
+title: Amora
+date: 2025-07-08 18:23:00 -03:00
+published: false
+categories:
+- projetos
+release_year: 2025
+image: 
+---
+
+Brasil, 1 temporada de 4 episódios, série de ficção em desenvolvimento
+
+
+_Produção_\
+Vulcana Cinema, Big Bonsai e Plate Filmes
+
+
+
+
+---
