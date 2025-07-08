@@ -7,7 +7,7 @@ tags:
 - en
 lang: en
 release_year: 2025
-image: 
+image: "/uploads/PORTADAS%20NOVIEMBRE.jpg"
 ---
 
 Colombia/Mexico/Brazil/Norway, Feature film in post-production
