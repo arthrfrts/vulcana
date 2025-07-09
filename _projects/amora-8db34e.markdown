@@ -1,6 +1,8 @@
 ---
 title: Amora
 date: 2025-07-09 14:38:00 -03:00
+categories:
+- projects
 lang: en
 image: "/uploads/Amora.png"
 release_year: 2025
