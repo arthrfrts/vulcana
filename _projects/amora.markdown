@@ -1,7 +1,6 @@
 ---
 title: Amora
 date: 2025-07-08 18:23:00 -03:00
-published: false
 categories:
 - projetos
 release_year: 2025
