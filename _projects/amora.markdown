@@ -5,7 +5,7 @@ published: false
 categories:
 - projetos
 release_year: 2025
-image: 
+image: "/uploads/Amora.png"
 ---
 
 Brasil, 1 temporada de 4 episódios, série de ficção em desenvolvimento
