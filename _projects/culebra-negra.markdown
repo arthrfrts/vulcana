@@ -27,5 +27,10 @@ Development Fund Région Nouvelle-Aquitaine, Minority co-production support FDC 
 MPM Premium
 
 ---
+Após anos de ausência, Ciro retorna para casa ao leito de sua mãe. No deserto colombiano de Tatacoa, ele reencontra aqueles de quem fugiu e confronta os últimos guardiões de um território tão frágil quanto encantador.
 
 --- 
+
+## Principais Exibições
+
+* 78º Festival de Cannes 2025 / ACID Cannes
