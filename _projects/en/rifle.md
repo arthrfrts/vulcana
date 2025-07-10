@@ -26,7 +26,7 @@ _Financing_
 Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovisual - FSA/BRDE, Apoio RUMOS - Itaú Cultural.
 
 *Available on*\
-[Apple TV](https://tv.apple.com/br/movie/rifle/umc.cmc.h5szo2mkslhzx7hvkbblvoek?playableId=tvs.sbd.9001%3A1364693822), [Youtube] Filmes (https://www.youtube.com/watch?v=BxV89fsYUUI), [Claro TV] (https://www.clarotvmais.com.br/filme/rifle/93719?) and [Embaúba Play] (https://embaubaplay.com/catalogo/rifle/)
+[Apple TV](https://tv.apple.com/br/movie/rifle/umc.cmc.h5szo2mkslhzx7hvkbblvoek?playableId=tvs.sbd.9001%3A1364693822), [Youtube Filmes](https://www.youtube.com/watch?v=BxV89fsYUUI), [Claro TV(https://www.clarotvmais.com.br/filme/rifle/93719?) and [Embaúba Play(https://embaubaplay.com/catalogo/rifle/)
 
 ---
 
