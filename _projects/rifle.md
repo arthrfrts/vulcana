@@ -25,7 +25,8 @@ Tokyo Filmes, Autentika Films, Casa de Cinema de Porto Alegre e Gogó Conteúdo 
 _Financiamento_  
 Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovisual - FSA/BRDE, Apoio RUMOS - Itaú Cultural.
 
-Onde assistir: [NET NOW](https://www.nowonline.com.br/filme/rifle/93719) e [iTunes Store](https://itunes.apple.com/br/movie/rifle/id1364693822?l=en&ign-mpt=uo%3D4).
+Onde assistir: [Apple TV](https://tv.apple.com/br/movie/rifle/umc.cmc.h5szo2mkslhzx7hvkbblvoek?playableId=tvs.sbd.9001%3A1364693822), [Youtube Filmes] (https://www.youtube.com/watch?v=BxV89fsYUUI), [Claro TV] (https://www.clarotvmais.com.br/filme/rifle/93719?) e [Embaúba Play] (https://embaubaplay.com/catalogo/rifle/)      
+
 
 ---
 
