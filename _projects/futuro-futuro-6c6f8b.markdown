@@ -22,5 +22,9 @@ _Financing_
 FSA, Pró-cultura RS FAC
 
 ---
+In a near future where advances in artificial intelligence coexist with the rise of a new neurological syndrome, a 40-year-old amnesic man named K is taken in by a 60-year-old lonely clickworker on the poor side of a rainy Brazilian city. After using an addictive AI device in a course for people with the strange syndrome, K embarks on a tragic and absurd journey to find where he truly belongs.
 
 ---
+## Main Exhibitions
+
+* 59th Karlovy Vary International Film Festival / Proxima Competition
