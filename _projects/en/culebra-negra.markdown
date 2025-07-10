@@ -31,5 +31,10 @@ Development Fund Région Nouvelle-Aquitaine, Coprodução minoritária FDC Proim
 MPM Premium
 
 ---
+ After years of absence, Ciro returns home to his mother's bedside. In the Colombian desert of Tatacoa, he meets those he fled and confronts the last guardians of a territory as fragile as it is enchanting.
 
 ---
+
+## Main Exhibitions
+
+* 78th Cannes Festival 2025 / ACID Cannes
