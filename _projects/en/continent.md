@@ -27,6 +27,9 @@ Vitrine Filmes
 *International Sales*\
 Lights On
 
+*Available on*\
+[Prime Video](https://www.primevideo.com/-/pt/detail/0HA0UULOV867Z92ELIPXFI4LOZ/ref=atv_dl_rdr), [Globoplay](https://globoplay.globo.com/continente/t/nmWQMGgxW2/), [Youtube Filmes](https://www.youtube.com/watch?v=unkMfmWxG7Q) e [Apple TV.](https://tv.apple.com/br/movie/continente/umc.cmc.17bqs4iv2hi1e8wckbhskrcqg?playableId=tvs.sbd.9001%3A1781086291)
+
 ---
 
 In a secluded village of southern Brazil, a young woman returns after years as her father, the village’s powerful farm owner, is dying. While she must take over a legacy heavier than it seems, the sole local doctor struggles to protect the inhabitants from a mysterious settlement.
