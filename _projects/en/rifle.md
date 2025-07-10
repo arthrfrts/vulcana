@@ -25,6 +25,9 @@ Tokyo Filmes, Autentika Films, Casa de Cinema de Porto Alegre and Gogó Conteúd
 _Financing_
 Pró-Cultura RS e Secretaria de Estado da Cultura RS, Fundo Setorial do Audiovisual - FSA/BRDE, Apoio RUMOS - Itaú Cultural.
 
+*Available on*\
+[Apple TV](https://tv.apple.com/br/movie/rifle/umc.cmc.h5szo2mkslhzx7hvkbblvoek?playableId=tvs.sbd.9001%3A1364693822), [Youtube] Filmes (https://www.youtube.com/watch?v=BxV89fsYUUI), [Claro TV] (https://www.clarotvmais.com.br/filme/rifle/93719?) and [Embaúba Play] (https://embaubaplay.com/catalogo/rifle/)
+
 ---
 
 Dione, a mysterious young man, finds work in a farm owned by poor farmers. When a rich landowner sends men to threaten the family, Dione thinks that only his rifle can save his life. So he wanders alone through the plains and the undergrowth, shooting at everything that makes him think about somewhere else. Because between the thugs who are playing hide and seek, and a past he just won’t divulge, does Dione even know what he is trying to shoot down?
