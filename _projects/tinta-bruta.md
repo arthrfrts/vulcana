@@ -29,7 +29,7 @@ Vitrine Filmes
 m-appeal
 
 *Disponível em*\
-[Globoplay](https://globoplay.globo.com/tinta-bruta/t/LvqRzDPsz9/), [YouTube Filmes ](https://www.youtube.com/watch?v=qOOk51Uhxl4) e [Apple TV.](https://tv.apple.com/br/movie/tinta-bruta/umc.cmc.5pafjnbt5ij9je70c0i2aurrr)
+[Globoplay](https://globoplay.globo.com/tinta-bruta/t/LvqRzDPsz9/) e [Apple TV.](https://tv.apple.com/br/movie/tinta-bruta/umc.cmc.5pafjnbt5ij9je70c0i2aurrr)
 
 ---
 
