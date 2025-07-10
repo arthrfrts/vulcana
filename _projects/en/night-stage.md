@@ -36,8 +36,12 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 
 ## Main Exhibitions
 
-* 75ª Berlinale - Berlin International Film Festival / Panorama
-* BFI Flare: London LGBTQIA+ Film Festival 2025 / Closing Film
+*75th Berlinale - Berlin International Film Festival / Panorama
+*30th FIRE!! LGBTIQ+ Film Festival de Barcelona 2025 / Audience Award for Best Film
+*BFI Flare: London LGBTQIA+ Film Festival 2025 / Closing film
+*Lovers International Film Festival 2025
+*Frameline: San Francisco International LGBTQ Film Festival 2025 New Horizons *International Film Festival 2025
+*Sunny Bunny Film Festival 2025 28º Pink Apple Queer Film Festival 2025 International *Queer & Migrant Film Festival / Las Americas Film Festival 2025 
 
 ## LABS, MARKETS AND EVENTS
 
