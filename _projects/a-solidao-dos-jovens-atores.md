@@ -40,8 +40,13 @@ Um ator e um político vivem um caso em sigilo e, juntos, descobrem ter fetiche 
 
 ## Principais Exibições
 
-*75ª Berlinale - Festival Internacional de Cinema de Berlim / Panorama
-* BFI Flare: London LGBTQIA+ Film Festival 2025 / Filme de encerramento
+*75ª Berlinale - Berlin International Film Festival / Panorama
+*30ª FIRE!! LGBTIQ+ Film Festival de Barcelona 2025 / Prêmio do Público de Melhor Filme
+*BFI Flare: London LGBTQIA+ Film Festival 2025 / Filme de encerramento
+*Lovers International Film Festival 2025
+*Frameline: San Francisco International LGBTQ Film Festival 2025 New Horizons *International Film Festival 2025
+*Sunny Bunny Film Festival 2025 28º Pink Apple Queer Film Festival 2025 International *Queer & Migrant Film Festival / Las Americas Film Festival 2025 
+
 
 ## LABS, MERCADOS E EVENTOS
 
