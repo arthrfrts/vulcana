@@ -30,6 +30,9 @@ Vitrine Filmes
 *International Sales*\
 Lights On
 
+*Disponível em*\
+[Prime Video](https://www.primevideo.com/-/pt/detail/0HA0UULOV867Z92ELIPXFI4LOZ/ref=atv_dl_rdr), [Globoplay](https://globoplay.globo.com/continente/t/nmWQMGgxW2/), [Youtube Filmes](https://www.youtube.com/watch?v=unkMfmWxG7Q) e [Apple TV.](https://tv.apple.com/br/movie/continente/umc.cmc.17bqs4iv2hi1e8wckbhskrcqg?playableId=tvs.sbd.9001%3A1781086291)
+
 ---
 
 Em um vilarejo isolado no sul do Brasil, uma relutante herdeira e seu namorado francês se envolvem em um perturbador acordo quando ela precisa assumir a fazenda de seu pai, enquanto a única médica local luta para proteger os trabalhadores.
