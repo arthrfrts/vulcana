@@ -30,6 +30,9 @@ Boulevard Filmes
 _Sales Internacional_  
 Utopia Docs
 
+*Disponível em*\
+[Prime Video](https://www.primevideo.com/-/pt/detail/Vai-e-Vem/0L7V42JIR9L0QJ5SICH3ANKXRC) e [Apple TV.](https://tv.apple.com/br/movie/vai-e-vem/umc.cmc.388ugdgac15icxgxwst4obl6s?playableId=tvs.sbd.9001%3A1720062421)
+
 ***
 
 Como contraponto ao mundo virtual e (des)conectado, duas amigas criam uma provocação fílmica seguindo suas normas. Um vai e vem que em tempos turbulentos se torna uma dança de resistência.
