@@ -10,6 +10,11 @@ release_year: 2025
 
 Brazil, 1 season with 4 episodes, in Development
 
+*Directedy by*\
+Juliana Rojas
+
+*Written by*\
+Thais Guisasola e Julia Anquier
 
 _Production_\
 Vulcana Cinema, Big Bonsai and Plate Filmes
