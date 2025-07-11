@@ -17,4 +17,4 @@ Juliana Rojas
 Thais Guisasola e Julia Anquier
 
 _Production_\
-Vulcana Cinema, Big Bonsai and Plate Filmes
+Vulcana Cinema, bigBonsai and Plate Filmes
