@@ -10,7 +10,7 @@ release_year: 2025
 
 Brazil, 1 season with 4 episodes, in Development
 
-*Directedy by*\
+*Directed by*\
 Juliana Rojas
 
 *Written by*\
