@@ -44,9 +44,10 @@ Um ator e um político vivem um caso em sigilo e, juntos, descobrem ter fetiche 
 * 30ª FIRE!! LGBTIQ+ Film Festival de Barcelona 2025 / Prêmio do Público de Melhor Filme
 * BFI Flare: London LGBTQIA+ Film Festival 2025 / Filme de encerramento
 * Lovers International Film Festival 2025
-* Frameline: San Francisco International LGBTQ Film Festival 2025 New Horizons 
-* International Film Festival 2025
-* Sunny Bunny Film Festival 2025 28º Pink Apple Queer Film Festival 2025 International 
+* Frameline: San Francisco International LGBTQ Film Festival 2025 
+* New Horizons International Film Festival 2025
+* Sunny Bunny Film Festival 2025 
+* 28º Pink Apple Queer Film Festival 2025 International 
 * Queer & Migrant Film Festival / Las Americas Film Festival 2025 
 
 
