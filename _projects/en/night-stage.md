@@ -40,9 +40,10 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 * 30th FIRE!! LGBTIQ+ Film Festival de Barcelona 2025 / Audience Award for Best Film
 * BFI Flare: London LGBTQIA+ Film Festival 2025 / Closing film
 * Lovers International Film Festival 2025
-* Frameline: San Francisco International LGBTQ Film Festival 2025 New Horizons 
-* International Film Festival 2025
-* Sunny Bunny Film Festival 2025 28º Pink Apple Queer Film Festival 2025 International 
+* Frameline: San Francisco International LGBTQ Film Festival 2025 
+* New Horizons International Film Festival 2025
+* Sunny Bunny Film Festival 2025 
+* 28º Pink Apple Queer Film Festival 2025 International 
 * Queer & Migrant Film Festival / Las Americas Film Festival 2025 
 
 ## LABS, MARKETS AND EVENTS
