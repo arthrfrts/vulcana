@@ -4,7 +4,7 @@ categories:
 - features
 position: 60
 original_title: Bicho Monstro
-image: "/uploads/BM_still%2001.jpg"
+image: "/uploads/BM%20STILL%20COMPRIMIDA.jpg"
 release_year: 2024
 layout: project
 ---
