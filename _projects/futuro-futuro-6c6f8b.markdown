@@ -6,7 +6,7 @@ categories:
 position: 72
 lang: en
 original_title: Futuro Futuro
-image: "/uploads/FUTFUT-Still%2001.jpeg"
+image: "/uploads/FUTURO%20COMPRIMIDA.png"
 release_year: 2026
 ---
 
