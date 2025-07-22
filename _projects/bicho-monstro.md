@@ -3,7 +3,7 @@ title: Bicho Monstro
 categories:
 - longas
 position: 11
-image: "/uploads/BM_still%2001.jpg"
+image: "/uploads/BM%20STILL%20COMPRIMIDA.jpg"
 release_year: 2024
 original_title: 
 trailer: 
