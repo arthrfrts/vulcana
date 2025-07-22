@@ -4,7 +4,7 @@ date: 2024-06-21 16:24:00 -03:00
 categories:
 - longas
 position: 73
-image: "/uploads/FUTFUT-Still%2001.jpeg"
+image: "/uploads/FUTURO%20COMPRIMIDA.png"
 release_year: 2026
 ---
 
