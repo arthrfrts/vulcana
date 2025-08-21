@@ -34,7 +34,7 @@ m-appeal
 
 ***
 
-Um ator e um político vivem um caso em sigilo e, juntos, descobrem ter fetiche por sexo em lugares públicos. À medida que se aproximam do sonho da fama, mais intenso se torna o desejo de se colocarem em risco.
+Um ator ambicioso e um político em ascensão vivem um caso em sigilo e, juntos, descobrem ter fetiche por sexo em lugares públicos. À medida que se aproximam da fama, mais intenso se torna o desejo de se colocarem em risco.
 
 ***
 
