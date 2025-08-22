@@ -2,7 +2,7 @@
 title: Novembro
 date: 2025-07-08 18:02:00 -03:00
 categories:
-- projetos
+- longas
 image: "/uploads/Main%20Still_NVB_frame39_TIFF.png"
 release_year: 2025
 ---
