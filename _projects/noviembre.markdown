@@ -2,12 +2,12 @@
 title: Noviembre
 date: 2025-07-08 18:10:00 -03:00
 categories:
-- projects
+- features
 tags:
 - en
 lang: en
 release_year: 2025
-image: "/uploads/PORTADAS%20NOVIEMBRE.jpg"
+image: "/uploads/Main%20Still_NVB_frame39_TIFF.png"
 ---
 
 Colombia/Mexico/Brazil/Norway, Feature film in post-production
@@ -16,12 +16,15 @@ Colombia/Mexico/Brazil/Norway, Feature film in post-production
 Tomás Corredor
 
 *Coproduction*\
-Burning, Piano, Vulcana Cinema, Torden Film 
+Burning, Piano, Vulcana Cinema, Tordenfilm 
 
 ---
 
-6th of November of 1985, Bogotá, Colombia 
+Trapped in a bathroom for over 27 hours during the siege of the Palace of Justice, guerrilla fighters, judges, and civilians face something more fierce than bullets: their own convictions — or the collapse of them. Outside, chaos. Inside, a nation on the brink.
 
-Just an hour after the takeover of the Palace of Justice, the army's response begins to ruin the M-19 guerilla's plans to take over the building and hold a trial against the president for failure to comply with the peace treaties. 
+---
 
-Amid the combat, a small group of insurgents takes refuge in a bathroom. Some civilians, locked and confined with the small guerrilla group, must endure, for close to 27 hours, the brutality of the crossfire between their captors and the state army in a confrontation in which they choose not to take part.
+## Main Exhibitions
+
+* TORONTO INTERNATIONAL FILM FESTIVAL - TIFF 50 /
+Official Selection / Discovery Section
