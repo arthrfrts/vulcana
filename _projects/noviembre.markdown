@@ -12,11 +12,11 @@ image: "/uploads/Main%20Still_NVB_frame39_TIFF.png"
 
 Colombia/Mexico/Brazil/Norway, Feature, 2025
 
-*Directed and written by\
+*Directed and written by*\
 Tomás Corredor
 
 *Coproduction*\
-Burning, Piano, Vulcana Cinema, Tordenfilm 
+Burning, Piano, Vulcana Cinema, Tordenfilm
 
 ---
 
@@ -27,4 +27,4 @@ Trapped in a bathroom for over 27 hours during the siege of the Palace of Justic
 ## Main Exhibitions
 
 * TORONTO INTERNATIONAL FILM FESTIVAL - TIFF 50 /
-Official Selection / Discovery Section
+  Official Selection / Discovery Section
