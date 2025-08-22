@@ -13,7 +13,7 @@ Colômbia/México/Brasil/Noruega, Longa-metragem em pós-produção
 Tomás Corredor
 
 *Coprodução*\
-Burning, Piano, Vulcana Cinema, Torden Film 
+Burning, Piano, Vulcana Cinema, Tordenfilm 
 
 ---
 
