@@ -18,3 +18,10 @@ Burning, Piano, Vulcana Cinema, Torden Film
 ---
 
 Presos em um banheiro por mais de 27 horas durante a tomada do Palácio da Justiça, guerrilheiros, juízes e cidadãos civis encaram algo mais violento do que balas: suas próprias convicções — ou o colapso delas. Fora, o caos. Dentro, uma nação à beira do precipício.
+
+---
+
+## PRINCIPAIS EXIBIÇÕES
+
+* TORONTO INTERNATIONAL FILM FESTIVAL - TIFF 50 /
+Official Selection / Discovery Section
