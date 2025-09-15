@@ -6,7 +6,7 @@ position: 11
 image: "/uploads/BM%20STILL%20COMPRIMIDA.jpg"
 release_year: 2024
 original_title: 
-trailer: 
+trailer: https://www.youtube.com/watch?v=EUWR2B1eWr0
 video:
   mp4: 
   gif: 
