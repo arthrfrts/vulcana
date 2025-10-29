@@ -27,3 +27,5 @@ Em um futuro próximo, onde os avanços em inteligência artificial coexistem co
 ## Principais Exibições
 
 * 59º Karlovy Vary International Film Festival / Proxima Competition
+* 49ª Mostra Internacional de Cinema em São Paulo / Mostra Brasil 
+* BRAVO Film Festival 2025
