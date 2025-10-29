@@ -45,6 +45,7 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 * Sunny Bunny Film Festival 2025 
 * 28º Pink Apple Queer Film Festival 2025 International 
 * Queer & Migrant Film Festival / Las Americas Film Festival 2025 
+* Rio de Janeiro International Film Festival 2025 / Première Brasil - Redentor Trophy / Best Actor, Best Screenplay, Best Cinematography, FELIX AWARD of Best Brazilian Feature
 
 ## LABS, MARKETS AND EVENTS
 
