@@ -59,7 +59,7 @@ Um ator ambicioso e um político em ascensão vivem um caso em sigilo e, juntos,
 
 * Queer & Migrant Film Festival / Las Americas Film Festival 2025
 
-* Festival do Rio 2025 / Première Brasil Competição de Longas Metragens de Ficção / Melhor Ator (Gabriel Faryas), Melhor Roteiro (Filipe Matzembacher e Marcio Reolon), Melhor Fotografia (Luciana Baseggio), PRÊMIO FELIX de Melhor Filme Brasileiro
+* Festival do Rio 2025 / Première Brasil Competição de Longas Metragens de Ficção / Melhor Ator, Melhor Roteiro, Melhor Fotografia, PRÊMIO FELIX de Melhor Filme Brasileiro
 
 * 49º Mostra Internacional de Cinema de São Paulo
 
