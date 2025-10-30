@@ -38,3 +38,4 @@ MPM Premium
 ## Main Exhibitions
 
 * 78th Cannes Festival 2025 / ACID Cannes
+* Rio de Janeiro International Film Festival 2025 / Première Latina
