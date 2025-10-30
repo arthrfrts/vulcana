@@ -29,3 +29,6 @@ Em um futuro próximo, onde os avanços em inteligência artificial coexistem co
 * 59º Karlovy Vary International Film Festival / Proxima Competition
 * 49ª Mostra Internacional de Cinema em São Paulo / Mostra Brasil 
 * BRAVO Film Festival 2025
+* 58º Festival de Brasília do Cinema Brasileiro / Mostra Competitiva Nacional de longas-metragens / Melhor Montagem / Melhor Roteiro / Menção Honrosa do Júri / Melhor Longa Metragem (Júri Oficial)
+* Festival do Rio 2025 / Midnight Movies
+* 6º Lima Alterna Festival Internacional de Cine
