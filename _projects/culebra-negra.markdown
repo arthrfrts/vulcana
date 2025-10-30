@@ -34,3 +34,4 @@ Após anos de ausência, Ciro retorna para casa ao leito de sua mãe. No deserto
 ## Principais Exibições
 
 * 78º Festival de Cannes 2025 / ACID Cannes
+* Festival do Rio 2025 / Première Latina
