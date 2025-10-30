@@ -38,14 +38,15 @@ In a secluded village of southern Brazil, a young woman returns after years as h
 
 ## MAIN EXHIBITIONS
 
-* Rio de Janeiro International Film Festlval / Première Brasil: New Trends - Feature Films / Best Director
-* 41º FILMFEST MÜNCHEN / Cine Rebels Competition
+* Rio de Janeiro International Film Festival / Première Brasil: New Trends - Feature Films / Best Director
+* 41st FILMFEST MÜNCHEN / Cine Rebels Competition
 * Gritos en el Planetario / “Narcizo Ibáñez Menta” Award for Best Feature
 * Sitges Film Festival / Official Competition
 * Caminhos do Cinema Português
 * MOTELX - Festival Internacional de Cinema de Terror de Lisboa / Room Service Section
 * TOHorror Fantastic Film Fest / Feature Film Competition
 * MACABRO FICH
+* 49th São Paulo International Film Festival
 
 ## LABS, MARKETS AND EVENTS
 
