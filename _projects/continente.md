@@ -49,6 +49,8 @@ Em um vilarejo isolado no sul do Brasil, uma relutante herdeira e seu namorado f
 * MOTELX - Festival Internacional de Cinema de Terror de Lisboa / Sessão Serviço de Quarto
 * TOHorror Fantastic Film Fest / Competição de longa-metragens
 * MACABRO FICH
+* 48ª Mostra de São Paulo / Mostra Brasil
+* 45th Cairo International Film Festival
 
 ## LABS, MERCADOS E EVENTOS
 
