@@ -51,6 +51,12 @@ Em um vilarejo isolado no sul do Brasil, uma relutante herdeira e seu namorado f
 * MACABRO FICH
 * 48ª Mostra de São Paulo / Mostra Brasil
 * 45th Cairo International Film Festival
+* Independent Days International Filmfestival 2025
+* Festival Internacional De Cine De Terror De Valdivia 2025
+* Echelon Studios International Film Festival 2025
+* Tripoli Film Festival 2025
+* XIBALBÁ - V Festival de Cine de Terror Latinoamericano 2025 / Melhor Filme Latino-Americano
+
 
 ## LABS, MERCADOS E EVENTOS
 
