@@ -24,7 +24,7 @@ Dublin Films (FR), Burning (CO) and Vulcana Cinema (BR)
 Development Fund Région Nouvelle-Aquitaine, Minority co-production support FDC Proimágenes Colombia, Minority co-production support ANCINE/FSA, Production Fund Région Nouvelle-Aquitaine, Private Fund (Ley de cine 814 Colombia), Fondation Gan pour le Cinéma.
 
 *Sales Internacional*
-MPM Premium
+MMM Film Sales
 
 ---
 Após anos de ausência, Ciro retorna para casa ao leito de sua mãe. No deserto colombiano de Tatacoa, ele reencontra aqueles de quem fugiu e confronta os últimos guardiões de um território tão frágil quanto encantador.
@@ -34,4 +34,6 @@ Após anos de ausência, Ciro retorna para casa ao leito de sua mãe. No deserto
 ## Principais Exibições
 
 * 78º Festival de Cannes 2025 / ACID Cannes
+
 * Festival do Rio 2025 / Première Latina
+
