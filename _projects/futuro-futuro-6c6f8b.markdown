@@ -28,3 +28,8 @@ In a near future where advances in artificial intelligence coexist with the rise
 ## Main Exhibitions
 
 * 59th Karlovy Vary International Film Festival / Proxima Competition
+* São Paulo International Film Festival 2025 / Mostra Brasil
+* BRAVO Film Festival 2025
+* 58º Festival de Brasília do Cinema Brasileiro / National Feature Film Competition / Best Editing / Best Screenplay / Honorable Mention / Best Feature (Official Jury)
+* Rio de Janeiro International Film Festival 2025 / Midnight Movies
+* 6º Lima Alterna Festival Internacional de Cine
