@@ -25,4 +25,4 @@ Presos em um banheiro por mais de 27 horas durante a tomada do Palácio da Justi
 
 * TORONTO INTERNATIONAL FILM FESTIVAL - TIFF 50 /
 Official Selection / Discovery Section
-* 49ª Mostra de São Paulo / Competição Novos Diretores
+* 49ª Mostra Internacional de Cinema em São Paulo / Competição Novos Diretores
