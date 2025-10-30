@@ -28,3 +28,4 @@ Trapped in a bathroom for over 27 hours during the siege of the Palace of Justic
 
 * TORONTO INTERNATIONAL FILM FESTIVAL - TIFF 50 /
   Official Selection / Discovery Section
+* São Paulo International Film Festival 2025 / New Directors Competition
