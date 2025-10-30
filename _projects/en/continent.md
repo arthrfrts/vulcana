@@ -47,6 +47,11 @@ In a secluded village of southern Brazil, a young woman returns after years as h
 * TOHorror Fantastic Film Fest / Feature Film Competition
 * MACABRO FICH
 * 49th São Paulo International Film Festival
+* Independent Days International Filmfestival 2025
+* Festival Internacional De Cine De Terror De Valdivia 2025
+* Echelon Studios International Film Festival 2025
+* Tripoli Film Festival 2025
+* XIBALBÁ - V Festival de Cine de Terror Latinoamericano 2025 / Best Latin-American Feature
 
 ## LABS, MARKETS AND EVENTS
 
