@@ -61,7 +61,7 @@ Um ator ambicioso e um político em ascensão vivem um caso em sigilo e, juntos,
 
 * Festival do Rio 2025 / Première Brasil Competição de Longas Metragens de Ficção / Melhor Ator, Melhor Roteiro, Melhor Fotografia, PRÊMIO FELIX de Melhor Filme Brasileiro
 
-* 49º Mostra Internacional de Cinema de São Paulo
+* 49ª Mostra Internacional de Cinema em São Paulo / Mostra Brasil
 
 
 ## LABS, MERCADOS E EVENTOS
