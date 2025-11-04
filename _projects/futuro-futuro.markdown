@@ -32,3 +32,5 @@ Em um futuro próximo, onde os avanços em inteligência artificial coexistem co
 * 58º Festival de Brasília do Cinema Brasileiro / Mostra Competitiva Nacional de longas-metragens / Melhor Montagem / Melhor Roteiro / Menção Honrosa do Júri / Melhor Longa Metragem (Júri Oficial)
 * Festival do Rio 2025 / Midnight Movies
 * 6º Lima Alterna Festival Internacional de Cine
+* 12ª Mostra de Cinema de Gostoso / Mostra Panorama
+* Mostra Cine Esquema Novo e Kino Beat Mundificação
