@@ -16,7 +16,7 @@ layout: project
 
 Brazil, Feature, 2025
 
-*Directed and Writetn by*\
+*Directed and Written by*\
 Filipe Matzembacher and Marcio Reolon
 
 *Coproduction*\
@@ -43,9 +43,10 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 * Frameline: San Francisco International LGBTQ Film Festival 2025 
 * New Horizons International Film Festival 2025
 * Sunny Bunny Film Festival 2025 
-* 28º Pink Apple Queer Film Festival 2025 International 
+* 28th Pink Apple Queer Film Festival 2025 International 
 * Queer & Migrant Film Festival / Las Americas Film Festival 2025 
 * Rio de Janeiro International Film Festival 2025 / Première Brasil - Redentor Trophy / Best Actor, Best Screenplay, Best Cinematography, FELIX AWARD of Best Brazilian Feature
+* São Paulo International Film Festival 2025 / Mostra Brasil
 
 ## LABS, MARKETS AND EVENTS
 
