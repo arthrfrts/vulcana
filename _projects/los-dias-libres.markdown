@@ -1,7 +1,9 @@
 ---
 title: Los Días Libres
-date: 2025-11-05 17:05:00 -02:00
+date: 2025-11-05 18:05:00 -02:00
 published: false
+categories:
+- projetos
 ---
 
 Argentina / México / França / Espanha / Brasil, Longa-metragem
