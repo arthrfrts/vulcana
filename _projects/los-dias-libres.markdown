@@ -1,6 +1,6 @@
 ---
 title: Los Días Libres
-date: 2025-11-05 16:05:00 -02:00
+date: 2025-11-05 17:05:00 -02:00
 published: false
 ---
 
@@ -27,8 +27,18 @@ Durante um verão escaldante em Buenos Aires, com a inflação em alta e um ecli
 
 ---
 
-## Principais Exibições
+## Labs, Mercados e Eventos
 
-* 78º Festival de Cannes 2025 / ACID Cannes
+* Concurso Federal Raymundo Gleyzer (INCAA, 2021)
 
-* Festival do Rio 2025 / Première Latina
+* Punto Género: Working Session (Ventana Sur, 2021).
+
+* La Fabrique Cinema (Festival de Cannes, 2023)
+
+* Curso de Desarrollo de Proyectos Cinematográficos - Programa Ibermedia (Beca Fundación Carolina).
+
+* Foro de coproducción Europa-América Latina - Festival de San Sebastián
+
+* EAVE Puentes 2023
+
+* IzañaLAB 2024
