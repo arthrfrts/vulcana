@@ -1,6 +1,6 @@
 ---
 title: Los Días Libres
-date: 2025-11-05 18:05:00 -02:00
+date: 2025-11-05 19:05:00 -02:00
 published: false
 categories:
 - projetos
@@ -21,11 +21,11 @@ MaravillaCine (ARG), WooFilms (MEX), MISIA Films (FR), Amore Cine (ESP) e Vulcan
 Ibermedia, Mecenazgo Cultural, INCAA, ANCINE e Mendoza Cash Rebate.
 
 *Sales Internacional*
-MMM Film Sales
+
 
 ---
 
-Durante um verão escaldante em Buenos Aires, com a inflação em alta e um eclipse solar iminente, Bego (11) mergulha no "shifting" — uma tendência viral da internet em que um grupo de adolescentes altera seu presente induzindo sonhos lúcidos. Os limites da realidade começam a se confundir à medida que Bego acredita estar adquirindo as ferramentas necessárias para alterar a sua volta.
+Durante um verão escaldante em Buenos Aires, com a inflação em alta e um eclipse solar iminente, Bego (11) mergulha no "shifting", uma tendência viral da internet em que um grupo de adolescentes altera seu presente induzindo sonhos lúcidos. Os limites da realidade começam a se confundir à medida que Bego acredita estar adquirindo as ferramentas necessárias para alterar a sua volta.
 
 ---
 
