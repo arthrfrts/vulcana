@@ -1,6 +1,6 @@
 ---
 title: The Days Off
-date: 2025-11-05 19:31:00 -02:00
+date: 2025-11-05 20:31:00 -02:00
 categories:
 - projects
 lang: en
@@ -13,7 +13,7 @@ Argentina / Mexico / France / Spain / Brasil, Feature in pre-production
 Lucila Mariani
 
 *Coproduction*
-MaravillaCine (ARG), WooFilms (MEX), MISIA Films (FR), Amore Cine (ESP) and Vulcana Cinema (BR)
+MaravillaCine, WooFilms, MISIA Films, Amore Cine, PNG Pictures and Vulcana Cinema
 
 *Financing*
 Ibermedia, Mecenazgo Cultural, INCAA, ANCINE and Mendoza Cash Rebate.
