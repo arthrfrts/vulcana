@@ -10,7 +10,7 @@ release_year: 2025
 image: "/uploads/Main%20Still_NVB_frame39_TIFF.png"
 ---
 
-Colombia/Mexico/Brazil/Norway, Feature, 2025
+Colombia / Mexico / Brazil / Norway, Feature, 2025
 
 *Directed and written by*\
 Tomás Corredor
