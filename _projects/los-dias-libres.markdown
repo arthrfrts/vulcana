@@ -1,12 +1,12 @@
 ---
 title: Los Días Libres
-date: 2025-11-05 19:05:00 -02:00
-published: false
+date: 2025-11-05 20:05:00 -02:00
 categories:
 - projetos
+image: "/uploads/LDL2.jpeg"
 ---
 
-Argentina / México / França / Espanha / Brasil, Longa-metragem
+Argentina / México / França / Espanha / Brasil, Longa-metragem em pré-produção
 
 *Direção*
 Lucila Mariani
@@ -19,9 +19,6 @@ MaravillaCine (ARG), WooFilms (MEX), MISIA Films (FR), Amore Cine (ESP) e Vulcan
 
 *Financiamento*
 Ibermedia, Mecenazgo Cultural, INCAA, ANCINE e Mendoza Cash Rebate.
-
-*Sales Internacional*
-
 
 ---
 
