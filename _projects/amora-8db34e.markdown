@@ -8,7 +8,7 @@ image: "/uploads/Amora.png"
 release_year: 2025
 ---
 
-Brazil, 1 season with 4 episodes, in Development
+Brasil, 1 season with 4 episodes, in Development
 
 *Directed by*\
 Juliana Rojas
@@ -17,4 +17,5 @@ Juliana Rojas
 Thais Guisasola e Julia Anquier
 
 _Production_\
-Vulcana Cinema, bigBonsai and Plate Filmes
+Vulcana Cinema, bigBonsai e Plate Filmes
+
