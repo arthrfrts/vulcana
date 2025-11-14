@@ -1,13 +1,13 @@
 ---
 title: The Days Off
-date: 2025-11-05 18:31:00 -02:00
-published: false
+date: 2025-11-05 19:31:00 -02:00
 categories:
 - projects
 lang: en
+image: "/uploads/LDL2-8afd30.jpeg"
 ---
 
-Argentina / Mexico / France / Spain / Brasil, Feature in Development
+Argentina / Mexico / France / Spain / Brasil, Feature in pre-production
 
 *Directed and Written by*
 Lucila Mariani
@@ -17,8 +17,6 @@ MaravillaCine (ARG), WooFilms (MEX), MISIA Films (FR), Amore Cine (ESP) and Vulc
 
 *Financing*
 Ibermedia, Mecenazgo Cultural, INCAA, ANCINE and Mendoza Cash Rebate.
-
-*International Sales*
 
 ---
 
