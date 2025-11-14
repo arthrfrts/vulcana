@@ -7,7 +7,7 @@ image: "/uploads/Main%20Still_NVB_frame39_TIFF.png"
 release_year: 2025
 ---
 
-Colômbia/México/Brasil/Noruega, Longa-metragem, 2025
+Colômbia / México / Brasil / Noruega, Longa-metragem, 2025
 
 *Direção e Roteiro*\
 Tomás Corredor
