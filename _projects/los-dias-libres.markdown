@@ -1,6 +1,6 @@
 ---
 title: Los Días Libres
-date: 2025-11-05 20:05:00 -02:00
+date: 2025-11-05 21:05:00 -02:00
 categories:
 - projetos
 image: "/uploads/LDL2.jpeg"
@@ -15,7 +15,7 @@ Lucila Mariani
 Lucila Mariani
 
 *Coprodução*
-MaravillaCine (ARG), WooFilms (MEX), MISIA Films (FR), Amore Cine (ESP) e Vulcana Cinema (BR)
+MaravillaCine, WooFilms, MISIA Films, Amore Cine, PNG Pictures e Vulcana Cinema
 
 *Financiamento*
 Ibermedia, Mecenazgo Cultural, INCAA, ANCINE e Mendoza Cash Rebate.
