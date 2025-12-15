@@ -19,3 +19,9 @@ Thais Guisasola e Julia Anquier
 _Production_\
 Vulcana Cinema, bigBonsai e Plate Filmes
 
+
+---
+
+AMORA presents a dramedy anthology exploring contemporary relationships of love and affection between women. Connected by theme and tone, the episodes set in the fictional city of Amora delve into the lesbian experiences of its inhabitants, revealing unexpected moments of sexual discovery, betrayal, aging, prejudice, passion, wonder, fear, and the many forms of love that shape their lives.
+
+---
