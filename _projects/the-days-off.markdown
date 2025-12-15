@@ -1,10 +1,11 @@
 ---
 title: The Days Off
-date: 2025-11-05 20:31:00 -02:00
+date: 2025-11-05 21:31:00 -02:00
 categories:
 - projects
 lang: en
 image: "/uploads/LDL2-8afd30.jpeg"
+original_title: Los Días Libres
 ---
 
 Argentina / Mexico / France / Spain / Brasil, Feature in pre-production
