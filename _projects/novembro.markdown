@@ -5,6 +5,7 @@ categories:
 - longas
 image: "/uploads/Main%20Still_NVB_frame39_TIFF.png"
 release_year: 2025
+trailer: https://www.youtube.com/watch?v=9OLDUneMyeU
 ---
 
 Colômbia / México / Brasil / Noruega, Longa-metragem, 2025
@@ -26,12 +27,8 @@ Presos em um banheiro por mais de 27 horas durante a tomada do Palácio da Justi
 
 ## PRINCIPAIS EXIBIÇÕES
 
-* TORONTO INTERNATIONAL FILM FESTIVAL - TIFF 50 /
-Official Selection / Discovery Section
-
+* TORONTO INTERNATIONAL FILM FESTIVAL - TIFF 50 / Official Selection / Discovery Section
 * 49ª Mostra Internacional de Cinema em São Paulo / Competição Novos Diretores
-
 * MORELIA INTERNATIONAL FILM FESTIVAL - FICM, 2025
-
 * 51st OFFICIAL SELECTION HUELVA FESTIVAL | IBERO-AMERICAN FILM / Official feature film section, 2025
 
