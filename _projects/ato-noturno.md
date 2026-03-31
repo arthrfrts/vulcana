@@ -77,7 +77,7 @@ Um ator ambicioso e um político em ascensão vivem um caso em sigilo e, juntos,
 
 * Queer Lisboa International Film Festival 2025
 
-*. Festheart LGBT 2025
+* Festheart LGBT 2025
 
 * Everybody's Perfect Film Festival 2025
 
