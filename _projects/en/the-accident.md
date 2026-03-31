@@ -25,7 +25,7 @@ _Financing_
 Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
 
 *Available on*\
-[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.87877b44-147c-40d0-8cfd-6da9ee1f4101?autoplay=0&ref_=atv_cf_strg_wb), [Canal Looke](https://www.primevideo.com/dp/amzn1.dv.gti.87877b44-147c-40d0-8cfd-6da9ee1f4101?autoplay=0&ref_=atv_cf_strg_wb), [Claro TV+](https://www.clarotvmais.com.br/filme/~/3030434), [YouTube Movies & TV] (https://www.youtube.com/watch?v=Ni2qMic9R0w),  [Apple TV] (https://tv.apple.com/br/movie/o-acidente/umc.cmc.2cb2mywxz6xotospxyqlew6u3?action=play)
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.87877b44-147c-40d0-8cfd-6da9ee1f4101?autoplay=0&ref_=atv_cf_strg_wb), [Canal Looke](https://www.primevideo.com/dp/amzn1.dv.gti.87877b44-147c-40d0-8cfd-6da9ee1f4101?autoplay=0&ref_=atv_cf_strg_wb), [Claro TV+](https://www.clarotvmais.com.br/filme/~/3030434), [YouTube Movies & TV](https://www.youtube.com/watch?v=Ni2qMic9R0w),  [Apple TV](https://tv.apple.com/br/movie/o-acidente/umc.cmc.2cb2mywxz6xotospxyqlew6u3?action=play)
 
 ***
 
