@@ -21,8 +21,6 @@ Manuel Nieto Zas
 *Coproduction*\
 Roken Films (UY), Vulcana Cinema (BR), Sancho&Punta (BR), Pasto Cine (AR), Murillo Cine (AR) and Paradise Films (FR)\
 \
-*Available on*\
-Netflix (BR), Youtube Filmes (BR) e Google Play (BR)
 
 ---
 
