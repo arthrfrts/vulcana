@@ -27,6 +27,9 @@ Tokyo Filmes e Vulcana Cinema
 *Financiamento*\
 Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
 
+*Disponível em*\
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.87877b44-147c-40d0-8cfd-6da9ee1f4101?autoplay=0&ref_=atv_cf_strg_wb), [Canal Looke](https://www.primevideo.com/dp/amzn1.dv.gti.87877b44-147c-40d0-8cfd-6da9ee1f4101?autoplay=0&ref_=atv_cf_strg_wb), [Claro TV+](https://www.clarotvmais.com.br/filme/~/3030434), [YouTube Filmes] (https://www.youtube.com/watch?v=Ni2qMic9R0w),  [Apple TV] (https://tv.apple.com/br/movie/o-acidente/umc.cmc.2cb2mywxz6xotospxyqlew6u3?action=play)
+
 ---
 
 A ciclista Joana é envolvida em um estranho acidente, onde ela é carregada no capô do carro por um quarteirão. Joana sai da situação sem se machucar e tenta escondê-la de sua parceira Cecília. Porém, um vídeo do ocorrido feito por um menino que estava dentro do carro, expõe a omissão de Joana e ela se vê obrigada a prestar queixas contra a motorista. Ela começa pouco a pouco a se envolver na vida da família que a atropelou.

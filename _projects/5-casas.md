@@ -30,6 +30,9 @@ PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und
 _Distribuição_  
 Lança Filmes
 
+*Disponível em*\
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.32df187d-39b2-415f-bedc-be9609c209da?autoplay=0&ref_=atv_cf_strg_wb), [Canal Looke](https://www.primevideo.com/dp/amzn1.dv.gti.32df187d-39b2-415f-bedc-be9609c209da?autoplay=0&ref_=atv_cf_strg_wb), [YouTube Filmes] (https://www.youtube.com/watch?v=XfglpWnItMc), [Claro TV+] (https://www.clarotvmais.com.br/filme/~/3500072), [Apple TV.] (https://tv.apple.com/br/movie/5-casas/umc.cmc.6zxw8l3exz55t0rssynsfup4p?action=play)
+
 ***
 
 5 Casas e as pessoas que as habitam. Uma velha professora de francês, um jovem homossexual, um homem que vive em uma fazenda isolada, um grupo de freiras que conduzem uma escola e um menino cujos pais morreram 20 anos atrás.

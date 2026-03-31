@@ -30,6 +30,9 @@ PRODAV 04/2014, IDFA Bertha Fund (2015) / Desenvolvimento, NRW (2017) / Film und
 _Distribution Brazil_  
 Lança Filmes
 
+*Available on*\
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.32df187d-39b2-415f-bedc-be9609c209da?autoplay=0&ref_=atv_cf_strg_wb), [Canal Looke](https://www.primevideo.com/dp/amzn1.dv.gti.32df187d-39b2-415f-bedc-be9609c209da?autoplay=0&ref_=atv_cf_strg_wb), [YouTube Movies & TV] (https://www.youtube.com/watch?v=XfglpWnItMc), [Claro TV+] (https://www.clarotvmais.com.br/filme/~/3500072), [Apple TV.] (https://tv.apple.com/br/movie/5-casas/umc.cmc.6zxw8l3exz55t0rssynsfup4p?action=play)
+
 ***
 
 5 HOUSES and 5 interconnected stories. An old teacher struggling to keep her home, a young man bullied for being gay, a nun expelled from the school she used to run, an old farmhand in a haunted farm and a boy whose parents died 20 years ago.

@@ -30,6 +30,9 @@ Vulcana Cinema, Cena Expandida
 *Financiamento*\
 Itaú Rumos 2019-2020 e FAC Filma RS
 
+*Disponível em*\
+[Itaú Cultural Play](https://assista.itauculturalplay.com.br/ItemDetail/5ffc644c2d32c23b33b2938f/69683f88248b23e396b398e8)
+
 ---
 
 Na busca por respostas e um pouco de aventura, o cartunista brasileiro Rafael Corrêa decide fazer um filme para organizar suas memórias e descobrir se é a morte de um sapo a origem de sua doença degenerativa.

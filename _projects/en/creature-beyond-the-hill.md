@@ -24,6 +24,9 @@ Casa de Cinema de Porto Alegre, Vulcana Cinema e Avante Filmes
 _Financing_  
 Edital Plataforma FUMPROARTE 2016, FSA
 
+*Available on*\
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.401bc69d-174b-4636-bffc-ee98d0202175?autoplay=0&ref_=atv_cf_strg_wb), [YouTube Movies & TV] (https://www.youtube.com/watch?v=1jFveiPy3Bg), [Claro TV+] (https://www.clarotvmais.com.br/filme/~/3480035), [Apple TV.] (https://tv.apple.com/br/movie/bicho-monstro/umc.cmc.17pf3f4k56sld3kg2ua9v30zd?action=play)
+
 ---
 
 In a small village in southern Brazil, little Ana becomes obsessed by a play that presents the ancient legend of the Thiltapes – a mysterious animal that hides beyond the hill. Two hundred years before, a German botanist hears the same story told by a settler. While dealing with their own demons, each character searches for the same creature.

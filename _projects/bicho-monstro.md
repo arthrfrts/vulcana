@@ -30,6 +30,9 @@ Edital Plataforma FUMPROARTE 2016, FSA
 *Distribuição*\
 Vitrine Filmes, Boulevard Filmes
 
+*Disponível em*\
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.401bc69d-174b-4636-bffc-ee98d0202175?autoplay=0&ref_=atv_cf_strg_wb), [YouTube Filmes] (https://www.youtube.com/watch?v=1jFveiPy3Bg), [Claro TV+] (https://www.clarotvmais.com.br/filme/~/3480035), [Apple TV.] (https://tv.apple.com/br/movie/bicho-monstro/umc.cmc.17pf3f4k56sld3kg2ua9v30zd?action=play)
+
 ---
 
 Em um pequeno vilarejo, a pequena Ana assiste a uma peça de teatro que apresenta a história do Thiltapes. Duzentos anos antes um botanista alemão escuta de um colono a história sobre o mesmo animal. Ao mesmo tempo que lidam com seus próprios demônios, cada personagem procura pela mesma criatura.

@@ -30,6 +30,9 @@ Vulcana Cinema, Cena Expandida
 *Financing*\
 Itaú Rumos 2019-2020, FAC Filma RS
 
+*Available on*\
+[Itaú Cultural Play](https://assista.itauculturalplay.com.br/ItemDetail/5ffc644c2d32c23b33b2938f/69683f88248b23e396b398e8)
+
 ---
 
 In his quest for answers and some adventure, Brazilian cartoonist Rafael Corrêa decides to make a film to organize his memories and find out if the death of a frog is the origin of his degenerative disease.

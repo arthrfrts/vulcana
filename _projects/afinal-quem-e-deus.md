@@ -3,14 +3,14 @@ title: Afinal, Quem É Deus?
 categories:
 - tv
 position: 12
-layout: project
 release_year: 2020
 image: "/uploads/images/afinal-quem-e-deus.jpg"
 trailer: https://vimeo.com/329467814
-original_title: ''
+original_title: 
 video:
-  mp4: ''
-  gif: ''
+  mp4: 
+  gif: 
+layout: project
 ---
 
 Brasil, Uma temporada com 13 episódios, HD, 2019
@@ -26,6 +26,9 @@ Edital PRODAV 12/2015
 
 _Licenciamento_  
 TV Cultura e EBC - TV Brasil
+
+*Disponível em*\
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.92bc78a6-fcaf-9fba-0ff0-78e36f5af732?autoplay=0&ref_=atv_cf_strg_wb) e [Canal Looke.](https://www.primevideo.com/dp/amzn1.dv.gti.92bc78a6-fcaf-9fba-0ff0-78e36f5af732?autoplay=0&ref_=atv_cf_strg_wb)
 
 Para alugar a série no [_Vimeo On Demand_](https://vimeo.com/ondemand/afinalquemedeus)
 

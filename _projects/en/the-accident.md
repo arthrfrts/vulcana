@@ -24,6 +24,9 @@ Tokyo Filmes and Vulcana Cinema
 _Financing_  
 Fundo Setorial do Audiovisual, ANCINE, Edital SEDAC nº 05/2019 Edital de Concurso “Pró-cultura RS FAC do Audiovisual II”, visions sud est
 
+*Available on*\
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.87877b44-147c-40d0-8cfd-6da9ee1f4101?autoplay=0&ref_=atv_cf_strg_wb), [Canal Looke](https://www.primevideo.com/dp/amzn1.dv.gti.87877b44-147c-40d0-8cfd-6da9ee1f4101?autoplay=0&ref_=atv_cf_strg_wb), [Claro TV+](https://www.clarotvmais.com.br/filme/~/3030434), [YouTube Movies & TV] (https://www.youtube.com/watch?v=Ni2qMic9R0w),  [Apple TV] (https://tv.apple.com/br/movie/o-acidente/umc.cmc.2cb2mywxz6xotospxyqlew6u3?action=play)
+
 ***
 
 The cyclist Joana is involved in an odd accident, where she is carried on the hood of a car for a block. Joana leaves unharmed and decides to hide this incident from her partner Cecilia . When a strange video of the accident emerges, Joana's omission is exposed. She starts little by little to get involved in the life of the family who run over her.

@@ -30,6 +30,10 @@ Vitrine Filmes
 _Sales e festivais_  
 Figa Films
 
+*Disponível em*\
+[Embaúba Play](https://embaubaplay.com/catalogo/castanha/)
+
+
 ---
 
 João Carlos Castanha tem 52 anos e é ator. Também trabalha na noite como transformista em baladas gays. Vive com a mãe septuagenária, Celina, no subúrbio de Porto Alegre. Solitário, doente e confuso, aos poucos ele deixa de discernir realidade e ficção.

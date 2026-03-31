@@ -1,12 +1,12 @@
 ---
 title: Los Días Libres
-date: 2025-11-05 21:05:00 -02:00
+date: 2025-11-05 22:05:00 -02:00
 categories:
 - projetos
 image: "/uploads/LDL2.jpeg"
 ---
 
-Argentina / México / França / Espanha / Brasil, Longa-metragem em pré-produção
+Argentina / Brasil, Longa-metragem em pós-produção
 
 *Direção*
 Lucila Mariani
