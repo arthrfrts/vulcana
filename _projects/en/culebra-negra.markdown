@@ -8,6 +8,7 @@ position: 74
 lang: en
 original_title: La Couleuvre Noire
 release_year: 2027
+trailer: https://vimeo.com/1157671776/ad9413b187?share=copy&fl=cl&fe=ci
 image: "/uploads/La%20Couleuvre%20noire%20-%20Ciro%20-%20Visuel%20octobre%202024.jpg"
 Key: 
 layout: project
