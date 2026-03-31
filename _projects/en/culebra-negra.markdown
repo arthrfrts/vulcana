@@ -39,11 +39,7 @@ MMM Film Sales
 ## Main Exhibitions
 
 * 78th Cannes Festival 2025 / ACID Cannes
-
 * Rio de Janeiro International Film Festival 2025 / Première Latina
-
 * 34th Biarritz Latin America Festival 2025
-
 * 24th Festival de Cine Francés de Colombia 2025
-
 * 37th Cinélatino
