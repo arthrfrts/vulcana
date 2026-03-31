@@ -38,9 +38,11 @@ Após anos de ausência, Ciro retorna para casa ao leito de sua mãe. No deserto
 
 * Festival do Rio 2025 / Première Latina
 
-* 34th Biarritz Latin America Festival 2025
+* 34º Biarritz Latin America Festival 2025
 
-* 24th Festival de Cine Francés de Colombia 2025
+* 24º Festival de Cine Francés de Colombia 2025
+
+* 37º Cinélatino
 
 
 
