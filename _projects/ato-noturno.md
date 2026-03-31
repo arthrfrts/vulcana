@@ -67,6 +67,41 @@ Um ator ambicioso e um político em ascensão vivem um caso em sigilo e, juntos,
 
 * 49ª Mostra Internacional de Cinema em São Paulo / Mostra Brasil
 
+* New Zealand International Film Festival 2025
+
+* Melbourne International Film Festival 2025
+
+* Bucharest Int. Dance Film Festival 2025
+
+* Fantastic Fest 2025
+
+* Queer Lisboa International Film Festival 2025
+
+*. Festheart LGBT 2025
+
+* Everybody's Perfect Film Festival 2025
+
+* Pink Screens 2025
+
+* Parlons d'Amour Film Festival 2025
+
+* Seoul Int'l PRIDE Film Festival 2025
+
+* Films from the South 2025
+
+* Mar del Plata 2025
+
+* Chéries-Chéris 2025
+
+* LesGaiCineMad 2025
+
+* Midsumma 2026
+
+* Mardi Gras Film Festival 2026
+
+* FIDiG Cine 2026
+
+* Joburg Film Festival 2026
 
 ## LABS, MERCADOS E EVENTOS
 
