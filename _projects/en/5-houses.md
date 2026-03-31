@@ -31,7 +31,7 @@ _Distribution Brazil_
 Lança Filmes
 
 *Available on*\
-[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.32df187d-39b2-415f-bedc-be9609c209da?autoplay=0&ref_=atv_cf_strg_wb), [Canal Looke](https://www.primevideo.com/dp/amzn1.dv.gti.32df187d-39b2-415f-bedc-be9609c209da?autoplay=0&ref_=atv_cf_strg_wb), [YouTube Movies & TV] (https://www.youtube.com/watch?v=XfglpWnItMc), [Claro TV+] (https://www.clarotvmais.com.br/filme/~/3500072), [Apple TV.] (https://tv.apple.com/br/movie/5-casas/umc.cmc.6zxw8l3exz55t0rssynsfup4p?action=play)
+[Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.32df187d-39b2-415f-bedc-be9609c209da?autoplay=0&ref_=atv_cf_strg_wb), [Canal Looke](https://www.primevideo.com/dp/amzn1.dv.gti.32df187d-39b2-415f-bedc-be9609c209da?autoplay=0&ref_=atv_cf_strg_wb), [YouTube Movies & TV](https://www.youtube.com/watch?v=XfglpWnItMc), [Claro TV+](https://www.clarotvmais.com.br/filme/~/3500072), [Apple TV.](https://tv.apple.com/br/movie/5-casas/umc.cmc.6zxw8l3exz55t0rssynsfup4p?action=play)
 
 ***
 
