@@ -50,7 +50,6 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 * Queer & Migrant Film Festival / Las Americas Film Festival 2025 
 * Rio de Janeiro International Film Festival 2025 / Première Brasil - Redentor Trophy / Best Actor, Best Screenplay, Best Cinematography, FELIX AWARD of Best Brazilian Feature
 * São Paulo International Film Festival 2025 / Mostra Brasil
-* 49ª Mostra Internacional de Cinema em São Paulo / Mostra Brasil
 * New Zealand International Film Festival 2025
 * Melbourne International Film Festival 2025
 * Bucharest Int. Dance Film Festival 2025
