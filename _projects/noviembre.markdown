@@ -8,6 +8,7 @@ tags:
 lang: en
 release_year: 2025
 image: "/uploads/Main%20Still_NVB_frame39_TIFF.png"
+trailer: https://www.youtube.com/watch?v=9OLDUneMyeU
 ---
 
 Colombia / Mexico / Brazil / Norway, Feature, 2025
@@ -32,9 +33,6 @@ Trapped in a bathroom for over 27 hours during the siege of the Palace of Justic
 
 * TORONTO INTERNATIONAL FILM FESTIVAL - TIFF 50 /
   Official Selection / Discovery Section
-
 * São Paulo International Film Festival 2025 / New Directors Competition
-
 * MORELIA INTERNATIONAL FILM FESTIVAL - FICM, 2025
-
 * 51st OFFICIAL SELECTION HUELVA FESTIVAL | IBERO-AMERICAN FILM / Official feature film section, 2025
