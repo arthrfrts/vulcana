@@ -36,12 +36,10 @@ In a small village in southern Brazil, little Ana becomes obsessed by a play tha
 ## MAIN EXHIBITIONS
 
 * 48th São Paulo International Film Festival / New Directors Competition
-
 * 53º Gramado Film Festival / Regional Feature Film / Best Production Design / Best Cinematography
-
 * 16th Festival Internacional de Cinema da Fronteira / International Feature Film Competition / Best Screenplay
-
 * I Dois Morros Film Festival
+* III Mostra Adentro
 
 ## LABS, MARKETS AND EVENTS
 
