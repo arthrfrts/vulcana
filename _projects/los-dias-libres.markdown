@@ -1,6 +1,6 @@
 ---
 title: Los Días Libres
-date: 2025-11-05 22:05:00 -02:00
+date: 2025-11-05 23:05:00 -02:00
 categories:
 - projetos
 image: "/uploads/LDL2.jpeg"
@@ -15,7 +15,7 @@ Lucila Mariani
 Lucila Mariani
 
 *Coprodução*
-MaravillaCine, WooFilms, MISIA Films, Amore Cine, PNG Pictures e Vulcana Cinema
+MaravillaCine, PNG Pictures e Vulcana Cinema
 
 *Financiamento*
 Ibermedia, Mecenazgo Cultural, INCAA, ANCINE e Mendoza Cash Rebate.
@@ -29,15 +29,9 @@ Durante um verão escaldante em Buenos Aires, com a inflação em alta e um ecli
 ## Labs, Mercados e Eventos
 
 * Concurso Federal Raymundo Gleyzer (INCAA, 2021)
-
 * Punto Género: Working Session (Ventana Sur, 2021).
-
 * La Fabrique Cinema (Festival de Cannes, 2023)
-
 * Curso de Desarrollo de Proyectos Cinematográficos - Programa Ibermedia (Beca Fundación Carolina).
-
 * Foro de coproducción Europa-América Latina - Festival de San Sebastián
-
 * EAVE Puentes 2023
-
 * IzañaLAB 2024
