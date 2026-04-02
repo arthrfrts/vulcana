@@ -6,6 +6,7 @@ categories:
 position: 73
 image: "/uploads/FUTURO%20COMPRIMIDA.png"
 release_year: 2026
+trailer: https://www.youtube.com/watch?v=sEHVwLFm1Ic
 ---
 
 Brasil, Longa-metragem, 2025
