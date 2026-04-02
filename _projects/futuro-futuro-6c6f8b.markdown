@@ -36,3 +36,4 @@ In a near future where advances in artificial intelligence coexist with the rise
 * 6th Lima Alterna Festival Internacional de Cine
 * 12nd Mostra de Cinema de Gostoso / Mostra Panorama
 * Mostra Cine Esquema Novo e Kino Beat Mundificação
+* Festival Internacional de Cinema da Fronteira / International Feature Film Competition
