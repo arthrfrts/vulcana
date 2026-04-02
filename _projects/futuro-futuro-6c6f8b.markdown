@@ -8,6 +8,7 @@ lang: en
 original_title: Futuro Futuro
 image: "/uploads/FUTURO%20COMPRIMIDA.png"
 release_year: 2026
+trailer: https://www.youtube.com/watch?v=2Ik_n8ye_3w
 ---
 
 Brazil, Feature, 2025
