@@ -8,13 +8,13 @@ image: "/uploads/MADRE%20P%C3%81JARO%20-%20MOODBOARD%20PT%20BR%20LPG.jpg"
 release_year: 2024
 ---
 
-Brasil/Costa Rica/Argentina, Longa-metragem em pós-produção
+Brasil/Costa Rica/Argentina/Espanha/França/Noruega, Longa-metragem em pós-produção
 
 *Direção e Roteiro*\
 Sofía Quirós Úbeda
 
 *Coprodução*\
-Vulcana Cinema, Sputnik Films e Murillo Cine
+Vulcana Cinema, Sputnik Films, Staer Films, Promenades Films, El Viaje Films e Murillo Cine
 
 *Financiamento*\
 SEDAC/LPG nº 16/2023
