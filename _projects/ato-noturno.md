@@ -76,7 +76,17 @@ Um ator ambicioso e um político em ascensão vivem um caso em sigilo e, juntos,
 * Pride Pictures - 32nd Queer Film Festival / Filme de abertura
 * FestAruanda 2025 / Mostra Competitiva
 * Festival MixBrasil 2025 / Mostra Competitiva - Longas-metragens
-* Andalesgai - Seville International Queer Film Festival / Menção especial 
+* Andalesgai - Seville International Queer Film Festival / Menção especial
+* Leeds International Film Festival 2025
+* Hamburg International Film Festival 2025
+* Perlen: Queer Film Festival Hanover 2025
+* 23º Tallgrass Film Festival
+* 5º Flip the Script Film Festival
+* 3º New Next Film Fest
+* 37º Out on Film
+* Queer Visions Bristol 2025
+* Queer Frames Festival 2025
+* QueerCineMad 2025 / Melhor Roteiro
 
 ## LABS, MERCADOS E EVENTOS
 
