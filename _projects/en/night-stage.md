@@ -72,6 +72,16 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 * FestAruanda 2025 / Official Competition
 * Festival MixBrasil 2025 / Feature Film Competition
 * Andalesgai - Seville International Queer Film Festival / Special Mention
+* Leeds International Film Festival 2025
+* Hamburg International Film Festival 2025
+* Perlen: Queer Film Festival Hanover 2025
+* 23rd Tallgrass Film Festival
+* 5th Flip the Script Film Festival
+* 3rd New Next Film Fest
+* 37th Out on Film
+* Queer Visions Bristol 2025
+* Queer Frames Festival 2025
+* QueerCineMad 2025 / Best Script
 
 ## LABS, MARKETS AND EVENTS
 
