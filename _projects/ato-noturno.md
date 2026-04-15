@@ -47,11 +47,11 @@ Um ator ambicioso e um político em ascensão vivem um caso em sigilo e, juntos,
 * 75ª Berlinale - Berlin International Film Festival / Panorama
 * 30ª FIRE!! LGBTIQ\+ Film Festival de Barcelona 2025 / Prêmio do Público de Melhor Filme
 * BFI Flare: London LGBTQIA\+ Film Festival 2025 / Filme de encerramento
-* Lovers International Film Festival 2025
+* Lovers International Film Festival 2025 / Competição Internacional
 * Frameline: San Francisco International LGBTQ Film Festival 2025
 * New Horizons International Film Festival 2025
-* Sunny Bunny Film Festival 2025
-* 28º Pink Apple Queer Film Festival 2025
+* Sunny Bunny Film Festival 2025 / Competição Internacional
+* 28º Pink Apple Queer Film Festival 2025 / Competição Internacional
 * Queer & Migrant Film Festival / Las Americas Film Festival 2025
 * Festival do Rio 2025 / Première Brasil Competição de Longas Metragens de Ficção / Melhor Ator, Melhor Roteiro, Melhor Fotografia, PRÊMIO FELIX de Melhor Filme Brasileiro
 * 49ª Mostra Internacional de Cinema em São Paulo / Mostra Brasil
@@ -59,20 +59,24 @@ Um ator ambicioso e um político em ascensão vivem um caso em sigilo e, juntos,
 * Melbourne International Film Festival 2025
 * Bucharest Int. Dance Film Festival 2025
 * Fantastic Fest 2025
-* Queer Lisboa International Film Festival 2025
+* Queer Lisboa International Film Festival 2025 / Mostra Panorama
 * Festheart LGBT 2025
 * Everybody's Perfect Film Festival 2025
 * Pink Screens 2025
 * Parlons d'Amour Film Festival 2025
 * Seoul Int'l PRIDE Film Festival 2025
 * Films from the South 2025
-* Mar del Plata 2025
+* Mar del Plata 2025 / Competição Latino-Americana / Melhor Filme - Prêmio FIPRESCI
 * Chéries-Chéris 2025
 * LesGaiCineMad 2025
 * Midsumma 2026
 * Mardi Gras Film Festival 2026
 * FIDiG Cine 2026
 * Joburg Film Festival 2026
+* Pride Pictures - 32nd Queer Film Festival / Filme de abertura
+* FestAruanda 2025 / Mostra Competitiva
+* Festival MixBrasil 2025 / Mostra Competitiva - Longas-metragens
+* Andalesgai - Seville International Queer Film Festival / Menção especial 
 
 ## LABS, MERCADOS E EVENTOS
 

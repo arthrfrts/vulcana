@@ -42,11 +42,11 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 * 75th Berlinale - Berlin International Film Festival / Panorama
 * 30th FIRE!! LGBTIQ+ Film Festival de Barcelona 2025 / Audience Award for Best Film
 * BFI Flare: London LGBTQIA+ Film Festival 2025 / Closing film
-* Lovers International Film Festival 2025
+* Lovers International Film Festival 2025 / International Competition
 * Frameline: San Francisco International LGBTQ Film Festival 2025 
 * New Horizons International Film Festival 2025
-* Sunny Bunny Film Festival 2025 
-* 28th Pink Apple Queer Film Festival 2025 International 
+* Sunny Bunny Film Festival 2025 / International Competition
+* 28th Pink Apple Queer Film Festival 2025 International / International Competition
 * Queer & Migrant Film Festival / Las Americas Film Festival 2025 
 * Rio de Janeiro International Film Festival 2025 / Première Brasil - Redentor Trophy / Best Actor, Best Screenplay, Best Cinematography, FELIX AWARD of Best Brazilian Feature
 * São Paulo International Film Festival 2025 / Mostra Brasil
@@ -54,20 +54,24 @@ Actor and politician begin affair, develop public sex fetish. As fame beckons, t
 * Melbourne International Film Festival 2025
 * Bucharest Int. Dance Film Festival 2025
 * Fantastic Fest 2025
-* Queer Lisboa International Film Festival 2025
+* Queer Lisboa International Film Festival 2025 / Panorama
 * Festheart LGBT 2025
 * Everybody's Perfect Film Festival 2025
 * Pink Screens 2025
 * Parlons d'Amour Film Festival 2025
 * Seoul Int'l PRIDE Film Festival 2025
 * Films from the South 2025
-* Mar del Plata 2025
+* Mar del Plata 2025 / Latin-American Competition / Best Picture - FIPRESCI Award
 * Chéries-Chéris 2025
 * LesGaiCineMad 2025
 * Midsumma 2026
 * Mardi Gras Film Festival 2026
 * FIDiG Cine 2026
 * Joburg Film Festival 2026
+* Pride Pictures - 32nd Queer Film Festival / Opening Film
+* FestAruanda 2025 / Official Competition
+* Festival MixBrasil 2025 / Feature Film Competition
+* Andalesgai - Seville International Queer Film Festival / Special Mention
 
 ## LABS, MARKETS AND EVENTS
 
