@@ -6,7 +6,7 @@ categories:
 position: 70
 lang: en
 original_title: Madre Pájaro
-image: "/uploads/MADRE%20P%C3%81JARO%20-%20MOODBOARD%20PT%20BR%20LPG.jpg"
+image: "/uploads/MPAJ_Still_01.jpg.jpeg"
 release_year: 2024
 ---
 

@@ -4,7 +4,7 @@ date: 2024-04-24 11:51:00 -03:00
 categories:
 - projetos
 position: 71
-image: "/uploads/MADRE%20P%C3%81JARO%20-%20MOODBOARD%20PT%20BR%20LPG.jpg"
+image: "/uploads/MPAJ_Still_01.jpg.jpeg"
 release_year: 2024
 ---
 
