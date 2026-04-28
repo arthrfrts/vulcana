@@ -8,7 +8,7 @@ image: "/uploads/MPAJ_Still_01.jpg.jpeg"
 release_year: 2024
 ---
 
-Brasil/Costa Rica/Argentina/Espanha/França/Noruega, Longa-metragem em pós-produção
+Brasil / Costa Rica / Argentina / Espanha / França / Noruega, Longa-metragem em pós-produção
 
 *Direção e Roteiro*\
 Sofía Quirós Úbeda
