@@ -1,6 +1,5 @@
 ---
 title: From Guiné
-published: false
 categories:
 - projects
 position: 4
