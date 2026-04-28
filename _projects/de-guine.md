@@ -1,6 +1,5 @@
 ---
 title: De Guiné
-published: false
 categories:
 - projetos
 position: 5
