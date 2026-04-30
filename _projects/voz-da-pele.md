@@ -13,7 +13,7 @@ video:
 layout: project
 ---
 
-Brasil, 1 temporada de 5 episódios, série documental em fase de pós-produção
+Brasil, 1 temporada de 5 episódios, série documental, 2024.
 
 _Direção_\
 Igor Verde e Davi Pretto

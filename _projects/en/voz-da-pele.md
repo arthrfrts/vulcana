@@ -13,7 +13,7 @@ video:
 layout: project
 ---
 
-Brazil, 1 season with 5 episodes, in post production.
+Brazil, 1 season with 5 episodes, 2024.
 
 _Directed by_\
 Igor Verde e Davi Pretto
