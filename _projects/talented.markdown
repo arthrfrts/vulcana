@@ -22,8 +22,7 @@ Vulcana Cinema
 
 ---
 
-A passionate dancer who never had her talent recognized goes into crisis when she sees her daughter achieve fame on a reality show that explores young talents. 
-
+Tereza is a single mom splitting her time between teaching dance lessons and caring for her daughter, Pina, with only the help of her aging father. Her life turns upside down when her daughter is cast for a reality TV show featuring young talents. Pina wants to make it to the finals in Rio de Janeiro, hoping to return to the city where she was born. As they rehearse, the young girl rekindles the flames of her mother’s past dreams. 
 
 ---
 

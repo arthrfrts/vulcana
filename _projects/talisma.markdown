@@ -23,7 +23,7 @@ Vitrine Filmes
 
 ---
 
-Uma dançarina talentosa que nunca teve seu dom reconhecido entra em crise ao ver sua filha alcançar a fama em um reality show que explora talentos mirins.
+Tereza é mãe solo e se divide entre dar aulas de dança e cuidar da filha, Pina, contando apenas com ajuda do pai idoso. Ela vê a vida virar de cabeça para baixo quando a filha entra num reality de talentos mirins. Pina quer chegar à final, no Rio de Janeiro, desejando retornar para a sua cidade natal. Enquanto ensaiam, a menina reacende na mãe sonhos do passado.
 
 
 ---
