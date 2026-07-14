@@ -6,6 +6,7 @@ categories:
 lang: en
 image: "/uploads/LDL_STILLS_1.20.1.jpg"
 original_title: Los Días Libres
+year: 2026
 ---
 
 Argentina / Brazil / Mexico / France, Feature, 2026
@@ -33,7 +34,7 @@ In the near future, during an endless summer break and with a solar eclipse appr
 
 * Concurso Federal Raymundo Gleyzer (INCAA, 2021)
 
-* Punto Género: Working Session (Ventana Sur, 2021).
+* Punto Género: Working Session (Ventana Sur, 2021)
 
 * La Fabrique Cinema (Festival de Cannes, 2023)
 

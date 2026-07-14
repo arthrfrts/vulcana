@@ -1,12 +1,13 @@
 ---
 title: Los Días Libres
-date: 2025-11-06 00:05:00 -02:00
+date: 2025-11-06 01:05:00 -02:00
 categories:
 - longas
 image: "/uploads/LDL_STILLS_1.20.1.jpg"
+year: 2026
 ---
 
-Argentina / Brasil / México / França, Longa-metragem em pós-produção
+Argentina / Brasil / México / França, Longa-metragem, 2026
 
 *Direção*
 Lucila Mariani
