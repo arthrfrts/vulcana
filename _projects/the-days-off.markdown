@@ -1,12 +1,12 @@
 ---
 title: The Days Off
-date: 2025-11-06 01:31:00 -02:00
+date: 2025-11-06 02:31:00 -02:00
 categories:
 - features
 lang: en
 image: "/uploads/LDL_STILLS_1.20.1.jpg"
 original_title: Los Días Libres
-year: 2026
+release_year: 2027
 ---
 
 Argentina / Brazil / Mexico / France, Feature, 2026
