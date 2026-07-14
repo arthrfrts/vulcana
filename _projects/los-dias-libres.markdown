@@ -1,12 +1,12 @@
 ---
 title: Los Días Libres
-date: 2025-11-05 23:05:00 -02:00
+date: 2025-11-06 00:05:00 -02:00
 categories:
-- projetos
-image: "/uploads/LDL2.jpeg"
+- longas
+image: "/uploads/LDL_STILLS_1.20.1.jpg"
 ---
 
-Argentina / Brasil, Longa-metragem em pós-produção
+Argentina / Brasil / México / França, Longa-metragem em pós-produção
 
 *Direção*
 Lucila Mariani
@@ -26,12 +26,22 @@ Durante um verão escaldante em Buenos Aires, com a inflação em alta e um ecli
 
 ---
 
+## Principais Exibições
+
+* 79ª Locarno Film Festival - Cineasti del Present **(World Premiere)**
+
 ## Labs, Mercados e Eventos
 
 * Concurso Federal Raymundo Gleyzer (INCAA, 2021)
+
 * Punto Género: Working Session (Ventana Sur, 2021).
+
 * La Fabrique Cinema (Festival de Cannes, 2023)
+
 * Curso de Desarrollo de Proyectos Cinematográficos - Programa Ibermedia (Beca Fundación Carolina).
+
 * Foro de coproducción Europa-América Latina - Festival de San Sebastián
+
 * EAVE Puentes 2023
+
 * IzañaLAB 2024
