@@ -1,14 +1,14 @@
 ---
 title: The Days Off
-date: 2025-11-05 23:31:00 -02:00
+date: 2025-11-06 00:31:00 -02:00
 categories:
-- projects
+- features
 lang: en
-image: "/uploads/LDL2-8afd30.jpeg"
+image: "/uploads/LDL_STILLS_1.20.1.jpg"
 original_title: Los Días Libres
 ---
 
-Argentina / Brasil, Feature in post-production
+Argentina / Brazil / Mexico / France, Feature in post-production
 
 *Directed and Written by*
 Lucila Mariani
@@ -21,7 +21,7 @@ Ibermedia, Mecenazgo Cultural, INCAA, ANCINE and Mendoza Cash Rebate.
 
 ---
 
-In a near future, during the summer, with inflation rising and the imminent arrival of a solar eclipse, 11-year-old Bego becomes obsessed with "shifting" — an internet trend where teenagers alter realities by inducing lucid dreaming. As the boundaries between reality and dreaming begin to blur, she starts to believe she has the power to change everything around her.
+In the near future, during an endless summer break and with a solar eclipse approaching, 12-year-old Bego struggles to find her place within her family and among girls her age. As the moon “eclipses” animals and people around her, Bego meets REN__, an online friend, and through her discovers “shifting,” a practice in which teenagers believe they can access other realities through lucid dreaming.
 
 ---
 
