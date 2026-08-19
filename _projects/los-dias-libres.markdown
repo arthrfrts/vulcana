@@ -1,10 +1,11 @@
 ---
-title: Los Días Libres
+title: Os Dias Livres
 date: 2025-11-06 03:05:00 -02:00
 categories:
 - longas
 image: "/uploads/LDL_STILLS_1.20.1.jpg"
 release_year: 2027
+original_title: Los Días Libres
 ---
 
 Argentina / Brasil / México / França, Longa-metragem, 2026
