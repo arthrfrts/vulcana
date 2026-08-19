@@ -1,6 +1,6 @@
 ---
 title: The Days Off
-date: 2025-11-06 02:31:00 -02:00
+date: 2025-11-06 03:31:00 -02:00
 categories:
 - features
 lang: en
@@ -28,7 +28,7 @@ In the near future, during an endless summer break and with a solar eclipse appr
 
 ## Main Exhibitions
 
-* 79th Locarno Film Festival - Cineasti del Present **(World Premiere)**
+* 79th Locarno Film Festival - Cineasti del Present **(World Premiere)** / Special Mention
 
 ## Labs, Markets and Events
 

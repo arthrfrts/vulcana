@@ -1,6 +1,6 @@
 ---
 title: Los Días Libres
-date: 2025-11-06 02:05:00 -02:00
+date: 2025-11-06 03:05:00 -02:00
 categories:
 - longas
 image: "/uploads/LDL_STILLS_1.20.1.jpg"
@@ -23,13 +23,14 @@ Ibermedia, Mecenazgo Cultural, INCAA, ANCINE e Mendoza Cash Rebate.
 
 ---
 
-Durante um verão escaldante em Buenos Aires, com a inflação em alta e um eclipse solar iminente, Bego (11) mergulha no "shifting", uma tendência viral da internet em que um grupo de adolescentes altera seu presente induzindo sonhos lúcidos. Os limites da realidade começam a se confundir à medida que Bego acredita estar adquirindo as ferramentas necessárias para alterar a sua volta.
+Em um futuro próximo, durante umas férias de verão intermináveis e a iminente chegada de um eclipse solar, Bego, 12 anos, luta para encontrar seu lugar em família e entre as meninas de sua idade. Enquanto a lua “eclipsa” os animais e as pessoas ao seu redor, Bego conhece REN__, uma amiga virtual, e através dela descobre o “shifting”, uma prática em que os adolescentes creem poder acessar outras realidades através de sonhos lúcidos.
+
 
 ---
 
 ## Principais Exibições
 
-* 79ª Locarno Film Festival - Cineasti del Present **(World Premiere)**
+* 79ª Locarno Film Festival - Cineasti del Present **(World Premiere)** / Menção Especial
 
 ## Labs, Mercados e Eventos
 
