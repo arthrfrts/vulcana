@@ -2,12 +2,12 @@
 title: Talismã
 date: 2023-07-21 11:28:00 -03:00
 categories:
-- projetos
+- longas
 position: 2
-image: "/uploads/Still%202025-05-16%20110842_1.1.1.jpg%20Foto_%20Andre%CC%81%20Luiz%20de%20Luiz.jpg"
+image: "/uploads/Talisma%CC%83_Still_01.jpeg"
 ---
 
-Brasil, Longa-metragem em pós-produção
+Brasil, Longa-metragem, 2026
 
 *Direção*\
 Thais Fujinaga
@@ -29,7 +29,7 @@ Tereza é mãe solo e se divide entre dar aulas de dança e cuidar da filha, Pin
 ---
 
 ## LABS, MERCADOS E EVENTOS
-
+* Rio Goes to Cannes (2026)
 * BrLab Audience Design (2023)
 * Workshop Audience Thinking do Projeto Paradiso (2023)
 * Finalista do Concurso de Roteiros do FRAPA (2021) e participante do FRAPA[LAB]
