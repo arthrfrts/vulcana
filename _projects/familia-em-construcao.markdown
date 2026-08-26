@@ -5,7 +5,7 @@ categories:
 - tv
 position: 67
 image: "/uploads/FEC_Still_01.png"
-release_year: 2026
+release_year: 2025
 trailer: https://vimeo.com/1058331914?share=copy
 ---
 
