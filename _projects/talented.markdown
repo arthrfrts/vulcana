@@ -7,7 +7,7 @@ position: 3
 lang: en
 image: "/uploads/Talisma%CC%83_Still_01.jpeg"
 original_title: Talismã
-release_year: 2027
+release_year: 2028
 ---
 
 Brazil, Feature, 2026

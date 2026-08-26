@@ -6,7 +6,7 @@ tags:
 - featured
 position: 62
 original_title: 
-release_year: 2028
+release_year: 2026
 image: "/uploads/NIGHT%20STAGE%20BERLINALE.png"
 trailer: https://www.youtube.com/watch?v=VTE154fm5Wg
 video:

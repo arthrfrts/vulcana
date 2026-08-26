@@ -5,7 +5,7 @@ categories:
 - longas
 position: 2
 image: "/uploads/Talisma%CC%83_Still_01.jpeg"
-release_year: 2027
+release_year: 2028
 ---
 
 Brasil, Longa-metragem, 2026
