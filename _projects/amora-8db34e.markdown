@@ -8,7 +8,7 @@ image: "/uploads/02_AMORA_EP01_Ana_Hikari(DANIELA)_Lucas_Prado(MARCOS)_Bruna_Lin
 release_year: 2026
 ---
 
-Brasil, 1 season with 4 episodes
+Brazil, 1 season with 4 episodes, 2026
 
 *Directed by*\
 Juliana Rojas

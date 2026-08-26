@@ -5,7 +5,7 @@ categories:
 - features
 position: 3
 lang: en
-image: "/uploads/Still%202025-05-16%20110842_1.1.1.jpg%20Foto_%20Andre%CC%81%20Luiz%20de%20Luiz.jpg"
+image: "/uploads/Talisma%CC%83_Still_01.jpeg"
 original_title: Talismã
 release_year: 2027
 ---

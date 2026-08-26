@@ -7,7 +7,7 @@ release_year: 2026
 image: "/uploads/02_AMORA_EP01_Ana_Hikari(DANIELA)_Lucas_Prado(MARCOS)_Bruna_Linzmeyer(TEREZA).jpeg"
 ---
 
-Brasil, 1 temporada de 4 episódios, série de ficção
+Brasil, 1 temporada de 4 episódios, série de ficção, 2026
 
 *Direção*\
 Juliana Rojas
