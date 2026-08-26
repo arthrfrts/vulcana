@@ -2,12 +2,12 @@
 title: Amora
 date: 2025-07-08 18:23:00 -03:00
 categories:
-- projetos
-release_year: 2025
-image: "/uploads/Amora.png"
+- tv
+release_year: 2026
+image: "/uploads/02_AMORA_EP01_Ana_Hikari(DANIELA)_Lucas_Prado(MARCOS)_Bruna_Linzmeyer(TEREZA).jpeg"
 ---
 
-Brasil, 1 temporada de 4 episódios, série de ficção em desenvolvimento
+Brasil, 1 temporada de 4 episódios, série de ficção
 
 *Direção*\
 Juliana Rojas
