@@ -3,7 +3,7 @@ title: Amora
 date: 2025-07-08 18:23:00 -03:00
 categories:
 - tv
-release_year: 2026
+release_year: 2028
 image: "/uploads/02_AMORA_EP01_Ana_Hikari(DANIELA)_Lucas_Prado(MARCOS)_Bruna_Linzmeyer(TEREZA).jpeg"
 ---
 

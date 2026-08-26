@@ -5,7 +5,7 @@ categories:
 - tv
 lang: en
 image: "/uploads/02_AMORA_EP01_Ana_Hikari(DANIELA)_Lucas_Prado(MARCOS)_Bruna_Linzmeyer(TEREZA).jpeg"
-release_year: 2026
+release_year: 2028
 ---
 
 Brazil, 1 season with 4 episodes, 2026
