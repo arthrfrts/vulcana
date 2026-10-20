@@ -27,6 +27,12 @@ Tereza is a single mom splitting her time between teaching dance lessons and car
 
 ---
 
+## MAIN EXHIBITIONS
+
+* Rio de Janeiro International Film Festival 2026 / Best Director
+* 50th São Paulo International Film Festival / Mostra Brasil
+
+
 ## LABS, MARKETS AND EVENTS
 
 * Rio Goes to Cannes (2026)
