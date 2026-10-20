@@ -29,6 +29,10 @@ Tereza é mãe solo e se divide entre dar aulas de dança e cuidar da filha, Pin
 
 ---
 
+## PRINCIPAIS EXIBIÇÕES
+* Festival do Rio 2026 / Melhor Direção
+* 50ª Mostra Internacional de Cinema em São Paulo / Mostra Brasil
+
 ## LABS, MERCADOS E EVENTOS
 * Rio Goes to Cannes (2026)
 * BrLab Audience Design (2023)
