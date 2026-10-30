@@ -30,17 +30,27 @@ Tereza is a single mom splitting her time between teaching dance lessons and car
 ## MAIN EXHIBITIONS
 
 * Rio de Janeiro International Film Festival 2026 / Best Director
-* 50th São Paulo International Film Festival / Mostra Brasil
 
+* 50th São Paulo International Film Festival (Mostra Brasil) / Netflix Award
 
 ## LABS, MARKETS AND EVENTS
 
 * Rio Goes to Cannes (2026)
+
 * BrLab Audience Design (2023)
+
 * Workshop Audience Thinking by Projeto Paradiso (2023)
-* Finalist of the FRAPA Screenplay Competition (2021) and participant of FRAPA[LAB]
+
+* Finalist of the FRAPA Screenplay Competition (2021) and participant of FRAPA\[LAB\]
+
 * Finalist of the Cabíria Award (2019)
+
 * Bolivia Lab (Bolivia/2019)
+
 * Semifinalist of the Cabíria Award (2016)
+
 * Novas Histórias Script Lab by Sesc (2016)
+
 * Curitiba Lab at Olhar de Cinema – Curitiba International Film Festival (2015)
+
+![barardelogos2.png](/uploads/barardelogos2.png)
