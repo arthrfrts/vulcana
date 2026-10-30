@@ -44,3 +44,5 @@ Tereza é mãe solo e se divide entre dar aulas de dança e cuidar da filha, Pin
 * Laboratório Novas Histórias do Sesc (2016)
 * Laboratório Curitiba Lab do Festival Olhar de Cinema (2015)
 
+![barradelogos.png](/uploads/barradelogos.png)
+
