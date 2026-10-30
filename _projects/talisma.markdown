@@ -26,23 +26,32 @@ Vitrine Filmes
 
 Tereza é mãe solo e se divide entre dar aulas de dança e cuidar da filha, Pina, contando apenas com ajuda do pai idoso. Ela vê a vida virar de cabeça para baixo quando a filha entra num reality de talentos mirins. Pina quer chegar à final, no Rio de Janeiro, desejando retornar para a sua cidade natal. Enquanto ensaiam, a menina reacende na mãe sonhos do passado.
 
-
 ---
 
 ## PRINCIPAIS EXIBIÇÕES
-* Festival do Rio 2026 / Melhor Direção
-* 50ª Mostra Internacional de Cinema em São Paulo / Mostra Brasil
+
+* Festival do Rio 2026 (Novos Rumos) / Melhor Direção
+
+* 50ª Mostra Internacional de Cinema em São Paulo (Mostra Brasil) / Prêmio Netflix
 
 ## LABS, MERCADOS E EVENTOS
+
 * Rio Goes to Cannes (2026)
+
 * BrLab Audience Design (2023)
+
 * Workshop Audience Thinking do Projeto Paradiso (2023)
-* Finalista do Concurso de Roteiros do FRAPA (2021) e participante do FRAPA[LAB]
+
+* Finalista do Concurso de Roteiros do FRAPA (2021) e participante do FRAPA\[LAB\]
+
 * Finalista do Prêmio Cabíria (2019)
+
 * Bolívia Lab (Bolívia/2019)
+
 * Semifinalista Prêmio Cabíria (2016)
+
 * Laboratório Novas Histórias do Sesc (2016)
+
 * Laboratório Curitiba Lab do Festival Olhar de Cinema (2015)
 
 ![barradelogos.png](/uploads/barradelogos.png)
-
