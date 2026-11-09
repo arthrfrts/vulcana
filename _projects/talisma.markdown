@@ -54,5 +54,4 @@ Tereza é mãe solo e se divide entre dar aulas de dança e cuidar da filha, Pin
 
 * Laboratório Curitiba Lab do Festival Olhar de Cinema (2015)
 
-
-![barardelogos2.png](/uploads/barardelogos2.png)
+![barra de logos_2.png](/uploads/barra%20de%20logos_2.png)
